@@ -445,6 +445,228 @@ def scrape_wms():
                               date[-1] if date else None))
     return out[:10]
 
+
+def scrape_tsccm():
+    """中華民國重症醫學會"""
+    out = []
+    BASE = "https://www.tsccm.org.tw"
+    # 課程
+    soup = fetch(BASE + "/news/news_list.asp")
+    if soup:
+        for a in soup.select("a[href*='news']"):
+            t = clean(a.get_text())
+            if len(t) < 5 or len(t) > 150: continue
+            parent = a.find_parent(["tr","li","td","div"])
+            date = extract_all_dates(parent.get_text() if parent else "")
+            out.append(mk(t, "中華民國重症醫學會", "台灣學會",
+                          resolve(a.get("href",""), BASE), None,
+                          date[-1] if date else None))
+    # 從首頁抓課程公告
+    soup2 = fetch(BASE + "/")
+    if soup2:
+        for a in soup2.select("a[href]"):
+            t = clean(a.get_text())
+            if len(t) < 8 or len(t) > 150: continue
+            if any(k in t for k in ["課程","研討","工作坊","訓練","活動","公告","災難"]):
+                parent = a.find_parent(["li","div","td"])
+                date = extract_all_dates(parent.get_text() if parent else t)
+                out.append(mk(t, "中華民國重症醫學會", "台灣學會",
+                              resolve(a.get("href",""), BASE), None,
+                              date[-1] if date else None))
+    return out[:30]
+
+def scrape_sgecm():
+    """台灣老人急重症醫學會"""
+    out = []
+    BASE = "http://www.sgecm.org.tw"
+    for path in ["/news/news_list.asp", "/"]:
+        soup = fetch(BASE + path)
+        if not soup: continue
+        for a in soup.select("a[href*='news'], a[href*='course'], a[href*='activity']"):
+            t = clean(a.get_text())
+            if len(t) < 5 or len(t) > 150: continue
+            parent = a.find_parent(["tr","li","td"])
+            date = extract_all_dates(parent.get_text() if parent else t)
+            out.append(mk(t, "台灣老人急重症醫學會", "台灣學會",
+                          resolve(a.get("href",""), BASE), None,
+                          date[-1] if date else None))
+    return out[:25]
+
+def scrape_tamis():
+    """台灣心肌梗塞學會"""
+    out = []
+    BASE = "https://tamis.org.tw"
+    # 學術活動列表頁
+    soup = fetch(BASE + "/activity")
+    if soup:
+        for a in soup.select("a[href*='/activity/']"):
+            t = clean(a.get_text())
+            if len(t) < 5 or len(t) > 150: continue
+            parent = a.find_parent(["li","div","article"])
+            date = extract_all_dates(parent.get_text() if parent else t)
+            out.append(mk(t, "台灣心肌梗塞學會", "台灣學會",
+                          resolve(a.get("href",""), BASE), "course",
+                          date[-1] if date else None))
+    return out[:20]
+
+def scrape_tebma():
+    """台灣實證醫學學會"""
+    out = []
+    BASE = "https://www.tebma.org.tw"
+    # 課程報名列表
+    for path in ["/seminar/list", "/event/list"]:
+        soup = fetch(BASE + path)
+        if not soup: continue
+        for a in soup.select("a[href*='/event/'], a[href*='/seminar/']"):
+            t = clean(a.get_text())
+            if len(t) < 5 or len(t) > 150: continue
+            parent = a.find_parent(["li","div","article","tr"])
+            date = extract_all_dates(parent.get_text() if parent else t)
+            out.append(mk(t, "台灣實證醫學學會", "台灣學會",
+                          resolve(a.get("href",""), BASE), "course",
+                          date[-1] if date else None))
+    return out[:20]
+
+def scrape_tmed():
+    """臺灣醫事繼續教育學會"""
+    out = []
+    BASE = "https://www.tmed.com.tw"
+    soup = fetch(BASE + "/")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 150: continue
+        if any(k in t for k in ["課程","活動","研討","訓練","工作坊","報名","公告","消息"]):
+            date = extract_all_dates(t)
+            out.append(mk(t, "臺灣醫事繼續教育學會", "台灣學會",
+                          resolve(a.get("href",""), BASE), None,
+                          date[-1] if date else None))
+    return out[:20]
+
+def scrape_medinfo():
+    """台灣醫學資訊學會"""
+    out = []
+    BASE = "https://www.medinfo.org.tw"
+    # JCMIT 2026 研討會已知
+    out.append(mk("JCMIT 2026 國際醫學資訊聯合研討會", "台灣醫學資訊學會", "台灣學會",
+                  "https://jcmit2026.medinfo.org.tw/", "course", "2026-12-19"))
+    soup = fetch(BASE + "/")
+    if soup:
+        for a in soup.select("a[href]"):
+            t = clean(a.get_text())
+            if len(t) < 8 or len(t) > 150: continue
+            if any(k in t for k in ["課程","活動","研討","訓練","工作坊","公告","消息","年會"]):
+                date = extract_all_dates(t)
+                out.append(mk(t, "台灣醫學資訊學會", "台灣學會",
+                              resolve(a.get("href",""), BASE), None,
+                              date[-1] if date else None))
+    return out[:20]
+
+def scrape_simulation_v2():
+    """台灣急重症模擬醫學會 (改良版)"""
+    out = []
+    BASE = "https://simulation.org.tw"
+    for path in ["/news/", "/activity/", "/"]:
+        soup = fetch(BASE + path)
+        if not soup: continue
+        for a in soup.select("a[href]"):
+            t = clean(a.get_text())
+            if len(t) < 8 or len(t) > 150: continue
+            href = a.get("href","")
+            # 跳過導覽與重複連結
+            if any(skip in t for skip in ["委員介紹","委員會","首頁","關於","聯絡","友站","協力","加入"]): continue
+            if any(k in t for k in ["課程","活動","研討","訓練","工作坊","公告","消息","競賽","年會"]):
+                parent = a.find_parent(["li","div","article"])
+                date = extract_all_dates(parent.get_text() if parent else t)
+                out.append(mk(t, "台灣急重症模擬醫學會", "台灣學會",
+                              resolve(href, BASE), None,
+                              date[-1] if date else None))
+    return out[:25]
+
+def scrape_tafm():
+    """台灣家庭醫學醫學會"""
+    out = []
+    BASE = "https://www.tafm.org.tw"
+    # 課程列表（已知格式）
+    for path in ["/ehc-tafm/s/w/edu/scheduleInfo1",
+                 "/ehc-tafm/s/w/news_news/articleList"]:
+        soup = fetch(BASE + path)
+        if not soup: continue
+        for a in soup.select("a[href]"):
+            t = clean(a.get_text())
+            if len(t) < 5 or len(t) > 150: continue
+            if any(k in t for k in ["課程","活動","研討","訓練","工作坊","公告","消息"]):
+                parent = a.find_parent(["li","div","tr"])
+                date = extract_all_dates(parent.get_text() if parent else t)
+                out.append(mk(t, "台灣家庭醫學醫學會", "台灣學會",
+                              resolve(a.get("href",""), BASE), None,
+                              date[-1] if date else None))
+    return out[:25]
+
+def scrape_sfast():
+    """台灣運動安全暨急救技能推廣協會"""
+    out = []
+    BASE = "https://www.sfast.org"
+    soup = fetch(BASE + "/index.php?lang=tw")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 150: continue
+        if any(k in t for k in ["課程","活動","研討","訓練","工作坊","公告","消息","AED","急救"]):
+            date = extract_all_dates(t)
+            out.append(mk(t, "台灣運動安全暨急救技能推廣協會", "台灣協會",
+                          resolve(a.get("href",""), BASE), None,
+                          date[-1] if date else None))
+    return out[:15]
+
+def scrape_dpac():
+    """彰化縣防災協會"""
+    out = []
+    BASE = "https://dpac.org.tw"
+    soup = fetch(BASE + "/")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 150: continue
+        if any(k in t for k in ["課程","活動","研討","訓練","工作坊","公告","消息","防災","急救"]):
+            date = extract_all_dates(t)
+            out.append(mk(t, "彰化縣防災協會（DPAC）", "台灣協會",
+                          resolve(a.get("href",""), BASE), None,
+                          date[-1] if date else None))
+    return out[:15]
+
+def scrape_webtema():
+    """台灣緊急應變管理協會"""
+    out = []
+    BASE = "https://webtema.org"
+    soup = fetch(BASE + "/")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 150: continue
+        if any(k in t for k in ["課程","活動","研討","訓練","工作坊","公告","消息","應變"]):
+            date = extract_all_dates(t)
+            out.append(mk(t, "台灣緊急應變管理協會", "台灣協會",
+                          resolve(a.get("href",""), BASE), None,
+                          date[-1] if date else None))
+    return out[:15]
+
+def scrape_anne():
+    """安妮怎麼了"""
+    out = []
+    BASE = "https://www.anne.education"
+    soup = fetch(BASE + "/")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 150: continue
+        if any(k in t for k in ["課程","活動","研討","訓練","工作坊","公告","消息","CPR","AED","急救"]):
+            date = extract_all_dates(t)
+            out.append(mk(t, "安妮怎麼了", "台灣急救社群",
+                          resolve(a.get("href",""), BASE), None,
+                          date[-1] if date else None))
+    return out[:15]
+
 # ══════════════════════════════════════════════════════
 # RSS
 # ══════════════════════════════════════════════════════
@@ -479,20 +701,35 @@ def build_rss(items):
 # 主程式
 # ══════════════════════════════════════════════════════
 SCRAPERS = [
+    # ── 台灣學會 ──
     ("台灣急診醫學會",              scrape_sem),
     ("台灣急救加護醫學會",          scrape_seccm),
     ("台灣外傷醫學會",              scrape_trauma),
     ("台灣災難醫學會",              scrape_disaster),
     ("台灣醫療救護學會",            scrape_twparamedicine),
     ("台灣緊急救護醫療指導醫師學會", scrape_taemsp),
-    ("台灣急重症模擬醫學會",        scrape_simulation),
-    ("中華緊急救護技術員協會",      scrape_emt),
-    ("台灣野外地區緊急救護協會",    scrape_taiwanwma),
-    ("復甦照護小學堂",              scrape_tsorcc),
+    ("台灣急重症模擬醫學會",        scrape_simulation_v2),
+    ("中華民國重症醫學會",          scrape_tsccm),
+    ("台灣老人急重症醫學會",        scrape_sgecm),
+    ("台灣心肌梗塞學會",            scrape_tamis),
+    ("台灣實證醫學學會",            scrape_tebma),
+    ("臺灣醫事繼續教育學會",        scrape_tmed),
+    ("台灣醫學資訊學會",            scrape_medinfo),
+    ("台灣家庭醫學醫學會",          scrape_tafm),
     ("臺灣燒傷暨傷口照護學會",      scrape_burn),
     ("台灣呼吸道處理醫學會",        scrape_tsamairway),
     ("台灣麻醉專科護理學會",        scrape_tana),
+    # ── 台灣協會 ──
+    ("中華緊急救護技術員協會",      scrape_emt),
+    ("台灣野外地區緊急救護協會",    scrape_taiwanwma),
     ("台灣災難醫療隊發展協會",      scrape_twdmat),
+    ("台灣運動安全暨急救技能推廣協會", scrape_sfast),
+    ("彰化縣防災協會",              scrape_dpac),
+    ("台灣緊急應變管理協會",        scrape_webtema),
+    # ── 台灣急救社群 ──
+    ("復甦照護小學堂",              scrape_tsorcc),
+    ("安妮怎麼了",                  scrape_anne),
+    # ── 國際 ──
     ("NAEMT",                       scrape_naemt),
     ("ERC",                         scrape_erc),
     ("Wilderness Medical Society",  scrape_wms),
