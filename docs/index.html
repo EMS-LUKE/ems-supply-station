@@ -58,6 +58,9 @@ main{padding:12px 12px 40px;max-width:1100px;margin:0 auto}
 .cat-tccc{background:#fee2e2;color:#991b1b}
 .ci-expired{opacity:.45}
 .badge-expired{font-size:9px;background:#fee2e2;color:#b91c1c;border-radius:20px;padding:1px 6px}
+.badge-deadline{font-size:9px;background:#fef3c7;color:#92400e;border-radius:20px;padding:1px 6px;display:inline-flex;align-items:center;gap:3px}
+.badge-event{font-size:9px;background:#dbeafe;color:#1e40af;border-radius:20px;padding:1px 6px;display:inline-flex;align-items:center;gap:3px}
+.ci-dates{display:flex;gap:5px;flex-wrap:wrap;margin-top:3px}
 
 /* ── Calendar ── */
 #cal-view{display:none}
@@ -227,6 +230,12 @@ function catClass(cat) {
 }
 
 // ── 渲染列表 ─────────────────────────────────────────────
+function fmtDateFull(ds) {
+  if (!ds) return null;
+  const [y,m,d] = ds.split('-');
+  return `${y}/${parseInt(m)}/${parseInt(d)}`;
+}
+
 function renderList() {
   const el = document.getElementById('list-view');
   if (!FILTERED.length) {
@@ -235,20 +244,36 @@ function renderList() {
   }
   const today = new Date().toISOString().slice(0,10);
   el.innerHTML = FILTERED.map(it => {
+    // 過期判斷：以活動日為準（無活動日則不判斷過期）
     const expired = it.date && it.date < today;
     const d = fmtDate(it.date);
+
+    // 左側日期方塊：顯示活動日
     const dateBox = d
       ? `<div class="ci-date"><div class="ci-month">${d.mo}</div><div class="ci-day">${d.d}</div></div>`
-      : `<div class="ci-date"><div class="ci-nodate">日期未定</div></div>`;
-    const expBadge = expired ? '<span class="badge-expired">已過期</span>' : '';
+      : `<div class="ci-date"><div class="ci-nodate">日期<br>未定</div></div>`;
+
+    // 活動日 badge
+    const eventBadge = it.date
+      ? `<span class="badge-event">📅 活動 ${fmtDateFull(it.date)}</span>`
+      : '';
+
+    // 報名截止日 badge（有才顯示）
+    const dlBadge = it.deadline
+      ? `<span class="badge-deadline">⏰ 截止 ${fmtDateFull(it.deadline)}</span>`
+      : '';
+
+    // 過期 badge（活動日已過）
+    const expBadge = expired ? '<span class="badge-expired">已結束</span>' : '';
+
     return `<div class="course-item ${expired?'ci-expired':''}">
       ${dateBox}
       <div class="ci-body">
         <div class="ci-title"><a href="${it.url||'#'}" target="_blank" rel="noopener">${it.title}</a></div>
+        <div class="ci-dates">${eventBadge}${dlBadge}${expBadge}</div>
         <div class="ci-meta">
           <span class="ci-source">${it.source}</span>
           <span class="ci-cat ${catClass(it.cat)}">${it.cat}</span>
-          ${expBadge}
         </div>
       </div>
     </div>`;
