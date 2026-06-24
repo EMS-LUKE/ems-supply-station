@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-24T22:51:48.802596+00:00",
-  "count": 200,
-  "course_count": 130,
-  "news_count": 70,
+  "updated": "2026-06-24T23:10:48.144336+00:00",
+  "count": 327,
+  "course_count": 195,
+  "news_count": 132,
   "items": [
     {
       "id": "62570103abc2",
@@ -133,6 +133,216 @@
       "date": "2026-06-23",
       "deadline": "2026-06-23",
       "url": "https://www.sem.org.tw/Activity/A/Details/32865"
+    },
+    {
+      "id": "10d05d13b906",
+      "title": "緊急救護課程",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-06-02",
+      "deadline": null,
+      "url": "https://www.mgems.org/category/ems-course/"
+    },
+    {
+      "id": "26eb3bb8e0c5",
+      "title": "2026年玉山管理處初級救護技術員繼續教育訓練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-06-02",
+      "deadline": null,
+      "url": "https://www.mgems.org/260514_yushan_t1f/"
+    },
+    {
+      "id": "b12fac0d7db5",
+      "title": "閱讀全文2026年玉山管理處初級救護技術員繼續教育訓練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-06-02",
+      "deadline": null,
+      "url": "https://www.mgems.org/260514_yushan_t1f/"
+    },
+    {
+      "id": "24c8f9118e81",
+      "title": "2026年台北初級救護技術員繼續教育訓練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-05-26",
+      "deadline": null,
+      "url": "https://www.mgems.org/260424_t1_course/"
+    },
+    {
+      "id": "d366b681d956",
+      "title": "閱讀全文2026年台北初級救護技術員繼續教育訓練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-05-26",
+      "deadline": null,
+      "url": "https://www.mgems.org/260424_t1_course/"
+    },
+    {
+      "id": "3dc1af499687",
+      "title": "2025年初級救護技術員訓練課程",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-08-12",
+      "deadline": null,
+      "url": "https://www.mgems.org/252728_emt1/"
+    },
+    {
+      "id": "d572b5a03941",
+      "title": "閱讀全文2025年初級救護技術員訓練課程",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-08-12",
+      "deadline": null,
+      "url": "https://www.mgems.org/252728_emt1/"
+    },
+    {
+      "id": "75b719f4f02d",
+      "title": "2025年初級救護技術員繼續教育訓練課程台北場",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-27",
+      "deadline": null,
+      "url": "https://www.mgems.org/250613_emtf/"
+    },
+    {
+      "id": "d0cdc35f60cb",
+      "title": "閱讀全文2025年初級救護技術員繼續教育訓練課程台北場",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-27",
+      "deadline": null,
+      "url": "https://www.mgems.org/250613_emtf/"
+    },
+    {
+      "id": "cb8e0bd46ed7",
+      "title": "2025年觀光旅遊地區第一線救護人員訓練課程",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-27",
+      "deadline": null,
+      "url": "https://www.mgems.org/250605_1st_responder/"
+    },
+    {
+      "id": "0960d84ca020",
+      "title": "閱讀全文2025年觀光旅遊地區第一線救護人員訓練課程",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-27",
+      "deadline": null,
+      "url": "https://www.mgems.org/250605_1st_responder/"
+    },
+    {
+      "id": "d4c37992b360",
+      "title": "2025年農業部林業保育署新竹分署初級救護技術員繼續教育訓練課程",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-24",
+      "deadline": null,
+      "url": "https://www.mgems.org/250523_t1f/"
+    },
+    {
+      "id": "cbd6ed611bdb",
+      "title": "閱讀全文2025年農業部林業保育署新竹分署初級救護技術員繼續教育訓練課程",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-24",
+      "deadline": null,
+      "url": "https://www.mgems.org/250523_t1f/"
+    },
+    {
+      "id": "8468929764ae",
+      "title": "2025年初級救護技術員繼續教育訓練台中場",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-24",
+      "deadline": null,
+      "url": "https://www.mgems.org/250516_t1f/"
+    },
+    {
+      "id": "08659f55ff71",
+      "title": "閱讀全文2025年初級救護技術員繼續教育訓練台中場",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-24",
+      "deadline": null,
+      "url": "https://www.mgems.org/250516_t1f/"
+    },
+    {
+      "id": "5a4f641ab662",
+      "title": "2025年玉山管理處初級救護技術員繼續教育訓練課程",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-23",
+      "deadline": null,
+      "url": "https://www.mgems.org/250515_t1f/"
+    },
+    {
+      "id": "388ecc36a10b",
+      "title": "閱讀全文2025年玉山管理處初級救護技術員繼續教育訓練課程",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-23",
+      "deadline": null,
+      "url": "https://www.mgems.org/250515_t1f/"
+    },
+    {
+      "id": "f3d89f5f1771",
+      "title": "2025年初級救護技術員繼續教育訓練課程-台北場",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-23",
+      "deadline": null,
+      "url": "https://www.mgems.org/250425-emt1f/"
+    },
+    {
+      "id": "3c491615a358",
+      "title": "閱讀全文2025年初級救護技術員繼續教育訓練課程-台北場",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-06-23",
+      "deadline": null,
+      "url": "https://www.mgems.org/250425-emt1f/"
+    },
+    {
+      "id": "1f7e26f1e9d1",
+      "title": "基督教長老教會新莊分會基本心肺復甦術課程",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-03-26",
+      "deadline": null,
+      "url": "https://www.mgems.org/250323_cpraed/"
+    },
+    {
+      "id": "91b39b33496b",
+      "title": "閱讀全文基督教長老教會新莊分會基本心肺復甦術課程",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2025-03-26",
+      "deadline": null,
+      "url": "https://www.mgems.org/250323_cpraed/"
     },
     {
       "id": "189d1f45e37b",
@@ -1805,34 +2015,454 @@
       "url": "https://www.anne.education/schoolcamp.html"
     },
     {
-      "id": "d7c182893afb",
-      "title": "Course Administration",
-      "source": "NAEMT",
-      "cat": "戰術救護",
+      "id": "081055711dbb",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.naemt.org/course-administration/course-administration-overview"
+      "url": "https://www.ntuh.gov.tw"
     },
     {
-      "id": "677d171a7468",
-      "title": "Authorized NAEMT Training Centers",
-      "source": "NAEMT",
-      "cat": "戰術救護",
+      "id": "b7bcbff339ec",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.naemt.org/education/authorized-naemt-training-centers"
+      "url": "https://www.ntuh.gov.tw"
     },
     {
-      "id": "b635584cd2a0",
-      "title": "Locate a Course",
-      "source": "NAEMT",
-      "cat": "戰術救護",
+      "id": "9de74e1ce4a1",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.naemt.org/education/CourseDirectory"
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "fa020366f3ce",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "7b2d63ca6d91",
+      "title": "臺大醫院115年度母親節節慶關懷活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
+    },
+    {
+      "id": "e6481f4e0f5f",
+      "title": "臺大醫院兒童醫院115年兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1042"
+    },
+    {
+      "id": "84dfc02852ea",
+      "title": "健康線上影音課程-115/1/2解鎖青春期密碼：成為孩子的陪伴者",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1026"
+    },
+    {
+      "id": "d6a8c5a0955c",
+      "title": "臺大醫院兒童醫院114年度聖誕節節慶系列活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1024"
+    },
+    {
+      "id": "6de8a2fd57d8",
+      "title": "健康線上影音課程-114/08/01兒童化療副作用與照護說明",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1007"
+    },
+    {
+      "id": "3d45165d186c",
+      "title": "健康線上影音課程-114/07/04淺談產檢、孕期常見不適與疫苗接種",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1006"
+    },
+    {
+      "id": "5954727fad91",
+      "title": "健康線上影音課程-114/06/11正向教養字典",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1005"
+    },
+    {
+      "id": "77517feee91a",
+      "title": "【守護生命更便利！聽見AED正式上架7-ELEVEN「把愛找回來」公益平台】",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af%e5%8f%8a%e5%85%ac%e5%91%8a/%e3%80%90%e5%ae%88%e8%ad%b7%e7%94%9f%e5%91%bd%e6%9b%b4%e4%be%bf%e5%88%a9%ef%bc%81%e8%81%bd%e8%a6%8baed%e6%ad%a3%e5%bc%8f%e4%b8%8a%e6%9e%b67-eleven%e3%80%8c%e6%8a%8a%e6%84%9b%e6%89%be%e5%9b%9e%e4%be%86/"
+    },
+    {
+      "id": "0c6610f61fd2",
+      "title": "【解密台北市救命網路：聽見AED攜手台大醫院，用數據實證生命韌性】",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af%e5%8f%8a%e5%85%ac%e5%91%8a/%e3%80%90%e8%a7%a3%e5%af%86%e5%8f%b0%e5%8c%97%e5%b8%82%e6%95%91%e5%91%bd%e7%b6%b2%e8%b7%af%ef%bc%9a%e8%81%bd%e8%a6%8baed%e6%94%9c%e6%89%8b%e5%8f%b0%e5%a4%a7%e9%86%ab%e9%99%a2%ef%bc%8c%e7%94%a8/"
+    },
+    {
+      "id": "ae886fede740",
+      "title": "【聽見AED】LINE@救援通知系統2026年5月成果報告",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b45%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
+    },
+    {
+      "id": "4a9057508daa",
+      "title": "聽見AED 六月活動",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
+    },
+    {
+      "id": "32be8be52338",
+      "title": "【聽見AED走向國際：泰國醫師團參訪臺中救護韌性】",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e8%b5%b0%e5%90%91%e5%9c%8b%e9%9a%9b%ef%bc%9a%e6%b3%b0%e5%9c%8b%e9%86%ab%e5%b8%ab%e5%9c%98%e5%8f%83%e8%a8%aa%e8%87%ba%e4%b8%ad%e6%95%91%e8%ad%b7%e9%9f%8c%e6%80%a7/"
+    },
+    {
+      "id": "b22c2e9061fd",
+      "title": "Contact ITLS",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/leadership/staff/"
+    },
+    {
+      "id": "3a4af6f5d51b",
+      "title": "About ITLS",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls/about-itls/"
+    },
+    {
+      "id": "4b1e41b3315a",
+      "title": "ITLS Approach",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls-approach/"
+    },
+    {
+      "id": "a420ea5ad93b",
+      "title": "ITLS Strategic Plan",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls/itls-strategic-plan/"
+    },
+    {
+      "id": "179ef925b4dd",
+      "title": "Why ITLS",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/compare-itls/"
+    },
+    {
+      "id": "e578a2c46acb",
+      "title": "Education",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/"
+    },
+    {
+      "id": "940393b60d3f",
+      "title": "2026 ITLS Annual Meeting",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/annualmeeting"
+    },
+    {
+      "id": "39b6437feb0a",
+      "title": "ITLS Provider",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls-provider/"
+    },
+    {
+      "id": "298dd405cc46",
+      "title": "ITLS Instructor",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls-instructor/"
+    },
+    {
+      "id": "3c1cf16c545e",
+      "title": "ITLS eTrauma",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls-etrauma/"
+    },
+    {
+      "id": "f486dde793a1",
+      "title": "ITLS Completer",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls-completer/"
+    },
+    {
+      "id": "0c5ae36d4613",
+      "title": "ITLS Duty to Respond",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls-duty-to-respond/"
+    },
+    {
+      "id": "2a9c34ca784b",
+      "title": "ITLS Pediatric",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls-pediatric/"
+    },
+    {
+      "id": "c4e8eb92da0c",
+      "title": "ITLS High Threat",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls-high-threat/"
+    },
+    {
+      "id": "bbc3fed4f2e9",
+      "title": "ITLS Access",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls-access/"
+    },
+    {
+      "id": "a39f65225f1e",
+      "title": "News Feed",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/news-feed/"
+    },
+    {
+      "id": "98860142062c",
+      "title": "Headlines",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "9472704dce8f",
+      "title": "Amid Extreme Heat, Ambulance Crews Collect Water for Las Vegas Homeless Shelter",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/amid-extreme-heat-ambulance-crews-collect-water-for-las-vegas-homeless-shelter/"
+    },
+    {
+      "id": "c9547218bade",
+      "title": "NTSB Examines GPS Jamming on Night of Fatal NM Air Ambulance Crash",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/ntsb-examines-gps-jamming-on-night-of-fatal-nm-air-ambulance-crash/"
+    },
+    {
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
+    },
+    {
+      "id": "9b0c78bc8970",
+      "title": "Events",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/world-extreme-medicine-conference/"
+    },
+    {
+      "id": "4e58743d2566",
+      "title": "annual conference",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/world-extreme-medicine-conference/"
+    },
+    {
+      "id": "b9d8c9efcb98",
+      "title": "Explore Training Courses Combine your skills with adventure, travel or humanitarian projects. Explore →",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "c598d8b98812",
+      "title": "Connect Conference Connect with leading medical experts focused on pushing boundaries. Discover →",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/world-extreme-medicine-conference"
+    },
+    {
+      "id": "149be67401ee",
+      "title": "Support Medical Resourcing Trusted expertise for TV, film, and expeditions.",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/medical-security-support/"
     },
     {
       "id": "b8d5eb07b1d3",
@@ -2003,6 +2633,646 @@
       "date": null,
       "deadline": null,
       "url": "https://wms.org/Shared_Content/Events/Events_List.aspx"
+    },
+    {
+      "id": "d7c182893afb",
+      "title": "Course Administration",
+      "source": "NAEMT",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.naemt.org/course-administration/course-administration-overview"
+    },
+    {
+      "id": "677d171a7468",
+      "title": "Authorized NAEMT Training Centers",
+      "source": "NAEMT",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.naemt.org/education/authorized-naemt-training-centers"
+    },
+    {
+      "id": "b635584cd2a0",
+      "title": "Locate a Course",
+      "source": "NAEMT",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.naemt.org/education/CourseDirectory"
+    },
+    {
+      "id": "7923b2376245",
+      "title": "PRODUCT GUIDE",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/"
+    },
+    {
+      "id": "f249325da941",
+      "title": "AIRWAY MANAGEMENT",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/medical-equipment/airway-management/"
+    },
+    {
+      "id": "53909e704567",
+      "title": "AMBULANCES & SPECIALTY VEHICLES",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/ambulances-specialty-vehicles/"
+    },
+    {
+      "id": "4d35dcd79ed0",
+      "title": "COMMUNICATIONS",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/communications/"
+    },
+    {
+      "id": "39020ea0abea",
+      "title": "CPR & RESUSCITATION",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/cpr-resuscitation/"
+    },
+    {
+      "id": "58f4bfc556c5",
+      "title": "EMS GEAR",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/ems-gear/"
+    },
+    {
+      "id": "cc354088da42",
+      "title": "FINANCIAL, INSURANCE & LEGAL SERVICES",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/financial-services/"
+    },
+    {
+      "id": "d9fb93e132bb",
+      "title": "MEDICAL EQUIPMENT & SUPPLIES",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/medical-equipment/"
+    },
+    {
+      "id": "4c68fd8ff7de",
+      "title": "OFF-DUTY",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/off-duty/"
+    },
+    {
+      "id": "77a8e8c0c59d",
+      "title": "PATIENT CARE",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/products-patient-care/"
+    },
+    {
+      "id": "8a3990c1e3e9",
+      "title": "SOFTWARE",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/software/"
+    },
+    {
+      "id": "7d8693b71283",
+      "title": "TRAINING & EDUCATION",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/education/"
+    },
+    {
+      "id": "53eec2d74513",
+      "title": "TRAINING EQUIPMENT & SUPPLIES",
+      "source": "EMS1",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ems1.com/ems-products/training-equipment-supplies/"
+    },
+    {
+      "id": "af043fe26c03",
+      "title": "FOAMfrat Blog & Podcast",
+      "source": "FOAMfrat",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.foamfrat.com/blog"
+    },
+    {
+      "id": "3118360b5176",
+      "title": "Free Workbooks",
+      "source": "FOAMfrat",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.foamfrat.com/free-stuff"
+    },
+    {
+      "id": "b78c641e5e31",
+      "title": "Accredited Courses",
+      "source": "FOAMfrat",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.foamfrat.com/emsandnursingcourse"
+    },
+    {
+      "id": "53f1c9f7064f",
+      "title": "Quick Reference Cards",
+      "source": "FOAMfrat",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.foamfrat.com/shop-merch"
+    },
+    {
+      "id": "17fc455f2e13",
+      "title": "Committee for TacticalEmergency Casualty Care C-TECC",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/"
+    },
+    {
+      "id": "a6e5726eee8b",
+      "title": "What is C-TECC?",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/about-us/what-is-ctecc"
+    },
+    {
+      "id": "ef026e629675",
+      "title": "Newsletters",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/our-work/newsletters"
+    },
+    {
+      "id": "4b7d44582a37",
+      "title": "Membership Updates",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/news/membership-updates-2026"
+    },
+    {
+      "id": "4bdace66fb0c",
+      "title": "Save-the-Date: April 2026 C-TECC Meeting",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/news/save-the-date-apr-2026-mtg"
+    },
+    {
+      "id": "fe9e49751244",
+      "title": "info@cbrnprofessionals.com",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "mailto:info@cbrnprofessionals.com"
+    },
+    {
+      "id": "88a83b47cbaa",
+      "title": "CBRN Corner",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-corner/"
+    },
+    {
+      "id": "4fa62a7cd115",
+      "title": "CBRN Reference Material",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-references/"
+    },
+    {
+      "id": "e9b634e786cc",
+      "title": "CBRN Resource Links",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
+    },
+    {
+      "id": "81c560d53329",
+      "title": "CBRN Books",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-books/"
+    },
+    {
+      "id": "3ace6a4ad9d6",
+      "title": "CBRN Services",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/services/"
+    },
+    {
+      "id": "2fa2a266e909",
+      "title": "Media and News",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/media-news/"
+    },
+    {
+      "id": "9e9248aab182",
+      "title": "CBRNe World",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.cbrneworld.com/"
+    },
+    {
+      "id": "1d5a35aee639",
+      "title": "Future Training and Education Events",
+      "source": "SOMA",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://specialoperationsmedicine.org/future-training-and-education-events/"
+    },
+    {
+      "id": "6ae440c231a3",
+      "title": "Journal of Special Operations Medicine (JSOM)",
+      "source": "SOMA",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://specialoperationsmedicine.org/jsom/"
+    },
+    {
+      "id": "00685f87bbd6",
+      "title": "Guide to running Prolonged Casualty Care Training by Ragged Edge",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2026/02/16/guide-to-prolonged-casualty-care-training/"
+    },
+    {
+      "id": "dc4e865b2cfc",
+      "title": "Enhancing TCCC through Optimized Simulation",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2025/08/19/teaching-better-tccc/"
+    },
+    {
+      "id": "6f2c6f03441e",
+      "title": "Enabling Medics to manage Sick Call",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2025/07/20/enabling-medics-to-manage-sick-call/"
+    },
+    {
+      "id": "59a31503eb67",
+      "title": "Cricothyroidotomy Training Guide for Military Medics: Ragged Edge of the Scalpel",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2025/05/21/cric-training-guide/"
+    },
+    {
+      "id": "3cf66ede2961",
+      "title": "Treating TBI from the Aid Bag",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2024/12/11/treating-tbi-from-the-aid-bag/"
+    },
+    {
+      "id": "82ed4cea13c6",
+      "title": "A Lost Opportunity",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2024/09/16/a-lost-opportunity/"
+    },
+    {
+      "id": "09f53992a7af",
+      "title": "Discord and Google Drive!",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2024/09/08/discord-and-google-drive/"
+    },
+    {
+      "id": "c3177b8d3359",
+      "title": "Ketamine Toolkit: Questions & Answers for your Medical Director",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2022/01/07/ketamine-toolkit/"
+    },
+    {
+      "id": "7784c83ef832",
+      "title": "Suzetrigine guide for Combat Medics",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2026/05/27/suzetrigine/"
+    },
+    {
+      "id": "9cc4bce2f6ae",
+      "title": "How to become an Army CRNA",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2025/07/05/how-to-become-an-army-crna-66f/"
+    },
+    {
+      "id": "a08848dafaae",
+      "title": "Products",
+      "source": "North American Rescue",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.narescue.com"
+    },
+    {
+      "id": "49edf54eac74",
+      "title": "Training",
+      "source": "North American Rescue",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.narescue.com"
+    },
+    {
+      "id": "b9ea67dfe5b1",
+      "title": "NAR Training Courses",
+      "source": "North American Rescue",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.nareducation.com/"
+    },
+    {
+      "id": "0b2ca0f3a06d",
+      "title": "Product Videos",
+      "source": "North American Rescue",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.narescue.com/education/educational-videos.html"
+    },
+    {
+      "id": "e50a7c80c915",
+      "title": "Product Information Sheets",
+      "source": "North American Rescue",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.narescue.com/education/product-information-sheets.html"
+    },
+    {
+      "id": "b389a0f07a52",
+      "title": "About Education And Training",
+      "source": "North American Rescue",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.narescue.com/training-education"
+    },
+    {
+      "id": "780aaae08f47",
+      "title": "Products With A Mission",
+      "source": "North American Rescue",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.narescue.com/products-with-a-mission"
+    },
+    {
+      "id": "3009f68bee8f",
+      "title": "New Products",
+      "source": "North American Rescue",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.narescue.com/new-products.html"
+    },
+    {
+      "id": "715383a36e2a",
+      "title": "TacMed Solutions™ Gains Airworthiness Certification for US Army & Navy Airframes",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tacmedsolutions.com/blogs/news/tacmed-solutions%E2%84%A2-gains-airworthiness-certification-for-us-army-navy-airframes"
+    },
+    {
+      "id": "733f5b9d5ed7",
+      "title": "TacMed Solutions™ Awarded Sourcewell Cooperative Contract",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tacmedsolutions.com/blogs/news/tacmed-solutions%E2%84%A2-awarded-sourcewell-cooperative-contract"
+    },
+    {
+      "id": "7140e81abb74",
+      "title": "TacMed Solutions Acquires RINI Technologies, Strengthening Innovation in Pre-Hospital Trauma Care",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tacmedsolutions.com/blogs/news/tacmed-solutions-acquires-rini-technologies-strengthening-innovation-in-pre-hospital-trauma-care"
+    },
+    {
+      "id": "575caf80d4be",
+      "title": "Hurricane Helene Relief: A Community United in Recovery Efforts",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tacmedsolutions.com/blogs/news/hurricane-helene-relief-a-community-united-in-recovery-efforts"
+    },
+    {
+      "id": "0a90da888cc2",
+      "title": "MATTi™: The New Female Trauma Patient Simulator",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
+    },
+    {
+      "id": "bf8f132c31a9",
+      "title": "Dive Medicine Training",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "javascript:;"
+    },
+    {
+      "id": "a7aa4fef7df2",
+      "title": "Diver's Alert Network Courses",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://trilogyems.com/dan"
+    },
+    {
+      "id": "91ee2fa9a53a",
+      "title": "Hyperbaric Chamber Training",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://trilogyems.com/about"
+    },
+    {
+      "id": "3e7601b7e759",
+      "title": "TECC Instructor Course",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://trilogyems.com/courses/teccinstructor"
+    },
+    {
+      "id": "7b268eb6b062",
+      "title": "EVOC Training System",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://trilogyems.com/courses/evoc-training-system"
+    },
+    {
+      "id": "cd7a7dd5fd8a",
+      "title": "DAN Training",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://trilogyems.com/courses/dan-training"
     }
   ]
 }
