@@ -1186,8 +1186,31 @@ def main():
             seen.add(it["id"])
             unique.append(it)
 
-    # 排序
-    unique.sort(key=lambda x: x.get("date") or "0000", reverse=True)
+    # 過濾：過期資料只保留近3個月
+    from datetime import timedelta
+    now = datetime.now(timezone.utc)
+    cutoff = (now - timedelta(days=90)).strftime("%Y-%m-%d")
+    filtered = []
+    for it in unique:
+        d = it.get("date")
+        if not d:
+            filtered.append(it)       # 無日期：保留
+        elif d >= cutoff:
+            filtered.append(it)       # 3個月內或未來：保留
+        # 超過3個月的過期資料：捨棄
+    unique = filtered
+
+    # 排序：日期由近至遠（未來在上，無日期在最後）
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    def sort_key(x):
+        d = x.get("date")
+        if not d:
+            return (2, "9999-99-99")   # 無日期排最後
+        if d >= today:
+            return (0, d)              # 未來/今天：由近至遠排最前
+        else:
+            return (1, d)              # 已過期（3個月內）：排中間，由近至遠
+    unique.sort(key=sort_key)
 
     output = {
         "updated": datetime.now(timezone.utc).isoformat(),
