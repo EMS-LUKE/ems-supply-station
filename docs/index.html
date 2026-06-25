@@ -25,10 +25,7 @@ body{font-family:'Noto Sans TC',system-ui,sans-serif;background:#f5f6f8;color:#1
 #hd-bottom-row{display:flex;align-items:flex-start;justify-content:space-between;gap:8px;padding-top:5px;border-top:1px solid rgba(255,255,255,.15)}
 /* 左：最後更新、製作、彙整三行，間距極窄 */
 #hd-bottom-left{display:flex;flex-direction:column;gap:0px}
-#updated,#hd-credit,#hd-note{display:block;line-height:1.4}
-#updated{font-size:10px;color:rgba(255,255,255,.8)}
-#hd-credit{font-size:10px;color:rgba(255,255,255,.75)}
-#hd-note{font-size:9.5px;color:rgba(255,255,255,.6)}
+#updated,#hd-credit,#hd-note{display:block;line-height:1.4;font-size:10px;color:rgba(255,255,255,.75)}
 /* 右：瀏覽、回饋、入口網 */
 #hd-bottom-right{display:flex;flex-direction:column;align-items:flex-end;gap:4px;flex-shrink:0}
 #hd-email,#hd-portal{font-size:11px;color:rgba(255,255,255,.85);text-decoration:none;background:rgba(255,255,255,.15);border-radius:20px;padding:2px 10px;white-space:nowrap}
@@ -140,9 +137,9 @@ footer a{color:#1a56b0;text-decoration:none}
   <!-- 下半段：左邊時間/製作/彙整，右邊瀏覽/回饋/入口網 -->
   <div id="hd-bottom-row">
     <div id="hd-bottom-left">
-      <span id="updated">⏱ 載入中…</span>
-      <span id="hd-credit">製作：臺南市救護義消 陳冠言 · 2026</span>
       <span id="hd-note">彙整顯示資料僅供參考，依各官方網站資訊為主</span>
+      <span id="hd-credit">製作：臺南市救護義消 陳冠言</span>
+      <span id="updated">載入中…</span>
     </div>
     <div id="hd-bottom-right">
       <img src="https://hits.sh/ems-luke.github.io/ems-supply-station.svg?label=%E7%80%8F%E8%A6%BD%E6%AC%A1%E6%95%B8&color=FFD600&labelColor=555555&style=flat-square" alt="瀏覽次數" style="height:18px">
@@ -232,8 +229,8 @@ async function loadData(){
       const tw=new Date(utc.getTime()+8*60*60*1000);
       const pad=n=>String(n).padStart(2,'0');
       const twStr=tw.getUTCFullYear()+'/'+pad(tw.getUTCMonth()+1)+'/'+pad(tw.getUTCDate())+' '+pad(tw.getUTCHours())+':'+pad(tw.getUTCMinutes());
-      document.getElementById('updated').textContent='⏱ 最後更新：'+twStr;
-    }else{document.getElementById('updated').textContent='⏱ 最後更新：未知';}
+      document.getElementById('updated').textContent='最後更新：'+twStr;
+    }else{document.getElementById('updated').textContent='最後更新：未知';}
     document.getElementById('s-course').textContent=j.course_count||ALL.filter(i=>i.type==='course').length;
     document.getElementById('s-news').textContent=j.news_count||ALL.filter(i=>i.type==='news').length;
     document.getElementById('s-total').textContent=j.count||ALL.length;
