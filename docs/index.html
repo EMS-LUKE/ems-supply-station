@@ -104,12 +104,13 @@ main{padding:10px 12px 40px;max-width:1100px;margin:0 auto}
 .cal-cell.selected{border-color:#1a7a3a;border-width:2px;background:#f0fdf4}
 .cal-day-num{font-size:11px;color:#666;margin-bottom:3px}
 /* 色塊 */
-.cal-dots{display:flex;gap:2px;flex-wrap:wrap}
-.cal-dot{width:8px;height:8px;border-radius:2px;flex-shrink:0}
-.cal-dot.course{background:#1a56b0}
-.cal-dot.news{background:#9ca3af}
-.cal-dot.tccc{background:#dc2626}
+.cal-dots{display:none}
 .cal-count{font-size:9px;color:#888;margin-top:1px}
+/* 日期數字背景色塊 */
+.cal-day-num{font-size:11px;color:#666;margin-bottom:3px;width:22px;height:22px;display:flex;align-items:center;justify-content:center;border-radius:50%;font-weight:500}
+.has-course .cal-day-num{background:#1a56b0;color:#fff;font-weight:700}
+.has-news .cal-day-num{background:#dc2626;color:#fff;font-weight:700}
+.has-both .cal-day-num{background:linear-gradient(135deg,#1a56b0 50%,#dc2626 50%);color:#fff;font-weight:700}
 /* 選取日期的詳細列表 */
 #cal-detail{margin-top:12px;border-top:2px solid #1a7a3a;padding-top:10px}
 #cal-detail-title{font-size:12px;font-weight:600;color:#1a7a3a;margin-bottom:8px}
@@ -191,9 +192,9 @@ footer a{color:#1a56b0;text-decoration:none}
       <button onclick="calNext()">›</button>
     </div>
     <div id="cal-legend">
-      <div class="legend-item"><div class="legend-dot course"></div>課程/活動</div>
-      <div class="legend-item"><div class="legend-dot tccc"></div>戰術救護</div>
-      <div class="legend-item"><div class="legend-dot news"></div>最新消息</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#1a56b0"></div>課程/活動</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#dc2626"></div>最新消息</div>
+      <div class="legend-item" style="font-size:10px;color:#aaa">（點擊日期查看詳細）</div>
     </div>
     <div class="cal-grid" id="cal-grid"></div>
     <div id="cal-detail" style="display:none">
@@ -347,21 +348,22 @@ function renderCal(){
     const evs=byDate[ds]||[];
     const isToday=ds===today;
     const isSel=ds===SEL_DATE;
-    // 色塊（每種類型一個點）
-    let dots='';
+    // 判斷類型決定色塊 class
+    let cellCls='cal-cell';
+    if(isToday)cellCls+=' today';
+    if(isSel)cellCls+=' selected';
+    let countHtml='';
     if(evs.length>0){
-      const hasCourse=evs.some(e=>e.type==='course'&&e.cat!=='戰術救護');
-      const hasTccc=evs.some(e=>e.cat==='戰術救護');
+      const hasCourse=evs.some(e=>e.type==='course');
       const hasNews=evs.some(e=>e.type==='news');
-      if(hasCourse)dots+=`<div class="cal-dot course"></div>`;
-      if(hasTccc)dots+=`<div class="cal-dot tccc"></div>`;
-      if(hasNews)dots+=`<div class="cal-dot news"></div>`;
+      if(hasCourse&&hasNews)cellCls+=' has-both';
+      else if(hasCourse)cellCls+=' has-course';
+      else if(hasNews)cellCls+=' has-news';
+      countHtml=`<div class="cal-count">${evs.length}筆</div>`;
     }
-    const count=evs.length>0?`<div class="cal-count">${evs.length}筆</div>`:'';
-    h+=`<div class="cal-cell${isToday?' today':''}${isSel?' selected':''}" onclick="selectDate('${ds}')">
+    h+=`<div class="${cellCls}" onclick="selectDate('${ds}')">
       <div class="cal-day-num">${d}</div>
-      <div class="cal-dots">${dots}</div>
-      ${count}
+      ${countHtml}
     </div>`;
   }
   // 下月補白
