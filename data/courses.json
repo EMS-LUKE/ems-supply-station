@@ -1,59 +1,9 @@
 {
-  "updated": "2026-06-25T21:16:52.217427+00:00",
-  "count": 210,
-  "course_count": 100,
+  "updated": "2026-06-25T21:35:36.711450+00:00",
+  "count": 196,
+  "course_count": 86,
   "news_count": 110,
   "items": [
-    {
-      "id": "a5b3fdab5012",
-      "title": "114年度家庭暴力、性侵害防治與兒童保護案件實務教育訓練 桃園市政府衛生局 2025/05/21 積分 6 非學會主辦 已結束",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/B/Details/31611"
-    },
-    {
-      "id": "efa7c4a5dc8e",
-      "title": "115年度家庭暴力、性侵害防治與兒童保護案件實務教育訓練 衛生福利部桃園醫院 2026/06/03 積分 6 非學會主辦 已結束",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/B/Details/32940"
-    },
-    {
-      "id": "bdb5edcd92bd",
-      "title": "戰傷與外傷處置的整合視角：輸血、腦傷與化學武器威脅 臺北榮總急診醫學部 2026/06/28 積分 3 非學會主辦",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/B/Details/32901"
-    },
-    {
-      "id": "6ced43e8bb11",
-      "title": "健康台灣深耕計畫 : 守護兒童、拒絕傷害 臺灣兒童死因探討與青少年自殺的辨識與防治 臺北榮總兒童醫學部 2026/06/28 積分 3 非學會主辦",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/B/Details/32900"
-    },
-    {
-      "id": "a032ac13ad6c",
-      "title": "115年急診基礎超音波課程 國立臺灣大學醫學院附設醫院急診醫學部 2026/07/09 非學會主辦",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/B/Details/33052"
-    },
     {
       "id": "452b7eab7397",
       "title": "2026.7.18 台灣復甦照護學會Holistic and Patient-Centered Critical Care研討會及工作坊開放報名",
@@ -73,56 +23,6 @@
       "date": "2026-07-25",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list/view/4cb9057694d6a3a1b49e6cf5da5743e2"
-    },
-    {
-      "id": "97e501dc9e46",
-      "title": "2026第十七屆第一次會員大會暨學術研討會 社團法人台灣急診醫學會 2026/06/26 積分 16 學會主辦 報名截止",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": "2026-06-26",
-      "url": "http://www.sem.org.tw/Activity/A/Details/32620"
-    },
-    {
-      "id": "d82ce83cd617",
-      "title": "115年住院醫師初階災難訓練課程(南區)【線上+實體】 社團法人台灣急診醫學會 2026/07/02 積分 13 學會主辦 報名截止",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": "2026-07-02",
-      "url": "http://www.sem.org.tw/Activity/A/Details/33032"
-    },
-    {
-      "id": "ea80a7531ef4",
-      "title": "夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心 2026/07/08 積分 7 學會主辦 尚有 7 名額",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/A/Details/33048"
-    },
-    {
-      "id": "468c49ab963b",
-      "title": "115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院 2026/07/20 積分 3 學會主辦 尚有 7 名額",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/A/Details/32964"
-    },
-    {
-      "id": "c7c1da8f40a7",
-      "title": "115年師資培育工作坊 (中區) 社團法人台灣急診醫學會、中山醫學大學附設醫院 2026/07/28 積分 4 學會主辦 尚有 30 名額",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/A/Details/32647"
     },
     {
       "id": "289ecb43dfc6",
@@ -163,16 +63,6 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
-    },
-    {
-      "id": "6608c7954410",
-      "title": "ACEP26 Scientific Assembly American College of Emergency Physicians (ACEP) 2026/10/05 國際學術活動",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-05",
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/C/Details/32838"
     },
     {
       "id": "c1772c700f8e",
@@ -223,56 +113,6 @@
       "date": "2026-06-02",
       "deadline": null,
       "url": "https://www.mgems.org/260514_yushan_t1f/"
-    },
-    {
-      "id": "8a590d4016ac",
-      "title": "學會主辦積分活動",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/A/Index"
-    },
-    {
-      "id": "d2be17971b56",
-      "title": "非學會主辦積分活動",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/B/Index"
-    },
-    {
-      "id": "fb506e28a43c",
-      "title": "AHA急救教育訓練",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Activity/AHA/Index"
-    },
-    {
-      "id": "00ff6901938b",
-      "title": "積分申請相關資訊",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sem.org.tw/Doc/%E7%A9%8D%E5%88%86%E7%94%B3%E8%AB%8B%E7%9B%B8%E9%97%9C%E8%B3%87%E8%A8%8A"
-    },
-    {
-      "id": "6bbe4a035178",
-      "title": "NPS濫用監測計畫",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sem.org.tw/News/13/Index"
     },
     {
       "id": "576b1178525a",
@@ -1025,6 +865,26 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b45%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
     },
     {
+      "id": "c302a6b91021",
+      "title": "Learn CPR",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
+    },
+    {
+      "id": "e73de285a210",
+      "title": "CPR & ECC",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
+    },
+    {
       "id": "b22c2e9061fd",
       "title": "Contact ITLS",
       "source": "ITLS",
@@ -1695,6 +1555,16 @@
       "url": "https://ctomsinc.com/collections/tactical-clothing"
     },
     {
+      "id": "3f6989d40c6b",
+      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/"
+    },
+    {
       "id": "df37b5e4d0b7",
       "title": "Defense Committees on Trauma",
       "source": "JTS — Joint Trauma System",
@@ -1733,16 +1603,6 @@
       "date": null,
       "deadline": null,
       "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
-    },
-    {
-      "id": "3f6989d40c6b",
-      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/"
     },
     {
       "id": "1d5a35aee639",
