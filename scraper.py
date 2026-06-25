@@ -476,21 +476,43 @@ def scrape_tsccm():
     return out[:30]
 
 def scrape_sgecm():
-    """台灣老人急重症醫學會"""
+    """台灣老人急重症醫學會 — 學術活動列表（ASP表格結構）"""
     out = []
     BASE = "http://www.sgecm.org.tw"
-    for path in ["/news/news_list.asp", "/"]:
-        soup = fetch(BASE + path)
-        if not soup: continue
-        for a in soup.select("a[href*='news'], a[href*='course'], a[href*='activity']"):
+    # 學術活動列表頁（表格結構）
+    soup = fetch(BASE + "/htm/cont_1_2.asp")
+    if soup:
+        for row in soup.select("table tr"):
+            cols = row.find_all("td")
+            if len(cols) < 3: continue
+            # 第1欄：日期，第2欄：課程代號，第3欄：活動名稱（含連結）
+            date_text = clean(cols[0].get_text())
+            date = parse_dates_from_title(date_text).get("event_date") or extract_all_dates(date_text)
+            if isinstance(date, list): date = date[-1] if date else None
+            a = cols[2].find("a") if len(cols) > 2 else None
+            if a:
+                t = clean(a.get_text())
+                if len(t) < 5: continue
+                href = resolve(a.get("href",""), BASE)
+                out.append(mk(t, "台灣老人急重症醫學會", "台灣學會",
+                              href, "course", date))
+            else:
+                t = clean(cols[2].get_text()) if len(cols) > 2 else ""
+                if len(t) < 5: continue
+                out.append(mk(t, "台灣老人急重症醫學會", "台灣學會",
+                              BASE, "course", date))
+    # 最新消息
+    soup2 = fetch(BASE + "/htm/cont_2_1.asp")
+    if soup2:
+        for a in soup2.select("a[href]"):
             t = clean(a.get_text())
             if len(t) < 5 or len(t) > 150: continue
             parent = a.find_parent(["tr","li","td"])
             date = extract_all_dates(parent.get_text() if parent else t)
             out.append(mk(t, "台灣老人急重症醫學會", "台灣學會",
-                          resolve(a.get("href",""), BASE), None,
+                          resolve(a.get("href",""), BASE), "news",
                           date[-1] if date else None))
-    return out[:25]
+    return out[:30]
 
 def scrape_tamis():
     """台灣心肌梗塞學會"""
