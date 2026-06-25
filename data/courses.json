@@ -1,98 +1,18 @@
 {
-  "updated": "2026-06-25T05:28:01.323399+00:00",
-  "count": 206,
-  "course_count": 112,
+  "updated": "2026-06-25T05:39:28.272971+00:00",
+  "count": 195,
+  "course_count": 101,
   "news_count": 94,
   "items": [
     {
-      "id": "62570103abc2",
-      "title": "JCMIT 2026 國際醫學資訊聯合研討會",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-12-19",
-      "deadline": null,
-      "url": "https://jcmit2026.medinfo.org.tw/"
-    },
-    {
-      "id": "c1772c700f8e",
-      "title": "2026 台灣實證醫學學會學術年會",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392"
-    },
-    {
-      "id": "009c255ace66",
-      "title": "2026台灣實證醫學學會種子師資培訓工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-04",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
-    },
-    {
-      "id": "6c12a2120576",
-      "title": "2026系統性文獻回顧與統合分析工作坊(秋季班)",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
-    },
-    {
-      "id": "c7c1da8f40a7",
-      "title": "115年師資培育工作坊 (中區) 社團法人台灣急診醫學會、中山醫學大學附設醫院 2026/07/28 積分 4 學會主辦 尚有 30 名額",
+      "id": "97e501dc9e46",
+      "title": "2026第十七屆第一次會員大會暨學術研討會 社團法人台灣急診醫學會 2026/06/26 積分 16 學會主辦 報名截止",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/A/Details/32647"
-    },
-    {
-      "id": "5bd23fc6becf",
-      "title": "2026 Ai實證簡報力工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/4cb9057694d6a3a1b49e6cf5da5743e2"
-    },
-    {
-      "id": "468c49ab963b",
-      "title": "115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院 2026/07/20 積分 3 學會主辦 尚有 7 名額",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-20",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/A/Details/32964"
-    },
-    {
-      "id": "8829b8516b58",
-      "title": "夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心 2026/07/08 積分 7 學會主辦 尚有 10 名額",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-08",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/A/Details/33048"
-    },
-    {
-      "id": "01578a9a012c",
-      "title": "【訊息轉知】2026馬偕醫學大學厚生健康學院-永續厚生健康論壇2026/6/23(二)至2026/7/3(五)假MS Teams辦理，歡迎踴躍參加。",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-03",
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=492"
+      "date": "2026-06-26",
+      "deadline": "2026-06-26",
+      "url": "https://www.sem.org.tw/Activity/A/Details/32620"
     },
     {
       "id": "d82ce83cd617",
@@ -105,14 +25,114 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33032"
     },
     {
-      "id": "97e501dc9e46",
-      "title": "2026第十七屆第一次會員大會暨學術研討會 社團法人台灣急診醫學會 2026/06/26 積分 16 學會主辦 報名截止",
+      "id": "01578a9a012c",
+      "title": "【訊息轉知】2026馬偕醫學大學厚生健康學院-永續厚生健康論壇2026/6/23(二)至2026/7/3(五)假MS Teams辦理，歡迎踴躍參加。",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-03",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=492"
+    },
+    {
+      "id": "8829b8516b58",
+      "title": "夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心 2026/07/08 積分 7 學會主辦 尚有 10 名額",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-06-26",
-      "deadline": "2026-06-26",
-      "url": "https://www.sem.org.tw/Activity/A/Details/32620"
+      "date": "2026-07-08",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/A/Details/33048"
+    },
+    {
+      "id": "468c49ab963b",
+      "title": "115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院 2026/07/20 積分 3 學會主辦 尚有 7 名額",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-20",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/A/Details/32964"
+    },
+    {
+      "id": "5bd23fc6becf",
+      "title": "2026 Ai實證簡報力工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/4cb9057694d6a3a1b49e6cf5da5743e2"
+    },
+    {
+      "id": "c7c1da8f40a7",
+      "title": "115年師資培育工作坊 (中區) 社團法人台灣急診醫學會、中山醫學大學附設醫院 2026/07/28 積分 4 學會主辦 尚有 30 名額",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-28",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/A/Details/32647"
+    },
+    {
+      "id": "6c12a2120576",
+      "title": "2026系統性文獻回顧與統合分析工作坊(秋季班)",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-20",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
+    },
+    {
+      "id": "009c255ace66",
+      "title": "2026台灣實證醫學學會種子師資培訓工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-04",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
+    },
+    {
+      "id": "c1772c700f8e",
+      "title": "2026 台灣實證醫學學會學術年會",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392"
+    },
+    {
+      "id": "62570103abc2",
+      "title": "JCMIT 2026 國際醫學資訊聯合研討會",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-19",
+      "deadline": null,
+      "url": "https://jcmit2026.medinfo.org.tw/"
+    },
+    {
+      "id": "24c8f9118e81",
+      "title": "2026年台北初級救護技術員繼續教育訓練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-05-26",
+      "deadline": null,
+      "url": "https://www.mgems.org/260424_t1_course/"
+    },
+    {
+      "id": "d366b681d956",
+      "title": "閱讀全文2026年台北初級救護技術員繼續教育訓練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-05-26",
+      "deadline": null,
+      "url": "https://www.mgems.org/260424_t1_course/"
     },
     {
       "id": "10d05d13b906",
@@ -143,106 +163,6 @@
       "date": "2026-06-02",
       "deadline": null,
       "url": "https://www.mgems.org/260514_yushan_t1f/"
-    },
-    {
-      "id": "24c8f9118e81",
-      "title": "2026年台北初級救護技術員繼續教育訓練",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-05-26",
-      "deadline": null,
-      "url": "https://www.mgems.org/260424_t1_course/"
-    },
-    {
-      "id": "d366b681d956",
-      "title": "閱讀全文2026年台北初級救護技術員繼續教育訓練",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-05-26",
-      "deadline": null,
-      "url": "https://www.mgems.org/260424_t1_course/"
-    },
-    {
-      "id": "3dc1af499687",
-      "title": "2025年初級救護技術員訓練課程",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2025-08-12",
-      "deadline": null,
-      "url": "https://www.mgems.org/252728_emt1/"
-    },
-    {
-      "id": "d572b5a03941",
-      "title": "閱讀全文2025年初級救護技術員訓練課程",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2025-08-12",
-      "deadline": null,
-      "url": "https://www.mgems.org/252728_emt1/"
-    },
-    {
-      "id": "75b719f4f02d",
-      "title": "2025年初級救護技術員繼續教育訓練課程台北場",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2025-06-27",
-      "deadline": null,
-      "url": "https://www.mgems.org/250613_emtf/"
-    },
-    {
-      "id": "d0cdc35f60cb",
-      "title": "閱讀全文2025年初級救護技術員繼續教育訓練課程台北場",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2025-06-27",
-      "deadline": null,
-      "url": "https://www.mgems.org/250613_emtf/"
-    },
-    {
-      "id": "cb8e0bd46ed7",
-      "title": "2025年觀光旅遊地區第一線救護人員訓練課程",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2025-06-27",
-      "deadline": null,
-      "url": "https://www.mgems.org/250605_1st_responder/"
-    },
-    {
-      "id": "1f7e26f1e9d1",
-      "title": "基督教長老教會新莊分會基本心肺復甦術課程",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2025-03-26",
-      "deadline": null,
-      "url": "https://www.mgems.org/250323_cpraed/"
-    },
-    {
-      "id": "91b39b33496b",
-      "title": "閱讀全文基督教長老教會新莊分會基本心肺復甦術課程",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2025-03-26",
-      "deadline": null,
-      "url": "https://www.mgems.org/250323_cpraed/"
-    },
-    {
-      "id": "189d1f45e37b",
-      "title": "台灣急重症模擬醫學會第四屆第二次會員大會暨學術研討會 4/20",
-      "source": "台灣急重症模擬醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2024-04-20",
-      "deadline": null,
-      "url": "https://simulation.org.tw/annualconference2024/"
     },
     {
       "id": "8a590d4016ac",
@@ -1283,36 +1203,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/schoolcamp.html"
-    },
-    {
-      "id": "081055711dbb",
-      "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院急重症外接醫療團隊",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "b7bcbff339ec",
-      "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院急重症外接醫療團隊",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "9de74e1ce4a1",
-      "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院急重症外接醫療團隊",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
     },
     {
       "id": "4a9057508daa",
