@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-25T19:25:24.462270+00:00",
-  "count": 237,
-  "course_count": 115,
-  "news_count": 122,
+  "updated": "2026-06-25T20:39:23.307104+00:00",
+  "count": 227,
+  "course_count": 111,
+  "news_count": 116,
   "items": [
     {
       "id": "97e501dc9e46",
@@ -23,16 +23,6 @@
       "date": "2026-07-02",
       "deadline": "2026-07-02",
       "url": "https://www.sem.org.tw/Activity/A/Details/33032"
-    },
-    {
-      "id": "01578a9a012c",
-      "title": "【訊息轉知】2026馬偕醫學大學厚生健康學院-永續厚生健康論壇2026/6/23(二)至2026/7/3(五)假MS Teams辦理，歡迎踴躍參加。",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-03",
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=492"
     },
     {
       "id": "ea80a7531ef4",
@@ -625,76 +615,6 @@
       "url": "https://www.tsccm.org.tw/news_info.asp?/970.html"
     },
     {
-      "id": "c64a3c618e92",
-      "title": "【徵稿公告】第八屆第二次會員大會暨學術研討會海報論文徵稿",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=489"
-    },
-    {
-      "id": "8d3e1d729df3",
-      "title": "【重要公告】老人衛教照護個管師認証課程證書展延辦法公佈",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=222"
-    },
-    {
-      "id": "c821ef8b683c",
-      "title": "祕書處公告",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_list.asp?NType=3"
-    },
-    {
-      "id": "8c7d20147e3f",
-      "title": "長照積分申請專區",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_list.asp?NType=4"
-    },
-    {
-      "id": "e5c1a45a9c07",
-      "title": "【訊息轉知】115年度「獎勵提供心血管疾病病人戒菸服務」暨「獎勵基層醫療院所提供病人戒菸服務」競賽報名",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=490"
-    },
-    {
-      "id": "ed1b91ad4060",
-      "title": "【學會公告】本會提升期刊影響力貢獻獎申請公告",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=487"
-    },
-    {
-      "id": "0a84b9e6c535",
-      "title": "【長照積分申請表格】本會更新長照積分申請表格，請下載114年度114.8.1起適用版本提出申請。",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=472"
-    },
-    {
       "id": "9510b518bf05",
       "title": "TAMIS Academy",
       "source": "台灣心肌梗塞學會",
@@ -1273,26 +1193,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b45%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
-    },
-    {
-      "id": "c302a6b91021",
-      "title": "Learn CPR",
-      "source": "AHA — American Heart Association",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://cpr.heart.org/en/"
-    },
-    {
-      "id": "e73de285a210",
-      "title": "CPR & ECC",
-      "source": "AHA — American Heart Association",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://cpr.heart.org/en/"
     },
     {
       "id": "b22c2e9061fd",
