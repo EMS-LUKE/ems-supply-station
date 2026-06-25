@@ -85,16 +85,34 @@ main{padding:10px 12px 40px;max-width:1100px;margin:0 auto}
 #cal-nav{display:flex;align-items:center;justify-content:center;gap:14px;margin:10px 0}
 #cal-nav button{background:none;border:1px solid #d1d5db;border-radius:8px;padding:4px 12px;cursor:pointer;font-size:13px}
 #cal-label{font-size:15px;font-weight:600}
+/* 圖例 */
+#cal-legend{display:flex;gap:12px;justify-content:center;margin-bottom:8px;flex-wrap:wrap}
+.legend-item{display:flex;align-items:center;gap:4px;font-size:11px;color:#555}
+.legend-dot{width:12px;height:12px;border-radius:3px;flex-shrink:0}
+.legend-dot.course{background:#1a56b0}
+.legend-dot.news{background:#6b7280}
+.legend-dot.tccc{background:#dc2626}
+.legend-dot.multi{background:#1a7a3a}
+/* 月曆格子 */
 .cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:2px}
 .cal-head{text-align:center;font-size:11px;font-weight:600;color:#888;padding:4px}
-.cal-cell{min-height:56px;background:#fff;border:1px solid #e5e7eb;border-radius:6px;padding:3px 4px}
-.cal-cell.other-month{background:#f9fafb;opacity:.5}
-.cal-cell.today{border-color:#1a56b0;border-width:2px}
-.cal-day-num{font-size:10.5px;color:#666;margin-bottom:2px}
-.cal-ev{font-size:9px;border-radius:3px;padding:1px 4px;margin-bottom:2px;cursor:pointer;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
-.cal-ev.course{background:#dbeafe;color:#1e40af}
-.cal-ev.news{background:#f0f2f5;color:#555}
-.cal-ev.tccc{background:#fee2e2;color:#991b1b}
+.cal-cell{min-height:52px;background:#fff;border:1px solid #e5e7eb;border-radius:6px;padding:4px;cursor:pointer;transition:border-color .15s}
+.cal-cell:hover:not(.other-month){border-color:#1a7a3a;box-shadow:0 1px 4px rgba(0,0,0,.1)}
+.cal-cell.other-month{background:#f9fafb;opacity:.4;cursor:default}
+.cal-cell.today .cal-day-num{color:#1a7a3a;font-weight:700}
+.cal-cell.today{border-color:#1a7a3a;border-width:2px}
+.cal-cell.selected{border-color:#1a7a3a;border-width:2px;background:#f0fdf4}
+.cal-day-num{font-size:11px;color:#666;margin-bottom:3px}
+/* 色塊 */
+.cal-dots{display:flex;gap:2px;flex-wrap:wrap}
+.cal-dot{width:8px;height:8px;border-radius:2px;flex-shrink:0}
+.cal-dot.course{background:#1a56b0}
+.cal-dot.news{background:#9ca3af}
+.cal-dot.tccc{background:#dc2626}
+.cal-count{font-size:9px;color:#888;margin-top:1px}
+/* 選取日期的詳細列表 */
+#cal-detail{margin-top:12px;border-top:2px solid #1a7a3a;padding-top:10px}
+#cal-detail-title{font-size:12px;font-weight:600;color:#1a7a3a;margin-bottom:8px}
 
 .empty{text-align:center;padding:40px;color:#aaa;font-size:13px}
 .loading{text-align:center;padding:30px;color:#1a56b0;font-size:13px}
@@ -172,7 +190,16 @@ footer a{color:#1a56b0;text-decoration:none}
       <span id="cal-label"></span>
       <button onclick="calNext()">›</button>
     </div>
+    <div id="cal-legend">
+      <div class="legend-item"><div class="legend-dot course"></div>課程/活動</div>
+      <div class="legend-item"><div class="legend-dot tccc"></div>戰術救護</div>
+      <div class="legend-item"><div class="legend-dot news"></div>最新消息</div>
+    </div>
     <div class="cal-grid" id="cal-grid"></div>
+    <div id="cal-detail" style="display:none">
+      <div id="cal-detail-title"></div>
+      <div id="cal-detail-list"></div>
+    </div>
   </div>
 </main>
 
@@ -290,8 +317,11 @@ function renderList(){
   }).join('');
 }
 
+let SEL_DATE = null;
+
 function renderCal(){
   document.getElementById('cal-label').textContent=`${CAL_YEAR} 年 ${MO_ZH[CAL_MONTH]}`;
+  // 建立日期 → 活動 map
   const byDate={};
   FILTERED.forEach(it=>{
     if(!it.date)return;
@@ -303,27 +333,103 @@ function renderCal(){
   });
   const grid=document.getElementById('cal-grid');
   const today=new Date().toISOString().slice(0,10);
-  let html=DAY_ZH.map(d=>`<div class="cal-head">${d}</div>`).join('');
+  let h=DAY_ZH.map(d=>`<div class="cal-head">${d}</div>`).join('');
   const first=new Date(CAL_YEAR,CAL_MONTH,1);
   const pad=first.getDay();
   const dim=new Date(CAL_YEAR,CAL_MONTH+1,0).getDate();
   const prev=new Date(CAL_YEAR,CAL_MONTH,0).getDate();
-  for(let i=pad-1;i>=0;i--)html+=`<div class="cal-cell other-month"><div class="cal-day-num">${prev-i}</div></div>`;
+  // 上月補白
+  for(let i=pad-1;i>=0;i--)
+    h+=`<div class="cal-cell other-month"><div class="cal-day-num">${prev-i}</div></div>`;
+  // 本月格子
   for(let d=1;d<=dim;d++){
     const ds=`${CAL_YEAR}-${String(CAL_MONTH+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
     const evs=byDate[ds]||[];
     const isToday=ds===today;
-    const evHtml=evs.slice(0,3).map(it=>`<div class="cal-ev ${it.cat==='戰術救護'?'tccc':it.type==='course'?'course':'news'}" title="${it.title}" onclick="window.open('${it.url||'#'}','_blank')">${it.title}</div>`).join('')+(evs.length>3?`<div style="font-size:9px;color:#888">+${evs.length-3}</div>`:'');
-    html+=`<div class="cal-cell${isToday?' today':''}"><div class="cal-day-num">${d}</div>${evHtml}</div>`;
+    const isSel=ds===SEL_DATE;
+    // 色塊（每種類型一個點）
+    let dots='';
+    if(evs.length>0){
+      const hasCourse=evs.some(e=>e.type==='course'&&e.cat!=='戰術救護');
+      const hasTccc=evs.some(e=>e.cat==='戰術救護');
+      const hasNews=evs.some(e=>e.type==='news');
+      if(hasCourse)dots+=`<div class="cal-dot course"></div>`;
+      if(hasTccc)dots+=`<div class="cal-dot tccc"></div>`;
+      if(hasNews)dots+=`<div class="cal-dot news"></div>`;
+    }
+    const count=evs.length>0?`<div class="cal-count">${evs.length}筆</div>`:'';
+    h+=`<div class="cal-cell${isToday?' today':''}${isSel?' selected':''}" onclick="selectDate('${ds}')">
+      <div class="cal-day-num">${d}</div>
+      <div class="cal-dots">${dots}</div>
+      ${count}
+    </div>`;
   }
+  // 下月補白
   const total=pad+dim;
   const next=7-(total%7);
-  if(next<7)for(let d=1;d<=next;d++)html+=`<div class="cal-cell other-month"><div class="cal-day-num">${d}</div></div>`;
-  grid.innerHTML=html;
+  if(next<7)for(let d=1;d<=next;d++)
+    h+=`<div class="cal-cell other-month"><div class="cal-day-num">${d}</div></div>`;
+  grid.innerHTML=h;
+  // 重新渲染選取日期的詳細列表
+  if(SEL_DATE)renderCalDetail(byDate[SEL_DATE]||[]);
 }
 
-function calPrev(){if(CAL_MONTH--===0){CAL_MONTH=11;CAL_YEAR--;}renderCal();}
-function calNext(){if(++CAL_MONTH===12){CAL_MONTH=0;CAL_YEAR++;}renderCal();}
+function selectDate(ds){
+  SEL_DATE = SEL_DATE===ds ? null : ds; // 再點一次取消選取
+  renderCal();
+  if(!SEL_DATE){
+    document.getElementById('cal-detail').style.display='none';
+    return;
+  }
+  const byDate={};
+  FILTERED.forEach(it=>{
+    if(it.date===ds){
+      if(!byDate[ds])byDate[ds]=[];
+      byDate[ds].push(it);
+    }
+  });
+  renderCalDetail(byDate[ds]||[]);
+}
+
+function renderCalDetail(evs){
+  const detail=document.getElementById('cal-detail');
+  const title=document.getElementById('cal-detail-title');
+  const list=document.getElementById('cal-detail-list');
+  if(!evs.length){detail.style.display='none';return;}
+  // 格式化標題日期
+  const[y,m,d]=SEL_DATE.split('-');
+  title.textContent=`${y} 年 ${parseInt(m)} 月 ${parseInt(d)} 日 — ${evs.length} 筆活動`;
+  detail.style.display='block';
+  // 詳細列表（複用 renderList 的卡片樣式）
+  const today=new Date().toISOString().slice(0,10);
+  list.innerHTML=evs.map(it=>{
+    const exp=it.date&&it.date<today;
+    const evB=it.date?`<span class="badge-event">📅 ${fmtFull(it.date)}</span>`:'';
+    const dlB=it.deadline?`<span class="badge-deadline">⏰ 截止 ${fmtFull(it.deadline)}</span>`:'';
+    const expB=exp?'<span class="badge-expired">已結束</span>':'';
+    const typeIcon=it.type==='course'?'🎓':'📢';
+    return`<div class="course-item${exp?' ci-expired':''}">
+      <div class="ci-body">
+        <div class="ci-title">${typeIcon} <a href="${it.url||'#'}" target="_blank" rel="noopener">${it.title}</a></div>
+        <div class="ci-dates">${evB}${dlB}${expB}</div>
+        <div class="ci-meta"><span class="ci-source">${it.source}</span><span class="ci-cat ${catCls(it.cat)}">${it.cat}</span></div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function calPrev(){
+  SEL_DATE=null;
+  document.getElementById('cal-detail').style.display='none';
+  if(CAL_MONTH--===0){CAL_MONTH=11;CAL_YEAR--;}
+  renderCal();
+}
+function calNext(){
+  SEL_DATE=null;
+  document.getElementById('cal-detail').style.display='none';
+  if(++CAL_MONTH===12){CAL_MONTH=0;CAL_YEAR++;}
+  renderCal();
+}
 
 loadData();
 </script>
