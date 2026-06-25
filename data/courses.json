@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-25T05:39:28.272971+00:00",
-  "count": 195,
-  "course_count": 101,
-  "news_count": 94,
+  "updated": "2026-06-25T10:33:28.173684+00:00",
+  "count": 197,
+  "course_count": 104,
+  "news_count": 93,
   "items": [
     {
       "id": "97e501dc9e46",
@@ -35,8 +35,8 @@
       "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=492"
     },
     {
-      "id": "8829b8516b58",
-      "title": "夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心 2026/07/08 積分 7 學會主辦 尚有 10 名額",
+      "id": "5666ada9fe79",
+      "title": "夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心 2026/07/08 積分 7 學會主辦 尚有 9 名額",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
@@ -1205,6 +1205,36 @@
       "url": "https://www.anne.education/schoolcamp.html"
     },
     {
+      "id": "081055711dbb",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "b7bcbff339ec",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9de74e1ce4a1",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
       "id": "4a9057508daa",
       "title": "聽見AED 六月活動",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1325,24 +1355,14 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "98860142062c",
-      "title": "Headlines",
+      "id": "fa7bfbf49367",
+      "title": "TX Firefighter Saves Airline Passenger Mid-Flight",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "9472704dce8f",
-      "title": "Amid Extreme Heat, Ambulance Crews Collect Water for Las Vegas Homeless Shelter",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/amid-extreme-heat-ambulance-crews-collect-water-for-las-vegas-homeless-shelter/"
+      "url": "https://www.jems.com/news/tx-firefighter-saves-airline-passenger-mid-flight/"
     },
     {
       "id": "cc05242f9202",
