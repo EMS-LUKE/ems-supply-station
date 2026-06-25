@@ -1029,6 +1029,247 @@ def scrape_trilogy():
                           resolve(a.get("href",""), BASE), None))
     return out[:10]
 
+
+def scrape_aemta():
+    """American EMT Academy"""
+    out = []
+    BASE = "https://americanemtacademy.com"
+    # 課程頁面（有明確日期）
+    for path in ["/emt-classes/", "/orange-county-emt-school/", "/evening-emt-program-interest-form/"]:
+        soup = fetch(BASE + path)
+        if not soup: continue
+        for a in soup.select("a[href]"):
+            t = clean(a.get_text())
+            if len(t) < 8 or len(t) > 150: continue
+            if any(k in t.lower() for k in ["emt","course","class","training","cpr","bls"]):
+                parent = a.find_parent(["div","li","p"])
+                date = extract_all_dates(parent.get_text() if parent else t)
+                out.append(mk(t, "American EMT Academy", "國際期刊/組織",
+                              resolve(a.get("href",""), BASE), "course",
+                              date[-1] if date else None))
+    # 主頁最新消息
+    soup2 = fetch(BASE + "/")
+    if soup2:
+        for a in soup2.select("h2 a, h3 a, .entry-title a"):
+            t = clean(a.get_text())
+            if len(t) < 8 or len(t) > 150: continue
+            out.append(mk(t, "American EMT Academy", "國際期刊/組織",
+                          resolve(a.get("href",""), BASE), "news"))
+    return out[:15]
+
+def scrape_bmj():
+    """BMJ Journals"""
+    out = []
+    BASE = "https://journals.bmj.com"
+    soup = fetch(BASE + "/")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 150: continue
+        href = a.get("href","")
+        if any(k in href.lower() for k in ["/content/","/news/","/article"]):
+            out.append(mk(t, "BMJ Journals", "國際期刊/組織",
+                          resolve(href, BASE), "news"))
+    return out[:10]
+
+def scrape_emj():
+    """Emergency Medicine Journal"""
+    out = []
+    BASE = "https://emj.bmj.com"
+    soup = fetch(BASE + "/content/current")
+    if not soup:
+        soup = fetch(BASE + "/")
+    if not soup: return out
+    for a in soup.select("a[href*='/content/']"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 200: continue
+        out.append(mk(t, "Emergency Medicine Journal", "國際期刊/組織",
+                      resolve(a.get("href",""), BASE), "news"))
+    return out[:10]
+
+def scrape_jem():
+    """Journal of Emergency Medicine"""
+    out = []
+    BASE = "https://www.jem-journal.com"
+    soup = fetch(BASE + "/")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 200: continue
+        href = a.get("href","")
+        if any(k in href.lower() for k in ["/article/","/issues/","/S0736-"]):
+            out.append(mk(t, "Journal of Emergency Medicine", "國際期刊/組織",
+                          resolve(href, BASE), "news"))
+    return out[:10]
+
+def scrape_jtacs():
+    """JTACS — Journal of Trauma and Acute Care Surgery"""
+    out = []
+    BASE = "https://journals.lww.com"
+    soup = fetch(BASE + "/jtrauma/pages/currenttoc.aspx")
+    if not soup:
+        soup = fetch(BASE + "/jtrauma/pages/default.aspx")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 200: continue
+        href = a.get("href","")
+        if any(k in href.lower() for k in ["/fulltext/","/abstract/","DOI"]):
+            out.append(mk(t, "JTACS", "國際期刊/組織",
+                          resolve(href, BASE), "news"))
+    return out[:10]
+
+def scrape_nejm():
+    """NEJM — New England Journal of Medicine"""
+    out = []
+    BASE = "https://www.nejm.org"
+    soup = fetch(BASE + "/toc/nejm/medical-journal/")
+    if not soup:
+        soup = fetch(BASE + "/")
+    if not soup: return out
+    for a in soup.select("a[href*='/doi/']"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 200: continue
+        out.append(mk(t, "NEJM", "國際期刊/組織",
+                      resolve(a.get("href",""), BASE), "news"))
+    return out[:10]
+
+def scrape_resus():
+    """Resuscitation Journal"""
+    out = []
+    soup = fetch("https://www.resuscitationjournal.com/")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 200: continue
+        href = a.get("href","")
+        if any(k in href.lower() for k in ["/article/","/issue/","/S0300-"]):
+            out.append(mk(t, "Resuscitation Journal", "國際期刊/組織",
+                          resolve(href, "https://www.resuscitationjournal.com"), "news"))
+    return out[:10]
+
+def scrape_cotccc():
+    """CoTCCC"""
+    out = []
+    BASE = "https://jts.health.mil"
+    # CoTCCC 指南更新頁
+    soup = fetch(BASE + "/index.cfm/committees/cotccc")
+    if soup:
+        for a in soup.select("a[href]"):
+            t = clean(a.get_text())
+            if len(t) < 8 or len(t) > 150: continue
+            if any(k in t.lower() for k in ["guideline","update","tccc","recommendation","handbook","news"]):
+                out.append(mk(t, "CoTCCC", "戰術救護",
+                              resolve(a.get("href",""), BASE), "news"))
+    return out[:10]
+
+def scrape_crisis():
+    """Crisis Medicine"""
+    out = []
+    BASE = "https://www.crisis-medicine.com"
+    for path in ["/", "/courses", "/news", "/events"]:
+        soup = fetch(BASE + path)
+        if not soup: continue
+        for a in soup.select("h2 a, h3 a, .entry-title a, article a, a[href*='/course'], a[href*='/event']"):
+            t = clean(a.get_text())
+            if len(t) < 8 or len(t) > 150: continue
+            date = extract_all_dates(t)
+            out.append(mk(t, "Crisis Medicine", "戰術救護",
+                          resolve(a.get("href",""), BASE), None,
+                          date[-1] if date else None))
+    return out[:10]
+
+def scrape_ctoms():
+    """CTOMS"""
+    out = []
+    BASE = "https://ctomsinc.com"
+    for path in ["/", "/courses", "/training", "/news"]:
+        soup = fetch(BASE + path)
+        if not soup: continue
+        for a in soup.select("a[href]"):
+            t = clean(a.get_text())
+            if len(t) < 8 or len(t) > 150: continue
+            if any(k in t.lower() for k in ["course","training","workshop","news","update","tccc","tactical"]):
+                date = extract_all_dates(t)
+                out.append(mk(t, "CTOMS", "戰術救護",
+                              resolve(a.get("href",""), BASE), None,
+                              date[-1] if date else None))
+    return out[:10]
+
+def scrape_deployed():
+    """Deployed Medicine"""
+    out = []
+    BASE = "https://www.deployedmedicine.com"
+    soup = fetch(BASE + "/")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 150: continue
+        if any(k in t.lower() for k in ["tccc","guideline","course","update","training","module","news"]):
+            out.append(mk(t, "Deployed Medicine", "戰術救護",
+                          resolve(a.get("href",""), BASE), None))
+    return out[:10]
+
+def scrape_jts():
+    """JTS — Joint Trauma System"""
+    out = []
+    BASE = "https://jts.health.mil"
+    soup = fetch(BASE + "/index.cfm/PI_CPGs/cpgs")
+    if not soup:
+        soup = fetch(BASE + "/")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        t = clean(a.get_text())
+        if len(t) < 8 or len(t) > 150: continue
+        if any(k in t.lower() for k in ["cpg","guideline","update","clinical","trauma","tccc"]):
+            out.append(mk(t, "JTS — Joint Trauma System", "戰術救護",
+                          resolve(a.get("href",""), BASE), "news"))
+    return out[:10]
+
+def scrape_safeguard():
+    """Safeguard Medical"""
+    out = []
+    BASE = "https://safeguardmedical.com"
+    for path in ["/blogs/news", "/pages/news", "/"]:
+        soup = fetch(BASE + path)
+        if not soup: continue
+        for a in soup.select("h2 a, h3 a, .article__title a, .blog-item a"):
+            t = clean(a.get_text())
+            if len(t) < 8 or len(t) > 150: continue
+            out.append(mk(t, "Safeguard Medical", "戰術救護",
+                          resolve(a.get("href",""), BASE), "news"))
+    return out[:10]
+
+def scrape_snakestaff():
+    """Snakestaff Systems"""
+    out = []
+    BASE = "https://www.snakestaffsystems.com"
+    for path in ["/blogs/news", "/pages/blog", "/"]:
+        soup = fetch(BASE + path)
+        if not soup: continue
+        for a in soup.select("h2 a, h3 a, .article__title a"):
+            t = clean(a.get_text())
+            if len(t) < 8 or len(t) > 150: continue
+            out.append(mk(t, "Snakestaff Systems", "戰術救護",
+                          resolve(a.get("href",""), BASE), "news"))
+    return out[:10]
+
+def scrape_tacmedicine():
+    """Tactical Medicine Training & Equipment"""
+    out = []
+    BASE = "https://www.tactical-medicine.com"
+    for path in ["/blog", "/news", "/"]:
+        soup = fetch(BASE + path)
+        if not soup: continue
+        for a in soup.select("h2 a, h3 a, .entry-title a, article a"):
+            t = clean(a.get_text())
+            if len(t) < 8 or len(t) > 150: continue
+            date = extract_all_dates(t)
+            out.append(mk(t, "Tactical Medicine Training & Equipment", "戰術救護",
+                          resolve(a.get("href",""), BASE), None,
+                          date[-1] if date else None))
+    return out[:10]
+
 # ══════════════════════════════════════════════════════
 # RSS
 # ══════════════════════════════════════════════════════
@@ -1115,11 +1356,27 @@ SCRAPERS = [
     # ── 戰術救護 ──
     ("C-TECC",                      scrape_ctecc),
     ("CBRN Professionals",          scrape_cbrn),
+    ("CoTCCC",                      scrape_cotccc),
+    ("Crisis Medicine",             scrape_crisis),
+    ("CTOMS",                       scrape_ctoms),
+    ("Deployed Medicine",           scrape_deployed),
+    ("JTS",                         scrape_jts),
     ("SOMA",                        scrape_soma),
     ("Next Generation Combat Medic", scrape_ngcm),
     ("North American Rescue",       scrape_nar),
+    ("Safeguard Medical",           scrape_safeguard),
+    ("Snakestaff Systems",          scrape_snakestaff),
+    ("Tactical Medicine",           scrape_tacmedicine),
     ("TacMed Solutions",            scrape_tacmed),
     ("Trilogy EMS",                 scrape_trilogy),
+    # ── 補充國際期刊 ──
+    ("American EMT Academy",        scrape_aemta),
+    ("BMJ Journals",                scrape_bmj),
+    ("Emergency Medicine Journal",  scrape_emj),
+    ("Journal of Emergency Medicine", scrape_jem),
+    ("JTACS",                       scrape_jtacs),
+    ("NEJM",                        scrape_nejm),
+    ("Resuscitation Journal",       scrape_resus),
 ]
 
 MAX_PER_MONTH = 5  # 每個單位每月同類型最多5筆
