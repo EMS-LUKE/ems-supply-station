@@ -364,19 +364,38 @@ def scrape_trauma():
         page_url = BASE + path
         soup = fetch(page_url)
         if not soup: continue
-        # 只選活動詳細頁連結（href 含 /active/index.asp?/）
-        for a in soup.select("a[href*='/active/index.asp']"):
-            raw = clean(a.get_text())
-            if len(raw) < 5: continue
-            href = resolve(a.get("href",""), page_url)
-            event_date, deadline = _parse_trauma_dates(raw)
-            # 標題：取「一、」前的部分，或前80字
-            title = raw.split("一、")[0].strip() if "一、" in raw else raw[:80].strip()
-            if len(title) < 5:
-                title = raw[:60].strip()
-            out.append(mk(title, "台灣外傷醫學會", "台灣學會",
-                          href, item_type,
-                          date=event_date, deadline=deadline))
+
+        # 偵測最大頁數（從分頁連結 listX.asp?/N.html 取最大 N）
+        max_page = 1
+        list_file = path.split("/")[-1]   # e.g. "listA.asp"
+        for pg_a in soup.select(f"a[href*='{list_file}?/']"):
+            href = pg_a.get("href", "")
+            m = _re.search(r"\?/(\d+)\.html", href)
+            if m:
+                max_page = max(max_page, int(m.group(1)))
+
+        # 逐頁抓取（第 1 頁已有，從第 2 頁起再 fetch）
+        soups = [soup]
+        for pg in range(2, max_page + 1):
+            pg_url = f"{BASE}/active/{list_file}?/{pg}.html"
+            pg_soup = fetch(pg_url)
+            if pg_soup:
+                soups.append(pg_soup)
+            time.sleep(0.3)
+
+        # 從所有頁面中提取活動連結
+        for s in soups:
+            for a in s.select("a[href*='/active/index.asp']"):
+                raw = clean(a.get_text())
+                if len(raw) < 5: continue
+                href = resolve(a.get("href",""), page_url)
+                event_date, deadline = _parse_trauma_dates(raw)
+                title = raw.split("一、")[0].strip() if "一、" in raw else raw[:80].strip()
+                if len(title) < 5:
+                    title = raw[:60].strip()
+                out.append(mk(title, "台灣外傷醫學會", "台灣學會",
+                              href, item_type,
+                              date=event_date, deadline=deadline))
 
     # ── 學會公告（消息）───────────────────────────────────────────────────
     for path, item_type in [
