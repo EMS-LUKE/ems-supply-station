@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-26T14:32:36.006472+00:00",
-  "count": 204,
-  "course_count": 90,
-  "news_count": 114,
+  "updated": "2026-06-26T14:50:55.852798+00:00",
+  "count": 200,
+  "course_count": 95,
+  "news_count": 105,
   "items": [
     {
       "id": "271c7e786ba4",
@@ -65,16 +65,6 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/33052"
     },
     {
-      "id": "452b7eab7397",
-      "title": "2026.7.18 台灣復甦照護學會Holistic and Patient-Centered Critical Care研討會及工作坊開放報名",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
-    },
-    {
       "id": "c399275a2bc5",
       "title": "2026/07/18 國泰工作坊",
       "source": "復甦照護小學堂",
@@ -133,26 +123,6 @@
       "date": "2026-07-28",
       "deadline": "2026-07-13",
       "url": "https://www.sem.org.tw/Activity/A/Details/32647"
-    },
-    {
-      "id": "289ecb43dfc6",
-      "title": "重症會員早鳥報名優惠-2026.9.18~20 【第七屆亞太急性腎損傷與連續性腎替代療法大會】",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/968.html"
-    },
-    {
-      "id": "83ad24e5b303",
-      "title": "徵稿中~~2026.9.18-20 International Conference on Digital Health and Medical Analytics（DHA 2026）",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
     },
     {
       "id": "ce4831580b27",
@@ -273,16 +243,6 @@
       "date": "2026-04-22",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/10/Details/1569"
-    },
-    {
-      "id": "2847c76d4063",
-      "title": "2026.4.22-23 6th World Sepsis Congress 各專題錄影, 歡迎觀看分享",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-04-22",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/931.html"
     },
     {
       "id": "2ac09c278563",
@@ -443,56 +403,6 @@
       "date": null,
       "deadline": null,
       "url": "https://forms.gle/wRpfnT6FwUaPYZ7j8"
-    },
-    {
-      "id": "5ddae5a72419",
-      "title": "ACLS 2007新課程規範",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/Academic/acls01.asp"
-    },
-    {
-      "id": "a12cd0974482",
-      "title": "ACLS 課程推薦書籍",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/Academic/acls02.asp"
-    },
-    {
-      "id": "effdca75c4e6",
-      "title": "重症課程(重症學分)",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsccm.org.tw/od/Academic/index.asp?act_kindid=1"
-    },
-    {
-      "id": "a5ab109f670c",
-      "title": "聯甄課程(聯甄學分)",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsccm.org.tw/od/Academic/index.asp?act_kindid=2"
-    },
-    {
-      "id": "3b881f2cc9c2",
-      "title": "申請學分(重症學分)",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/Academic/index_other.asp"
     },
     {
       "id": "47f965572631",
@@ -1203,6 +1113,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
