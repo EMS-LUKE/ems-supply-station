@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-26T08:52:24.356221+00:00",
-  "count": 243,
-  "course_count": 118,
-  "news_count": 125,
+  "updated": "2026-06-26T09:52:13.372664+00:00",
+  "count": 221,
+  "course_count": 97,
+  "news_count": 124,
   "items": [
     {
       "id": "271c7e786ba4",
@@ -45,26 +45,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33032"
     },
     {
-      "id": "1c6c2972a13a",
-      "title": "外傷登錄訓練課程－首次認證(南部場次)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-04",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/index.asp?/22.html"
-    },
-    {
-      "id": "0dbec7c61261",
-      "title": "外傷登錄訓練課程－再認證(南部場次)... 【活動資訊更新】外傷登錄訓練課程－再認證(南部場次)上課日期已調動至115年07月04日(六)",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-05",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/index.asp?/21.html"
-    },
-    {
       "id": "6e89d2b0fe74",
       "title": "夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心",
       "source": "台灣急診醫學會",
@@ -83,16 +63,6 @@
       "date": "2026-07-09",
       "deadline": "2026-07-09",
       "url": "https://www.sem.org.tw/Activity/B/Details/33052"
-    },
-    {
-      "id": "6197f9d765d9",
-      "title": "2026外傷教育課程-中部地區(Ⅰ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-11",
-      "deadline": "2026-06-29",
-      "url": "http://www.trauma.org.tw/index.asp?/20.html"
     },
     {
       "id": "452b7eab7397",
@@ -153,86 +123,6 @@
       "date": "2026-07-28",
       "deadline": "2026-07-13",
       "url": "https://www.sem.org.tw/Activity/A/Details/32647"
-    },
-    {
-      "id": "e39eb0607545",
-      "title": "外傷重症病例討論會議... 活動地點：蘭陽院區301會議室 活動時間：2026/7/28 08:00～2026/7/28 09:00",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/listC_info.asp?/132.html"
-    },
-    {
-      "id": "a04741f458bb",
-      "title": "2026外傷教育課程-南部地區(Ⅰ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-01",
-      "deadline": "2026-07-20",
-      "url": "http://www.trauma.org.tw/index.asp?/23.html"
-    },
-    {
-      "id": "7d39ca63a576",
-      "title": "一一五年度 外傷繼續教育訓練課程I... 活動地點：新竹國泰綜合醫院第一分館5樓會議室 活動時間：2026/8/3 09:00～2026/8/3 12:00",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-03",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/listC_info.asp?/128.html"
-    },
-    {
-      "id": "1b6d9cd31ea0",
-      "title": "一一五年度 外傷繼續教育訓練課程II... 活動地點：新竹國泰綜合醫院第一分館5樓會議室 活動時間：2026/8/4 09:00～2026/8/4 11:00",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-04",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/listC_info.asp?/129.html"
-    },
-    {
-      "id": "d317ad43dfb5",
-      "title": "一一五年度 外傷繼續教育訓練課程III... 活動地點：新竹國泰綜合醫院第一分館5樓會議室 活動時間：2026/8/5 09:00～2026/8/5 12:00",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-05",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/listC_info.asp?/130.html"
-    },
-    {
-      "id": "42dd57436370",
-      "title": "2026外傷教育課程-北部地區(Ⅲ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-15",
-      "deadline": "2026-08-03",
-      "url": "http://www.trauma.org.tw/index.asp?/24.html"
-    },
-    {
-      "id": "9cffaa85be28",
-      "title": "外傷案例暨專題討論會... 活動地點：新北市立土城醫院醫療大樓二樓國際會議廳 活動時間：2026/8/17 07:30～2026/8/17 08:30",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-17",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/listC_info.asp?/141.html"
-    },
-    {
-      "id": "545abc814bc4",
-      "title": "外傷案例暨專題討論會... 活動地點：新北市立土城醫院醫療大樓二樓國際會議廳 活動時間：2026/9/14 07:30～2026/9/14 08:30",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-14",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/listC_info.asp?/140.html"
     },
     {
       "id": "289ecb43dfc6",
@@ -505,56 +395,6 @@
       "url": "https://www.sem.org.tw/News/11/Details/1611"
     },
     {
-      "id": "0f6f36b5436d",
-      "title": "理監事名單",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/about/index_03.asp"
-    },
-    {
-      "id": "c29799d397e2",
-      "title": "委員會名單",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/about/index_04.asp"
-    },
-    {
-      "id": "b8640fa7ae4c",
-      "title": "本會學術教育活動",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw"
-    },
-    {
-      "id": "0d2f5785ff57",
-      "title": "學術研討會",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/listB.asp"
-    },
-    {
-      "id": "f458e17f64f8",
-      "title": "其他單位活動",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/listC.asp"
-    },
-    {
       "id": "f33886bda428",
       "title": "【公告】學會進行辦公室搬遷作業...",
       "source": "台灣外傷醫學會",
@@ -562,7 +402,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/index.asp?/66.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/66.html"
     },
     {
       "id": "a8f420c627f1",
@@ -572,7 +412,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/index.asp?/65.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/65.html"
     },
     {
       "id": "bfe37b4a040f",
@@ -582,7 +422,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/index.asp?/37.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/37.html"
     },
     {
       "id": "6fd1512b7cef",
@@ -592,7 +432,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/index.asp?/36.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/36.html"
     },
     {
       "id": "5f58c84b68b2",
@@ -602,7 +442,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/index.asp?/35.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/35.html"
     },
     {
       "id": "86005a8326cc",
@@ -1343,76 +1183,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
-    },
-    {
-      "id": "1a7323e30be9",
-      "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "9fdb080fb678",
-      "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "79f4d8162d0b",
-      "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "ed2ee3e5b76a",
-      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "5bb633d2fb9b",
-      "title": "臺大醫院115年度母親節節慶關懷活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
-    },
-    {
-      "id": "9b54876f3cd3",
-      "title": "115年農曆春節本院服務公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
-    },
-    {
-      "id": "c32df82d097f",
-      "title": "115年農曆春節假期特設「傳染病特別診」公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
       "id": "4a9057508daa",
@@ -2203,6 +1973,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.narescue.com/education/product-information-sheets.html"
+    },
+    {
+      "id": "bf84bf2b2a81",
+      "title": "The Evolution of Combat Medicine",
+      "source": "Safeguard Medical",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://safeguardmedical.com/blogs/news/the-evolution-of-combat-medicine"
     },
     {
       "id": "4110ccb750ce",
