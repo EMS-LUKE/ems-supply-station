@@ -1,9 +1,29 @@
 {
-  "updated": "2026-06-26T00:48:04.951215+00:00",
-  "count": 204,
-  "course_count": 89,
+  "updated": "2026-06-26T01:29:54.987912+00:00",
+  "count": 226,
+  "course_count": 111,
   "news_count": 115,
   "items": [
+    {
+      "id": "d7b0209ac9c3",
+      "title": "甲115350",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-06-26",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw"
+    },
+    {
+      "id": "17a1d30ba109",
+      "title": "115/6/26(五)下午台中光田醫院向上院區「全民健康保險在宅急症照護試辦計畫」教育訓練課程",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-06-26",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/edu_info.asp?id=1723"
+    },
     {
       "id": "f103d17614c4",
       "title": "外傷登錄訓練課程－首次認證(南部場次)... 一、課程日期：2026年07月04日(星期六)。 二、課程地點：成大醫院 住院大樓 2樓 201會議室。三、參加資格：外傷登錄業務人員＆護理人員。",
@@ -95,6 +115,26 @@
       "url": "http://www.trauma.org.tw/listC_info.asp?/141.html"
     },
     {
+      "id": "31ce380ba60b",
+      "title": "甲115353",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-27",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw"
+    },
+    {
+      "id": "2164b1e70863",
+      "title": "【延期至115/8/27-28】115/7/27~28(一~二)急診創傷訓練課程ETTC",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-27",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/edu_info.asp?id=1727"
+    },
+    {
       "id": "545abc814bc4",
       "title": "外傷案例暨專題討論會... 活動地點：新北市立土城醫院醫療大樓二樓國際會議廳 活動時間：2026/9/14 07:30～2026/9/14 08:30",
       "source": "台灣外傷醫學會",
@@ -145,6 +185,36 @@
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
     },
     {
+      "id": "77360c75f091",
+      "title": "活動日期 課程代號 活 動 名 稱 活 動 地 點 積分",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-18",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw"
+    },
+    {
+      "id": "4669ffbccf56",
+      "title": "甲115351",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-18",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw"
+    },
+    {
+      "id": "e815a0a74ca9",
+      "title": "2026/10/18(日)第八屆第二次會員大會暨學術研討會(精準與永續：智慧急重症鏈－從數據預警到社區永續照護的實踐與挑戰)",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-18",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/edu_info.asp?id=1724"
+    },
+    {
       "id": "c1772c700f8e",
       "title": "2026 台灣實證醫學學會學術年會",
       "source": "台灣實證醫學學會",
@@ -165,6 +235,26 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
+      "id": "859cb4ea6bf6",
+      "title": "甲115348",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-04-18",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw"
+    },
+    {
+      "id": "6b2b51b918ca",
+      "title": "115/4/18(六)高齡照護共學培力會議GRACE馬偕紀念醫院場次(Geriatric Reinforcement for ACE)衰弱老人與局部關鍵肌群-第一線辨識與可逆介入的臨床範例",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-04-18",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/edu_info.asp?id=1718"
+    },
+    {
       "id": "2847c76d4063",
       "title": "2026.4.22-23 6th World Sepsis Congress 各專題錄影, 歡迎觀看分享",
       "source": "中華民國重症醫學會",
@@ -173,6 +263,46 @@
       "date": "2026-04-22",
       "deadline": null,
       "url": "http://course.tsccm.org.tw/df_info.asp?/931.html"
+    },
+    {
+      "id": "516f2f32fd10",
+      "title": "甲115352",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-04-30",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw"
+    },
+    {
+      "id": "4fb961241e22",
+      "title": "IJGE期刊 20.2期 CME學分",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-04-30",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/edu_info.asp?id=1725"
+    },
+    {
+      "id": "312b80e8bcf6",
+      "title": "甲115347",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-05-22",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw"
+    },
+    {
+      "id": "d3b774ab71fc",
+      "title": "115/5/22(五)老人症候群研討會",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-05-22",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/edu_info.asp?id=1717"
     },
     {
       "id": "24c8f9118e81",
@@ -455,6 +585,36 @@
       "url": "http://course.tsccm.org.tw/Academic/index_other.asp"
     },
     {
+      "id": "430630b94cec",
+      "title": "理事長的話",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/about/chief.asp"
+    },
+    {
+      "id": "8d9261f7aec8",
+      "title": "繼續教育辦法(非長照)",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/educate/educate.asp"
+    },
+    {
+      "id": "c887a2a1a0b9",
+      "title": "活 動 名 稱",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw"
+    },
+    {
       "id": "9510b518bf05",
       "title": "TAMIS Academy",
       "source": "台灣心肌梗塞學會",
@@ -553,16 +713,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "16948ea49071",
-      "title": "持續深耕學術與臨床｜【開始徵稿】2026年會論文發表活動",
-      "source": "臺灣燒傷暨傷口照護學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.burn.org.tw/index.php/news/25-the-project/301-2026"
     },
     {
       "id": "9cf11eaf5a41",
@@ -855,6 +1005,56 @@
       "url": "https://www.mgems.org/260505-7_taiwan-cyber-security/"
     },
     {
+      "id": "91790bdbec7d",
+      "title": "CPR+AED完整版3小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://sfast.innosoft.com.tw/iplm/pages/b.aspx?page=in_Meeting_list_A.html&method=In_MeetingUserResponse&in_meetingid=297C8E0AF68B4B609134923DF1F22659"
+    },
+    {
+      "id": "bf3f0e1ba292",
+      "title": "AED管理員4小時教育訓練",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/qKa2WE"
+    },
+    {
+      "id": "e0f77ddf7472",
+      "title": "基本救命術指導員BLS-I課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/eVQggR"
+    },
+    {
+      "id": "5bc9921519e2",
+      "title": "基本救命術BLS4小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/4bYO9v"
+    },
+    {
+      "id": "a2470c9c35e4",
+      "title": "基本救命術BLS8小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/aMEgWl"
+    },
+    {
       "id": "a8949ae88118",
       "title": "2023年活動花絮集",
       "source": "復甦照護小學堂",
@@ -905,29 +1105,9 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
-      "id": "c7f92f399b5e",
-      "title": "不只救命…更陪伴重生！台大首創「復甦科學中心」串連生命之鏈、打造完整救命流程",
-      "source": "復甦照護小學堂",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.google.com/url?q=https%3A%2F%2Fwww.cmmedia.com.tw%2Fhome%2Farticles%2F54096&sa=D&sntz=1&usg=AOvVaw2UWMcFMNCvNsJMK1QffFv8"
-    },
-    {
-      "id": "0c74e4a451bd",
-      "title": "40歲男跑馬拉松倒地無心跳 康復後再創完賽奇蹟 | 生活 | 中央社 CNA40歲宋先生1年多前參加台北馬拉松突然倒地，當場失去呼吸與心跳，如今卻能重返賽道，除歸功於現場搶救，還有台大醫院急救復甦環環相扣，以溫控治療緩解後遺症，助患者康復。",
-      "source": "復甦照護小學堂",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.google.com/url?q=https%3A%2F%2Fwww.cna.com.tw%2Fnews%2Fahel%2F202504280120.aspx&sa=D&sntz=1&usg=AOvVaw0jvek_Yw4OkSr8bUHclodX"
-    },
-    {
-      "id": "081055711dbb",
+      "id": "1a7323e30be9",
       "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "source": "臺大兒童醫院",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
@@ -935,9 +1115,9 @@
       "url": "https://www.ntuh.gov.tw"
     },
     {
-      "id": "b7bcbff339ec",
+      "id": "9fdb080fb678",
       "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "source": "臺大兒童醫院",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
@@ -945,14 +1125,54 @@
       "url": "https://www.ntuh.gov.tw"
     },
     {
-      "id": "9de74e1ce4a1",
+      "id": "79f4d8162d0b",
       "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "source": "臺大兒童醫院",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "5bb633d2fb9b",
+      "title": "臺大醫院115年度母親節節慶關懷活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
+      "id": "c32df82d097f",
+      "title": "115年農曆春節假期特設「傳染病特別診」公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
       "id": "4a9057508daa",
@@ -1635,16 +1855,6 @@
       "url": "https://ctomsinc.com/collections/tactical-clothing"
     },
     {
-      "id": "3f6989d40c6b",
-      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/"
-    },
-    {
       "id": "df37b5e4d0b7",
       "title": "Defense Committees on Trauma",
       "source": "JTS — Joint Trauma System",
@@ -1683,6 +1893,16 @@
       "date": null,
       "deadline": null,
       "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
+    },
+    {
+      "id": "3f6989d40c6b",
+      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/"
     },
     {
       "id": "1d5a35aee639",
