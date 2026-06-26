@@ -43,7 +43,7 @@ def extract_all_dates(text):
 def parse_dates_from_title(title):
     title = title or ""
     result = {"event_date": None, "deadline": None}
-    deadline_kw = re.search(r"報名截止|截止日|deadline", title, re.I)
+    deadline_kw = re.search(r"報名截止|截止日期?|報名至|最後報名|deadline|last.day", title, re.I)
     if deadline_kw:
         before = extract_all_dates(title[:deadline_kw.start()])
         after  = extract_all_dates(title[deadline_kw.end():])
@@ -65,7 +65,10 @@ def classify_type(title):
     if is_news:   return "news"
     return "news"  # 預設歸類為消息
 
-def fetch(url, timeout=15):
+# Big5 編碼網站名單（需強制指定編碼）
+BIG5_HOSTS = {"www.sgecm.org.tw", "sgecm.org.tw"}
+
+def fetch(url, timeout=15, encoding=None):
     _headers = {
         **HEADERS,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -74,11 +77,20 @@ def fetch(url, timeout=15):
         "Connection": "keep-alive",
         "Upgrade-Insecure-Requests": "1",
     }
+    # 自動偵測 Big5 網站
+    try:
+        from urllib.parse import urlparse as _up
+        _host = _up(url).netloc
+        if _host in BIG5_HOSTS:
+            encoding = "big5"
+    except: pass
+
     for attempt in range(2):  # 最多重試一次
         try:
             r = requests.get(url, headers=_headers, timeout=timeout, allow_redirects=True)
             r.raise_for_status()
-            r.encoding = r.apparent_encoding or "utf-8"
+            # 指定編碼（Big5 優先，否則自動偵測）
+            r.encoding = encoding or r.apparent_encoding or "utf-8"
             return BeautifulSoup(r.text, "html.parser")
         except Exception as e:
             if attempt == 0:
@@ -638,43 +650,103 @@ def scrape_tsccm():
     return unique[:40]
 
 def scrape_sgecm():
-    """台灣老人急重症醫學會 — 學術活動列表（ASP表格結構）"""
+    """台灣老人急重症醫學會 — Big5 ASP 網站，爬列表+詳細頁取截止日"""
+    import re as _re
     out = []
-    BASE = "http://www.sgecm.org.tw"   # https 無效，使用 http
-    # 學術活動列表頁（正確路徑）
-    soup = fetch(BASE + "/educate/edu_list.asp?SPONSERFLAG=0")
-    if soup:
+    BASE = "http://www.sgecm.org.tw"  # https 無效，Big5 編碼
+
+    def parse_sgecm_detail(detail_url):
+        """從詳細頁取出：活動日期、截止日期"""
+        soup_d = fetch(detail_url)  # fetch 自動用 big5
+        if not soup_d: return None, None
+        text = soup_d.get_text(" ", strip=True)
+        # 活動時間格式：YYYY/MM/DD HH:MM ~ ...
+        event_m = _re.search(r"(\d{4})[/.](\d{1,2})[/.](\d{1,2})\s*\d{2}:\d{2}\s*[~～]", text)
+        event_date = None
+        if event_m:
+            y,mo,d = int(event_m.group(1)),int(event_m.group(2)),int(event_m.group(3))
+            if 2020 <= y <= 2035:
+                event_date = f"{y:04d}-{mo:02d}-{d:02d}"
+        # 截止日格式：多種關鍵字
+        deadline = None
+        for kw_pat in [
+            r"(\d{4})年(\d{1,2})月(\d{1,2})日.{0,10}(?:前|截止|以前)",
+            r"(?:報名截止|截止日期?|報名至|報名期限)[^\d]{0,10}(\d{4})[/.](\d{1,2})[/.](\d{1,2})",
+            r"(\d{4})[/.](\d{1,2})[/.](\d{1,2}).{0,5}(?:前|截止|以前)",
+        ]:
+            m = _re.search(kw_pat, text)
+            if m:
+                try:
+                    y,mo,d = int(m.group(1)),int(m.group(2)),int(m.group(3))
+                    if 2020 <= y <= 2035 and 1 <= mo <= 12 and 1 <= d <= 31:
+                        candidate = f"{y:04d}-{mo:02d}-{d:02d}"
+                        # 截止日應早於或等於活動日
+                        if event_date is None or candidate <= event_date:
+                            deadline = candidate
+                            break
+                except: pass
+        return event_date, deadline
+
+    # ── 課程活動列表 ──────────────────────────────────────
+    for list_url, itype in [
+        (BASE + "/educate/edu_list.asp?SPONSERFLAG=0", "course"),   # 本會學術活動
+        (BASE + "/educate/edu_list1.asp?SPONSERFLAG=1", "course"),  # 其他學術活動
+    ]:
+        soup = fetch(list_url)
+        if not soup: continue
         for row in soup.select("table tr"):
             cols = row.find_all("td")
             if len(cols) < 3: continue
-            # 第1欄：日期，第2欄：課程代號，第3欄：活動名稱（含連結）
+            # 欄結構：日期 | 代號 | 活動名稱（含連結）
+            # 先從列表頁取粗略日期
             date_text = clean(cols[0].get_text())
-            date = parse_dates_from_title(date_text).get("event_date") or extract_all_dates(date_text)
-            if isinstance(date, list): date = date[-1] if date else None
+            rough_date = extract_all_dates(date_text)
+            rough_date = rough_date[-1] if rough_date else None
+            # 標題與連結在第3欄（index 2）
             a = cols[2].find("a") if len(cols) > 2 else None
+            t = clean(a.get_text() if a else cols[2].get_text())
+            if len(t) < 5 or len(t) > 300: continue
             if a:
-                t = clean(a.get_text())
-                if len(t) < 5: continue
                 href = resolve(a.get("href",""), BASE)
-                out.append(mk(t, "台灣老人急重症醫學會", "台灣學會",
-                              href, "course", date))
+                # 讀詳細頁取精確日期與截止日
+                event_date, deadline = parse_sgecm_detail(href)
+                time.sleep(0.4)
             else:
-                t = clean(cols[2].get_text()) if len(cols) > 2 else ""
-                if len(t) < 5: continue
-                out.append(mk(t, "台灣老人急重症醫學會", "台灣學會",
-                              BASE, "course", date))
-    # 最新消息
-    soup2 = fetch(BASE + "/news/news_list.asp")
-    if soup2:
-        for a in soup2.select("a[href]"):
-            t = clean(a.get_text())
-            if len(t) < 5 or len(t) > 150: continue
-            parent = a.find_parent(["tr","li","td"])
-            date = extract_all_dates(parent.get_text() if parent else t)
+                href = BASE
+                event_date, deadline = rough_date, None
             out.append(mk(t, "台灣老人急重症醫學會", "台灣學會",
-                          resolve(a.get("href",""), BASE), "news",
+                          href, itype,
+                          date=event_date or rough_date,
+                          deadline=deadline))
+
+    # ── 最新消息 ──────────────────────────────────────────
+    for news_url, news_type in [
+        (BASE + "/news/news_list.asp?NType=1", "news"),  # 學會消息
+        (BASE + "/news/news_list.asp?NType=3", "news"),  # 秘書處消息
+        (BASE + "/news/news_list.asp?NType=4", "news"),  # 積分公告
+    ]:
+        soup2 = fetch(news_url)
+        if not soup2: continue
+        for row in soup2.select("table tr"):
+            a = row.find("a")
+            if not a: continue
+            t = clean(a.get_text())
+            if len(t) < 5 or len(t) > 200: continue
+            # 跳過導覽連結
+            href = a.get("href","")
+            if not href or "news_list" in href or href.startswith("/")==False and "sgecm" not in href: 
+                pass
+            date = extract_all_dates(row.get_text())
+            out.append(mk(t, "台灣老人急重症醫學會", "台灣學會",
+                          resolve(href, BASE), news_type,
                           date[-1] if date else None))
-    return out[:30]
+
+    seen, unique = set(), []
+    for it in out:
+        if it["id"] not in seen and len(it.get("title","")) > 3:
+            seen.add(it["id"])
+            unique.append(it)
+    return unique[:30]
 
 def scrape_tamis():
     """台灣心肌梗塞學會"""
