@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T10:37:19.071654+00:00",
+  "updated": "2026-06-27T11:09:30.567510+00:00",
   "count": 376,
   "course_count": 200,
   "news_count": 176,
@@ -311,7 +311,7 @@
       "cat": "台灣學會",
       "type": "news",
       "date": "2026-07-11",
-      "deadline": null,
+      "deadline": "2026-06-12",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cc74ef8393d440cdb740fbe59711414d"
     },
     {
@@ -601,7 +601,7 @@
       "cat": "台灣學會",
       "type": "news",
       "date": "2026-09-18",
-      "deadline": null,
+      "deadline": "2026-09-18",
       "url": "http://course.tsccm.org.tw/df_info.asp?/968.html"
     },
     {
@@ -751,7 +751,7 @@
       "cat": "台灣學會",
       "type": "news",
       "date": "2026-12-31",
-      "deadline": null,
+      "deadline": "2026-12-31",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/dcccd63b98914f918a7616e025e82342"
     },
     {
@@ -1085,16 +1085,6 @@
       "url": "https://temataiwan.blogspot.com/2026/05/hva.html"
     },
     {
-      "id": "c115ce0737e1",
-      "title": "【TEMTA 05/21 客服暫停公告】",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-05-21",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260521093603"
-    },
-    {
       "id": "e5c1a45a9c07",
       "title": "【訊息轉知】115年度「獎勵提供心血管疾病病人戒菸服務」暨「獎勵基層醫療院所提供病人戒菸服務」競賽報名",
       "source": "台灣老人急重症醫學會",
@@ -1103,6 +1093,16 @@
       "date": "2026-05-21",
       "deadline": null,
       "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=490"
+    },
+    {
+      "id": "c115ce0737e1",
+      "title": "【TEMTA 05/21 客服暫停公告】",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-05-21",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260521093603"
     },
     {
       "id": "d3b774ab71fc",
@@ -1305,16 +1305,6 @@
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260612102556"
     },
     {
-      "id": "5fe62fd625c4",
-      "title": "當計畫遇上現實：從美式足球看災害應變中的「調整」能力",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-06-15",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/06/blog-post.html"
-    },
-    {
       "id": "aaa58169d3b5",
       "title": "轉知-台灣家庭醫學醫學會-「醫事人員急性病毒性肝炎防治教育訓練」課程，敬請踴躍參加。",
       "source": "臺灣兒科醫學會",
@@ -1323,6 +1313,16 @@
       "date": "2026-06-15",
       "deadline": null,
       "url": "https://www.pediatr.org.tw/content.php?id=5173&page=1"
+    },
+    {
+      "id": "5fe62fd625c4",
+      "title": "當計畫遇上現實：從美式足球看災害應變中的「調整」能力",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-06-15",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/06/blog-post.html"
     },
     {
       "id": "b0df15b8213c",
@@ -1385,6 +1385,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/32620"
     },
     {
+      "id": "17a1d30ba109",
+      "title": "115/6/26(五)下午台中光田醫院向上院區「全民健康保險在宅急症照護試辦計畫」教育訓練課程",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-06-26",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1723"
+    },
+    {
       "id": "0dae5ab0d874",
       "title": "【1150704梯次】 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
       "source": "中華緊急救護技術員協會",
@@ -1403,16 +1413,6 @@
       "date": "2026-06-26",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/06/blog-post_26.html"
-    },
-    {
-      "id": "17a1d30ba109",
-      "title": "115/6/26(五)下午台中光田醫院向上院區「全民健康保險在宅急症照護試辦計畫」教育訓練課程",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-26",
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1723"
     },
     {
       "id": "9afcb996c69a",
@@ -1773,6 +1773,26 @@
       "date": null,
       "deadline": null,
       "url": "http://course.tsccm.org.tw/Academic/index_other.asp"
+    },
+    {
+      "id": "8d3e1d729df3",
+      "title": "【重要公告】老人衛教照護個管師認証課程證書展延辦法公佈",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=222"
+    },
+    {
+      "id": "caed0e3769f1",
+      "title": "【重要公告】老人長照（LTCT）種子教官人員證書展延辦法公佈",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=117"
     },
     {
       "id": "47f965572631",
@@ -2185,6 +2205,16 @@
       "url": "https://www.tana.org.tw/news/learn_info.asp?/786.html"
     },
     {
+      "id": "51fb926a1999",
+      "title": "點此填寫報名單",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
+    },
+    {
       "id": "5bfcff8d3c72",
       "title": "理監事名單",
       "source": "台灣運動醫學醫學會",
@@ -2233,6 +2263,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tasm.org.tw/EL/seminar.asp"
+    },
+    {
+      "id": "a686d2261317",
+      "title": "國內學術研討會",
+      "source": "臺灣兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.pediatr.org.tw/event/"
+    },
+    {
+      "id": "5e7af15986f1",
+      "title": "國外學術研討會",
+      "source": "臺灣兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.pediatr.org.tw/event/abroad.php"
+    },
+    {
+      "id": "f9519035ae6f",
+      "title": "專科訓練醫院",
+      "source": "臺灣兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.pediatr.org.tw/doctor/training.php"
+    },
+    {
+      "id": "7c1a2f5c6dcd",
+      "title": "115年「兒童發展篩檢服務教育訓練」-中區",
+      "source": "臺灣兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.pediatr.org.tw/content.php?id=20925"
+    },
+    {
+      "id": "dbfaa71b952d",
+      "title": "雲嘉南區兒科基層事務聯誼會夏季學術研討會",
+      "source": "臺灣兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.pediatr.org.tw/content.php?id=21032"
     },
     {
       "id": "c882249c61ba",
@@ -3683,86 +3763,6 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/5"
-    },
-    {
-      "id": "8d3e1d729df3",
-      "title": "【重要公告】老人衛教照護個管師認証課程證書展延辦法公佈",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=222"
-    },
-    {
-      "id": "caed0e3769f1",
-      "title": "【重要公告】老人長照（LTCT）種子教官人員證書展延辦法公佈",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=117"
-    },
-    {
-      "id": "51fb926a1999",
-      "title": "點此填寫報名單",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
-    },
-    {
-      "id": "a686d2261317",
-      "title": "國內學術研討會",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/event/"
-    },
-    {
-      "id": "5e7af15986f1",
-      "title": "國外學術研討會",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/event/abroad.php"
-    },
-    {
-      "id": "f9519035ae6f",
-      "title": "專科訓練醫院",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/doctor/training.php"
-    },
-    {
-      "id": "7c1a2f5c6dcd",
-      "title": "115年「兒童發展篩檢服務教育訓練」-中區",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/content.php?id=20925"
-    },
-    {
-      "id": "dbfaa71b952d",
-      "title": "雲嘉南區兒科基層事務聯誼會夏季學術研討會",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/content.php?id=21032"
     }
   ]
 }
