@@ -1,39 +1,9 @@
 {
-  "updated": "2026-07-01T18:41:19.985612+00:00",
+  "updated": "2026-07-02T08:36:26.239703+00:00",
   "count": 331,
-  "course_count": 179,
-  "news_count": 152,
+  "course_count": 180,
+  "news_count": 151,
   "items": [
-    {
-      "id": "f8a5f0e9c346",
-      "title": "【衛教】7月1日響應「腸病毒71穩健日」，醫起穩健守護孩童每一日",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-01",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=563"
-    },
-    {
-      "id": "6ad1d2a41a42",
-      "title": "115年度「兒童衛教指導服務醫師教育訓練」開始報名【115年7月1日執行兒童預防保健服務(含衛教指導)每案可申補助600元】，名額有限，額滿為止。",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-01",
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/news/content.php?id=5128"
-    },
-    {
-      "id": "5324a8f42b58",
-      "title": "轉知-衛生福利部-公告之「生育保健之遺傳相關檢驗補助精進方案」，並自115年7月1日生效。",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-01",
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/news/content.php?id=5178"
-    },
     {
       "id": "6cdbc2d92f99",
       "title": "115年住院醫師初階災難訓練課程(南區)【線上+實體】 社團法人台灣急診醫學會",
@@ -43,16 +13,6 @@
       "date": "2026-07-02",
       "deadline": "2026-06-21",
       "url": "https://www.sem.org.tw/Activity/A/Details/33032"
-    },
-    {
-      "id": "3e349788866f",
-      "title": "婦幼聯合討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-02",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28304"
     },
     {
       "id": "01578a9a012c",
@@ -73,6 +33,16 @@
       "date": "2026-07-03",
       "deadline": null,
       "url": "https://www.pediatr.org.tw/content.php?id=21109&page=1"
+    },
+    {
+      "id": "de9ff590421c",
+      "title": "兒童急重症醫療照顧品質提升研討會 臺中榮民總醫院、台灣兒童急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-04",
+      "deadline": "2026-07-04",
+      "url": "https://www.sem.org.tw/Activity/B/Details/32990"
     },
     {
       "id": "26138c8efa38",
@@ -145,16 +115,6 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/21.html"
     },
     {
-      "id": "e22b03c287f9",
-      "title": "新生兒高級救命術NRP認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-05",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28300"
-    },
-    {
       "id": "2db8cf96bfe9",
       "title": "生產事故救濟10週年國際研討會",
       "source": "台灣新生兒科醫學會",
@@ -183,16 +143,6 @@
       "date": "2026-07-08",
       "deadline": "2026-06-30",
       "url": "https://www.sem.org.tw/Activity/A/Details/33048"
-    },
-    {
-      "id": "1bacf010c6e9",
-      "title": "115年急診基礎超音波課程 國立臺灣大學醫學院附設醫院急診醫學部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-09",
-      "deadline": "2026-07-09",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33052"
     },
     {
       "id": "6197f9d765d9",
@@ -435,6 +385,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28136"
     },
     {
+      "id": "e22b03c287f9",
+      "title": "新生兒高級救命術NRP認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28317"
+    },
+    {
       "id": "2164b1e70863",
       "title": "【延期至115/8/27-28】115/7/27~28(一~二)急診創傷訓練課程ETTC",
       "source": "台灣老人急重症醫學會",
@@ -505,6 +465,16 @@
       "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
     },
     {
+      "id": "5ea18ba7e4da",
+      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【台北區】 衛生福利部、社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": "2026-10-03",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33127"
+    },
+    {
       "id": "64555f556318",
       "title": "【年度盛會CALL FOR ABSTRACT!】 SECC Congress 2026 Taipei 暨2026智慧急重症醫療國際會議_115.10.3-4台大醫院國際會議中心",
       "source": "台灣急救加護醫學會",
@@ -553,6 +523,16 @@
       "date": "2026-10-18",
       "deadline": null,
       "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1724"
+    },
+    {
+      "id": "3685f7be079e",
+      "title": "115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-28",
+      "deadline": "2026-10-28",
+      "url": "https://www.sem.org.tw/Activity/B/Details/32907"
     },
     {
       "id": "610ba8878908",
@@ -2952,7 +2932,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225123v1?rss=1"
+      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-338547v1?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -2983,6 +2963,36 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_2"
+    },
+    {
+      "id": "f8a5f0e9c346",
+      "title": "【衛教】7月1日響應「腸病毒71穩健日」，醫起穩健守護孩童每一日",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-01",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=563"
+    },
+    {
+      "id": "6ad1d2a41a42",
+      "title": "115年度「兒童衛教指導服務醫師教育訓練」開始報名【115年7月1日執行兒童預防保健服務(含衛教指導)每案可申補助600元】，名額有限，額滿為止。",
+      "source": "臺灣兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-01",
+      "deadline": null,
+      "url": "https://www.pediatr.org.tw/news/content.php?id=5128"
+    },
+    {
+      "id": "5324a8f42b58",
+      "title": "轉知-衛生福利部-公告之「生育保健之遺傳相關檢驗補助精進方案」，並自115年7月1日生效。",
+      "source": "臺灣兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-01",
+      "deadline": null,
+      "url": "https://www.pediatr.org.tw/news/content.php?id=5178"
     },
     {
       "id": "507f11938159",
@@ -3303,16 +3313,6 @@
       "date": "2026-06-02",
       "deadline": null,
       "url": "https://www.mgems.org/260514_yushan_t1f/"
-    },
-    {
-      "id": "7efa46f6aeb5",
-      "title": "EMS職業安全行動計畫2026-2029",
-      "source": "台灣醫療救護學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-01",
-      "deadline": null,
-      "url": "https://drive.google.com/file/d/1cUupWALUnyFxdfFuQBK0UXdqdlyK9VQa/view?usp=drive_link"
     }
   ]
 }
