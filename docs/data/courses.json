@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-03T10:22:32.793961+00:00",
-  "count": 330,
-  "course_count": 180,
+  "updated": "2026-07-03T17:09:27.405691+00:00",
+  "count": 328,
+  "course_count": 178,
   "news_count": 150,
   "items": [
     {
@@ -103,6 +103,16 @@
       "date": "2026-07-04",
       "deadline": null,
       "url": "https://www.pediatr.org.tw/content.php?id=21081&page=1"
+    },
+    {
+      "id": "e22b03c287f9",
+      "title": "新生兒高級救命術NRP認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-05",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28300"
     },
     {
       "id": "2db8cf96bfe9",
@@ -285,16 +295,6 @@
       "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
     },
     {
-      "id": "8977206603ef",
-      "title": "新生兒高級急救救命術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-02",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28276"
-    },
-    {
       "id": "3b1c1cb3baa5",
       "title": "2026年新生兒高級救命術",
       "source": "台灣新生兒科醫學會",
@@ -303,6 +303,16 @@
       "date": "2026-08-02",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28303"
+    },
+    {
+      "id": "8977206603ef",
+      "title": "新生兒高級急救救命術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-02",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28276"
     },
     {
       "id": "590836896c0e",
@@ -355,34 +365,14 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28312"
     },
     {
-      "id": "78891fbd589f",
-      "title": "中華民國小兒骨科醫學會2026嬰兒髖關節超音波研習課程",
+      "id": "79304f487d3b",
+      "title": "APLS+PALS Provider Course",
       "source": "台灣新生兒科醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-08-15",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28277"
-    },
-    {
-      "id": "c75ab53df448",
-      "title": "雲嘉區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-15",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28142"
-    },
-    {
-      "id": "4a927816cc75",
-      "title": "南區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-15",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28136"
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28327"
     },
     {
       "id": "fa10de726c18",
@@ -393,16 +383,6 @@
       "date": "2026-08-23",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/A/Details/33112"
-    },
-    {
-      "id": "e22b03c287f9",
-      "title": "新生兒高級救命術NRP認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28317"
     },
     {
       "id": "2164b1e70863",
