@@ -1,39 +1,9 @@
 {
-  "updated": "2026-07-03T21:51:30.013774+00:00",
-  "count": 328,
-  "course_count": 178,
-  "news_count": 150,
+  "updated": "2026-07-04T09:18:09.559846+00:00",
+  "count": 326,
+  "course_count": 177,
+  "news_count": 149,
   "items": [
-    {
-      "id": "01578a9a012c",
-      "title": "【訊息轉知】2026馬偕醫學大學厚生健康學院-永續厚生健康論壇2026/6/23(二)至2026/7/3(五)假MS Teams辦理，歡迎踴躍參加。",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-03",
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=492"
-    },
-    {
-      "id": "63f18f968928",
-      "title": "《關鍵轉譯》：國民法官法庭中「醫療．社政．司法」 跨專業對話與出庭作證工作坊",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-03",
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/content.php?id=21109&page=1"
-    },
-    {
-      "id": "ad4c4518db47",
-      "title": "【1150709梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-03",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260703110305"
-    },
     {
       "id": "26138c8efa38",
       "title": "【重症復健聯甄課程-無需積分,免費參加!】東區「重症運動會」重症早期復健研討會-115.07.04花蓮慈濟醫院",
@@ -2975,6 +2945,36 @@
       "url": "https://emj.bmj.com/content/43/Suppl_2"
     },
     {
+      "id": "01578a9a012c",
+      "title": "【訊息轉知】2026馬偕醫學大學厚生健康學院-永續厚生健康論壇2026/6/23(二)至2026/7/3(五)假MS Teams辦理，歡迎踴躍參加。",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-03",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/news/news_info.asp?doc-id=492"
+    },
+    {
+      "id": "63f18f968928",
+      "title": "《關鍵轉譯》：國民法官法庭中「醫療．社政．司法」 跨專業對話與出庭作證工作坊",
+      "source": "臺灣兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-03",
+      "deadline": null,
+      "url": "https://www.pediatr.org.tw/content.php?id=21109&page=1"
+    },
+    {
+      "id": "ad4c4518db47",
+      "title": "【1150709梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-03",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260703110305"
+    },
+    {
       "id": "e03d91dc067f",
       "title": "【ATLS報名】115年度「一般」課程報名資訊（含報名表）115.07.02更新...",
       "source": "台灣外傷醫學會",
@@ -3263,26 +3263,6 @@
       "date": "2026-06-04",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1600"
-    },
-    {
-      "id": "6938acf9f093",
-      "title": "115年度家庭暴力、性侵害防治與兒童保護案件實務教育訓練 衛生福利部桃園醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-03",
-      "deadline": "2026-06-03",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32940"
-    },
-    {
-      "id": "6639ba3141e8",
-      "title": "2026超音波競賽錄取隊伍公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-03",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1599"
     }
   ]
 }
