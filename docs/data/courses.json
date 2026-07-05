@@ -1,99 +1,9 @@
 {
-  "updated": "2026-07-04T20:46:51.005192+00:00",
-  "count": 326,
-  "course_count": 177,
-  "news_count": 149,
+  "updated": "2026-07-05T08:31:11.099951+00:00",
+  "count": 330,
+  "course_count": 182,
+  "news_count": 148,
   "items": [
-    {
-      "id": "26138c8efa38",
-      "title": "【重症復健聯甄課程-無需積分,免費參加!】東區「重症運動會」重症早期復健研討會-115.07.04花蓮慈濟醫院",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-04",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/802.html#here"
-    },
-    {
-      "id": "f6c85576748d",
-      "title": "【重症聯甄課程】2026重症呼吸器實作課程115.07.04-台中榮總教學大樓1樓",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-04",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/801.html#here"
-    },
-    {
-      "id": "533d2428f6fc",
-      "title": "外傷登錄訓練課程－再認證(南部場次)... 【活動資訊更新】外傷登錄訓練課程－再認證(南部場次)上課日期已調動至2026年07月04日(六)",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-04",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/index.asp?/21.html"
-    },
-    {
-      "id": "1c6c2972a13a",
-      "title": "外傷登錄訓練課程－首次認證(南部場次)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-04",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/index.asp?/22.html"
-    },
-    {
-      "id": "7152e211ae93",
-      "title": "高級小兒救命術APLS+PALS Provider Course",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-04",
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/content.php?id=21110&page=1"
-    },
-    {
-      "id": "d7df1da45a75",
-      "title": "PALS & APLS Provider Course 高級兒童救命術訓練課程",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-04",
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/content.php?id=21104&page=1"
-    },
-    {
-      "id": "ef103e53569b",
-      "title": "兒童急重症醫療照顧品質提升研討會",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-04",
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/content.php?id=21081&page=1"
-    },
-    {
-      "id": "e22b03c287f9",
-      "title": "新生兒高級救命術NRP認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-05",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28300"
-    },
-    {
-      "id": "2db8cf96bfe9",
-      "title": "生產事故救濟10週年國際研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-05",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28295"
-    },
     {
       "id": "c8abc6c822df",
       "title": "臺東縣衛生局 幼兒專責教育訓練",
@@ -105,6 +15,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28307"
     },
     {
+      "id": "e22b03c287f9",
+      "title": "新生兒高級救命術NRP認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-07",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28311"
+    },
+    {
       "id": "6e89d2b0fe74",
       "title": "夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心",
       "source": "台灣急診醫學會",
@@ -113,6 +33,16 @@
       "date": "2026-07-08",
       "deadline": "2026-06-30",
       "url": "https://www.sem.org.tw/Activity/A/Details/33048"
+    },
+    {
+      "id": "f8a9622624b9",
+      "title": "北區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-08",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28125"
     },
     {
       "id": "6197f9d765d9",
@@ -143,6 +73,26 @@
       "date": "2026-07-11",
       "deadline": "2026-06-12",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cc74ef8393d440cdb740fbe59711414d"
+    },
+    {
+      "id": "4553302df918",
+      "title": "接軌國際共譜新章~波士頓的P A S：龍蝦、紅襪隊時空交織的知識微醺饗宴",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-11",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28318"
+    },
+    {
+      "id": "4bf06afab499",
+      "title": "115年氣喘專科醫師核心教育訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-11",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28323"
     },
     {
       "id": "6aca5801bd8a",
@@ -343,6 +293,36 @@
       "date": "2026-08-15",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28327"
+    },
+    {
+      "id": "78891fbd589f",
+      "title": "中華民國小兒骨科醫學會2026嬰兒髖關節超音波研習課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28277"
+    },
+    {
+      "id": "c75ab53df448",
+      "title": "雲嘉區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28142"
+    },
+    {
+      "id": "4a927816cc75",
+      "title": "南區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28136"
     },
     {
       "id": "fa10de726c18",
@@ -2945,6 +2925,76 @@
       "url": "https://emj.bmj.com/content/43/Suppl_2"
     },
     {
+      "id": "26138c8efa38",
+      "title": "【重症復健聯甄課程-無需積分,免費參加!】東區「重症運動會」重症早期復健研討會-115.07.04花蓮慈濟醫院",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-04",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/802.html#here"
+    },
+    {
+      "id": "f6c85576748d",
+      "title": "【重症聯甄課程】2026重症呼吸器實作課程115.07.04-台中榮總教學大樓1樓",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-04",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/801.html#here"
+    },
+    {
+      "id": "533d2428f6fc",
+      "title": "外傷登錄訓練課程－再認證(南部場次)... 【活動資訊更新】外傷登錄訓練課程－再認證(南部場次)上課日期已調動至2026年07月04日(六)",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-04",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/active/index.asp?/21.html"
+    },
+    {
+      "id": "1c6c2972a13a",
+      "title": "外傷登錄訓練課程－首次認證(南部場次)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-04",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/active/index.asp?/22.html"
+    },
+    {
+      "id": "7152e211ae93",
+      "title": "高級小兒救命術APLS+PALS Provider Course",
+      "source": "臺灣兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-04",
+      "deadline": null,
+      "url": "https://www.pediatr.org.tw/content.php?id=21110&page=1"
+    },
+    {
+      "id": "d7df1da45a75",
+      "title": "PALS & APLS Provider Course 高級兒童救命術訓練課程",
+      "source": "臺灣兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-04",
+      "deadline": null,
+      "url": "https://www.pediatr.org.tw/content.php?id=21104&page=1"
+    },
+    {
+      "id": "ef103e53569b",
+      "title": "兒童急重症醫療照顧品質提升研討會",
+      "source": "臺灣兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-04",
+      "deadline": null,
+      "url": "https://www.pediatr.org.tw/content.php?id=21081&page=1"
+    },
+    {
       "id": "01578a9a012c",
       "title": "【訊息轉知】2026馬偕醫學大學厚生健康學院-永續厚生健康論壇2026/6/23(二)至2026/7/3(五)假MS Teams辦理，歡迎踴躍參加。",
       "source": "台灣老人急重症醫學會",
@@ -3253,16 +3303,6 @@
       "date": "2026-06-06",
       "deadline": null,
       "url": "http://www.trauma.org.tw/active/index.asp?/18.html"
-    },
-    {
-      "id": "1484c306a4b9",
-      "title": "公告第十七屆理、監事候選人名單及政見",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-04",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1600"
     }
   ]
 }
