@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-05T18:49:05.176760+00:00",
-  "count": 330,
-  "course_count": 182,
-  "news_count": 148,
+  "updated": "2026-07-06T12:30:23.523054+00:00",
+  "count": 332,
+  "course_count": 181,
+  "news_count": 151,
   "items": [
     {
-      "id": "c8abc6c822df",
-      "title": "臺東縣衛生局 幼兒專責教育訓練",
-      "source": "台灣新生兒科醫學會",
+      "id": "ecf66c0125b7",
+      "title": "公告115年度急診醫學科專科醫師甄審合格人員名單",
+      "source": "台灣急診醫學會",
       "cat": "台灣學會",
-      "type": "course",
+      "type": "news",
       "date": "2026-07-06",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28307"
+      "url": "https://www.sem.org.tw/News/7/Details/1619"
     },
     {
       "id": "e22b03c287f9",
@@ -1875,6 +1875,16 @@
       "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
     },
     {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
       "id": "9b54876f3cd3",
       "title": "115年農曆春節本院服務公告",
       "source": "臺大兒童醫院",
@@ -2025,14 +2035,24 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "98860142062c",
-      "title": "Headlines",
+      "id": "359187f4fb55",
+      "title": "Oakland (CA) Police Car and Medical Transport Van Collide at Intersection",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/"
+      "url": "https://www.jems.com/news/oakland-ca-police-car-and-medical-transport-van-collide-at-intersection/"
+    },
+    {
+      "id": "dd158f0e3d35",
+      "title": "Eight Wounded, Including Four Kids, in Shooting Near Coney Island (NY) Beach",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/eight-wounded-including-four-kids-in-shooting-near-coney-island-ny-beach/"
     },
     {
       "id": "cc05242f9202",
@@ -2892,7 +2912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bjsm.bmj.com/cgi/content/short/bjsports-2026-111995v1?rss=1"
+      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-338675v1?rss=1"
     },
     {
       "id": "8d656ad77115",
