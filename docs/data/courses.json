@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-06T12:30:23.523054+00:00",
-  "count": 332,
+  "updated": "2026-07-06T21:20:23.748434+00:00",
+  "count": 333,
   "course_count": 181,
-  "news_count": 151,
+  "news_count": 152,
   "items": [
     {
       "id": "ecf66c0125b7",
@@ -2033,6 +2033,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
+    },
+    {
+      "id": "98860142062c",
+      "title": "Headlines",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/"
     },
     {
       "id": "359187f4fb55",
