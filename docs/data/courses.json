@@ -1,28 +1,18 @@
 {
-  "updated": "2026-07-06T21:20:23.748434+00:00",
-  "count": 333,
-  "course_count": 181,
-  "news_count": 152,
+  "updated": "2026-07-07T11:29:37.951538+00:00",
+  "count": 330,
+  "course_count": 180,
+  "news_count": 150,
   "items": [
     {
-      "id": "ecf66c0125b7",
-      "title": "公告115年度急診醫學科專科醫師甄審合格人員名單",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-06",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/7/Details/1619"
-    },
-    {
-      "id": "e22b03c287f9",
-      "title": "新生兒高級救命術NRP認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
+      "id": "f7805de59c58",
+      "title": "【1150619平日班梯次】北區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
       "type": "course",
       "date": "2026-07-07",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28311"
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260706142931"
     },
     {
       "id": "6e89d2b0fe74",
@@ -103,6 +93,16 @@
       "date": "2026-07-12",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/d7d7efaccd2b420abc2af8a0a0e55379"
+    },
+    {
+      "id": "65ab0d1c440d",
+      "title": "NRP 指導員重訓課 (加開班)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-12",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28337"
     },
     {
       "id": "a5bf2105d804",
@@ -235,16 +235,6 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28276"
     },
     {
-      "id": "590836896c0e",
-      "title": "台灣遺傳性血管性水腫罕病關懷協會2026夏季聯誼會暨照護醫師訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-02",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28320"
-    },
-    {
       "id": "11f27d6efee9",
       "title": "優化兒童醫療照護 核心醫院計畫 學術討論會",
       "source": "台灣新生兒科醫學會",
@@ -253,6 +243,16 @@
       "date": "2026-08-02",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28316"
+    },
+    {
+      "id": "590836896c0e",
+      "title": "台灣遺傳性血管性水腫罕病關懷協會2026夏季聯誼會暨照護醫師訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-02",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28320"
     },
     {
       "id": "214c59cf5b62",
@@ -333,6 +333,16 @@
       "date": "2026-08-23",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/A/Details/33112"
+    },
+    {
+      "id": "e22b03c287f9",
+      "title": "新生兒高級救命術NRP認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28317"
     },
     {
       "id": "2164b1e70863",
@@ -523,16 +533,6 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
-    },
-    {
-      "id": "4383834cfaf9",
-      "title": "「AZ協力・大家醫起」會員優惠專案（至2026年12月31日止）",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-12-31",
-      "deadline": "2026-12-31",
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/dcccd63b98914f918a7616e025e82342"
     },
     {
       "id": "9afcb996c69a",
@@ -1103,6 +1103,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/80c132fb475244b188de52487d9743f1"
+    },
+    {
+      "id": "c8b5faa77514",
+      "title": "本學會規劃舉辦之「115年度學術研討會暨會員代表大會」，其颱風因應對策",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/c73a4bc4451740479aa7d365613640dd"
     },
     {
       "id": "3653397d53da",
@@ -1925,6 +1935,16 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
     },
     {
+      "id": "2134d81b1a61",
+      "title": "【聽見AED】LINE@救援通知系統2026年6月成果報告",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b46%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
+    },
+    {
       "id": "77517feee91a",
       "title": "【守護生命更便利！聽見AED正式上架7-ELEVEN「把愛找回來」公益平台】",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1943,16 +1963,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af%e5%8f%8a%e5%85%ac%e5%91%8a/%e3%80%90%e8%a7%a3%e5%af%86%e5%8f%b0%e5%8c%97%e5%b8%82%e6%95%91%e5%91%bd%e7%b6%b2%e8%b7%af%ef%bc%9a%e8%81%bd%e8%a6%8baed%e6%94%9c%e6%89%8b%e5%8f%b0%e5%a4%a7%e9%86%ab%e9%99%a2%ef%bc%8c%e7%94%a8/"
-    },
-    {
-      "id": "ae886fede740",
-      "title": "【聽見AED】LINE@救援通知系統2026年5月成果報告",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b45%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
     },
     {
       "id": "c302a6b91021",
@@ -2043,26 +2053,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "359187f4fb55",
-      "title": "Oakland (CA) Police Car and Medical Transport Van Collide at Intersection",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/oakland-ca-police-car-and-medical-transport-van-collide-at-intersection/"
-    },
-    {
-      "id": "dd158f0e3d35",
-      "title": "Eight Wounded, Including Four Kids, in Shooting Near Coney Island (NY) Beach",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/eight-wounded-including-four-kids-in-shooting-near-coney-island-ny-beach/"
     },
     {
       "id": "cc05242f9202",
@@ -2922,7 +2912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-338675v1?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100153.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -2953,6 +2943,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_2"
+    },
+    {
+      "id": "ecf66c0125b7",
+      "title": "公告115年度急診醫學科專科醫師甄審合格人員名單",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-06",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/7/Details/1619"
     },
     {
       "id": "26138c8efa38",
@@ -3205,16 +3205,6 @@
       "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1723"
     },
     {
-      "id": "0dae5ab0d874",
-      "title": "【1150704梯次】 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-06-26",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260626132059"
-    },
-    {
       "id": "8593bf6550bb",
       "title": "花蓮慈濟醫院【以疾病照護為中心的危害脆弱度分析】工作坊",
       "source": "台灣緊急應變管理協會",
@@ -3313,26 +3303,6 @@
       "date": "2026-06-10",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/06/rambam.html"
-    },
-    {
-      "id": "15398861885b",
-      "title": "【重症聯甄】2026年血液動力學重症聯甄工作坊-115.06.06(免費參加)",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-06",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/794.html#here"
-    },
-    {
-      "id": "4b668327b5a9",
-      "title": "2026外傷教育課程-北部地區(Ⅱ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-06",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/index.asp?/18.html"
     }
   ]
 }
