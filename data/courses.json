@@ -1,19 +1,9 @@
 {
-  "updated": "2026-07-07T19:24:59.587796+00:00",
+  "updated": "2026-07-08T00:23:53.738578+00:00",
   "count": 331,
   "course_count": 180,
   "news_count": 151,
   "items": [
-    {
-      "id": "f7805de59c58",
-      "title": "【1150619平日班梯次】北區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-07",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260706142931"
-    },
     {
       "id": "6e89d2b0fe74",
       "title": "夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心",
@@ -2922,7 +2912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100153.short?rss=1"
+      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-338459v1?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -2953,6 +2943,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_2"
+    },
+    {
+      "id": "f7805de59c58",
+      "title": "【1150619平日班梯次】北區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-07",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260706142931"
     },
     {
       "id": "ecf66c0125b7",
