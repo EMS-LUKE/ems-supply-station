@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-08T10:45:54.533357+00:00",
-  "count": 333,
-  "course_count": 184,
-  "news_count": 149,
+  "updated": "2026-07-08T17:19:18.621928+00:00",
+  "count": 334,
+  "course_count": 186,
+  "news_count": 148,
   "items": [
     {
       "id": "6e89d2b0fe74",
@@ -125,6 +125,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33133"
     },
     {
+      "id": "baa0e113e972",
+      "title": "【免費視訊線上會議】ACLS Update 2025：學術與實戰的專家觀點115.07.15 中午12:00-13:00",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-15",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/810.html#here"
+    },
+    {
       "id": "6c7acf9af5b5",
       "title": "【重症聯甄】Holistic and Patient-Centered Critical Care 115.07.18 國泰人壽大樓B1國際會議廳",
       "source": "台灣急救加護醫學會",
@@ -233,6 +243,16 @@
       "date": "2026-07-25",
       "deadline": null,
       "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
+    },
+    {
+      "id": "8d6f188721c0",
+      "title": "家醫學會-115.7.26新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－高雄",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-26",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/90c442593faa418b963437c028b38433"
     },
     {
       "id": "3b1c1cb3baa5",
@@ -1163,16 +1183,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/60bde216f12d4352a915307e64d6c812"
-    },
-    {
-      "id": "3653397d53da",
-      "title": "115年「家庭醫學科專科醫師甄審」簡章公告",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8ccbab7130eb4a15b97f76883a15dfe1"
     },
     {
       "id": "9cf11eaf5a41",

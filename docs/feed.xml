@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Wed, 08 Jul 2026 10:45:54 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 17:19:18 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心</title>
@@ -104,6 +104,14 @@
     <description>【課程】「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【南區】 急診醫學會（來源：台灣急診醫學會）</description>
   </item>
   <item>
+    <title>【課程】【免費視訊線上會議】ACLS Update 2025：學術與實戰的專家觀點115.07.15 中午12:00-13:00</title>
+    <link>https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/810.html#here</link>
+    <guid>https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/810.html#here</guid>
+    <pubDate>2026-07-15</pubDate>
+    <category>台灣急救加護醫學會 - 台灣學會</category>
+    <description>【課程】【免費視訊線上會議】ACLS Update 2025：學術與實戰的專家觀點115.07.15 中午12:00-13:00（來源：台灣急救加護醫學會）</description>
+  </item>
+  <item>
     <title>【課程】【重症聯甄】Holistic and Patient-Centered Critical Care 115.07.18 國泰人壽大樓B1國際會議廳</title>
     <link>https://www.seccm.org.tw/news/acls_union_info.asp?/805.html#here</link>
     <guid>https://www.seccm.org.tw/news/acls_union_info.asp?/805.html#here</guid>
@@ -190,6 +198,14 @@
     <pubDate>2026-07-25</pubDate>
     <category>台灣運動醫學學會 - 台灣學會</category>
     <description>【課程】2026.07.25 台灣運動醫學學會年度學術研討會-桃園福容A8（來源：台灣運動醫學學會）</description>
+  </item>
+  <item>
+    <title>【課程】家醫學會-115.7.26新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－高雄</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/90c442593faa418b963437c028b38433</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/90c442593faa418b963437c028b38433</guid>
+    <pubDate>2026-07-26</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【課程】家醫學會-115.7.26新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－高雄（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
     <title>【課程】2026年新生兒高級救命術</title>
@@ -470,22 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣急救加護醫學會 - 台灣學會</category>
     <description>【課程】【因颱風因應事項】【南&amp;北區-開放報名】115年高級心臟救命術學員課程示範教學 ACLS Provider Demo Course（來源：台灣急救加護醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】【因颱風因應事項】115年高級心臟救命術學員課程示範教學-南區 ACLS Provider Demo Course -高雄長庚醫院</title>
-    <link>https://www.seccm.org.tw/news/acls_course_info.asp?/809.html#here</link>
-    <guid>https://www.seccm.org.tw/news/acls_course_info.asp?/809.html#here</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急救加護醫學會 - 台灣學會</category>
-    <description>【課程】【因颱風因應事項】115年高級心臟救命術學員課程示範教學-南區 ACLS Provider Demo Course -高雄長庚醫院（來源：台灣急救加護醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】115年度高級心臟救命術指導員課程通過名單及試教須知</title>
-    <link>https://www.seccm.org.tw/news/acls_course_info.asp?/799.html#here</link>
-    <guid>https://www.seccm.org.tw/news/acls_course_info.asp?/799.html#here</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急救加護醫學會 - 台灣學會</category>
-    <description>【課程】115年度高級心臟救命術指導員課程通過名單及試教須知（來源：台灣急救加護醫學會）</description>
   </item>
 </channel>
 </rss>
