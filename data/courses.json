@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T11:36:10.509256+00:00",
+  "updated": "2026-07-09T18:34:13.084109+00:00",
   "count": 336,
   "course_count": 184,
   "news_count": 152,
@@ -175,16 +175,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33135"
     },
     {
-      "id": "69102b52f5ee",
-      "title": "家醫學會-115.7.19新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台北",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-19",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3"
-    },
-    {
       "id": "6581b870efd0",
       "title": "115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院",
       "source": "台灣急診醫學會",
@@ -253,6 +243,16 @@
       "date": "2026-07-25",
       "deadline": null,
       "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
+    },
+    {
+      "id": "7d28d80dac53",
+      "title": "家醫學會-115.7.26新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台中",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-26",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/63191d1a1d80432bbcb62e4a26230ff5"
     },
     {
       "id": "8d6f188721c0",
@@ -2085,16 +2085,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "a1709728bcba",
-      "title": "Who’s to Blame? SC Ambulance-Lyft Crash Sparks Dueling Lawsuits",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/whos-to-blame-sc-ambulance-lyft-crash-sparks-dueling-lawsuits/"
-    },
-    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -2103,6 +2093,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
+    },
+    {
+      "id": "a1709728bcba",
+      "title": "Who’s to Blame? SC Ambulance-Lyft Crash Sparks Dueling Lawsuits",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/whos-to-blame-sc-ambulance-lyft-crash-sparks-dueling-lawsuits/"
     },
     {
       "id": "98860142062c",

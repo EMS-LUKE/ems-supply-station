@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Thu, 09 Jul 2026 11:36:10 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 18:34:13 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【消息】第十七屆理事長、常務理事、常務監事當選名單公告</title>
@@ -144,14 +144,6 @@
     <description>【課程】「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【北區】 衛生福利部、急診醫學會（來源：台灣急診醫學會）</description>
   </item>
   <item>
-    <title>【課程】家醫學會-115.7.19新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台北</title>
-    <link>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3</link>
-    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3</guid>
-    <pubDate>2026-07-19</pubDate>
-    <category>台灣家庭醫學醫學會 - 台灣學會</category>
-    <description>【課程】家醫學會-115.7.19新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台北（來源：台灣家庭醫學醫學會）</description>
-  </item>
-  <item>
     <title>【課程】115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院</title>
     <link>https://www.sem.org.tw/Activity/A/Details/32964</link>
     <guid>https://www.sem.org.tw/Activity/A/Details/32964</guid>
@@ -206,6 +198,14 @@
     <pubDate>2026-07-25</pubDate>
     <category>台灣運動醫學學會 - 台灣學會</category>
     <description>【課程】2026.07.25 台灣運動醫學學會年度學術研討會-桃園福容A8（來源：台灣運動醫學學會）</description>
+  </item>
+  <item>
+    <title>【課程】家醫學會-115.7.26新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台中</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/63191d1a1d80432bbcb62e4a26230ff5</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/63191d1a1d80432bbcb62e4a26230ff5</guid>
+    <pubDate>2026-07-26</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【課程】家醫學會-115.7.26新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台中（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
     <title>【課程】家醫學會-115.7.26新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－高雄</title>
