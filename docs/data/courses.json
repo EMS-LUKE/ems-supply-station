@@ -1,9 +1,19 @@
 {
-  "updated": "2026-07-10T08:59:36.023674+00:00",
-  "count": 338,
+  "updated": "2026-07-10T16:44:39.299829+00:00",
+  "count": 337,
   "course_count": 184,
-  "news_count": 154,
+  "news_count": 153,
   "items": [
+    {
+      "id": "ac42e9cc0807",
+      "title": "本會 EMT-1訓練課程 因應巴威颱風停班停課說明",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-10",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260708141711"
+    },
     {
       "id": "f75389d3854b",
       "title": "【1150718梯次】平日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
@@ -13,16 +23,6 @@
       "date": "2026-07-10",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260709163816"
-    },
-    {
-      "id": "035148e0b0e2",
-      "title": "【1150718梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-10",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260709163154"
     },
     {
       "id": "f6b0e8fb1906",
@@ -2093,16 +2093,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
-      "id": "a1709728bcba",
-      "title": "Who’s to Blame? SC Ambulance-Lyft Crash Sparks Dueling Lawsuits",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/whos-to-blame-sc-ambulance-lyft-crash-sparks-dueling-lawsuits/"
     },
     {
       "id": "98860142062c",
