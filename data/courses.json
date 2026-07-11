@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-11T15:39:48.930503+00:00",
+  "updated": "2026-07-11T20:37:11.971134+00:00",
   "count": 339,
-  "course_count": 186,
-  "news_count": 153,
+  "course_count": 187,
+  "news_count": 152,
   "items": [
     {
       "id": "f6b0e8fb1906",
@@ -393,6 +393,16 @@
       "date": "2026-08-29",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28333"
+    },
+    {
+      "id": "f8a9622624b9",
+      "title": "北區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-09",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
     },
     {
       "id": "032e497ba690",
@@ -3043,16 +3053,6 @@
       "date": "2026-07-09",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/10/Details/1622"
-    },
-    {
-      "id": "935b2933f1cb",
-      "title": "【巴威颱風影響｜7/11日 PAS會議延期至 8/8日】",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=564"
     },
     {
       "id": "fe05ebc02ad9",
