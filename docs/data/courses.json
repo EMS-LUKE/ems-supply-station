@@ -1,29 +1,9 @@
 {
-  "updated": "2026-07-10T21:46:01.108073+00:00",
-  "count": 337,
-  "course_count": 184,
+  "updated": "2026-07-11T07:29:10.625472+00:00",
+  "count": 339,
+  "course_count": 186,
   "news_count": 153,
   "items": [
-    {
-      "id": "ac42e9cc0807",
-      "title": "本會 EMT-1訓練課程 因應巴威颱風停班停課說明",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-10",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260708141711"
-    },
-    {
-      "id": "f75389d3854b",
-      "title": "【1150718梯次】平日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-10",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260709163816"
-    },
     {
       "id": "f6b0e8fb1906",
       "title": "2026外傷教育課程-中部地區(Ⅰ)... 【異動資訊】本場次因受巴威颱風影響，取消辦理。已完成報名學員可於本年度改報名其他場次或申請退費（並同時以電子郵件通知課程取消辦理資訊）。",
@@ -43,26 +23,6 @@
       "date": "2026-07-11",
       "deadline": "2026-06-12",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cc74ef8393d440cdb740fbe59711414d"
-    },
-    {
-      "id": "fc8e9589eb9e",
-      "title": "[本活動已延期至8/8] 接軌國際共譜新章~波士頓的P A S：龍蝦、紅襪隊時空交織的知識微醺饗宴",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-11",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28318"
-    },
-    {
-      "id": "4bf06afab499",
-      "title": "115年氣喘專科醫師核心教育訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-11",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28323"
     },
     {
       "id": "6aca5801bd8a",
@@ -95,16 +55,6 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28321"
     },
     {
-      "id": "a5bf2105d804",
-      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【南區】 急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-14",
-      "deadline": "2026-07-14",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33133"
-    },
-    {
       "id": "baa0e113e972",
       "title": "【免費視訊線上會議】ACLS Update 2025：學術與實戰的專家觀點115.07.15 中午12:00-13:00",
       "source": "台灣急救加護醫學會",
@@ -135,6 +85,16 @@
       "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
     },
     {
+      "id": "bbb192d60883",
+      "title": "2026 台灣DDH疾病認證交流與學術討論會暨中華民國小兒骨科醫學會年會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-18",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28282"
+    },
+    {
       "id": "fa41141f901d",
       "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【北區】 衛生福利部、急診醫學會",
       "source": "台灣急診醫學會",
@@ -143,6 +103,16 @@
       "date": "2026-07-19",
       "deadline": "2026-07-19",
       "url": "https://www.sem.org.tw/Activity/A/Details/33135"
+    },
+    {
+      "id": "5717fdac3e00",
+      "title": "台日美國際學術研討會-兒科重症全方位臨床診療新視野",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-19",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28308"
     },
     {
       "id": "6581b870efd0",
@@ -243,6 +213,16 @@
       "date": "2026-07-28",
       "deadline": "2026-07-13",
       "url": "https://www.sem.org.tw/Activity/A/Details/32647"
+    },
+    {
+      "id": "f6098c9071b3",
+      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【中區】 衛生福利部、社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-31",
+      "deadline": "2026-07-31",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33137"
     },
     {
       "id": "3b1c1cb3baa5",
@@ -375,6 +355,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28317"
     },
     {
+      "id": "a7e9b7c48a09",
+      "title": "新生兒高級救命術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28269"
+    },
+    {
       "id": "2164b1e70863",
       "title": "【延期至115/8/27-28】115/7/27~28(一~二)急診創傷訓練課程ETTC",
       "source": "台灣老人急重症醫學會",
@@ -393,6 +383,16 @@
       "date": "2026-08-29",
       "deadline": "2026-08-17",
       "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
+    },
+    {
+      "id": "b42f0563e908",
+      "title": "兒童手持超音波教學工作坊",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-29",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28333"
     },
     {
       "id": "032e497ba690",
@@ -1155,14 +1155,14 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/de97be0cf5bf43cbab01c7d3107b55ce"
     },
     {
-      "id": "8b3e2772f5d6",
-      "title": "【最新公告】巴威颱風影響：「115年度學術研討會」異動通知 （週六,確定取消）；（週日,目前正常）",
+      "id": "a1ba64c6495b",
+      "title": "【緊急公告】 115年度學術研討會暨會員代表大會，週日如期舉辦",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/60bde216f12d4352a915307e64d6c812"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0aa53ad48b8747d4bda06253514f7328"
     },
     {
       "id": "a850421e172e",
@@ -1173,6 +1173,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
+    },
+    {
+      "id": "8b3e2772f5d6",
+      "title": "【最新公告】巴威颱風影響：「115年度學術研討會」異動通知 （週六,確定取消）；（週日,目前正常）",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/60bde216f12d4352a915307e64d6c812"
     },
     {
       "id": "9cf11eaf5a41",
@@ -1965,6 +1975,36 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
     },
     {
+      "id": "f3c454cbadc0",
+      "title": "聽見AED 是什麼？急救守護系統完整介紹：LINE 通知＋IoT 警報器，讓救援早一步開始",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/faq/popular-science/hearaed-system-intro/"
+    },
+    {
+      "id": "2e734f9698f9",
+      "title": "1395 是什麼？1 分鐘 CPR、3 分鐘 AED、95% 活著回家",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/faq/popular-science/what-is-1395/"
+    },
+    {
+      "id": "3134ca0758be",
+      "title": "【感謝帝亞吉歐】一年、30 台警報器、2,300 位體驗 CPR 的人",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/thanks-diageo-keepwalking-2026/"
+    },
+    {
       "id": "db4c9598885b",
       "title": "生命之鏈是什麼？16歲少年OHCA奇蹟生還，看CPR+AED怎麼救回一條命",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1983,36 +2023,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/emson-advocacy/__trashed/"
-    },
-    {
-      "id": "2134d81b1a61",
-      "title": "【聽見AED】LINE@救援通知系統2026年6月成果報告",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b46%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
-    },
-    {
-      "id": "d40a62b6ae9e",
-      "title": "【聽見AED｜2026年6月到場成果出爐",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e3%80%90%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b46%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90/"
-    },
-    {
-      "id": "1723f5730c89",
-      "title": "各位聽見AED的前輩們好~我是愛陌生的實習生宥甫~",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e5%90%84%e4%bd%8d%e8%81%bd%e8%a6%8baed%e7%9a%84%e5%89%8d%e8%bc%a9%e5%80%91%e5%a5%bd%e6%88%91%e6%98%af%e6%84%9b%e9%99%8c%e7%94%9f%e7%9a%84%e5%af%a6%e7%bf%92%e7%94%9f%e5%ae%a5%e7%94%ab/"
     },
     {
       "id": "c302a6b91021",
@@ -2995,6 +3005,26 @@
       "url": "https://emj.bmj.com/content/43/Suppl_2"
     },
     {
+      "id": "ac42e9cc0807",
+      "title": "本會 EMT-1訓練課程 因應巴威颱風停班停課說明",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-10",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260708141711"
+    },
+    {
+      "id": "f75389d3854b",
+      "title": "【1150718梯次】平日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-10",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260709163816"
+    },
+    {
       "id": "82bfd7c732c8",
       "title": "第十七屆理事長、常務理事、常務監事當選名單公告",
       "source": "台灣急診醫學會",
@@ -3003,6 +3033,16 @@
       "date": "2026-07-09",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1621"
+    },
+    {
+      "id": "535915b17247",
+      "title": "【徵求推薦】ASEM Education & Research Champion 候選人",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-09",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1622"
     },
     {
       "id": "935b2933f1cb",
@@ -3353,26 +3393,6 @@
       "date": "2026-06-13",
       "deadline": null,
       "url": "https://taiwanwma.org/activities?activity=5"
-    },
-    {
-      "id": "59320d4390ea",
-      "title": "【重要公告】NRP第九版全新版講義已於115年6月10日正式上線",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-10",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=559"
-    },
-    {
-      "id": "b20d7c928cd0",
-      "title": "《當災害發生在醫院》系列：當醫院本身成為戰場 － 從以色列Rambam醫學中心看戰時醫院持續運作",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-06-10",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/06/rambam.html"
     }
   ]
 }
