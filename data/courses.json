@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-12T12:14:52.716783+00:00",
-  "count": 343,
-  "course_count": 191,
-  "news_count": 152,
+  "updated": "2026-07-12T18:16:57.485280+00:00",
+  "count": 346,
+  "course_count": 192,
+  "news_count": 154,
   "items": [
     {
       "id": "6aca5801bd8a",
@@ -63,6 +63,16 @@
       "date": "2026-07-19",
       "deadline": "2026-07-19",
       "url": "https://www.sem.org.tw/Activity/A/Details/33135"
+    },
+    {
+      "id": "69102b52f5ee",
+      "title": "家醫學會-115.7.19新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台北",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-19",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3"
     },
     {
       "id": "5717fdac3e00",
@@ -1185,16 +1195,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/60f2811a8a334e34a0a48b721403a86d"
     },
     {
-      "id": "a1ba64c6495b",
-      "title": "【緊急公告】 115年度學術研討會暨會員代表大會，週日如期舉辦",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0aa53ad48b8747d4bda06253514f7328"
-    },
-    {
       "id": "a850421e172e",
       "title": "【重要公告】轉知衛福部公告修正「家庭醫學科專科醫師甄審原則」，並自即日生效。",
       "source": "台灣家庭醫學醫學會",
@@ -1203,6 +1203,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
+    },
+    {
+      "id": "3653397d53da",
+      "title": "115年「家庭醫學科專科醫師甄審」簡章公告",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8ccbab7130eb4a15b97f76883a15dfe1"
+    },
+    {
+      "id": "a1ba64c6495b",
+      "title": "【緊急公告】 115年度學術研討會暨會員代表大會，週日如期舉辦",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0aa53ad48b8747d4bda06253514f7328"
     },
     {
       "id": "8b3e2772f5d6",
@@ -2123,6 +2143,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.itrauma.org/education/compare-itls/"
+    },
+    {
+      "id": "73b9923f10e3",
+      "title": "Three Hurt, Two Critically, in NY Crash",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/three-hurt-two-critically-in-ny-crash/"
     },
     {
       "id": "a39f65225f1e",

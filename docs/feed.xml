@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Sun, 12 Jul 2026 12:14:52 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 18:16:57 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】年度學術研討會-115.7.12(日) 第二天</title>
@@ -54,6 +54,14 @@
     <pubDate>2026-07-19</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【北區】 衛生福利部、急診醫學會（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】家醫學會-115.7.19新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台北</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3</guid>
+    <pubDate>2026-07-19</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【課程】家醫學會-115.7.19新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台北（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
     <title>【課程】台日美國際學術研討會-兒科重症全方位臨床診療新視野</title>
@@ -478,14 +486,6 @@
     <pubDate>2026-12-19</pubDate>
     <category>台灣醫學資訊學會 - 台灣學會</category>
     <description>【課程】JCMIT 2026 國際醫學資訊聯合研討會（來源：台灣醫學資訊學會）</description>
-  </item>
-  <item>
-    <title>【課程】【因颱風因應事項】【南&amp;北區-開放報名】115年高級心臟救命術學員課程示範教學 ACLS Provider Demo Course</title>
-    <link>https://www.seccm.org.tw/news/acls_course_info.asp?/800.html#here</link>
-    <guid>https://www.seccm.org.tw/news/acls_course_info.asp?/800.html#here</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急救加護醫學會 - 台灣學會</category>
-    <description>【課程】【因颱風因應事項】【南&amp;北區-開放報名】115年高級心臟救命術學員課程示範教學 ACLS Provider Demo Course（來源：台灣急救加護醫學會）</description>
   </item>
 </channel>
 </rss>
