@@ -1,29 +1,9 @@
 {
-  "updated": "2026-07-11T23:45:48.548873+00:00",
-  "count": 339,
-  "course_count": 187,
+  "updated": "2026-07-12T07:57:34.223386+00:00",
+  "count": 342,
+  "course_count": 190,
   "news_count": 152,
   "items": [
-    {
-      "id": "f6b0e8fb1906",
-      "title": "2026外傷教育課程-中部地區(Ⅰ)... 【異動資訊】本場次因受巴威颱風影響，取消辦理。已完成報名學員可於本年度改報名其他場次或申請退費（並同時以電子郵件通知課程取消辦理資訊）。",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-11",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/index.asp?/20.html"
-    },
-    {
-      "id": "5ef29a335835",
-      "title": "115.7.11-12年度學術研討會暨會員代表大會活動通知 （兩天的精彩活動,早鳥優惠115.6.12前）",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-11",
-      "deadline": "2026-06-12",
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cc74ef8393d440cdb740fbe59711414d"
-    },
     {
       "id": "6aca5801bd8a",
       "title": "年度學術研討會-115.7.12(日) 第二天",
@@ -33,26 +13,6 @@
       "date": "2026-07-12",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/d7d7efaccd2b420abc2af8a0a0e55379"
-    },
-    {
-      "id": "65ab0d1c440d",
-      "title": "NRP 指導員重訓課 (加開班)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28337"
-    },
-    {
-      "id": "60a91704384e",
-      "title": "115年度桃園市幼兒專責醫師經驗分享交流會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28321"
     },
     {
       "id": "baa0e113e972",
@@ -135,6 +95,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33136"
     },
     {
+      "id": "879acea73113",
+      "title": "新生兒（含早產兒）診療及 照護 研討暨教學",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-22",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28326"
+    },
+    {
       "id": "f2d34a9b9a5d",
       "title": "【重症聯甄】超值價!即日開放報名~急救重症傷口皮膚照護工作坊-115.07.25 秀傳紀念醫院",
       "source": "台灣急救加護醫學會",
@@ -173,6 +143,16 @@
       "date": "2026-07-25",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "10cb223b7d6d",
+      "title": "母乳哺育種子講師繼續教育訓練「創意教學設計與實作」工作坊",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28279"
     },
     {
       "id": "7a9d938e31f6",
@@ -405,6 +385,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
     },
     {
+      "id": "08518396f20a",
+      "title": "中區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-12",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28131"
+    },
+    {
       "id": "032e497ba690",
       "title": "【DHA 2026】2026 International Conference on Digital Health and Medical Analytics（DHA 2026）115.09.18-20高雄科技大學",
       "source": "台灣急救加護醫學會",
@@ -453,6 +443,16 @@
       "date": "2026-09-19",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "b82029c5ad1d",
+      "title": "嘉義市政府衛生局 115 年度母乳照護研習會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28328"
     },
     {
       "id": "6c12a2120576",
@@ -513,6 +513,16 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
+    },
+    {
+      "id": "6682d9820791",
+      "title": "新生兒高級急救術(NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28195"
     },
     {
       "id": "e815a0a74ca9",
@@ -2675,6 +2685,16 @@
       "url": "https://specialoperationsmedicine.org/jsom/"
     },
     {
+      "id": "7784c83ef832",
+      "title": "Suzetrigine guide for Combat Medics",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2026/05/27/suzetrigine/"
+    },
+    {
       "id": "00685f87bbd6",
       "title": "Guide to running Prolonged Casualty Care Training by Ragged Edge",
       "source": "Next Generation Combat Medic",
@@ -2705,24 +2725,14 @@
       "url": "https://nextgencombatmedic.com/2025/07/20/enabling-medics-to-manage-sick-call/"
     },
     {
-      "id": "59a31503eb67",
-      "title": "Cricothyroidotomy Training Guide for Military Medics: Ragged Edge of the Scalpel",
+      "id": "9cc4bce2f6ae",
+      "title": "How to become an Army CRNA",
       "source": "Next Generation Combat Medic",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://nextgencombatmedic.com/2025/05/21/cric-training-guide/"
-    },
-    {
-      "id": "3cf66ede2961",
-      "title": "Treating TBI from the Aid Bag",
-      "source": "Next Generation Combat Medic",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://nextgencombatmedic.com/2024/12/11/treating-tbi-from-the-aid-bag/"
+      "url": "https://nextgencombatmedic.com/2025/07/05/how-to-become-an-army-crna-66f/"
     },
     {
       "id": "a08848dafaae",
@@ -3013,6 +3023,26 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_2"
+    },
+    {
+      "id": "f6b0e8fb1906",
+      "title": "2026外傷教育課程-中部地區(Ⅰ)... 【異動資訊】本場次因受巴威颱風影響，取消辦理。已完成報名學員可於本年度改報名其他場次或申請退費（並同時以電子郵件通知課程取消辦理資訊）。",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-11",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/active/index.asp?/20.html"
+    },
+    {
+      "id": "5ef29a335835",
+      "title": "115.7.11-12年度學術研討會暨會員代表大會活動通知 （兩天的精彩活動,早鳥優惠115.6.12前）",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-11",
+      "deadline": "2026-06-12",
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cc74ef8393d440cdb740fbe59711414d"
     },
     {
       "id": "ac42e9cc0807",
