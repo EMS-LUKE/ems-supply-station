@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-12T07:57:34.223386+00:00",
-  "count": 342,
-  "course_count": 190,
+  "updated": "2026-07-12T12:14:52.716783+00:00",
+  "count": 343,
+  "course_count": 191,
   "news_count": 152,
   "items": [
     {
@@ -1135,16 +1135,6 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "99a161013946",
-      "title": "綠色家庭醫師認證課程-台大",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4dff611b82af4356ab8ea259d0364354"
-    },
-    {
       "id": "16c79580692e",
       "title": "115年「友善性病門診專業醫師」基礎認證課程",
       "source": "台灣家庭醫學醫學會",
@@ -1173,6 +1163,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/de97be0cf5bf43cbab01c7d3107b55ce"
+    },
+    {
+      "id": "c0405e1024b1",
+      "title": "綠色家庭醫師認證課程-高醫",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/691949599cd24aa1b7030533c952ee97"
+    },
+    {
+      "id": "9ce8a33a70b6",
+      "title": "綠色家庭醫師認證課程-中山",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/60f2811a8a334e34a0a48b721403a86d"
     },
     {
       "id": "a1ba64c6495b",
