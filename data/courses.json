@@ -1,18 +1,28 @@
 {
-  "updated": "2026-07-12T23:46:00.328754+00:00",
-  "count": 346,
-  "course_count": 192,
+  "updated": "2026-07-13T11:49:40.132624+00:00",
+  "count": 342,
+  "course_count": 188,
   "news_count": 154,
   "items": [
     {
-      "id": "6aca5801bd8a",
-      "title": "年度學術研討會-115.7.12(日) 第二天",
-      "source": "台灣家庭醫學醫學會",
+      "id": "de79f9199907",
+      "title": "【1150718梯次】南區初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-13",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260713141854"
+    },
+    {
+      "id": "e22b03c287f9",
+      "title": "新生兒高級救命術NRP認證課程",
+      "source": "台灣新生兒科醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-07-12",
+      "date": "2026-07-14",
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/d7d7efaccd2b420abc2af8a0a0e55379"
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28335"
     },
     {
       "id": "baa0e113e972",
@@ -155,16 +165,6 @@
       "url": "https://www.tebma.org.tw/event/list"
     },
     {
-      "id": "10cb223b7d6d",
-      "title": "母乳哺育種子講師繼續教育訓練「創意教學設計與實作」工作坊",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28279"
-    },
-    {
       "id": "7a9d938e31f6",
       "title": "2026.07.25 台灣運動醫學學會年度學術研討會-桃園福容A8",
       "source": "台灣運動醫學學會",
@@ -213,6 +213,16 @@
       "date": "2026-07-31",
       "deadline": "2026-07-31",
       "url": "https://www.sem.org.tw/Activity/A/Details/33137"
+    },
+    {
+      "id": "d68ffe3c4550",
+      "title": "NRP新生兒高級救命術訓練",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-01",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28340"
     },
     {
       "id": "3b1c1cb3baa5",
@@ -265,6 +275,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28309"
     },
     {
+      "id": "1beeb22791ec",
+      "title": "新生兒高級救命術(NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-08",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28336"
+    },
+    {
       "id": "42dd57436370",
       "title": "2026外傷教育課程-北部地區(Ⅲ)...",
       "source": "台灣外傷醫學會",
@@ -273,6 +293,16 @@
       "date": "2026-08-15",
       "deadline": "2026-08-03",
       "url": "http://www.trauma.org.tw/active/index.asp?/24.html"
+    },
+    {
+      "id": "52a7e37fae3a",
+      "title": "新生兒高級急救術(NRP)訓練",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28329"
     },
     {
       "id": "ed7881378c62",
@@ -335,26 +365,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33112"
     },
     {
-      "id": "e22b03c287f9",
-      "title": "新生兒高級救命術NRP認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28317"
-    },
-    {
-      "id": "a7e9b7c48a09",
-      "title": "新生兒高級救命術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28269"
-    },
-    {
       "id": "2164b1e70863",
       "title": "【延期至115/8/27-28】115/7/27~28(一~二)急診創傷訓練課程ETTC",
       "source": "台灣老人急重症醫學會",
@@ -373,36 +383,6 @@
       "date": "2026-08-29",
       "deadline": "2026-08-17",
       "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
-    },
-    {
-      "id": "b42f0563e908",
-      "title": "兒童手持超音波教學工作坊",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-29",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28333"
-    },
-    {
-      "id": "f8a9622624b9",
-      "title": "北區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-09",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
-    },
-    {
-      "id": "08518396f20a",
-      "title": "中區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28131"
     },
     {
       "id": "032e497ba690",
@@ -453,16 +433,6 @@
       "date": "2026-09-19",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "b82029c5ad1d",
-      "title": "嘉義市政府衛生局 115 年度母乳照護研習會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28328"
     },
     {
       "id": "6c12a2120576",
@@ -523,16 +493,6 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
-    },
-    {
-      "id": "6682d9820791",
-      "title": "新生兒高級急救術(NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28195"
     },
     {
       "id": "e815a0a74ca9",
@@ -2145,16 +2105,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "73b9923f10e3",
-      "title": "Three Hurt, Two Critically, in NY Crash",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/three-hurt-two-critically-in-ny-crash/"
-    },
-    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -2173,6 +2123,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "73b9923f10e3",
+      "title": "Three Hurt, Two Critically, in NY Crash",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/three-hurt-two-critically-in-ny-crash/"
     },
     {
       "id": "cc05242f9202",
@@ -3032,7 +2992,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-224871v1?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2025-337747v1?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3065,6 +3025,16 @@
       "url": "https://emj.bmj.com/content/43/Suppl_2"
     },
     {
+      "id": "6aca5801bd8a",
+      "title": "年度學術研討會-115.7.12(日) 第二天",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-12",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/d7d7efaccd2b420abc2af8a0a0e55379"
+    },
+    {
       "id": "f6b0e8fb1906",
       "title": "2026外傷教育課程-中部地區(Ⅰ)... 【異動資訊】本場次因受巴威颱風影響，取消辦理。已完成報名學員可於本年度改報名其他場次或申請退費（並同時以電子郵件通知課程取消辦理資訊）。",
       "source": "台灣外傷醫學會",
@@ -3093,16 +3063,6 @@
       "date": "2026-07-10",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260708141711"
-    },
-    {
-      "id": "f75389d3854b",
-      "title": "【1150718梯次】平日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-10",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260709163816"
     },
     {
       "id": "82bfd7c732c8",
