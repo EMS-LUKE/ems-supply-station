@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T13:03:09.917804+00:00",
+  "updated": "2026-07-14T18:54:45.329978+00:00",
   "count": 343,
   "course_count": 187,
   "news_count": 156,
@@ -1295,34 +1295,34 @@
       "url": "https://www.tsamairway.org.tw/blank-15"
     },
     {
-      "id": "47d8739069ad",
-      "title": "2025年年會大會會長的話",
+      "id": "b2ac13aae1ba",
+      "title": "2026年年會大會會長的話",
       "source": "台灣呼吸道處理醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tsamairway.org.tw/2025nian-hui-nian-hui"
+      "url": "https://www.tsamairway.org.tw/副本-2025年年會大會會長的話"
     },
     {
-      "id": "734e15a1e228",
-      "title": "2025年年會議程",
+      "id": "1ecafc01d592",
+      "title": "2026年年會議程",
       "source": "台灣呼吸道處理醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tsamairway.org.tw/copy-2-of-2025nian-hui-nian-hui-1"
+      "url": "https://www.tsamairway.org.tw/副本-2025年年會議程-1"
     },
     {
-      "id": "b5a855bed0dc",
-      "title": "2025年年會論文投稿",
+      "id": "e85483d93b26",
+      "title": "2026年年會報名",
       "source": "台灣呼吸道處理醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tsamairway.org.tw/副本-2025年年會議程"
+      "url": "https://www.tsamairway.org.tw/副本-2025年年會報名"
     },
     {
       "id": "c471c32f474a",
@@ -2135,16 +2135,6 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "e003f2a65694",
-      "title": "Waymo’s July 4 Chaos in San Francisco Raises Questions About How Robotaxis Can Work at Scale",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/waymos-july-4-chaos-in-san-francisco-raises-questions-about-how-robotaxis-can-work-at-scale/"
-    },
-    {
       "id": "98860142062c",
       "title": "Headlines",
       "source": "JEMS",
@@ -2153,6 +2143,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "e003f2a65694",
+      "title": "Waymo’s July 4 Chaos in San Francisco Raises Questions About How Robotaxis Can Work at Scale",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/waymos-july-4-chaos-in-san-francisco-raises-questions-about-how-robotaxis-can-work-at-scale/"
     },
     {
       "id": "cc05242f9202",
