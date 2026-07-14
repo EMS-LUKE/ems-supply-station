@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-13T23:46:24.722839+00:00",
-  "count": 342,
-  "course_count": 188,
-  "news_count": 154,
+  "updated": "2026-07-14T07:32:11.585080+00:00",
+  "count": 343,
+  "course_count": 187,
+  "news_count": 156,
   "items": [
     {
-      "id": "de79f9199907",
-      "title": "【1150718梯次】南區初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "id": "db6a425d97f3",
+      "title": "【1150619梯次】南區EMT-1課程 學術科合格名單",
       "source": "中華緊急救護技術員協會",
       "cat": "台灣協會",
       "type": "course",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260713141854"
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260713180858"
     },
     {
-      "id": "e22b03c287f9",
-      "title": "新生兒高級救命術NRP認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
+      "id": "6575004a806d",
+      "title": "【1150619梯次】北區假日班EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
       "type": "course",
       "date": "2026-07-14",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28335"
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260713175500"
     },
     {
       "id": "baa0e113e972",
@@ -355,6 +355,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28136"
     },
     {
+      "id": "e22b03c287f9",
+      "title": "新生兒高級救命術NRP認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-16",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28334"
+    },
+    {
       "id": "fa10de726c18",
       "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
       "source": "台灣急診醫學會",
@@ -565,24 +575,14 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
-      "id": "520a6b89e822",
-      "title": "【因颱風因應事項】【南&北區-開放報名】115年高級心臟救命術學員課程示範教學 ACLS Provider Demo Course",
+      "id": "60380fb22676",
+      "title": "【南區場次延至8/22-23】【南&北區-開放報名】115年高級心臟救命術學員課程示範教學 ACLS Provider Demo Course",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/800.html#here"
-    },
-    {
-      "id": "323fc16a747a",
-      "title": "【因颱風因應事項】115年高級心臟救命術學員課程示範教學-南區 ACLS Provider Demo Course -高雄長庚醫院",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/809.html#here"
     },
     {
       "id": "c79f1f73f270",
@@ -613,6 +613,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/777.html#here"
+    },
+    {
+      "id": "13aaade94e2e",
+      "title": "即日開放報名!【ACLS聯委會課程】2025 ACLS Update Course-中3/14.南3/21. 北4/18&5/16(共4場次)",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here"
     },
     {
       "id": "3fe587589dc7",
@@ -1155,6 +1165,26 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/60f2811a8a334e34a0a48b721403a86d"
     },
     {
+      "id": "65318efa54f8",
+      "title": "【重要公告】年度學術研討會，7.11週六課程，因「颱風延期辦理」說明",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0038a698d1644da3a81e673bda1739eb"
+    },
+    {
+      "id": "861d0e7366e2",
+      "title": "【重要公告】年度學術研討會，7.12週日課程，已繳費報名，但未能到場之處理原則",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/33fc238f2ee64e109caee3ef2a2b736a"
+    },
+    {
       "id": "a850421e172e",
       "title": "【重要公告】轉知衛福部公告修正「家庭醫學科專科醫師甄審原則」，並自即日生效。",
       "source": "台灣家庭醫學醫學會",
@@ -1183,16 +1213,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0aa53ad48b8747d4bda06253514f7328"
-    },
-    {
-      "id": "8b3e2772f5d6",
-      "title": "【最新公告】巴威颱風影響：「115年度學術研討會」異動通知 （週六,確定取消）；（週日,目前正常）",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/60bde216f12d4352a915307e64d6c812"
     },
     {
       "id": "9cf11eaf5a41",
@@ -2992,7 +3012,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2025-337747v1?rss=1"
+      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225413v1?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3053,16 +3073,6 @@
       "date": "2026-07-11",
       "deadline": "2026-06-12",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cc74ef8393d440cdb740fbe59711414d"
-    },
-    {
-      "id": "ac42e9cc0807",
-      "title": "本會 EMT-1訓練課程 因應巴威颱風停班停課說明",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-10",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260708141711"
     },
     {
       "id": "82bfd7c732c8",
@@ -3255,6 +3265,16 @@
       "url": "https://temataiwan.blogspot.com/2026/06/blog-post_30.html"
     },
     {
+      "id": "ff76fb8193f9",
+      "title": "2026超音波競賽得獎名單",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-06-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1625"
+    },
+    {
       "id": "7619e60cf6d3",
       "title": "公告AILS Training Course通過名單 (115.06.23~115.06.24)",
       "source": "台灣急診醫學會",
@@ -3413,16 +3433,6 @@
       "date": "2026-06-15",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/06/blog-post.html"
-    },
-    {
-      "id": "befaf9f0665d",
-      "title": "115年度BLS基本救命術及野外基礎創傷救命術一日訓練課程，開放報名中～",
-      "source": "台灣野外緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-06-13",
-      "deadline": null,
-      "url": "https://taiwanwma.org/activities?activity=5"
     }
   ]
 }
