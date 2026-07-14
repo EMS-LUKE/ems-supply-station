@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T07:32:11.585080+00:00",
+  "updated": "2026-07-14T13:03:09.917804+00:00",
   "count": 343,
   "course_count": 187,
   "news_count": 156,
@@ -1195,24 +1195,24 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
-      "id": "3653397d53da",
-      "title": "115年「家庭醫學科專科醫師甄審」簡章公告",
+      "id": "ce471cc08990",
+      "title": "台灣家庭醫學醫學會 高爾夫球友誼賽 報名開跑囉！",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8ccbab7130eb4a15b97f76883a15dfe1"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8db06341793e45af8f5feac4b7ddcc2e"
     },
     {
-      "id": "a1ba64c6495b",
-      "title": "【緊急公告】 115年度學術研討會暨會員代表大會，週日如期舉辦",
+      "id": "304f54f80a96",
+      "title": "＊115年度學術研討會口頭報告及海報評選結果",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0aa53ad48b8747d4bda06253514f7328"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b761335536ac4044b6bda11209651aba"
     },
     {
       "id": "9cf11eaf5a41",
@@ -2135,6 +2135,16 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
+      "id": "e003f2a65694",
+      "title": "Waymo’s July 4 Chaos in San Francisco Raises Questions About How Robotaxis Can Work at Scale",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/waymos-july-4-chaos-in-san-francisco-raises-questions-about-how-robotaxis-can-work-at-scale/"
+    },
+    {
       "id": "98860142062c",
       "title": "Headlines",
       "source": "JEMS",
@@ -2143,16 +2153,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "73b9923f10e3",
-      "title": "Three Hurt, Two Critically, in NY Crash",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/three-hurt-two-critically-in-ny-crash/"
     },
     {
       "id": "cc05242f9202",
