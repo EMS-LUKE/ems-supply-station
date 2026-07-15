@@ -1,29 +1,9 @@
 {
-  "updated": "2026-07-14T23:44:33.889535+00:00",
-  "count": 343,
-  "course_count": 187,
-  "news_count": 156,
+  "updated": "2026-07-15T07:37:03.025711+00:00",
+  "count": 344,
+  "course_count": 186,
+  "news_count": 158,
   "items": [
-    {
-      "id": "db6a425d97f3",
-      "title": "【1150619梯次】南區EMT-1課程 學術科合格名單",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-14",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260713180858"
-    },
-    {
-      "id": "6575004a806d",
-      "title": "【1150619梯次】北區假日班EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-14",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260713175500"
-    },
     {
       "id": "baa0e113e972",
       "title": "【免費視訊線上會議】ACLS Update 2025：學術與實戰的專家觀點115.07.15 中午12:00-13:00",
@@ -655,6 +635,16 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
+      "id": "0236e4bc4186",
+      "title": "115年精進外科系醫師醫療韌性訓練計畫，將於9月~12月辦理六場課程...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
+    },
+    {
       "id": "0d835afef36b",
       "title": "【課程取消舉辦公告】2026外傷教育課程-中部地區(Ⅰ)...",
       "source": "台灣外傷醫學會",
@@ -683,16 +673,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/69.html"
-    },
-    {
-      "id": "a1c141e1a0aa",
-      "title": "６月份ASSET課前通知信已寄...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/64.html"
     },
     {
       "id": "f33886bda428",
@@ -1165,8 +1145,8 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/60f2811a8a334e34a0a48b721403a86d"
     },
     {
-      "id": "65318efa54f8",
-      "title": "【重要公告】年度學術研討會，7.11週六課程，因「颱風延期辦理」說明",
+      "id": "8b2491663813",
+      "title": "【重要公告】年度學術研討會，7.11週六課程，因「颱風延期辦理」及「線上報名」事宜",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -1215,14 +1195,24 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b761335536ac4044b6bda11209651aba"
     },
     {
-      "id": "9cf11eaf5a41",
-      "title": "學術與臨床並行｜【課程招生】第十三屆高級燒傷急救照護術（AEBC）暨第八屆換證課程",
+      "id": "17196c2d9cd2",
+      "title": "第18屆理監事選舉推薦公告.pdf",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.burn.org.tw/index.php/news/25-the-project/298-aebc"
+      "url": "https://www.burn.org.tw/attachments/article/302/第18屆理監事選舉推薦公告.pdf"
+    },
+    {
+      "id": "2ebdb1828f3d",
+      "title": "深耕學術與臨床｜【徵稿中】2026年會論文發表",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/index.php/news/25-the-project/301-2026"
     },
     {
       "id": "2074c2677272",
@@ -3012,7 +3002,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225413v1?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100282.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3043,6 +3033,26 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_2"
+    },
+    {
+      "id": "db6a425d97f3",
+      "title": "【1150619梯次】南區EMT-1課程 學術科合格名單",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-14",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260713180858"
+    },
+    {
+      "id": "6575004a806d",
+      "title": "【1150619梯次】北區假日班EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-14",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260713175500"
     },
     {
       "id": "6aca5801bd8a",
