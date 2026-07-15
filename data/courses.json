@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-15T07:37:03.025711+00:00",
+  "updated": "2026-07-15T15:15:22.035141+00:00",
   "count": 344,
-  "course_count": 186,
-  "news_count": 158,
+  "course_count": 187,
+  "news_count": 157,
   "items": [
     {
       "id": "baa0e113e972",
@@ -13,6 +13,16 @@
       "date": "2026-07-15",
       "deadline": null,
       "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/810.html#here"
+    },
+    {
+      "id": "66b6e77dd463",
+      "title": "【2026第十二屆全國呼吸道插管暨心肺復甦術競賽開放報名】",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-15",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260715174415"
     },
     {
       "id": "6c7acf9af5b5",
@@ -1045,8 +1055,8 @@
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
     },
     {
-      "id": "d45d9fa81b2e",
-      "title": "【代轉】大語言模型與串接醫療 AI 應用系列課程即將推出",
+      "id": "3a5e55368bd3",
+      "title": "【代轉】社團法人亞洲華人醫務管理交流學會8/14-/15辦理「2026高齡健康處方設計師跨領域高階創新人才培訓系列活動」歡迎報名。",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "course",
@@ -1055,8 +1065,8 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "f7cb8f1a3ec8",
-      "title": "【代轉】臺大醫院舉辦「臺大醫院131週年院慶-數位與智慧醫療國 際研討會」，歡迎報名參加！",
+      "id": "d45d9fa81b2e",
+      "title": "【代轉】大語言模型與串接醫療 AI 應用系列課程即將推出",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "course",
@@ -2133,16 +2143,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "e003f2a65694",
-      "title": "Waymo’s July 4 Chaos in San Francisco Raises Questions About How Robotaxis Can Work at Scale",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/waymos-july-4-chaos-in-san-francisco-raises-questions-about-how-robotaxis-can-work-at-scale/"
     },
     {
       "id": "cc05242f9202",

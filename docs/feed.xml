@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Wed, 15 Jul 2026 07:37:03 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 15:15:22 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】【免費視訊線上會議】ACLS Update 2025：學術與實戰的專家觀點115.07.15 中午12:00-13:00</title>
@@ -14,6 +14,14 @@
     <pubDate>2026-07-15</pubDate>
     <category>台灣急救加護醫學會 - 台灣學會</category>
     <description>【課程】【免費視訊線上會議】ACLS Update 2025：學術與實戰的專家觀點115.07.15 中午12:00-13:00（來源：台灣急救加護醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】【2026第十二屆全國呼吸道插管暨心肺復甦術競賽開放報名】</title>
+    <link>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260715174415</link>
+    <guid>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260715174415</guid>
+    <pubDate>2026-07-15</pubDate>
+    <category>中華緊急救護技術員協會 - 台灣協會</category>
+    <description>【課程】【2026第十二屆全國呼吸道插管暨心肺復甦術競賽開放報名】（來源：中華緊急救護技術員協會）</description>
   </item>
   <item>
     <title>【課程】【重症聯甄】Holistic and Patient-Centered Critical Care 115.07.18 國泰人壽大樓B1國際會議廳</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣急救加護醫學會 - 台灣學會</category>
     <description>【課程】&lt;即日開放報名&gt;115年高級心臟救命術指導員訓練課程(ACLS Instructor Course)（來源：台灣急救加護醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】即日開放報名!【ACLS聯委會課程】2025 ACLS Update Course-中3/14.南3/21. 北4/18&amp;5/16(共4場次)</title>
-    <link>https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here</link>
-    <guid>https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急救加護醫學會 - 台灣學會</category>
-    <description>【課程】即日開放報名!【ACLS聯委會課程】2025 ACLS Update Course-中3/14.南3/21. 北4/18&amp;5/16(共4場次)（來源：台灣急救加護醫學會）</description>
   </item>
 </channel>
 </rss>
