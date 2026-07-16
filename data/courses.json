@@ -1,28 +1,18 @@
 {
-  "updated": "2026-07-15T21:38:44.980759+00:00",
-  "count": 344,
-  "course_count": 187,
-  "news_count": 157,
+  "updated": "2026-07-16T07:43:34.498931+00:00",
+  "count": 343,
+  "course_count": 188,
+  "news_count": 155,
   "items": [
     {
-      "id": "baa0e113e972",
-      "title": "【免費視訊線上會議】ACLS Update 2025：學術與實戰的專家觀點115.07.15 中午12:00-13:00",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-15",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/810.html#here"
-    },
-    {
-      "id": "66b6e77dd463",
-      "title": "【2026第十二屆全國呼吸道插管暨心肺復甦術競賽開放報名】",
-      "source": "中華緊急救護技術員協會",
+      "id": "7e247cbf742b",
+      "title": "最優先，不一定是最重傷：重新思考檢傷分類的真正意義",
+      "source": "台灣緊急應變管理協會",
       "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-15",
+      "type": "news",
+      "date": "2026-07-16",
       "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260715174415"
+      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_16.html"
     },
     {
       "id": "6c7acf9af5b5",
@@ -455,11 +445,11 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33127"
     },
     {
-      "id": "64555f556318",
-      "title": "【年度盛會CALL FOR ABSTRACT!】 SECC Congress 2026 Taipei 暨2026智慧急重症醫療國際會議_115.10.3-4台大醫院國際會議中心",
+      "id": "ee73dae697d5",
+      "title": "【開放國內報名!投稿延長!】 SECC Congress 2026 Taipei 暨2026智慧急重症醫療國際會議/第十屆亞太早期重症復健國際會議_115.10.3-4台大醫院國際會議中心",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
-      "type": "news",
+      "type": "course",
       "date": "2026-10-03",
       "deadline": null,
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/793.html#here"
@@ -615,6 +605,16 @@
       "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here"
     },
     {
+      "id": "b82b0ec879e2",
+      "title": "【Call For ABSTRACT&Registration】The 10th Asia-Pacific Conference on ICU Early Rehabilitation Taipei 2026 -Oct. 3-4 台大醫院國際會議中心",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/792.html#here"
+    },
+    {
       "id": "3fe587589dc7",
       "title": "【Call For ABSTRACT&Registration】SECC Congress 2026 Taipei OCT. 3-4 台大醫院國際會議中心",
       "source": "台灣急救加護醫學會",
@@ -625,14 +625,14 @@
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/791.html#here"
     },
     {
-      "id": "b82b0ec879e2",
-      "title": "【Call For ABSTRACT&Registration】The 10th Asia-Pacific Conference on ICU Early Rehabilitation Taipei 2026 -Oct. 3-4 台大醫院國際會議中心",
+      "id": "69f21043738c",
+      "title": "【新聞稿】重症醫學正式列為部定專科：醫療體系專業化的新願景",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/792.html#here"
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/790.html#here"
     },
     {
       "id": "5976222d7829",
@@ -685,14 +685,14 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/69.html"
     },
     {
-      "id": "f33886bda428",
-      "title": "【公告】學會進行辦公室搬遷作業...",
+      "id": "1cfee8fade00",
+      "title": "誠徵醫學會秘書...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/66.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
     },
     {
       "id": "dff9d384d956",
@@ -1385,6 +1385,16 @@
       "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
     },
     {
+      "id": "e0909b9c6b4d",
+      "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1085.html"
+    },
+    {
       "id": "edc0d9a86ef8",
       "title": "恭賀~~~~本會第11屆行政委員會委員、衛生福利部臺中醫院開刀房副護理長暨麻醉專科護理師許芷寧委員，榮獲今年「臨床護理價值典範100」殊榮",
       "source": "台灣麻醉專科護理學會",
@@ -1393,16 +1403,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/news_info.asp?/1083.html"
-    },
-    {
-      "id": "a28a9b19cf1b",
-      "title": "第十二屆監事(含候補監事)補選公告~~~更新通知",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1080.html"
     },
     {
       "id": "b7d3ba88a411",
@@ -1935,6 +1935,16 @@
       "url": "https://www.ntuh.gov.tw"
     },
     {
+      "id": "a5c9190b67c3",
+      "title": "臺大醫院131週年院慶舉辦數位與智慧醫療國際研討會 聚焦機器人與AI創新應用 攜手國際專家共創智慧醫療新未來",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/News.action?q_type=-1&q_itemCode=19059"
+    },
+    {
       "id": "ed2ee3e5b76a",
       "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
       "source": "臺大兒童醫院",
@@ -1943,16 +1953,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "5bb633d2fb9b",
-      "title": "臺大醫院115年度母親節節慶關懷活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
     },
     {
       "id": "ed1866c01f90",
@@ -3002,7 +3002,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100282.short?rss=1"
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/7/e107583?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3033,6 +3033,26 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_2"
+    },
+    {
+      "id": "baa0e113e972",
+      "title": "【免費視訊線上會議】ACLS Update 2025：學術與實戰的專家觀點115.07.15 中午12:00-13:00",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-15",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/810.html#here"
+    },
+    {
+      "id": "66b6e77dd463",
+      "title": "【2026第十二屆全國呼吸道插管暨心肺復甦術競賽開放報名】",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-15",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260715174415"
     },
     {
       "id": "db6a425d97f3",
@@ -3093,16 +3113,6 @@
       "date": "2026-07-09",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1621"
-    },
-    {
-      "id": "535915b17247",
-      "title": "【徵求推薦】ASEM Education & Research Champion 候選人",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1622"
     },
     {
       "id": "fe05ebc02ad9",
@@ -3423,26 +3433,6 @@
       "date": "2026-06-18",
       "deadline": null,
       "url": "https://www.pediatr.org.tw/news/content.php?id=5169"
-    },
-    {
-      "id": "aaa58169d3b5",
-      "title": "轉知-台灣家庭醫學醫學會-「醫事人員急性病毒性肝炎防治教育訓練」課程，敬請踴躍參加。",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-15",
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/content.php?id=5173&page=1"
-    },
-    {
-      "id": "5fe62fd625c4",
-      "title": "當計畫遇上現實：從美式足球看災害應變中的「調整」能力",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-06-15",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/06/blog-post.html"
     }
   ]
 }
