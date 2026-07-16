@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Thu, 16 Jul 2026 15:27:34 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 20:47:20 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【消息】最優先，不一定是最重傷：重新思考檢傷分類的真正意義</title>
@@ -166,6 +166,14 @@
     <pubDate>2026-08-01</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】NRP新生兒高級救命術訓練（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】年度學術研討會-115.8.2(日) 第一天（原7/11改8/2）</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4596fa6fe70547e890686fb6e5cd0f95</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4596fa6fe70547e890686fb6e5cd0f95</guid>
+    <pubDate>2026-08-02</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【課程】年度學術研討會-115.8.2(日) 第一天（原7/11改8/2）（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
     <title>【課程】2026年新生兒高級救命術</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣急救加護醫學會 - 台灣學會</category>
     <description>【課程】&lt;即日開放報名&gt;115年高級心臟救命術指導員訓練課程(ACLS Instructor Course)（來源：台灣急救加護醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】即日開放報名!【ACLS聯委會課程】2025 ACLS Update Course-中3/14.南3/21. 北4/18&amp;5/16(共4場次)</title>
-    <link>https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here</link>
-    <guid>https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急救加護醫學會 - 台灣學會</category>
-    <description>【課程】即日開放報名!【ACLS聯委會課程】2025 ACLS Update Course-中3/14.南3/21. 北4/18&amp;5/16(共4場次)（來源：台灣急救加護醫學會）</description>
   </item>
 </channel>
 </rss>
