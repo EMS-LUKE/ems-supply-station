@@ -1,19 +1,9 @@
 {
-  "updated": "2026-07-16T20:47:20.165402+00:00",
-  "count": 344,
-  "course_count": 189,
+  "updated": "2026-07-17T00:22:28.362934+00:00",
+  "count": 345,
+  "course_count": 190,
   "news_count": 155,
   "items": [
-    {
-      "id": "7e247cbf742b",
-      "title": "最優先，不一定是最重傷：重新思考檢傷分類的真正意義",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-07-16",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_16.html"
-    },
     {
       "id": "6c7acf9af5b5",
       "title": "【重症聯甄】Holistic and Patient-Centered Critical Care 115.07.18 國泰人壽大樓B1國際會議廳",
@@ -443,6 +433,16 @@
       "date": "2026-09-20",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
+    },
+    {
+      "id": "df5070bf548e",
+      "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-21",
+      "deadline": "2026-09-21",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33173"
     },
     {
       "id": "5ea18ba7e4da",
@@ -3043,6 +3043,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_2"
+    },
+    {
+      "id": "7e247cbf742b",
+      "title": "最優先，不一定是最重傷：重新思考檢傷分類的真正意義",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-07-16",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_16.html"
     },
     {
       "id": "baa0e113e972",
