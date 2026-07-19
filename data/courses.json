@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T07:58:04.704000+00:00",
+  "updated": "2026-07-19T12:13:22.082344+00:00",
   "count": 345,
   "course_count": 189,
   "news_count": 156,
@@ -1085,16 +1085,6 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "16c79580692e",
-      "title": "115年「友善性病門診專業醫師」基礎認證課程",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/1961118b165c410bab8b819ba72866db"
-    },
-    {
       "id": "127cbc57f2a4",
       "title": "115年流感疫苗教育訓練 (中國醫)",
       "source": "台灣家庭醫學醫學會",
@@ -1133,6 +1123,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/60f2811a8a334e34a0a48b721403a86d"
+    },
+    {
+      "id": "16c79580692e",
+      "title": "115年「友善性病門診專業醫師」基礎認證課程",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/1961118b165c410bab8b819ba72866db"
     },
     {
       "id": "8b2491663813",
