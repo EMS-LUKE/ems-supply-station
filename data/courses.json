@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-20T00:22:47.881122+00:00",
-  "count": 345,
-  "course_count": 189,
+  "updated": "2026-07-20T12:10:23.383029+00:00",
+  "count": 346,
+  "course_count": 190,
   "news_count": 156,
   "items": [
     {
@@ -13,6 +13,16 @@
       "date": "2026-07-20",
       "deadline": "2026-07-20",
       "url": "https://www.sem.org.tw/Activity/A/Details/32964"
+    },
+    {
+      "id": "2e87b04a4596",
+      "title": "【1150725梯次】中區初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-20",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260720174101"
     },
     {
       "id": "8aa4ac76bb62",
@@ -205,8 +215,8 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28309"
     },
     {
-      "id": "fc8e9589eb9e",
-      "title": "[本活動已延期至8/8] 接軌國際共譜新章~波士頓的P A S：龍蝦、紅襪隊時空交織的知識微醺饗宴",
+      "id": "4553302df918",
+      "title": "接軌國際共譜新章~波士頓的P A S：龍蝦、紅襪隊時空交織的知識微醺饗宴",
       "source": "台灣新生兒科醫學會",
       "cat": "台灣學會",
       "type": "course",
@@ -1175,14 +1185,14 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b761335536ac4044b6bda11209651aba"
     },
     {
-      "id": "17196c2d9cd2",
-      "title": "第18屆理監事選舉推薦公告.pdf",
+      "id": "ec9baebc8c4d",
+      "title": "實踐韌性深耕再生｜【報名中】2026年會暨國際學術研討會",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.burn.org.tw/attachments/article/302/第18屆理監事選舉推薦公告.pdf"
+      "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
     },
     {
       "id": "2ebdb1828f3d",
@@ -2105,14 +2115,14 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "98860142062c",
-      "title": "Headlines",
+      "id": "c43042ee02ee",
+      "title": "MO Temple Donates Ambulance to Israel in Remembrance of Shooting Victims",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/"
+      "url": "https://www.jems.com/news/mo-temple-donates-ambulance-to-israel-in-remembrance-of-shooting-victims/"
     },
     {
       "id": "cc05242f9202",
@@ -2255,6 +2265,26 @@
       "url": "https://www.erc.edu/education/for-professionals/course-types/epals/"
     },
     {
+      "id": "2df98071b351",
+      "title": "2026 Swift Water Rescue Post-Conference",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org"
+    },
+    {
+      "id": "a48a802d78f5",
+      "title": "Events",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org/Shared_Content/Events/Events_List.aspx"
+    },
+    {
       "id": "f54a091f6a36",
       "title": "2026 WMS Summer Conference In-Person",
       "source": "Wilderness Medical Society",
@@ -2283,26 +2313,6 @@
       "date": null,
       "deadline": null,
       "url": "https://wms.org"
-    },
-    {
-      "id": "2df98071b351",
-      "title": "2026 Swift Water Rescue Post-Conference",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org"
-    },
-    {
-      "id": "a48a802d78f5",
-      "title": "Events",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org/Shared_Content/Events/Events_List.aspx"
     },
     {
       "id": "d7c182893afb",
@@ -3045,16 +3055,6 @@
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260717151812"
     },
     {
-      "id": "99e32a315ad1",
-      "title": "【1150725梯次】平日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-17",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260717150842"
-    },
-    {
       "id": "7e247cbf742b",
       "title": "最優先，不一定是最重傷：重新思考檢傷分類的真正意義",
       "source": "台灣緊急應變管理協會",
@@ -3273,6 +3273,16 @@
       "date": "2026-07-02",
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/37.html"
+    },
+    {
+      "id": "109e71ffbc86",
+      "title": "轉知-衛生福利部疾病管制署與社團法人台灣愛滋病護理學會合作建立之「性傳染病伴侶匿名第三方告知平台」，自115年7月1日起上線提供服務。",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-01",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0519e0b10b584182aafd21eadfd0b91e"
     },
     {
       "id": "f8a5f0e9c346",

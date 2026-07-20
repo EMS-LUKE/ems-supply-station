@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Mon, 20 Jul 2026 00:22:47 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 12:10:23 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院</title>
@@ -14,6 +14,14 @@
     <pubDate>2026-07-20</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】【1150725梯次】中區初級救護技術員(EMT-1) 教育訓練 上課資訊</title>
+    <link>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260720174101</link>
+    <guid>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260720174101</guid>
+    <pubDate>2026-07-20</pubDate>
+    <category>中華緊急救護技術員協會 - 台灣協會</category>
+    <description>【課程】【1150725梯次】中區初級救護技術員(EMT-1) 教育訓練 上課資訊（來源：中華緊急救護技術員協會）</description>
   </item>
   <item>
     <title>【課程】「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【高屏區】 衛生福利部、急診醫學會</title>
@@ -168,12 +176,12 @@
     <description>【課程】新生兒高級急救術(NRP)訓練課程（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
-    <title>【課程】[本活動已延期至8/8] 接軌國際共譜新章~波士頓的P A S：龍蝦、紅襪隊時空交織的知識微醺饗宴</title>
+    <title>【課程】接軌國際共譜新章~波士頓的P A S：龍蝦、紅襪隊時空交織的知識微醺饗宴</title>
     <link>https://tsn-neonatology.com/event_content.aspx?id=28318</link>
     <guid>https://tsn-neonatology.com/event_content.aspx?id=28318</guid>
     <pubDate>2026-08-08</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】[本活動已延期至8/8] 接軌國際共譜新章~波士頓的P A S：龍蝦、紅襪隊時空交織的知識微醺饗宴（來源：台灣新生兒科醫學會）</description>
+    <description>【課程】接軌國際共譜新章~波士頓的P A S：龍蝦、紅襪隊時空交織的知識微醺饗宴（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】新生兒高級救命術(NRP)</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣急救加護醫學會 - 台灣學會</category>
     <description>【消息】【Call For ABSTRACT&amp;Registration】SECC Congress 2026 Taipei OCT. 3-4 台大醫院國際會議中心（來源：台灣急救加護醫學會）</description>
-  </item>
-  <item>
-    <title>【消息】【新聞稿】重症醫學正式列為部定專科：醫療體系專業化的新願景</title>
-    <link>https://www.seccm.org.tw/orgNews/News_info.asp?/790.html#here</link>
-    <guid>https://www.seccm.org.tw/orgNews/News_info.asp?/790.html#here</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急救加護醫學會 - 台灣學會</category>
-    <description>【消息】【新聞稿】重症醫學正式列為部定專科：醫療體系專業化的新願景（來源：台灣急救加護醫學會）</description>
   </item>
 </channel>
 </rss>
