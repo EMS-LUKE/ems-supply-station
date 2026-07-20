@@ -5,16 +5,8 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Sun, 19 Jul 2026 18:16:44 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 00:22:47 +0000</lastBuildDate>
   <ttl>180</ttl>
-  <item>
-    <title>【課程】家醫學會-115.7.19新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台北</title>
-    <link>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3</link>
-    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3</guid>
-    <pubDate>2026-07-19</pubDate>
-    <category>台灣家庭醫學醫學會 - 台灣學會</category>
-    <description>【課程】家醫學會-115.7.19新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台北（來源：台灣家庭醫學醫學會）</description>
-  </item>
   <item>
     <title>【課程】115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院</title>
     <link>https://www.sem.org.tw/Activity/A/Details/32964</link>
@@ -486,6 +478,14 @@
     <pubDate>None</pubDate>
     <category>台灣急救加護醫學會 - 台灣學會</category>
     <description>【消息】【Call For ABSTRACT&amp;Registration】SECC Congress 2026 Taipei OCT. 3-4 台大醫院國際會議中心（來源：台灣急救加護醫學會）</description>
+  </item>
+  <item>
+    <title>【消息】【新聞稿】重症醫學正式列為部定專科：醫療體系專業化的新願景</title>
+    <link>https://www.seccm.org.tw/orgNews/News_info.asp?/790.html#here</link>
+    <guid>https://www.seccm.org.tw/orgNews/News_info.asp?/790.html#here</guid>
+    <pubDate>None</pubDate>
+    <category>台灣急救加護醫學會 - 台灣學會</category>
+    <description>【消息】【新聞稿】重症醫學正式列為部定專科：醫療體系專業化的新願景（來源：台灣急救加護醫學會）</description>
   </item>
 </channel>
 </rss>

@@ -1,19 +1,9 @@
 {
-  "updated": "2026-07-19T18:16:44.148165+00:00",
+  "updated": "2026-07-20T00:22:47.881122+00:00",
   "count": 345,
   "course_count": 189,
   "news_count": 156,
   "items": [
-    {
-      "id": "69102b52f5ee",
-      "title": "家醫學會-115.7.19新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台北",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-19",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3"
-    },
     {
       "id": "6581b870efd0",
       "title": "115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院",
@@ -3013,6 +3003,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_2"
+    },
+    {
+      "id": "69102b52f5ee",
+      "title": "家醫學會-115.7.19新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台北",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-19",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3"
     },
     {
       "id": "6c7acf9af5b5",
