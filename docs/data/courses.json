@@ -1,39 +1,9 @@
 {
-  "updated": "2026-07-20T20:21:19.152165+00:00",
+  "updated": "2026-07-21T00:21:23.798636+00:00",
   "count": 347,
   "course_count": 190,
   "news_count": 157,
   "items": [
-    {
-      "id": "6581b870efd0",
-      "title": "115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-20",
-      "deadline": "2026-07-20",
-      "url": "https://www.sem.org.tw/Activity/A/Details/32964"
-    },
-    {
-      "id": "2e87b04a4596",
-      "title": "【1150725梯次】中區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-20",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260720174101"
-    },
-    {
-      "id": "8aa4ac76bb62",
-      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【高屏區】 衛生福利部、急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-22",
-      "deadline": "2026-07-22",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33136"
-    },
     {
       "id": "879acea73113",
       "title": "新生兒（含早產兒）診療及 照護 研討暨教學",
@@ -43,6 +13,16 @@
       "date": "2026-07-22",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28326"
+    },
+    {
+      "id": "6eaabf54559d",
+      "title": "急診外傷訓練(ETTC)課程 國立臺北護理健康大學",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33057"
     },
     {
       "id": "f2d34a9b9a5d",
@@ -143,6 +123,16 @@
       "date": "2026-07-31",
       "deadline": "2026-07-31",
       "url": "https://www.sem.org.tw/Activity/A/Details/33137"
+    },
+    {
+      "id": "75a5f3c487e9",
+      "title": "外傷繼續教育訓練課程 國防醫學大學三軍總醫院澎湖分院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-31",
+      "deadline": "2026-07-31",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33115"
     },
     {
       "id": "d68ffe3c4550",
@@ -3023,6 +3013,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_2"
+    },
+    {
+      "id": "2e87b04a4596",
+      "title": "【1150725梯次】中區初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-20",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260720174101"
     },
     {
       "id": "69102b52f5ee",
