@@ -1,9 +1,19 @@
 {
-  "updated": "2026-07-21T00:21:23.798636+00:00",
-  "count": 347,
-  "course_count": 190,
-  "news_count": 157,
+  "updated": "2026-07-21T10:59:21.008642+00:00",
+  "count": 344,
+  "course_count": 189,
+  "news_count": 155,
   "items": [
+    {
+      "id": "a548737c9fd5",
+      "title": "風險分析中的共同語言（一）《分數可以量化風險，溝通才能理解風險》",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-07-21",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_21.html"
+    },
     {
       "id": "879acea73113",
       "title": "新生兒（含早產兒）診療及 照護 研討暨教學",
@@ -645,16 +655,6 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/71.html"
     },
     {
-      "id": "2858ff163761",
-      "title": "第9梯次及第10次ATLS再認證課程如期辦理...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/70.html"
-    },
-    {
       "id": "1cfee8fade00",
       "title": "誠徵醫學會秘書...",
       "source": "台灣外傷醫學會",
@@ -665,34 +665,14 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
     },
     {
-      "id": "dff9d384d956",
-      "title": "亞洲華人醫務管理交流學會舉辦【「高齡健康處方：共創跨域照護新模式」研討會】...",
+      "id": "5064b7f27a8e",
+      "title": "優化台灣外傷照護體系：台灣外傷醫學會針對北捷事件之學術研討總結報告...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/53.html"
-    },
-    {
-      "id": "aaeadfa3e4a8",
-      "title": "台灣醫務管理學會舉辦【花蓮慈濟醫院-韌性‧永續‧智慧醫院深度巡禮】...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/52.html"
-    },
-    {
-      "id": "904c14e2c14a",
-      "title": "高醫大附醫舉辦【STRONG強韌網絡：高屏澎重大外傷區域聯訪成果發表會】...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/39.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/49.html"
     },
     {
       "id": "86005a8326cc",
@@ -2022,7 +2002,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/emson-advocacy/__trashed/"
+      "url": "https://www.hear-aed.com.tw/news/emson-advocacy/workplace-ohca-aed/"
     },
     {
       "id": "c302a6b91021",
@@ -2113,16 +2093,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "c43042ee02ee",
-      "title": "MO Temple Donates Ambulance to Israel in Remembrance of Shooting Victims",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/mo-temple-donates-ambulance-to-israel-in-remembrance-of-shooting-victims/"
     },
     {
       "id": "cc05242f9202",
@@ -2982,7 +2952,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/7/e107583?rss=1"
+      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225542v1?rss=1"
     },
     {
       "id": "8d656ad77115",
