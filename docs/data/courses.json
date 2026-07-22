@@ -1,29 +1,9 @@
 {
-  "updated": "2026-07-21T21:52:10.501614+00:00",
+  "updated": "2026-07-22T09:24:24.410367+00:00",
   "count": 344,
-  "course_count": 189,
-  "news_count": 155,
+  "course_count": 190,
+  "news_count": 154,
   "items": [
-    {
-      "id": "a548737c9fd5",
-      "title": "風險分析中的共同語言（一）《分數可以量化風險，溝通才能理解風險》",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-07-21",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_21.html"
-    },
-    {
-      "id": "879acea73113",
-      "title": "新生兒（含早產兒）診療及 照護 研討暨教學",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-22",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28326"
-    },
     {
       "id": "6eaabf54559d",
       "title": "急診外傷訓練(ETTC)課程 國立臺北護理健康大學",
@@ -435,6 +415,16 @@
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/793.html#here"
     },
     {
+      "id": "31a3e058dad0",
+      "title": "115年秋季學術研討會...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": "2026-09-07",
+      "url": "http://www.trauma.org.tw/active/index.asp?/26.html"
+    },
+    {
       "id": "b17460e903a3",
       "title": "2026/10/03-04(六、日)台灣實證醫學學會種子師資培訓工作坊2026-03-22",
       "source": "台灣實證醫學學會",
@@ -625,6 +615,16 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
+      "id": "2312ed696d10",
+      "title": "115年秋季學術研會，歡迎踴躍報名...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/77.html"
+    },
+    {
       "id": "1923f6f766a9",
       "title": "【ATLS課表公告】115年度第5梯次ATLS課程（淡水馬偕醫院）...",
       "source": "台灣外傷醫學會",
@@ -663,16 +663,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
-    },
-    {
-      "id": "5064b7f27a8e",
-      "title": "優化台灣外傷照護體系：台灣外傷醫學會針對北捷事件之學術研討總結報告...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/49.html"
     },
     {
       "id": "86005a8326cc",
@@ -1305,6 +1295,16 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
     },
     {
+      "id": "41a38fc41bcd",
+      "title": "代登~ 2026 臺灣心臟胸腔暨血管麻醉醫學會 年會暨國際學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/797.html"
+    },
+    {
       "id": "787fcef26734",
       "title": "代登~~115 年 診所病人安全年度目標推廣課程（美醫視訊場）",
       "source": "台灣麻醉專科護理學會",
@@ -1313,16 +1313,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/795.html"
-    },
-    {
-      "id": "c6c9241645a1",
-      "title": "115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/794.html"
     },
     {
       "id": "7f4077aab8c4",
@@ -2952,7 +2942,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225542v1?rss=1"
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/7/e109259?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -2983,6 +2973,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/7"
+    },
+    {
+      "id": "a548737c9fd5",
+      "title": "風險分析中的共同語言（一）《分數可以量化風險，溝通才能理解風險》",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-07-21",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_21.html"
     },
     {
       "id": "2e87b04a4596",
