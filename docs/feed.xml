@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Wed, 22 Jul 2026 09:24:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 17:07:10 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】急診外傷訓練(ETTC)課程 國立臺北護理健康大學</title>
@@ -174,6 +174,14 @@
     <pubDate>2026-08-08</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】新生兒高級救命術(NRP)（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【消息】上課通知-115.8.12-StrokePrevention in AF : What do you need to know ?-step3共病管理</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ea0c3905c93748799d0f8ffb3bdb639e</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ea0c3905c93748799d0f8ffb3bdb639e</guid>
+    <pubDate>2026-08-12</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【消息】上課通知-115.8.12-StrokePrevention in AF : What do you need to know ?-step3共病管理（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
     <title>【課程】2026外傷教育課程-北部地區(Ⅲ)...</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣急救加護醫學會 - 台灣學會</category>
     <description>【消息】【Call For ABSTRACT&amp;Registration】SECC Congress 2026 Taipei OCT. 3-4 台大醫院國際會議中心（來源：台灣急救加護醫學會）</description>
-  </item>
-  <item>
-    <title>【消息】【新聞稿】重症醫學正式列為部定專科：醫療體系專業化的新願景</title>
-    <link>https://www.seccm.org.tw/orgNews/News_info.asp?/790.html#here</link>
-    <guid>https://www.seccm.org.tw/orgNews/News_info.asp?/790.html#here</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急救加護醫學會 - 台灣學會</category>
-    <description>【消息】【新聞稿】重症醫學正式列為部定專科：醫療體系專業化的新願景（來源：台灣急救加護醫學會）</description>
   </item>
 </channel>
 </rss>

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-22T09:24:24.410367+00:00",
-  "count": 344,
+  "updated": "2026-07-22T17:07:10.812460+00:00",
+  "count": 345,
   "course_count": 190,
-  "news_count": 154,
+  "news_count": 155,
   "items": [
     {
       "id": "6eaabf54559d",
@@ -213,6 +213,16 @@
       "date": "2026-08-08",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28336"
+    },
+    {
+      "id": "8e7c4c5119d7",
+      "title": "上課通知-115.8.12-StrokePrevention in AF : What do you need to know ?-step3共病管理",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-12",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ea0c3905c93748799d0f8ffb3bdb639e"
     },
     {
       "id": "42dd57436370",
@@ -1095,26 +1105,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/1961118b165c410bab8b819ba72866db"
     },
     {
-      "id": "8b2491663813",
-      "title": "【重要公告】年度學術研討會，7.11週六課程，因「颱風延期辦理」及「線上報名」事宜",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0038a698d1644da3a81e673bda1739eb"
-    },
-    {
-      "id": "861d0e7366e2",
-      "title": "【重要公告】年度學術研討會，7.12週日課程，已繳費報名，但未能到場之處理原則",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/33fc238f2ee64e109caee3ef2a2b736a"
-    },
-    {
       "id": "a850421e172e",
       "title": "【重要公告】轉知衛福部公告修正「家庭醫學科專科醫師甄審原則」，並自即日生效。",
       "source": "台灣家庭醫學醫學會",
@@ -1143,6 +1133,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b761335536ac4044b6bda11209651aba"
+    },
+    {
+      "id": "8b2491663813",
+      "title": "【重要公告】年度學術研討會，7.11週六課程，因「颱風延期辦理」及「線上報名」事宜",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0038a698d1644da3a81e673bda1739eb"
+    },
+    {
+      "id": "861d0e7366e2",
+      "title": "【重要公告】年度學術研討會，7.12週日課程，已繳費報名，但未能到場之處理原則",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/33fc238f2ee64e109caee3ef2a2b736a"
     },
     {
       "id": "ec9baebc8c4d",
