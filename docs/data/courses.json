@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-23T09:22:23.404082+00:00",
-  "count": 344,
-  "course_count": 190,
-  "news_count": 154,
+  "updated": "2026-07-23T17:17:08.581961+00:00",
+  "count": 346,
+  "course_count": 191,
+  "news_count": 155,
   "items": [
     {
       "id": "1aebc815769d",
@@ -143,6 +143,16 @@
       "date": "2026-08-01",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28340"
+    },
+    {
+      "id": "d7a775c3d190",
+      "title": "【活動異動通知】年度學術研討會-115.8.2(日) 第一天（原7/11改8/2）",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-02",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4596fa6fe70547e890686fb6e5cd0f95"
     },
     {
       "id": "ad1568f14951",
@@ -2103,6 +2113,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "d46db9198342",
+      "title": "Venezuela Confirms Three People Have Died of Hantavirus Infections, Two More Deaths Suspected",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/venezuela-confirms-three-people-have-died-of-hantavirus-infections-two-more-deaths-suspected/"
     },
     {
       "id": "cc05242f9202",
