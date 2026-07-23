@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-22T21:51:35.264997+00:00",
-  "count": 345,
+  "updated": "2026-07-23T09:22:23.404082+00:00",
+  "count": 344,
   "course_count": 190,
-  "news_count": 155,
+  "news_count": 154,
   "items": [
     {
-      "id": "6eaabf54559d",
-      "title": "急診外傷訓練(ETTC)課程 國立臺北護理健康大學",
-      "source": "台灣急診醫學會",
+      "id": "1aebc815769d",
+      "title": "【徵文公告】「新生兒照護中的倫理相遇」敘事醫學徵文",
+      "source": "台灣新生兒科醫學會",
       "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
+      "type": "news",
+      "date": "2026-07-23",
       "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33057"
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=565"
     },
     {
       "id": "f2d34a9b9a5d",
@@ -123,6 +123,16 @@
       "date": "2026-07-31",
       "deadline": "2026-07-31",
       "url": "https://www.sem.org.tw/Activity/B/Details/33115"
+    },
+    {
+      "id": "60cd9568bd1a",
+      "title": "115年度化學物質緊急事件醫療應變訓練 衛生福利部東區緊急醫療應變中心、佛教慈濟醫療財團法人花蓮慈濟醫院、台東馬偕紀念醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-31",
+      "deadline": "2026-07-31",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33107"
     },
     {
       "id": "d68ffe3c4550",
@@ -1305,6 +1315,16 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
     },
     {
+      "id": "10a585ef7f40",
+      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
+    },
+    {
       "id": "41a38fc41bcd",
       "title": "代登~ 2026 臺灣心臟胸腔暨血管麻醉醫學會 年會暨國際學術研討會",
       "source": "台灣麻醉專科護理學會",
@@ -1313,16 +1333,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/797.html"
-    },
-    {
-      "id": "787fcef26734",
-      "title": "代登~~115 年 診所病人安全年度目標推廣課程（美醫視訊場）",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/795.html"
     },
     {
       "id": "7f4077aab8c4",
@@ -2952,7 +2962,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/7/e109259?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100374.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3433,26 +3443,6 @@
       "date": "2026-06-24",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1611"
-    },
-    {
-      "id": "d893523f8feb",
-      "title": "【衛教】第一份送給寶寶的健康禮物，從認識呼吸道細胞融合病毒（RSV）開始！",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-22",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=560"
-    },
-    {
-      "id": "8dc8234f3455",
-      "title": "從設備到系統：6-L災害整備模型",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-06-22",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/06/6-l.html"
     }
   ]
 }
