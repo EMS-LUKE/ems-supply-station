@@ -1,18 +1,28 @@
 {
-  "updated": "2026-07-23T21:50:25.239343+00:00",
-  "count": 346,
-  "course_count": 191,
+  "updated": "2026-07-24T09:18:19.154462+00:00",
+  "count": 347,
+  "course_count": 192,
   "news_count": 155,
   "items": [
     {
-      "id": "1aebc815769d",
-      "title": "【徵文公告】「新生兒照護中的倫理相遇」敘事醫學徵文",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-23",
+      "id": "6fa42b452958",
+      "title": "【1150801梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-24",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=565"
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260723145717"
+    },
+    {
+      "id": "5808f215b051",
+      "title": "【員郭醫院】醫院緊急應變管理課程",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-24",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_24.html"
     },
     {
       "id": "f2d34a9b9a5d",
@@ -105,6 +115,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/32647"
     },
     {
+      "id": "b6b63f9de79d",
+      "title": "化學災害醫療應變醫護人員進階教育訓練 臺灣大學醫學院附設醫院新竹臺大分院新竹醫院、臺灣大學醫學院附設醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-29",
+      "deadline": "2026-07-29",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33019"
+    },
+    {
       "id": "f6098c9071b3",
       "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【中區】 衛生福利部、社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -123,16 +143,6 @@
       "date": "2026-07-31",
       "deadline": "2026-07-31",
       "url": "https://www.sem.org.tw/Activity/B/Details/33115"
-    },
-    {
-      "id": "60cd9568bd1a",
-      "title": "115年度化學物質緊急事件醫療應變訓練 衛生福利部東區緊急醫療應變中心、佛教慈濟醫療財團法人花蓮慈濟醫院、台東馬偕紀念醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-31",
-      "deadline": "2026-07-31",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33107"
     },
     {
       "id": "d68ffe3c4550",
@@ -2265,16 +2275,6 @@
       "url": "https://www.erc.edu/education/for-professionals/course-types/epals/"
     },
     {
-      "id": "2df98071b351",
-      "title": "2026 Swift Water Rescue Post-Conference",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org"
-    },
-    {
       "id": "a48a802d78f5",
       "title": "Events",
       "source": "Wilderness Medical Society",
@@ -2283,6 +2283,16 @@
       "date": null,
       "deadline": null,
       "url": "https://wms.org/Shared_Content/Events/Events_List.aspx"
+    },
+    {
+      "id": "2df98071b351",
+      "title": "2026 Swift Water Rescue Post-Conference",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org"
     },
     {
       "id": "f54a091f6a36",
@@ -2982,7 +2992,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100374.short?rss=1"
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/7/e119564?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3013,6 +3023,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/7"
+    },
+    {
+      "id": "1aebc815769d",
+      "title": "【徵文公告】「新生兒照護中的倫理相遇」敘事醫學徵文",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=565"
     },
     {
       "id": "a548737c9fd5",
@@ -3063,16 +3083,6 @@
       "date": "2026-07-18",
       "deadline": null,
       "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
-    },
-    {
-      "id": "71d85baf6d6e",
-      "title": "【1150725梯次】中區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-17",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260717151812"
     },
     {
       "id": "7e247cbf742b",
