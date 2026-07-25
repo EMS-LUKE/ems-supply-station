@@ -1,29 +1,9 @@
 {
-  "updated": "2026-07-24T22:05:57.920170+00:00",
-  "count": 347,
-  "course_count": 192,
-  "news_count": 155,
+  "updated": "2026-07-25T02:10:26.629889+00:00",
+  "count": 350,
+  "course_count": 196,
+  "news_count": 154,
   "items": [
-    {
-      "id": "6fa42b452958",
-      "title": "【1150801梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-24",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260723145717"
-    },
-    {
-      "id": "5808f215b051",
-      "title": "【員郭醫院】醫院緊急應變管理課程",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-24",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_24.html"
-    },
     {
       "id": "f2d34a9b9a5d",
       "title": "【重症聯甄】超值價!即日開放報名~急救重症傷口皮膚照護工作坊-115.07.25 秀傳紀念醫院",
@@ -63,16 +43,6 @@
       "date": "2026-07-25",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "10cb223b7d6d",
-      "title": "母乳哺育種子講師繼續教育訓練「創意教學設計與實作」工作坊",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28279"
     },
     {
       "id": "7a9d938e31f6",
@@ -115,6 +85,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/32647"
     },
     {
+      "id": "10cb223b7d6d",
+      "title": "母乳哺育種子講師繼續教育訓練「創意教學設計與實作」工作坊",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-28",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28280"
+    },
+    {
       "id": "b6b63f9de79d",
       "title": "化學災害醫療應變醫護人員進階教育訓練 臺灣大學醫學院附設醫院新竹臺大分院新竹醫院、臺灣大學醫學院附設醫院",
       "source": "台灣急診醫學會",
@@ -123,6 +103,16 @@
       "date": "2026-07-29",
       "deadline": "2026-07-29",
       "url": "https://www.sem.org.tw/Activity/B/Details/33019"
+    },
+    {
+      "id": "80faab1d5a8b",
+      "title": "新生兒呼吸窘迫",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-29",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28322"
     },
     {
       "id": "f6098c9071b3",
@@ -143,6 +133,16 @@
       "date": "2026-07-31",
       "deadline": "2026-07-31",
       "url": "https://www.sem.org.tw/Activity/B/Details/33115"
+    },
+    {
+      "id": "f49338fbe7a8",
+      "title": "115年度家庭暴力暨性侵害防治教育訓練",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-31",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28324"
     },
     {
       "id": "d68ffe3c4550",
@@ -265,16 +265,6 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/24.html"
     },
     {
-      "id": "52a7e37fae3a",
-      "title": "新生兒高級急救術(NRP)訓練",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-15",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28329"
-    },
-    {
       "id": "79304f487d3b",
       "title": "APLS+PALS Provider Course",
       "source": "台灣新生兒科醫學會",
@@ -283,6 +273,16 @@
       "date": "2026-08-15",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28327"
+    },
+    {
+      "id": "52a7e37fae3a",
+      "title": "新生兒高級急救術(NRP)訓練",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28329"
     },
     {
       "id": "ed7881378c62",
@@ -343,6 +343,26 @@
       "date": "2026-08-23",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/A/Details/33112"
+    },
+    {
+      "id": "a7e9b7c48a09",
+      "title": "新生兒高級救命術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28269"
+    },
+    {
+      "id": "60a91704384e",
+      "title": "115年度桃園市幼兒專責醫師經驗分享交流會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28321"
     },
     {
       "id": "2164b1e70863",
@@ -3025,6 +3045,26 @@
       "url": "https://emj.bmj.com/content/43/7"
     },
     {
+      "id": "6fa42b452958",
+      "title": "【1150801梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-24",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260723145717"
+    },
+    {
+      "id": "5808f215b051",
+      "title": "【員郭醫院】醫院緊急應變管理課程",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-24",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_24.html"
+    },
+    {
       "id": "1aebc815769d",
       "title": "【徵文公告】「新生兒照護中的倫理相遇」敘事醫學徵文",
       "source": "台灣新生兒科醫學會",
@@ -3463,16 +3503,6 @@
       "date": "2026-06-26",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/06/blog-post_26.html"
-    },
-    {
-      "id": "cdd928a87676",
-      "title": "《在宅急症照護手冊》",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-24",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1611"
     }
   ]
 }
