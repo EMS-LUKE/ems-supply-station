@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-26T02:14:43.174316+00:00",
-  "count": 351,
-  "course_count": 196,
+  "updated": "2026-07-26T06:00:34.829894+00:00",
+  "count": 352,
+  "course_count": 197,
   "news_count": 155,
   "items": [
     {
@@ -343,6 +343,16 @@
       "date": "2026-08-29",
       "deadline": "2026-08-17",
       "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
+    },
+    {
+      "id": "b42f0563e908",
+      "title": "兒童手持超音波教學工作坊",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-29",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28333"
     },
     {
       "id": "032e497ba690",
