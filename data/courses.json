@@ -1,58 +1,18 @@
 {
-  "updated": "2026-07-25T21:53:34.524533+00:00",
-  "count": 350,
+  "updated": "2026-07-26T02:14:43.174316+00:00",
+  "count": 351,
   "course_count": 196,
-  "news_count": 154,
+  "news_count": 155,
   "items": [
     {
-      "id": "f2d34a9b9a5d",
-      "title": "【重症聯甄】超值價!即日開放報名~急救重症傷口皮膚照護工作坊-115.07.25 秀傳紀念醫院",
-      "source": "台灣急救加護醫學會",
+      "id": "e8a2cd2fe293",
+      "title": "轉知「SECC Congress 2026 Taipei 暨2026急重症聯合學術年會 ＆ 第十屆亞太早期重症復健國際會議(APEM 2026)」",
+      "source": "台灣急診醫學會",
       "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
+      "type": "news",
+      "date": "2026-07-26",
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/804.html#here"
-    },
-    {
-      "id": "5bd23fc6becf",
-      "title": "2026 Ai實證簡報力工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/4cb9057694d6a3a1b49e6cf5da5743e2"
-    },
-    {
-      "id": "adf23d0371a6",
-      "title": "2026/07/25(六) Ai實證簡報力工作坊2026-03-21",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "f224c9d93e14",
-      "title": "2026/07/25(六) Ai實證簡報力工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "7a9d938e31f6",
-      "title": "2026.07.25 台灣運動醫學學會年度學術研討會-桃園福容A8",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
+      "url": "https://www.sem.org.tw/News/5/Details/1629"
     },
     {
       "id": "7d28d80dac53",
@@ -265,16 +225,6 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/24.html"
     },
     {
-      "id": "79304f487d3b",
-      "title": "APLS+PALS Provider Course",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-15",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28327"
-    },
-    {
       "id": "52a7e37fae3a",
       "title": "新生兒高級急救術(NRP)訓練",
       "source": "台灣新生兒科醫學會",
@@ -283,6 +233,16 @@
       "date": "2026-08-15",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28329"
+    },
+    {
+      "id": "79304f487d3b",
+      "title": "APLS+PALS Provider Course",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28327"
     },
     {
       "id": "ed7881378c62",
@@ -3043,6 +3003,56 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/7"
+    },
+    {
+      "id": "f2d34a9b9a5d",
+      "title": "【重症聯甄】超值價!即日開放報名~急救重症傷口皮膚照護工作坊-115.07.25 秀傳紀念醫院",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/804.html#here"
+    },
+    {
+      "id": "5bd23fc6becf",
+      "title": "2026 Ai實證簡報力工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/4cb9057694d6a3a1b49e6cf5da5743e2"
+    },
+    {
+      "id": "adf23d0371a6",
+      "title": "2026/07/25(六) Ai實證簡報力工作坊2026-03-21",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "f224c9d93e14",
+      "title": "2026/07/25(六) Ai實證簡報力工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "7a9d938e31f6",
+      "title": "2026.07.25 台灣運動醫學學會年度學術研討會-桃園福容A8",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
     },
     {
       "id": "6fa42b452958",
