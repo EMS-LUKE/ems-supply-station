@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-27T06:28:48.415496+00:00",
-  "count": 349,
-  "course_count": 194,
+  "updated": "2026-07-27T12:22:56.805912+00:00",
+  "count": 350,
+  "course_count": 195,
   "news_count": 155,
   "items": [
     {
@@ -915,6 +915,16 @@
       "url": "https://tamis.org.tw/activity/60"
     },
     {
+      "id": "df8d5479b72d",
+      "title": "| 🔥 2026 TAMIS 秋季學術研討會－急性心肌梗塞案例競賽 熱烈徵稿中！ 🔥 公告日期：2026 / 7 / 27",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1266"
+    },
+    {
       "id": "82fe82c9615f",
       "title": "| 心臟超音波實戰課！💪 2026 POCUS Workshop 帶你打開「影像透視眼」👀 公告日期：2026 / 2 / 11",
       "source": "台灣心肌梗塞學會",
@@ -945,6 +955,16 @@
       "url": "https://tamis.org.tw/activity/42"
     },
     {
+      "id": "4b88b52f6af4",
+      "title": "| 🏆 2026 TAMIS 心肌梗塞知識王挑戰賽 熱烈報名中！ 公告日期：2026 / 7 / 27",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1267"
+    },
+    {
       "id": "238335db9cc8",
       "title": "| 🔥 2026 TAMIS 超級心光大道｜第四場巡迴《領悟》 公告日期：2026 / 6 / 23",
       "source": "台灣心肌梗塞學會",
@@ -963,16 +983,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1258"
-    },
-    {
-      "id": "a29a7bb3eb1d",
-      "title": "| 【2026第五屆金心獎-台灣最佳心肌梗塞緊急救護員/救護團隊】甄選公告 公告日期：2026 / 6 / 5",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1257"
     },
     {
       "id": "32dbb30467e3",
