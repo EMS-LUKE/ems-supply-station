@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-27T12:22:56.805912+00:00",
-  "count": 350,
+  "updated": "2026-07-27T17:00:38.672587+00:00",
+  "count": 351,
   "course_count": 195,
-  "news_count": 155,
+  "news_count": 156,
   "items": [
     {
       "id": "e5cb7301a812",
@@ -1055,16 +1055,6 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "127cbc57f2a4",
-      "title": "115年流感疫苗教育訓練 (中國醫)",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/80c132fb475244b188de52487d9743f1"
-    },
-    {
       "id": "ab60f54af81d",
       "title": "115年流感疫苗教育訓練 (台大二)",
       "source": "台灣家庭醫學醫學會",
@@ -1095,14 +1085,24 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/60f2811a8a334e34a0a48b721403a86d"
     },
     {
-      "id": "16c79580692e",
-      "title": "115年「友善性病門診專業醫師」基礎認證課程",
+      "id": "aa839bdac71c",
+      "title": "113001-蛋白質與HMB對抗老化相關肌少醫學營養治療作用",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/1961118b165c410bab8b819ba72866db"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/baba4ad1610e4125a61bf6b840f93fe5"
+    },
+    {
+      "id": "127cbc57f2a4",
+      "title": "115年流感疫苗教育訓練 (中國醫)",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/80c132fb475244b188de52487d9743f1"
     },
     {
       "id": "a850421e172e",
@@ -2095,6 +2095,16 @@
       "url": "https://www.jems.com/news/"
     },
     {
+      "id": "c2f149c2f97e",
+      "title": "Salaries Frozen as Chattanooga (TN) Holds Up Pay Increases for Region’s 911 Operators",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/salaries-frozen-as-chattanooga-tn-holds-up-pay-increases-for-regions-911-operators/"
+    },
+    {
       "id": "cc05242f9202",
       "title": "Event & Expedition Medic Provision",
       "source": "World Extreme Medicine",
@@ -2975,14 +2985,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/7"
+      "url": "https://emj.bmj.com/content/current"
     },
     {
       "id": "e8a2cd2fe293",
