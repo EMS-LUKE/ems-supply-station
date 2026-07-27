@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-27T02:28:20.414650+00:00",
-  "count": 350,
+  "updated": "2026-07-27T06:28:48.415496+00:00",
+  "count": 349,
   "course_count": 194,
-  "news_count": 156,
+  "news_count": 155,
   "items": [
     {
       "id": "e5cb7301a812",
@@ -2085,16 +2085,6 @@
       "url": "https://www.jems.com/news/"
     },
     {
-      "id": "e64c409b4f03",
-      "title": "Girl, 16, Suffers Serious Injuries After Striking Beam Subway Surfing in NYC",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/girl-16-suffers-serious-injuries-after-striking-beam-subway-surfing-in-nyc/"
-    },
-    {
       "id": "cc05242f9202",
       "title": "Event & Expedition Medic Provision",
       "source": "World Extreme Medicine",
@@ -2952,7 +2942,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100402.short?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-338385v1?rss=1"
     },
     {
       "id": "8d656ad77115",
