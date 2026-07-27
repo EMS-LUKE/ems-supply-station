@@ -1,38 +1,18 @@
 {
-  "updated": "2026-07-26T21:59:35.999254+00:00",
-  "count": 352,
-  "course_count": 197,
-  "news_count": 155,
+  "updated": "2026-07-27T02:28:20.414650+00:00",
+  "count": 350,
+  "course_count": 194,
+  "news_count": 156,
   "items": [
     {
-      "id": "e8a2cd2fe293",
-      "title": "轉知「SECC Congress 2026 Taipei 暨2026急重症聯合學術年會 ＆ 第十屆亞太早期重症復健國際會議(APEM 2026)」",
+      "id": "e5cb7301a812",
+      "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "deadline": null,
-      "url": "https://www.sem.org.tw/News/5/Details/1629"
-    },
-    {
-      "id": "7d28d80dac53",
-      "title": "家醫學會-115.7.26新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台中",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-26",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/63191d1a1d80432bbcb62e4a26230ff5"
-    },
-    {
-      "id": "8d6f188721c0",
-      "title": "家醫學會-115.7.26新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－高雄",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-26",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/90c442593faa418b963437c028b38433"
+      "url": "https://www.sem.org.tw/News/11/Details/1631"
     },
     {
       "id": "44140ae5ad0b",
@@ -83,16 +63,6 @@
       "date": "2026-07-31",
       "deadline": "2026-07-31",
       "url": "https://www.sem.org.tw/Activity/A/Details/33137"
-    },
-    {
-      "id": "75a5f3c487e9",
-      "title": "外傷繼續教育訓練課程 國防醫學大學三軍總醫院澎湖分院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-31",
-      "deadline": "2026-07-31",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33115"
     },
     {
       "id": "f49338fbe7a8",
@@ -2982,7 +2952,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/7/e119564?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100402.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3013,6 +2983,36 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/7"
+    },
+    {
+      "id": "e8a2cd2fe293",
+      "title": "轉知「SECC Congress 2026 Taipei 暨2026急重症聯合學術年會 ＆ 第十屆亞太早期重症復健國際會議(APEM 2026)」",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-26",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/5/Details/1629"
+    },
+    {
+      "id": "7d28d80dac53",
+      "title": "家醫學會-115.7.26新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－台中",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-26",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/63191d1a1d80432bbcb62e4a26230ff5"
+    },
+    {
+      "id": "8d6f188721c0",
+      "title": "家醫學會-115.7.26新世代新冠疫苗 mNEXSPIKE 台灣上市學術研討會－高雄",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-26",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/90c442593faa418b963437c028b38433"
     },
     {
       "id": "f2d34a9b9a5d",
@@ -3503,26 +3503,6 @@
       "date": "2026-06-27",
       "deadline": null,
       "url": "https://taiwanwma.org/activities?activity=4"
-    },
-    {
-      "id": "17a1d30ba109",
-      "title": "115/6/26(五)下午台中光田醫院向上院區「全民健康保險在宅急症照護試辦計畫」教育訓練課程",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-26",
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1723"
-    },
-    {
-      "id": "8593bf6550bb",
-      "title": "花蓮慈濟醫院【以疾病照護為中心的危害脆弱度分析】工作坊",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-06-26",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/06/blog-post_26.html"
     }
   ]
 }
