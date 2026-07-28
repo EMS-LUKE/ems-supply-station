@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-28T05:47:47.313095+00:00",
-  "count": 347,
-  "course_count": 191,
-  "news_count": 156,
+  "updated": "2026-07-28T08:28:46.269441+00:00",
+  "count": 350,
+  "course_count": 193,
+  "news_count": 157,
   "items": [
     {
       "id": "44140ae5ad0b",
@@ -23,6 +23,16 @@
       "date": "2026-07-28",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260728092447"
+    },
+    {
+      "id": "5c240855df45",
+      "title": "風險分析中的共同語言（二）《透過設定風險情境來溝通，才能比較不同危害》",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-07-28",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_28.html"
     },
     {
       "id": "b6b63f9de79d",
@@ -65,8 +75,8 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28340"
     },
     {
-      "id": "d7a775c3d190",
-      "title": "【活動異動通知】年度學術研討會-115.8.2(日) 第一天（原7/11改8/2）",
+      "id": "780cbfca9dfa",
+      "title": "【活動異動通知】年度學術研討會-115.8.2(日) 第一天（原7/11改8/2）改地點：圓山大飯店",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "course",
@@ -77,6 +87,16 @@
     {
       "id": "ad1568f14951",
       "title": "年度學術研討會-115.8.2(日) 第一天（原7/11改8/2）",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-02",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4596fa6fe70547e890686fb6e5cd0f95"
+    },
+    {
+      "id": "d7a775c3d190",
+      "title": "【活動異動通知】年度學術研討會-115.8.2(日) 第一天（原7/11改8/2）",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "course",
@@ -123,6 +143,16 @@
       "date": "2026-08-02",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28316"
+    },
+    {
+      "id": "ee188b014c5b",
+      "title": "上課通知-115.8.4開啟GLP-1 RA治療對話: 高品質減重 減脂保肝－線上直播會議",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-04",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e51872e06340477eb9d2ca133a267780"
     },
     {
       "id": "214c59cf5b62",
