@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-28T16:35:54.227261+00:00",
-  "count": 349,
+  "updated": "2026-07-28T19:20:41.564842+00:00",
+  "count": 350,
   "course_count": 190,
-  "news_count": 159,
+  "news_count": 160,
   "items": [
     {
       "id": "44140ae5ad0b",
@@ -283,6 +283,16 @@
       "date": "2026-08-15",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28136"
+    },
+    {
+      "id": "737879a7520f",
+      "title": "上課通知-115.8.16 2026新竹家庭醫學周末研討會",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-16",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/a3b9d124c8af4aca9aaaeff0fe415c9b"
     },
     {
       "id": "e22b03c287f9",
