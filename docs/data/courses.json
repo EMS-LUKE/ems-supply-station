@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-28T08:28:46.269441+00:00",
-  "count": 350,
-  "course_count": 193,
-  "news_count": 157,
+  "updated": "2026-07-28T11:18:39.059143+00:00",
+  "count": 349,
+  "course_count": 190,
+  "news_count": 159,
   "items": [
     {
       "id": "44140ae5ad0b",
@@ -13,6 +13,26 @@
       "date": "2026-07-28",
       "deadline": "2026-07-13",
       "url": "https://www.sem.org.tw/Activity/A/Details/32647"
+    },
+    {
+      "id": "cdc42c4dd53f",
+      "title": "【公告】SGA 兒童健康照護政策建言書",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-28",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=566"
+    },
+    {
+      "id": "a11123f46e2b",
+      "title": "【1150806梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-28",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260728174851"
     },
     {
       "id": "3674adefbc54",
@@ -335,16 +355,6 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28333"
     },
     {
-      "id": "f8a9622624b9",
-      "title": "北區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-09",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
-    },
-    {
       "id": "032e497ba690",
       "title": "【DHA 2026】2026 International Conference on Digital Health and Medical Analytics（DHA 2026）115.09.18-20高雄科技大學",
       "source": "台灣急救加護醫學會",
@@ -645,16 +655,6 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/77.html"
     },
     {
-      "id": "1923f6f766a9",
-      "title": "【ATLS課表公告】115年度第5梯次ATLS課程（淡水馬偕醫院）...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/75.html"
-    },
-    {
       "id": "0236e4bc4186",
       "title": "115年精進外科系醫師醫療韌性訓練計畫，將於9月~12月辦理六場課程...",
       "source": "台灣外傷醫學會",
@@ -665,14 +665,14 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
     },
     {
-      "id": "0d835afef36b",
-      "title": "【課程取消舉辦公告】2026外傷教育課程-中部地區(Ⅰ)...",
+      "id": "57654c31c3ba",
+      "title": "【甄審資訊】115年專科醫師甄審公告...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/71.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
     },
     {
       "id": "1cfee8fade00",
@@ -1815,6 +1815,46 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
+      "id": "96aeeb9948f7",
+      "title": "CPR+AED",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
+    },
+    {
+      "id": "72feeda9299f",
+      "title": "[第一階段線上] CPR+AED知識課程",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/courses/cpraed/"
+    },
+    {
+      "id": "ae1bfe2ab10d",
+      "title": "http://saveanne.tw/CPRAnneTaipei12024",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRAnneTaipei12024"
+    },
+    {
+      "id": "00a1a278ed65",
+      "title": "http://saveanne.tw/CPRVisionTaichung1",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRVisionTaichung1"
+    },
+    {
       "id": "9a9995a5da7d",
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
@@ -1823,46 +1863,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
-    },
-    {
-      "id": "ed3caa0dfe34",
-      "title": "全民學急救",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/firstaid.html"
-    },
-    {
-      "id": "74618323376f",
-      "title": "無意識且沒有正常呼吸(CPR+AED)",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/f1ohca.html"
-    },
-    {
-      "id": "17dbb796794e",
-      "title": "翻轉急救｜CPR+AED",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
-    },
-    {
-      "id": "77986d080e7b",
-      "title": "校園急救教育支持計畫",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/campus.html"
     },
     {
       "id": "c9bc7d463306",
@@ -2095,6 +2095,16 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
+      "id": "3d837bd78c51",
+      "title": "LifeSaver Upgrades AL Air Medical Fleet with Three New Bell 407 Helicopters",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/lifesaver-upgrades-al-air-medical-fleet-with-three-new-bell-407-helicopters/"
+    },
+    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -2113,16 +2123,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "c2f149c2f97e",
-      "title": "Salaries Frozen as Chattanooga (TN) Holds Up Pay Increases for Region’s 911 Operators",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/salaries-frozen-as-chattanooga-tn-holds-up-pay-increases-for-regions-911-operators/"
     },
     {
       "id": "cc05242f9202",
@@ -2792,7 +2792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard"
+      "url": "https://www.tactical-medicine.com/en-ca/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard"
     },
     {
       "id": "c7e010eeb627",
@@ -2802,7 +2802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/thehemguard-r-targeted-pressure-bandage"
+      "url": "https://www.tactical-medicine.com/en-ca/products/thehemguard-r-targeted-pressure-bandage"
     },
     {
       "id": "59b9bcaf3a5b",
@@ -2812,7 +2812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/elite-bags-paramed-backpack"
+      "url": "https://www.tactical-medicine.com/en-ca/products/elite-bags-paramed-backpack"
     },
     {
       "id": "0694954ed379",
@@ -2822,7 +2822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/med-tac-als-oxygen-trauma-backpack-w-modular-pouch-system"
+      "url": "https://www.tactical-medicine.com/en-ca/products/med-tac-als-oxygen-trauma-backpack-w-modular-pouch-system"
     },
     {
       "id": "7f27b5999ba6",
@@ -2832,7 +2832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-modular-medic-combat-pack-18"
+      "url": "https://www.tactical-medicine.com/en-ca/products/tasmanian-tiger-modular-medic-combat-pack-18"
     },
     {
       "id": "715383a36e2a",
@@ -3103,16 +3103,6 @@
       "date": "2026-07-25",
       "deadline": null,
       "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
-    },
-    {
-      "id": "6fa42b452958",
-      "title": "【1150801梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-24",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260723145717"
     },
     {
       "id": "5808f215b051",
