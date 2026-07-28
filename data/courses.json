@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T11:18:39.059143+00:00",
+  "updated": "2026-07-28T13:55:31.418245+00:00",
   "count": 349,
   "course_count": 190,
   "news_count": 159,
@@ -1815,46 +1815,6 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
-      "id": "96aeeb9948f7",
-      "title": "CPR+AED",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
-    },
-    {
-      "id": "72feeda9299f",
-      "title": "[第一階段線上] CPR+AED知識課程",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://school.anne.education/courses/cpraed/"
-    },
-    {
-      "id": "ae1bfe2ab10d",
-      "title": "http://saveanne.tw/CPRAnneTaipei12024",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://saveanne.tw/CPRAnneTaipei12024"
-    },
-    {
-      "id": "00a1a278ed65",
-      "title": "http://saveanne.tw/CPRVisionTaichung1",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://saveanne.tw/CPRVisionTaichung1"
-    },
-    {
       "id": "9a9995a5da7d",
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
@@ -1863,6 +1823,46 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
+    },
+    {
+      "id": "ed3caa0dfe34",
+      "title": "全民學急救",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/firstaid.html"
+    },
+    {
+      "id": "74618323376f",
+      "title": "無意識且沒有正常呼吸(CPR+AED)",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/f1ohca.html"
+    },
+    {
+      "id": "17dbb796794e",
+      "title": "翻轉急救｜CPR+AED",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/flippedcpr.html"
+    },
+    {
+      "id": "77986d080e7b",
+      "title": "校園急救教育支持計畫",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/campus.html"
     },
     {
       "id": "c9bc7d463306",
@@ -2095,16 +2095,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "3d837bd78c51",
-      "title": "LifeSaver Upgrades AL Air Medical Fleet with Three New Bell 407 Helicopters",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/lifesaver-upgrades-al-air-medical-fleet-with-three-new-bell-407-helicopters/"
-    },
-    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -2113,6 +2103,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
+    },
+    {
+      "id": "3d837bd78c51",
+      "title": "LifeSaver Upgrades AL Air Medical Fleet with Three New Bell 407 Helicopters",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/lifesaver-upgrades-al-air-medical-fleet-with-three-new-bell-407-helicopters/"
     },
     {
       "id": "98860142062c",
@@ -2792,7 +2792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard"
     },
     {
       "id": "c7e010eeb627",
@@ -2802,7 +2802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/thehemguard-r-targeted-pressure-bandage"
+      "url": "https://www.tactical-medicine.com/products/thehemguard-r-targeted-pressure-bandage"
     },
     {
       "id": "59b9bcaf3a5b",
@@ -2812,7 +2812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/elite-bags-paramed-backpack"
+      "url": "https://www.tactical-medicine.com/products/elite-bags-paramed-backpack"
     },
     {
       "id": "0694954ed379",
@@ -2822,7 +2822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/med-tac-als-oxygen-trauma-backpack-w-modular-pouch-system"
+      "url": "https://www.tactical-medicine.com/products/med-tac-als-oxygen-trauma-backpack-w-modular-pouch-system"
     },
     {
       "id": "7f27b5999ba6",
@@ -2832,7 +2832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/tasmanian-tiger-modular-medic-combat-pack-18"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-modular-medic-combat-pack-18"
     },
     {
       "id": "715383a36e2a",
