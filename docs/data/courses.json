@@ -1,19 +1,9 @@
 {
-  "updated": "2026-07-27T22:06:29.063800+00:00",
-  "count": 354,
-  "course_count": 194,
-  "news_count": 160,
+  "updated": "2026-07-28T02:04:31.477682+00:00",
+  "count": 347,
+  "course_count": 191,
+  "news_count": 156,
   "items": [
-    {
-      "id": "e5cb7301a812",
-      "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-27",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1631"
-    },
     {
       "id": "44140ae5ad0b",
       "title": "115年師資培育工作坊 (中區) 社團法人台灣急診醫學會、中山醫學大學附設醫院",
@@ -23,16 +13,6 @@
       "date": "2026-07-28",
       "deadline": "2026-07-13",
       "url": "https://www.sem.org.tw/Activity/A/Details/32647"
-    },
-    {
-      "id": "10cb223b7d6d",
-      "title": "母乳哺育種子講師繼續教育訓練「創意教學設計與實作」工作坊",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28280"
     },
     {
       "id": "b6b63f9de79d",
@@ -53,16 +33,6 @@
       "date": "2026-07-29",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28322"
-    },
-    {
-      "id": "f6098c9071b3",
-      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【中區】 衛生福利部、社團法人台灣急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-31",
-      "deadline": "2026-07-31",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33137"
     },
     {
       "id": "f49338fbe7a8",
@@ -105,16 +75,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4596fa6fe70547e890686fb6e5cd0f95"
     },
     {
-      "id": "3b1c1cb3baa5",
-      "title": "2026年新生兒高級救命術",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-02",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28303"
-    },
-    {
       "id": "8977206603ef",
       "title": "新生兒高級急救救命術(NRP)訓練課程",
       "source": "台灣新生兒科醫學會",
@@ -123,6 +83,16 @@
       "date": "2026-08-02",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28276"
+    },
+    {
+      "id": "3b1c1cb3baa5",
+      "title": "2026年新生兒高級救命術",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-02",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28303"
     },
     {
       "id": "590836896c0e",
@@ -323,6 +293,16 @@
       "date": "2026-08-29",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28333"
+    },
+    {
+      "id": "f8a9622624b9",
+      "title": "北區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-09",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
     },
     {
       "id": "032e497ba690",
@@ -1795,51 +1775,11 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
-      "id": "96aeeb9948f7",
-      "title": "CPR+AED",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
-    },
-    {
-      "id": "72feeda9299f",
-      "title": "[第一階段線上] CPR+AED知識課程",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://school.anne.education/courses/cpraed/"
-    },
-    {
-      "id": "ae1bfe2ab10d",
-      "title": "http://saveanne.tw/CPRAnneTaipei12024",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://saveanne.tw/CPRAnneTaipei12024"
-    },
-    {
-      "id": "00a1a278ed65",
-      "title": "http://saveanne.tw/CPRVisionTaichung1",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://saveanne.tw/CPRVisionTaichung1"
-    },
-    {
       "id": "9a9995a5da7d",
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
@@ -1849,7 +1789,7 @@
       "title": "全民學急救",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/firstaid.html"
@@ -1859,7 +1799,7 @@
       "title": "無意識且沒有正常呼吸(CPR+AED)",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/f1ohca.html"
@@ -1869,7 +1809,7 @@
       "title": "翻轉急救｜CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
@@ -1879,10 +1819,20 @@
       "title": "校園急救教育支持計畫",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/campus.html"
+    },
+    {
+      "id": "c9bc7d463306",
+      "title": "翻轉CPR",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/flippedcpr.html"
     },
     {
       "id": "1a7323e30be9",
@@ -2685,6 +2635,16 @@
       "url": "https://specialoperationsmedicine.org/jsom/"
     },
     {
+      "id": "513fda394753",
+      "title": "How To Train Your Medics Every Week: Escaping the Motor Pool",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2026/07/27/train-your-medics-weekly/"
+    },
+    {
       "id": "7784c83ef832",
       "title": "Suzetrigine guide for Combat Medics",
       "source": "Next Generation Combat Medic",
@@ -2723,16 +2683,6 @@
       "date": null,
       "deadline": null,
       "url": "https://nextgencombatmedic.com/2025/07/20/enabling-medics-to-manage-sick-call/"
-    },
-    {
-      "id": "9cc4bce2f6ae",
-      "title": "How to become an Army CRNA",
-      "source": "Next Generation Combat Medic",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://nextgencombatmedic.com/2025/07/05/how-to-become-an-army-crna-66f/"
     },
     {
       "id": "a08848dafaae",
@@ -3023,6 +2973,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/7"
+    },
+    {
+      "id": "e5cb7301a812",
+      "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-27",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1631"
     },
     {
       "id": "e8a2cd2fe293",
@@ -3513,36 +3473,6 @@
       "date": "2026-06-28",
       "deadline": null,
       "url": "https://www.pediatr.org.tw/event/content.php?id=21089"
-    },
-    {
-      "id": "7667258bb09c",
-      "title": "2026外傷教育課程-桃竹苗地區(Ⅰ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-27",
-      "deadline": "2026-06-15",
-      "url": "http://www.trauma.org.tw/active/index.asp?/19.html"
-    },
-    {
-      "id": "995eaa17bae9",
-      "title": "台灣中區兒童過敏免疫暨風濕科病例研討會",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-27",
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/content.php?id=21122&page=1"
-    },
-    {
-      "id": "264fcb7254f1",
-      "title": "115年度PAC攜帶型加壓艙操作者實務訓練及高山症防治課程，開放報名中～",
-      "source": "台灣野外緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-06-27",
-      "deadline": null,
-      "url": "https://taiwanwma.org/activities?activity=4"
     }
   ]
 }
