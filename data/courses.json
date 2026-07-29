@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T02:05:49.887603+00:00",
+  "updated": "2026-07-29T05:51:34.283220+00:00",
   "count": 346,
   "course_count": 186,
   "news_count": 160,
@@ -13,16 +13,6 @@
       "date": "2026-07-29",
       "deadline": "2026-07-29",
       "url": "https://www.sem.org.tw/Activity/B/Details/33019"
-    },
-    {
-      "id": "80faab1d5a8b",
-      "title": "新生兒呼吸窘迫",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-29",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28322"
     },
     {
       "id": "f49338fbe7a8",
@@ -313,6 +303,16 @@
       "date": "2026-08-29",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28333"
+    },
+    {
+      "id": "f8a9622624b9",
+      "title": "北區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-09",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
     },
     {
       "id": "032e497ba690",
@@ -1145,8 +1145,8 @@
       "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
     },
     {
-      "id": "2ebdb1828f3d",
-      "title": "深耕學術與臨床｜【徵稿中】2026年會論文發表",
+      "id": "4b196016dc2b",
+      "title": "深耕學術與臨床｜【延長徵稿至8/10】2026年會論文發表",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
       "type": "news",
