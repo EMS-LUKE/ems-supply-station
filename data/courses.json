@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T08:35:03.023979+00:00",
+  "updated": "2026-07-29T11:24:40.918457+00:00",
   "count": 346,
   "course_count": 186,
   "news_count": 160,
@@ -2075,6 +2075,16 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
+      "id": "7094982f514e",
+      "title": "Federal Survey Shows Promising Trends for Youth Mental Health and Drug Use",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/federal-survey-shows-promising-trends-for-youth-mental-health-and-drug-use/"
+    },
+    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -2083,16 +2093,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
-      "id": "3d837bd78c51",
-      "title": "LifeSaver Upgrades AL Air Medical Fleet with Three New Bell 407 Helicopters",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/lifesaver-upgrades-al-air-medical-fleet-with-three-new-bell-407-helicopters/"
     },
     {
       "id": "98860142062c",
