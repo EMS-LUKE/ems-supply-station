@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T05:51:34.283220+00:00",
+  "updated": "2026-07-29T08:35:03.023979+00:00",
   "count": 346,
   "course_count": 186,
   "news_count": 160,
@@ -13,6 +13,26 @@
       "date": "2026-07-29",
       "deadline": "2026-07-29",
       "url": "https://www.sem.org.tw/Activity/B/Details/33019"
+    },
+    {
+      "id": "36a3bf466827",
+      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1633"
+    },
+    {
+      "id": "1bfd9a80fc1c",
+      "title": "【1150813梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-29",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260729142242"
     },
     {
       "id": "f49338fbe7a8",
@@ -1095,6 +1115,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "bd8bd8ea562e",
+      "title": "「115年友善性病門診專業醫師基礎認證課程」 完訓醫師名單公告",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/2e5a16aa405c43b2a7c42bd11827d6df"
+    },
+    {
       "id": "ce471cc08990",
       "title": "台灣家庭醫學醫學會 高爾夫球友誼賽 報名開跑囉！",
       "source": "台灣家庭醫學醫學會",
@@ -1123,16 +1153,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0038a698d1644da3a81e673bda1739eb"
-    },
-    {
-      "id": "861d0e7366e2",
-      "title": "【重要公告】年度學術研討會，7.12週日課程，已繳費報名，但未能到場之處理原則",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/33fc238f2ee64e109caee3ef2a2b736a"
     },
     {
       "id": "ec9baebc8c4d",
@@ -2995,16 +3015,6 @@
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260728174851"
     },
     {
-      "id": "3674adefbc54",
-      "title": "【1150627梯次】中區EMT-1課程 學術科及補考合格名單",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260728092447"
-    },
-    {
       "id": "5c240855df45",
       "title": "風險分析中的共同語言（二）《透過設定風險情境來溝通，才能比較不同危害》",
       "source": "台灣緊急應變管理協會",
@@ -3233,16 +3243,6 @@
       "date": "2026-07-09",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1621"
-    },
-    {
-      "id": "535915b17247",
-      "title": "【徵求推薦】ASEM Education & Research Champion 候選人",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1622"
     },
     {
       "id": "fe05ebc02ad9",
