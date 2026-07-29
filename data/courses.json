@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-29T11:24:40.918457+00:00",
-  "count": 346,
+  "updated": "2026-07-29T14:00:23.562040+00:00",
+  "count": 345,
   "course_count": 186,
-  "news_count": 160,
+  "news_count": 159,
   "items": [
     {
       "id": "b6b63f9de79d",
@@ -2075,16 +2075,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "7094982f514e",
-      "title": "Federal Survey Shows Promising Trends for Youth Mental Health and Drug Use",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/federal-survey-shows-promising-trends-for-youth-mental-health-and-drug-use/"
-    },
-    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -2095,14 +2085,14 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "98860142062c",
-      "title": "Headlines",
+      "id": "7094982f514e",
+      "title": "Federal Survey Shows Promising Trends for Youth Mental Health and Drug Use",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/"
+      "url": "https://www.jems.com/news/federal-survey-shows-promising-trends-for-youth-mental-health-and-drug-use/"
     },
     {
       "id": "cc05242f9202",
