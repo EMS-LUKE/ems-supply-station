@@ -1,59 +1,9 @@
 {
-  "updated": "2026-07-28T22:04:35.634889+00:00",
-  "count": 350,
-  "course_count": 190,
+  "updated": "2026-07-29T02:05:49.887603+00:00",
+  "count": 346,
+  "course_count": 186,
   "news_count": 160,
   "items": [
-    {
-      "id": "44140ae5ad0b",
-      "title": "115年師資培育工作坊 (中區) 社團法人台灣急診醫學會、中山醫學大學附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": "2026-07-13",
-      "url": "https://www.sem.org.tw/Activity/A/Details/32647"
-    },
-    {
-      "id": "cdc42c4dd53f",
-      "title": "【公告】SGA 兒童健康照護政策建言書",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=566"
-    },
-    {
-      "id": "a11123f46e2b",
-      "title": "【1150806梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260728174851"
-    },
-    {
-      "id": "3674adefbc54",
-      "title": "【1150627梯次】中區EMT-1課程 學術科及補考合格名單",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260728092447"
-    },
-    {
-      "id": "5c240855df45",
-      "title": "風險分析中的共同語言（二）《透過設定風險情境來溝通，才能比較不同危害》",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_28.html"
-    },
     {
       "id": "b6b63f9de79d",
       "title": "化學災害醫療應變醫護人員進階教育訓練 臺灣大學醫學院附設醫院新竹臺大分院新竹醫院、臺灣大學醫學院附設醫院",
@@ -3025,6 +2975,46 @@
       "url": "https://emj.bmj.com/content/43/7"
     },
     {
+      "id": "cdc42c4dd53f",
+      "title": "【公告】SGA 兒童健康照護政策建言書",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-28",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=566"
+    },
+    {
+      "id": "a11123f46e2b",
+      "title": "【1150806梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-28",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260728174851"
+    },
+    {
+      "id": "3674adefbc54",
+      "title": "【1150627梯次】中區EMT-1課程 學術科及補考合格名單",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-28",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260728092447"
+    },
+    {
+      "id": "5c240855df45",
+      "title": "風險分析中的共同語言（二）《透過設定風險情境來溝通，才能比較不同危害》",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-07-28",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_28.html"
+    },
+    {
       "id": "e5cb7301a812",
       "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
       "source": "台灣急診醫學會",
@@ -3473,36 +3463,6 @@
       "date": "2026-06-29",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1612"
-    },
-    {
-      "id": "de3382c50fda",
-      "title": "115年度青少年醫學教育訓練課程-北區",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-28",
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/event/content.php?id=21000"
-    },
-    {
-      "id": "59d7c1d2f086",
-      "title": "2026 台灣兒童伊比力斯協會年度學術會議暨第十四屆第二次會員大會",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-28",
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/event/content.php?id=21056"
-    },
-    {
-      "id": "8e8b44ac3342",
-      "title": "以家庭為中心-學齡前兒童的情緒調節困難與評估處遇",
-      "source": "臺灣兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-28",
-      "deadline": null,
-      "url": "https://www.pediatr.org.tw/event/content.php?id=21089"
     }
   ]
 }
