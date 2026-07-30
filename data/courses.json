@@ -1,9 +1,19 @@
 {
-  "updated": "2026-07-30T01:57:03.792390+00:00",
-  "count": 343,
-  "course_count": 186,
+  "updated": "2026-07-30T05:40:15.148640+00:00",
+  "count": 344,
+  "course_count": 187,
   "news_count": 157,
   "items": [
+    {
+      "id": "ff430ef38337",
+      "title": "115年十大優秀急診護理師推薦辦法",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-30",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1454"
+    },
     {
       "id": "f49338fbe7a8",
       "title": "115年度家庭暴力暨性侵害防治教育訓練",
@@ -333,6 +343,16 @@
       "date": "2026-09-18",
       "deadline": null,
       "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
+    },
+    {
+      "id": "cbc9aef1d704",
+      "title": "2026外傷教育課程-北部地區(Ⅳ)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": "2026-09-07",
+      "url": "http://www.trauma.org.tw/active/index.asp?/27.html"
     },
     {
       "id": "ce4831580b27",
@@ -2973,16 +2993,6 @@
       "date": "2026-07-29",
       "deadline": "2026-07-29",
       "url": "https://www.sem.org.tw/Activity/B/Details/33019"
-    },
-    {
-      "id": "36a3bf466827",
-      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1633"
     },
     {
       "id": "1bfd9a80fc1c",
