@@ -1,39 +1,9 @@
 {
-  "updated": "2026-07-29T22:00:34.250013+00:00",
-  "count": 346,
+  "updated": "2026-07-30T01:57:03.792390+00:00",
+  "count": 343,
   "course_count": 186,
-  "news_count": 160,
+  "news_count": 157,
   "items": [
-    {
-      "id": "b6b63f9de79d",
-      "title": "化學災害醫療應變醫護人員進階教育訓練 臺灣大學醫學院附設醫院新竹臺大分院新竹醫院、臺灣大學醫學院附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-29",
-      "deadline": "2026-07-29",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33019"
-    },
-    {
-      "id": "36a3bf466827",
-      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1633"
-    },
-    {
-      "id": "1bfd9a80fc1c",
-      "title": "【1150813梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-29",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260729142242"
-    },
     {
       "id": "f49338fbe7a8",
       "title": "115年度家庭暴力暨性侵害防治教育訓練",
@@ -2995,6 +2965,36 @@
       "url": "https://emj.bmj.com/content/43/7"
     },
     {
+      "id": "b6b63f9de79d",
+      "title": "化學災害醫療應變醫護人員進階教育訓練 臺灣大學醫學院附設醫院新竹臺大分院新竹醫院、臺灣大學醫學院附設醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-29",
+      "deadline": "2026-07-29",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33019"
+    },
+    {
+      "id": "36a3bf466827",
+      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1633"
+    },
+    {
+      "id": "1bfd9a80fc1c",
+      "title": "【1150813梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-29",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260729142242"
+    },
+    {
       "id": "cdc42c4dd53f",
       "title": "【公告】SGA 兒童健康照護政策建言書",
       "source": "台灣新生兒科醫學會",
@@ -3433,36 +3433,6 @@
       "date": "2026-06-30",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/06/blog-post_30.html"
-    },
-    {
-      "id": "ff76fb8193f9",
-      "title": "2026超音波競賽得獎名單",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1625"
-    },
-    {
-      "id": "7619e60cf6d3",
-      "title": "公告AILS Training Course通過名單 (115.06.23~115.06.24)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1613"
-    },
-    {
-      "id": "79731aad3bdd",
-      "title": "第十七屆理、監事當選名單",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1612"
     }
   ]
 }
