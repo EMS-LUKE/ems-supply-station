@@ -1,18 +1,28 @@
 {
-  "updated": "2026-07-31T02:14:45.106124+00:00",
+  "updated": "2026-07-31T06:07:15.258692+00:00",
   "count": 342,
-  "course_count": 187,
-  "news_count": 155,
+  "course_count": 188,
+  "news_count": 154,
   "items": [
     {
-      "id": "f49338fbe7a8",
-      "title": "115年度家庭暴力暨性侵害防治教育訓練",
-      "source": "台灣新生兒科醫學會",
+      "id": "ab8c8c791a79",
+      "title": "【ATLS報名】115年度「再認證」課程報名資訊（含報名表）115.07.31更新...",
+      "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-07-31",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28324"
+      "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
+    },
+    {
+      "id": "d22a43d969c1",
+      "title": "公告2026年『ATLS課程』活動計劃表【含一般課程及再認證課程】_115.07.31更新...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-31",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/80.html"
     },
     {
       "id": "d68ffe3c4550",
@@ -75,16 +85,6 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28303"
     },
     {
-      "id": "590836896c0e",
-      "title": "台灣遺傳性血管性水腫罕病關懷協會2026夏季聯誼會暨照護醫師訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-02",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28320"
-    },
-    {
       "id": "11f27d6efee9",
       "title": "優化兒童醫療照護 核心醫院計畫 學術討論會",
       "source": "台灣新生兒科醫學會",
@@ -93,6 +93,16 @@
       "date": "2026-08-02",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28316"
+    },
+    {
+      "id": "590836896c0e",
+      "title": "台灣遺傳性血管性水腫罕病關懷協會2026夏季聯誼會暨照護醫師訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-02",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28320"
     },
     {
       "id": "ee188b014c5b",
@@ -303,6 +313,16 @@
       "date": "2026-09-09",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
+    },
+    {
+      "id": "08518396f20a",
+      "title": "中區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-12",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28131"
     },
     {
       "id": "032e497ba690",
@@ -995,6 +1015,16 @@
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
     },
     {
+      "id": "c9bef9500467",
+      "title": "【代轉】2026年8月「2026年亞太健康促進與非傳染病防治教育訓練工作坊」",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
       "id": "3a5e55368bd3",
       "title": "【代轉】社團法人亞洲華人醫務管理交流學會8/14-/15辦理「2026高齡健康處方設計師跨領域高階創新人才培訓系列活動」歡迎報名。",
       "source": "台灣醫學資訊學會",
@@ -1027,16 +1057,6 @@
     {
       "id": "6455c13c8abc",
       "title": "【代轉】11月20日至22日舉辦「2026 第七屆全球生物醫學工程年會（GCBME 2026）」，歡迎參與及踴躍投稿！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "e5677d4220ac",
-      "title": "本會合辦「2026年亞太醫學資訊學會年會（APAMI 2026）」，歡迎報名參加！",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "news",
@@ -1515,6 +1535,16 @@
       "url": "https://www.mgems.org/2026-taipei-highway-marathron/"
     },
     {
+      "id": "b45db06310b7",
+      "title": "山海共生原遊會",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260608_taloan/"
+    },
+    {
       "id": "cb82e9f03a2b",
       "title": "2026年舒跑杯路跑賽",
       "source": "中華民國大型活動緊急救護協會",
@@ -1523,16 +1553,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.mgems.org/260510_sports-run/"
-    },
-    {
-      "id": "f88b895cb5ea",
-      "title": "2026年台灣資安大會",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/260505-7_taiwan-cyber-security/"
     },
     {
       "id": "b9b34d53c638",
@@ -3363,26 +3383,6 @@
       "date": "2026-07-03",
       "deadline": null,
       "url": "https://www.pediatr.org.tw/content.php?id=21109&page=1"
-    },
-    {
-      "id": "e03d91dc067f",
-      "title": "【ATLS報名】115年度「一般」課程報名資訊（含報名表）115.07.02更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-02",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/68.html"
-    },
-    {
-      "id": "621cebfd61cb",
-      "title": "公告2026年『ATLS課程』活動計劃表【含一般課程及再認證課程】_115.07.02更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-02",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/37.html"
     },
     {
       "id": "109e71ffbc86",
