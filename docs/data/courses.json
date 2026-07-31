@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T06:07:15.258692+00:00",
+  "updated": "2026-07-31T09:04:11.162611+00:00",
   "count": 342,
   "course_count": 188,
   "news_count": 154,
@@ -1535,6 +1535,16 @@
       "url": "https://www.mgems.org/2026-taipei-highway-marathron/"
     },
     {
+      "id": "6a4c234af395",
+      "title": "2026年太平山蹦蹦車緊急救護演練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260623_tai-ping-shan-rehersal/"
+    },
+    {
       "id": "b45db06310b7",
       "title": "山海共生原遊會",
       "source": "中華民國大型活動緊急救護協會",
@@ -1543,16 +1553,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.mgems.org/260608_taloan/"
-    },
-    {
-      "id": "cb82e9f03a2b",
-      "title": "2026年舒跑杯路跑賽",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/260510_sports-run/"
     },
     {
       "id": "b9b34d53c638",
@@ -2962,7 +2962,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-339391v1?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339159v1?rss=1"
     },
     {
       "id": "8d656ad77115",
