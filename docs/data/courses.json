@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T09:04:11.162611+00:00",
+  "updated": "2026-07-31T11:36:19.120000+00:00",
   "count": 342,
   "course_count": 188,
   "news_count": 154,
@@ -1315,6 +1315,16 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
     },
     {
+      "id": "4a249f5358dd",
+      "title": "115年冬季麻醉專科護理師學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
+    },
+    {
       "id": "10a585ef7f40",
       "title": "115年麻醉專科護理師甄審口試模擬教學課程",
       "source": "台灣麻醉專科護理學會",
@@ -1323,16 +1333,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
-    },
-    {
-      "id": "41a38fc41bcd",
-      "title": "代登~ 2026 臺灣心臟胸腔暨血管麻醉醫學會 年會暨國際學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/797.html"
     },
     {
       "id": "7f4077aab8c4",
@@ -2985,14 +2985,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
+      "url": "https://emj.bmj.com/content/43/7"
     },
     {
       "id": "ff430ef38337",
