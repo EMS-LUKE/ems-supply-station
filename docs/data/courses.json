@@ -1,19 +1,9 @@
 {
-  "updated": "2026-07-30T22:10:26.086498+00:00",
-  "count": 344,
-  "course_count": 188,
-  "news_count": 156,
+  "updated": "2026-07-31T02:14:45.106124+00:00",
+  "count": 342,
+  "course_count": 187,
+  "news_count": 155,
   "items": [
-    {
-      "id": "ff430ef38337",
-      "title": "115年十大優秀急診護理師推薦辦法",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-30",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1454"
-    },
     {
       "id": "f49338fbe7a8",
       "title": "115年度家庭暴力暨性侵害防治教育訓練",
@@ -2985,14 +2975,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "b6b63f9de79d",
-      "title": "化學災害醫療應變醫護人員進階教育訓練 臺灣大學醫學院附設醫院新竹臺大分院新竹醫院、臺灣大學醫學院附設醫院",
+      "id": "ff430ef38337",
+      "title": "115年十大優秀急診護理師推薦辦法",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-29",
-      "deadline": "2026-07-29",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33019"
+      "type": "news",
+      "date": "2026-07-30",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1454"
     },
     {
       "id": "1bfd9a80fc1c",
@@ -3433,16 +3423,6 @@
       "date": "2026-07-01",
       "deadline": null,
       "url": "https://www.pediatr.org.tw/news/content.php?id=5178"
-    },
-    {
-      "id": "507f11938159",
-      "title": "醫院究竟準備要撐多久？從災害、危機到戰爭，重新思考醫院的物資儲備策略",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-06-30",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/06/blog-post_30.html"
     }
   ]
 }
