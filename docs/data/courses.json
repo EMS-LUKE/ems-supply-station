@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-02T02:13:54.220456+00:00",
-  "count": 327,
-  "course_count": 176,
+  "updated": "2026-08-02T05:56:15.549573+00:00",
+  "count": 328,
+  "course_count": 177,
   "news_count": 151,
   "items": [
     {
@@ -33,26 +33,6 @@
       "date": "2026-08-02",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4596fa6fe70547e890686fb6e5cd0f95"
-    },
-    {
-      "id": "11f27d6efee9",
-      "title": "優化兒童醫療照護 核心醫院計畫 學術討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-02",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28316"
-    },
-    {
-      "id": "590836896c0e",
-      "title": "台灣遺傳性血管性水腫罕病關懷協會2026夏季聯誼會暨照護醫師訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-02",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28320"
     },
     {
       "id": "ee188b014c5b",
@@ -95,6 +75,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28318"
     },
     {
+      "id": "1beeb22791ec",
+      "title": "新生兒高級救命術(NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-08",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28336"
+    },
+    {
       "id": "8e7c4c5119d7",
       "title": "上課通知-115.8.12-StrokePrevention in AF : What do you need to know ?-step3共病管理",
       "source": "台灣家庭醫學醫學會",
@@ -113,6 +103,16 @@
       "date": "2026-08-15",
       "deadline": null,
       "url": "http://www.trauma.org.tw/active/index.asp?/24.html"
+    },
+    {
+      "id": "79304f487d3b",
+      "title": "APLS+PALS Provider Course",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28327"
     },
     {
       "id": "737879a7520f",
@@ -343,6 +343,16 @@
       "date": "2026-10-17",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28143"
+    },
+    {
+      "id": "4a927816cc75",
+      "title": "南區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
     },
     {
       "id": "e815a0a74ca9",
