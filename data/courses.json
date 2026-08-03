@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-03T02:16:02.261793+00:00",
-  "count": 329,
-  "course_count": 175,
-  "news_count": 154,
+  "updated": "2026-08-03T06:20:40.698421+00:00",
+  "count": 330,
+  "course_count": 180,
+  "news_count": 150,
   "items": [
     {
       "id": "ee188b014c5b",
@@ -35,6 +35,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28309"
     },
     {
+      "id": "667ae76795f7",
+      "title": "8/8-9 ACLS急救課程 台北慈濟醫院教學部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-08",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33080"
+    },
+    {
       "id": "4553302df918",
       "title": "接軌國際共譜新章~波士頓的P A S：龍蝦、紅襪隊時空交織的知識微醺饗宴",
       "source": "台灣新生兒科醫學會",
@@ -55,6 +65,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28336"
     },
     {
+      "id": "29283c450fb1",
+      "title": "115 年度災難醫療救護隊訓練（第二類） 通識課程 衛生福利部南區緊急醫療應變中心",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-11",
+      "deadline": "2026-08-11",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33138"
+    },
+    {
       "id": "8e7c4c5119d7",
       "title": "上課通知-115.8.12-StrokePrevention in AF : What do you need to know ?-step3共病管理",
       "source": "台灣家庭醫學醫學會",
@@ -63,6 +83,26 @@
       "date": "2026-08-12",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ea0c3905c93748799d0f8ffb3bdb639e"
+    },
+    {
+      "id": "87938b331fee",
+      "title": "115年度災難醫療救護隊訓練（第二類）通識課程 台大醫院、台北區ＲＥMOＣ",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-13",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33168"
+    },
+    {
+      "id": "2bb1f7cd1f43",
+      "title": "AHA ACLS provider hybrid 高雄長庚急診醫學部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-14",
+      "deadline": "2026-08-14",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33167"
     },
     {
       "id": "42dd57436370",
@@ -445,6 +485,16 @@
       "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here"
     },
     {
+      "id": "3bd678241819",
+      "title": "【Call For Abstract】The APACCM 2026 congress November. 4-6, 2026 Mnaila",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/811.html#here"
+    },
+    {
       "id": "b82b0ec879e2",
       "title": "【Call For ABSTRACT&Registration】The 10th Asia-Pacific Conference on ICU Early Rehabilitation Taipei 2026 -Oct. 3-4 台大醫院國際會議中心",
       "source": "台灣急救加護醫學會",
@@ -463,16 +513,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/791.html#here"
-    },
-    {
-      "id": "69f21043738c",
-      "title": "【新聞稿】重症醫學正式列為部定專科：醫療體系專業化的新願景",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/790.html#here"
     },
     {
       "id": "5976222d7829",
@@ -825,6 +865,16 @@
       "url": "https://tamis.org.tw/activity/42"
     },
     {
+      "id": "d61ee024f4d1",
+      "title": "| 📣【TAMIS 超級心光大道－24首金曲】巡迴開唱：第七首《孤勇者》📣 公告日期：2026 / 8 / 3",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1270"
+    },
+    {
       "id": "4b88b52f6af4",
       "title": "| 🏆 2026 TAMIS 心肌梗塞知識王挑戰賽 熱烈報名中！ 公告日期：2026 / 7 / 27",
       "source": "台灣心肌梗塞學會",
@@ -843,16 +893,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1261"
-    },
-    {
-      "id": "290b0969901a",
-      "title": "| 「到院前心肌梗塞救護大作戰 TAMIS Got Talent!」趣味競賽報名開跑！ 公告日期：2026 / 6 / 5",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1258"
     },
     {
       "id": "32dbb30467e3",
@@ -1665,51 +1705,11 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
-      "id": "96aeeb9948f7",
-      "title": "CPR+AED",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
-    },
-    {
-      "id": "72feeda9299f",
-      "title": "[第一階段線上] CPR+AED知識課程",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://school.anne.education/courses/cpraed/"
-    },
-    {
-      "id": "ae1bfe2ab10d",
-      "title": "http://saveanne.tw/CPRAnneTaipei12024",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://saveanne.tw/CPRAnneTaipei12024"
-    },
-    {
-      "id": "00a1a278ed65",
-      "title": "http://saveanne.tw/CPRVisionTaichung1",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://saveanne.tw/CPRVisionTaichung1"
-    },
-    {
       "id": "9a9995a5da7d",
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
@@ -1719,7 +1719,7 @@
       "title": "全民學急救",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/firstaid.html"
@@ -1729,7 +1729,7 @@
       "title": "無意識且沒有正常呼吸(CPR+AED)",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/f1ohca.html"
@@ -1739,7 +1739,7 @@
       "title": "翻轉急救｜CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
@@ -1749,10 +1749,20 @@
       "title": "校園急救教育支持計畫",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/campus.html"
+    },
+    {
+      "id": "c9bc7d463306",
+      "title": "翻轉CPR",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/flippedcpr.html"
     },
     {
       "id": "1a7323e30be9",
@@ -2852,7 +2862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-338810v1?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-338754v1?rss=1"
     },
     {
       "id": "8d656ad77115",
