@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-03T17:16:43.592574+00:00",
-  "count": 331,
-  "course_count": 180,
-  "news_count": 151,
+  "updated": "2026-08-03T19:33:44.818829+00:00",
+  "count": 327,
+  "course_count": 175,
+  "news_count": 152,
   "items": [
     {
       "id": "ee188b014c5b",
@@ -435,54 +435,34 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
-      "id": "60380fb22676",
-      "title": "【南區場次延至8/22-23】【南&北區-開放報名】115年高級心臟救命術學員課程示範教學 ACLS Provider Demo Course",
+      "id": "c636e4d1a61b",
+      "title": "【免費立即報名】臺灣急性高血鉀處置共識-明天08/04 (二)- 18:30-19:30 (線上直播)",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/800.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/813.html#here"
     },
     {
-      "id": "c79f1f73f270",
-      "title": "115年度高級心臟救命術指導員課程通過名單及試教須知",
+      "id": "7f98d5c36c57",
+      "title": "7th Asia Pacific AKI CRRT 2026-Sep.18-20 台北國際會議中心",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/799.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/797.html#here"
     },
     {
-      "id": "2bdd60e384a5",
-      "title": "<公佈分組名單和出題題目>115年高級心臟救命術指導員訓練課程(ACLS Instructor Course )第二階段",
+      "id": "30c18270a1df",
+      "title": "【即日起開放報名!!】【聯甄課程】115 年重症醫學核心教育課程(線上影音)",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/787.html#here"
-    },
-    {
-      "id": "c0ce4cbb1984",
-      "title": "<即日開放報名>115年高級心臟救命術指導員訓練課程(ACLS Instructor Course)",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/777.html#here"
-    },
-    {
-      "id": "13aaade94e2e",
-      "title": "即日開放報名!【ACLS聯委會課程】2025 ACLS Update Course-中3/14.南3/21. 北4/18&5/16(共4場次)",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here"
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/812.html#here"
     },
     {
       "id": "3bd678241819",
@@ -513,6 +493,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/791.html#here"
+    },
+    {
+      "id": "ebe50fe852b7",
+      "title": "衛福部公告重症醫學科專科醫師甄審原則(如附件)並自即日生效",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/808.html#here"
     },
     {
       "id": "5976222d7829",
@@ -3052,7 +3042,7 @@
       "type": "course",
       "date": "2026-07-25",
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/804.html#here"
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/804.html#here"
     },
     {
       "id": "5bd23fc6becf",
@@ -3133,16 +3123,6 @@
       "date": "2026-07-19",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3"
-    },
-    {
-      "id": "6c7acf9af5b5",
-      "title": "【重症聯甄】Holistic and Patient-Centered Critical Care 115.07.18 國泰人壽大樓B1國際會議廳",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-18",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/805.html#here"
     },
     {
       "id": "452b7eab7397",
@@ -3243,26 +3223,6 @@
       "date": "2026-07-06",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/7/Details/1619"
-    },
-    {
-      "id": "26138c8efa38",
-      "title": "【重症復健聯甄課程-無需積分,免費參加!】東區「重症運動會」重症早期復健研討會-115.07.04花蓮慈濟醫院",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-04",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/802.html#here"
-    },
-    {
-      "id": "f6c85576748d",
-      "title": "【重症聯甄課程】2026重症呼吸器實作課程115.07.04-台中榮總教學大樓1樓",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-04",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/801.html#here"
     },
     {
       "id": "533d2428f6fc",
