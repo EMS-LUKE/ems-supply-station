@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T19:33:44.818829+00:00",
+  "updated": "2026-08-03T22:11:56.314126+00:00",
   "count": 327,
   "course_count": 175,
   "news_count": 152,
@@ -505,16 +505,6 @@
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/808.html#here"
     },
     {
-      "id": "5976222d7829",
-      "title": "2026外傷教育課程-南部地區(Ⅰ)... 【課程場地異動通知】原預定場地：馬雅各大樓 10 樓宋・伊利莎白禮拜堂變更後場地：醫療大樓 10 樓禮拜堂敬請各位學員當日依變更後之場地前往報到及上課，造成不便，請見諒。",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
-    },
-    {
       "id": "03b973dd810d",
       "title": "【ATLS課表公告】115年度第11梯次ATLS再認證課程（大林慈濟醫院）...",
       "source": "台灣外傷醫學會",
@@ -543,6 +533,16 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
+    },
+    {
+      "id": "5976222d7829",
+      "title": "2026外傷教育課程-南部地區(Ⅰ)... 【課程場地異動通知】原預定場地：馬雅各大樓 10 樓宋・伊利莎白禮拜堂變更後場地：醫療大樓 10 樓禮拜堂敬請各位學員當日依變更後之場地前往報到及上課，造成不便，請見諒。",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
       "id": "57654c31c3ba",
