@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Tue, 04 Aug 2026 14:01:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 16:54:12 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】上課通知-115.8.4開啟GLP-1 RA治療對話: 高品質減重 減脂保肝－線上直播會議</title>
@@ -24,12 +24,12 @@
     <description>【課程】【1150704梯次】北區EMT-1課程 學術科及補考合格名單（來源：中華緊急救護技術員協會）</description>
   </item>
   <item>
-    <title>【課程】【1150718梯次】北區平日班EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)</title>
-    <link>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260731134804</link>
-    <guid>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260731134804</guid>
-    <pubDate>2026-08-04</pubDate>
+    <title>【課程】【TEMTA 08/05 下午客服暫停公告】</title>
+    <link>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260804175514</link>
+    <guid>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260804175514</guid>
+    <pubDate>2026-08-05</pubDate>
     <category>中華緊急救護技術員協會 - 台灣協會</category>
-    <description>【課程】【1150718梯次】北區平日班EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)（來源：中華緊急救護技術員協會）</description>
+    <description>【課程】【TEMTA 08/05 下午客服暫停公告】（來源：中華緊急救護技術員協會）</description>
   </item>
   <item>
     <title>【課程】新生兒高級急救救命術(NRP)訓練課程</title>
@@ -134,6 +134,14 @@
     <pubDate>2026-08-23</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】上課通知-115.8.23家醫工作坊-台北場</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0</guid>
+    <pubDate>2026-08-23</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【課程】上課通知-115.8.23家醫工作坊-台北場（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
     <title>【課程】【延期至115/8/27-28】115/7/27~28(一~二)急診創傷訓練課程ETTC</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣外傷醫學會 - 台灣學會</category>
     <description>【消息】誠徵醫學會秘書...（來源：台灣外傷醫學會）</description>
-  </item>
-  <item>
-    <title>【消息】本學會災難醫學專科甄審辦法 🔗</title>
-    <link>https://drive.google.com/file/d/1jg_csfv2mdUllqJx2EEkWvPDWHy_LO27/view?usp=sharing</link>
-    <guid>https://drive.google.com/file/d/1jg_csfv2mdUllqJx2EEkWvPDWHy_LO27/view?usp=sharing</guid>
-    <pubDate>None</pubDate>
-    <category>台灣災難醫學會 - 台灣學會</category>
-    <description>【消息】本學會災難醫學專科甄審辦法 🔗（來源：台灣災難醫學會）</description>
   </item>
 </channel>
 </rss>

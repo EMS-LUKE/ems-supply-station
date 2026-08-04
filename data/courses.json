@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-04T14:01:52.375820+00:00",
-  "count": 323,
-  "course_count": 173,
+  "updated": "2026-08-04T16:54:12.629490+00:00",
+  "count": 324,
+  "course_count": 174,
   "news_count": 150,
   "items": [
     {
@@ -25,14 +25,14 @@
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260731151453"
     },
     {
-      "id": "844cc4344ae1",
-      "title": "【1150718梯次】北區平日班EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
+      "id": "92971bef6678",
+      "title": "【TEMTA 08/05 下午客服暫停公告】",
       "source": "中華緊急救護技術員協會",
       "cat": "台灣協會",
       "type": "course",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260731134804"
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260804175514"
     },
     {
       "id": "8977206603ef",
@@ -163,6 +163,16 @@
       "date": "2026-08-23",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/A/Details/33112"
+    },
+    {
+      "id": "ee2ff74f6d62",
+      "title": "上課通知-115.8.23家醫工作坊-台北場",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-23",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0"
     },
     {
       "id": "2164b1e70863",
@@ -995,6 +1005,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/691949599cd24aa1b7030533c952ee97"
     },
     {
+      "id": "41b10ef8c47e",
+      "title": "家醫工作坊－台北場",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0"
+    },
+    {
       "id": "9ce8a33a70b6",
       "title": "綠色家庭醫師認證課程-中山",
       "source": "台灣家庭醫學醫學會",
@@ -1023,16 +1043,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/07f49bf6210d4d8ca31e61a2a32ac628"
-    },
-    {
-      "id": "c25a97a075e1",
-      "title": "113003-ad-hoc及總結性信賴授權決定",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/15b36a474e794a27b77b012007814d71"
     },
     {
       "id": "a850421e172e",
