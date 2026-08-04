@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-04T02:05:59.380162+00:00",
-  "count": 322,
-  "course_count": 170,
-  "news_count": 152,
+  "updated": "2026-08-04T05:51:30.122335+00:00",
+  "count": 324,
+  "course_count": 173,
+  "news_count": 151,
   "items": [
     {
       "id": "ee188b014c5b",
@@ -13,6 +13,26 @@
       "date": "2026-08-04",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e51872e06340477eb9d2ca133a267780"
+    },
+    {
+      "id": "093388dc7f6b",
+      "title": "【1150704梯次】北區EMT-1課程 學術科及補考合格名單",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-04",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260731151453"
+    },
+    {
+      "id": "844cc4344ae1",
+      "title": "【1150718梯次】北區平日班EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-04",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260731134804"
     },
     {
       "id": "8977206603ef",
@@ -435,24 +455,14 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
-      "id": "c636e4d1a61b",
-      "title": "【免費立即報名】臺灣急性高血鉀處置共識-明天08/04 (二)- 18:30-19:30 (線上直播)",
+      "id": "2e0faf702790",
+      "title": "【急加會員限時特惠價!】7th Asia Pacific AKI CRRT 2026第七屆亞太急性腎損傷與連續性腎臟替代治療大會 Sep.18-20 2026(台北國際會議中心)",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/813.html#here"
-    },
-    {
-      "id": "7f98d5c36c57",
-      "title": "7th Asia Pacific AKI CRRT 2026-Sep.18-20 台北國際會議中心",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/797.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/806.html#here"
     },
     {
       "id": "30c18270a1df",
@@ -462,7 +472,37 @@
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/812.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/812.html#here"
+    },
+    {
+      "id": "ebe50fe852b7",
+      "title": "衛福部公告重症醫學科專科醫師甄審原則(如附件)並自即日生效",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/808.html#here"
+    },
+    {
+      "id": "3826b68f876d",
+      "title": "【公告】部定專科「重症醫學科」相關事宜",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/796.html#here"
+    },
+    {
+      "id": "c636e4d1a61b",
+      "title": "【免費立即報名】臺灣急性高血鉀處置共識-明天08/04 (二)- 18:30-19:30 (線上直播)",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/813.html#here"
     },
     {
       "id": "3bd678241819",
@@ -495,14 +535,14 @@
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/791.html#here"
     },
     {
-      "id": "ebe50fe852b7",
-      "title": "衛福部公告重症醫學科專科醫師甄審原則(如附件)並自即日生效",
-      "source": "台灣急救加護醫學會",
+      "id": "5976222d7829",
+      "title": "2026外傷教育課程-南部地區(Ⅰ)... 【課程場地異動通知】原預定場地：馬雅各大樓 10 樓宋・伊利莎白禮拜堂變更後場地：醫療大樓 10 樓禮拜堂敬請各位學員當日依變更後之場地前往報到及上課，造成不便，請見諒。",
+      "source": "台灣外傷醫學會",
       "cat": "台灣學會",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/808.html#here"
+      "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
       "id": "03b973dd810d",
@@ -533,16 +573,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
-    },
-    {
-      "id": "5976222d7829",
-      "title": "2026外傷教育課程-南部地區(Ⅰ)... 【課程場地異動通知】原預定場地：馬雅各大樓 10 樓宋・伊利莎白禮拜堂變更後場地：醫療大樓 10 樓禮拜堂敬請各位學員當日依變更後之場地前往報到及上課，造成不便，請見諒。",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
       "id": "57654c31c3ba",
@@ -1015,6 +1045,36 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "b6e31651610a",
+      "title": "轉知-衛生福利部疾病管制署舉辦115年「成人公費肺炎鏈球菌疫苗接種政策併同提供PCV20及PCV21」醫事人員線上教育訓練",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/6dc690e8bfb54b7ba6d6d741c41da704"
+    },
+    {
+      "id": "c71f749a94d6",
+      "title": "轉知-衛生福利部疾病管制署與南洋台灣姊妹會合作辦理「外籍人士醫療及衛教諮詢外語通譯服務」，開放公衛或醫療人員於服務外籍慢性傳染病個案時可申請使用",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8ca5de04b63f489b96fec081290b827d"
+    },
+    {
+      "id": "6b66371f8739",
+      "title": "轉知-衛生福利部疾病管制署115年「全國性預防接種資訊管理系統（NIIS）」新增「加強型流感疫苗」之疫苗代碼相關注意事項",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8289c1151595475497aee94f6a2eb53d"
+    },
+    {
       "id": "bd8bd8ea562e",
       "title": "「115年友善性病門診專業醫師基礎認證課程」 完訓醫師名單公告",
       "source": "台灣家庭醫學醫學會",
@@ -1023,36 +1083,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/2e5a16aa405c43b2a7c42bd11827d6df"
-    },
-    {
-      "id": "ce471cc08990",
-      "title": "台灣家庭醫學醫學會 高爾夫球友誼賽 報名開跑囉！",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8db06341793e45af8f5feac4b7ddcc2e"
-    },
-    {
-      "id": "304f54f80a96",
-      "title": "＊115年度學術研討會口頭報告及海報評選結果",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b761335536ac4044b6bda11209651aba"
-    },
-    {
-      "id": "8b2491663813",
-      "title": "【重要公告】年度學術研討會，7.11週六課程，因「颱風延期辦理」及「線上報名」事宜",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0038a698d1644da3a81e673bda1739eb"
     },
     {
       "id": "ec9baebc8c4d",
@@ -2955,16 +2985,6 @@
       "url": "https://www.sem.org.tw/News/11/Details/1454"
     },
     {
-      "id": "1bfd9a80fc1c",
-      "title": "【1150813梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-29",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260729142242"
-    },
-    {
       "id": "cdc42c4dd53f",
       "title": "【公告】SGA 兒童健康照護政策建言書",
       "source": "台灣新生兒科醫學會",
@@ -2973,16 +2993,6 @@
       "date": "2026-07-28",
       "deadline": null,
       "url": "https://tsn-neonatology.com/news_content.aspx?id=566"
-    },
-    {
-      "id": "a11123f46e2b",
-      "title": "【1150806梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260728174851"
     },
     {
       "id": "5c240855df45",
@@ -3042,7 +3052,7 @@
       "type": "course",
       "date": "2026-07-25",
       "deadline": null,
-      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/804.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/804.html#here"
     },
     {
       "id": "5bd23fc6becf",
@@ -3123,6 +3133,16 @@
       "date": "2026-07-19",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3"
+    },
+    {
+      "id": "6c7acf9af5b5",
+      "title": "【重症聯甄】Holistic and Patient-Centered Critical Care 115.07.18 國泰人壽大樓B1國際會議廳",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-18",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/805.html#here"
     },
     {
       "id": "452b7eab7397",
