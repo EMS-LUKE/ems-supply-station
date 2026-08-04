@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-04T08:36:45.200649+00:00",
-  "count": 324,
+  "updated": "2026-08-04T11:24:42.890320+00:00",
+  "count": 323,
   "course_count": 173,
-  "news_count": 151,
+  "news_count": 150,
   "items": [
     {
       "id": "ee188b014c5b",
@@ -455,54 +455,54 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
-      "id": "2e0faf702790",
-      "title": "【急加會員限時特惠價!】7th Asia Pacific AKI CRRT 2026第七屆亞太急性腎損傷與連續性腎臟替代治療大會 Sep.18-20 2026(台北國際會議中心)",
+      "id": "60380fb22676",
+      "title": "【南區場次延至8/22-23】【南&北區-開放報名】115年高級心臟救命術學員課程示範教學 ACLS Provider Demo Course",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/806.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/800.html#here"
     },
     {
-      "id": "30c18270a1df",
-      "title": "【即日起開放報名!!】【聯甄課程】115 年重症醫學核心教育課程(線上影音)",
+      "id": "c79f1f73f270",
+      "title": "115年度高級心臟救命術指導員課程通過名單及試教須知",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/812.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/799.html#here"
     },
     {
-      "id": "ebe50fe852b7",
-      "title": "衛福部公告重症醫學科專科醫師甄審原則(如附件)並自即日生效",
+      "id": "2bdd60e384a5",
+      "title": "<公佈分組名單和出題題目>115年高級心臟救命術指導員訓練課程(ACLS Instructor Course )第二階段",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/808.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/787.html#here"
     },
     {
-      "id": "3826b68f876d",
-      "title": "【公告】部定專科「重症醫學科」相關事宜",
+      "id": "c0ce4cbb1984",
+      "title": "<即日開放報名>115年高級心臟救命術指導員訓練課程(ACLS Instructor Course)",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/796.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/777.html#here"
     },
     {
-      "id": "c636e4d1a61b",
-      "title": "【免費立即報名】臺灣急性高血鉀處置共識-明天08/04 (二)- 18:30-19:30 (線上直播)",
+      "id": "13aaade94e2e",
+      "title": "即日開放報名!【ACLS聯委會課程】2025 ACLS Update Course-中3/14.南3/21. 北4/18&5/16(共4場次)",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/813.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here"
     },
     {
       "id": "3bd678241819",
@@ -1265,6 +1265,16 @@
       "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
     },
     {
+      "id": "c2c71a5bc917",
+      "title": "「專科護理師分科及甄審辦法」第四條、第五條、第二十二條修正草案公告",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1086.html"
+    },
+    {
       "id": "e0909b9c6b4d",
       "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
       "source": "台灣麻醉專科護理學會",
@@ -1293,16 +1303,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
-    },
-    {
-      "id": "7932017bfcfc",
-      "title": "實證轉譯與病人安全於麻醉護理之應用：CRNA/DNP教育論壇~~全英文授課",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/792.html"
     },
     {
       "id": "51fb926a1999",
@@ -2023,16 +2023,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "9fe482a84e37",
-      "title": "GA Health System Plans Freestanding ER",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/ga-health-system-plans-freestanding-er/"
     },
     {
       "id": "cc05242f9202",
