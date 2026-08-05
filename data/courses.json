@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-05T02:01:12.523629+00:00",
+  "updated": "2026-08-05T05:46:56.517970+00:00",
   "count": 324,
-  "course_count": 174,
-  "news_count": 150,
+  "course_count": 173,
+  "news_count": 151,
   "items": [
     {
       "id": "92971bef6678",
@@ -535,8 +535,8 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
-      "id": "03b973dd810d",
-      "title": "【ATLS課表公告】115年度第11梯次ATLS再認證課程（大林慈濟醫院）...",
+      "id": "4fa3b6922b3f",
+      "title": "【ATLS課表公告】115年第11梯次ATLS再認證課程（大林慈濟醫院）...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "course",
@@ -555,14 +555,14 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/77.html"
     },
     {
-      "id": "0236e4bc4186",
-      "title": "115年精進外科系醫師醫療韌性訓練計畫，將於9月~12月辦理六場課程...",
+      "id": "3b7a9db31d43",
+      "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/82.html"
     },
     {
       "id": "57654c31c3ba",
@@ -2955,8 +2955,8 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4596fa6fe70547e890686fb6e5cd0f95"
     },
     {
-      "id": "ab8c8c791a79",
-      "title": "【ATLS報名】115年度「再認證」課程報名資訊（含報名表）115.07.31更新...",
+      "id": "db91393dfea7",
+      "title": "【ATLS報名】115年「再認證」課程報名資訊（含報名表）115.07.31更新...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "course",
