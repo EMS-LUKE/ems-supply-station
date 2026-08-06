@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T05:47:56.208335+00:00",
+  "updated": "2026-08-06T08:32:02.672920+00:00",
   "count": 325,
   "course_count": 173,
   "news_count": 152,
@@ -965,6 +965,16 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
+      "id": "ab60f54af81d",
+      "title": "115年流感疫苗教育訓練 (台大二)",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/de97be0cf5bf43cbab01c7d3107b55ce"
+    },
+    {
       "id": "c0405e1024b1",
       "title": "綠色家庭醫師認證課程-高醫",
       "source": "台灣家庭醫學醫學會",
@@ -1003,16 +1013,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/baba4ad1610e4125a61bf6b840f93fe5"
-    },
-    {
-      "id": "95e0269bc88e",
-      "title": "113002-網路遊戲成癮之診斷、治療、與演變",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/07f49bf6210d4d8ca31e61a2a32ac628"
     },
     {
       "id": "a850421e172e",
