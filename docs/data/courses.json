@@ -1,29 +1,9 @@
 {
-  "updated": "2026-08-07T00:03:20.633934+00:00",
-  "count": 325,
-  "course_count": 173,
+  "updated": "2026-08-07T02:27:21.957467+00:00",
+  "count": 326,
+  "course_count": 174,
   "news_count": 152,
   "items": [
-    {
-      "id": "8977206603ef",
-      "title": "新生兒高級急救救命術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-07",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28315"
-    },
-    {
-      "id": "214c59cf5b62",
-      "title": "新生兒高級急救術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-07",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28309"
-    },
     {
       "id": "667ae76795f7",
       "title": "8/8-9 ACLS急救課程 台北慈濟醫院教學部",
@@ -105,6 +85,16 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/24.html"
     },
     {
+      "id": "52a7e37fae3a",
+      "title": "新生兒高級急救術(NRP)訓練",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28329"
+    },
+    {
       "id": "79304f487d3b",
       "title": "APLS+PALS Provider Course",
       "source": "台灣新生兒科醫學會",
@@ -113,6 +103,16 @@
       "date": "2026-08-15",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28327"
+    },
+    {
+      "id": "ed7881378c62",
+      "title": "115年新生兒高級救命術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28312"
     },
     {
       "id": "737879a7520f",
@@ -383,6 +383,16 @@
       "date": "2026-10-28",
       "deadline": "2026-10-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
+    },
+    {
+      "id": "e57433088083",
+      "title": "新生兒急救(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-31",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28339"
     },
     {
       "id": "610ba8878908",
@@ -2332,7 +2342,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.c-tecc.org/about-us/what-is-ctecc"
+      "url": "https://www.c-tecc.org/index.php/about-us/what-is-ctecc"
     },
     {
       "id": "ef026e629675",
@@ -2342,7 +2352,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.c-tecc.org/our-work/newsletters"
+      "url": "https://www.c-tecc.org/index.php/our-work/newsletters"
     },
     {
       "id": "6ee75f979861",
@@ -2352,7 +2362,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.c-tecc.org/news/save-the-date-dec-2026-meeting"
+      "url": "https://www.c-tecc.org/index.php/news/save-the-date-dec-2026-meeting"
     },
     {
       "id": "4b7d44582a37",
@@ -2362,7 +2372,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.c-tecc.org/news/membership-updates-2026"
+      "url": "https://www.c-tecc.org/index.php/news/membership-updates-2026"
     },
     {
       "id": "fe9e49751244",

@@ -5,24 +5,8 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Fri, 07 Aug 2026 00:03:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 02:27:21 +0000</lastBuildDate>
   <ttl>180</ttl>
-  <item>
-    <title>【課程】新生兒高級急救救命術(NRP)訓練課程</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28315</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28315</guid>
-    <pubDate>2026-08-07</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】新生兒高級急救救命術(NRP)訓練課程（來源：台灣新生兒科醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】新生兒高級急救術(NRP)訓練課程</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28309</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28309</guid>
-    <pubDate>2026-08-07</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】新生兒高級急救術(NRP)訓練課程（來源：台灣新生兒科醫學會）</description>
-  </item>
   <item>
     <title>【課程】8/8-9 ACLS急救課程 台北慈濟醫院教學部</title>
     <link>https://www.sem.org.tw/Activity/B/Details/33080</link>
@@ -88,12 +72,28 @@
     <description>【課程】2026外傷教育課程-北部地區(Ⅲ)...（來源：台灣外傷醫學會）</description>
   </item>
   <item>
+    <title>【課程】新生兒高級急救術(NRP)訓練</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28329</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28329</guid>
+    <pubDate>2026-08-15</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】新生兒高級急救術(NRP)訓練（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
     <title>【課程】APLS+PALS Provider Course</title>
     <link>https://tsn-neonatology.com/event_content.aspx?id=28327</link>
     <guid>https://tsn-neonatology.com/event_content.aspx?id=28327</guid>
     <pubDate>2026-08-15</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】APLS+PALS Provider Course（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】115年新生兒高級救命術(NRP)訓練課程</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28312</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28312</guid>
+    <pubDate>2026-08-15</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】115年新生兒高級救命術(NRP)訓練課程（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【消息】上課通知-115.8.16 2026新竹家庭醫學周末研討會</title>
@@ -312,6 +312,14 @@
     <description>【課程】115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心（來源：台灣急診醫學會）</description>
   </item>
   <item>
+    <title>【課程】新生兒急救(NRP)訓練課程</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28339</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28339</guid>
+    <pubDate>2026-10-31</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】新生兒急救(NRP)訓練課程（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
     <title>【課程】2026/11/07-11/11 野外高級救命術</title>
     <link>https://miasan.com/event/wals20261107/?fbclid=IwY2xjawRuixxleHRuA2FlbQIxMABicmlkETFHbDJMVTZ0ZEF5aFFXR1N3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiNf2LUzOJweFDHmBDgvG9ogJyNIuWYsykxsKNd1nvYrgTGqQl1ZVN8WtHWO_aem_vHJ8ecQX3dwiLOp4TEq-jA&brid=YWdncwH-PTH6wTwISkL3dltxbfuo</link>
     <guid>https://miasan.com/event/wals20261107/?fbclid=IwY2xjawRuixxleHRuA2FlbQIxMABicmlkETFHbDJMVTZ0ZEF5aFFXR1N3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiNf2LUzOJweFDHmBDgvG9ogJyNIuWYsykxsKNd1nvYrgTGqQl1ZVN8WtHWO_aem_vHJ8ecQX3dwiLOp4TEq-jA&brid=YWdncwH-PTH6wTwISkL3dltxbfuo</guid>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣緊急救護醫療指導醫師學會 - 台灣學會</category>
     <description>【課程】機構:醫療指導醫師繼續教育訓練認證申請連結https://forms.gle/wRpfnT6FwUaPYZ7j8（來源：台灣緊急救護醫療指導醫師學會）</description>
-  </item>
-  <item>
-    <title>【消息】理監事會 及秘書處</title>
-    <link>https://www.taemsp.com/my-project-4</link>
-    <guid>https://www.taemsp.com/my-project-4</guid>
-    <pubDate>None</pubDate>
-    <category>台灣緊急救護醫療指導醫師學會 - 台灣學會</category>
-    <description>【消息】理監事會 及秘書處（來源：台灣緊急救護醫療指導醫師學會）</description>
   </item>
 </channel>
 </rss>
