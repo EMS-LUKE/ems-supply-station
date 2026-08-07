@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T02:27:21.957467+00:00",
+  "updated": "2026-08-07T04:56:48.259905+00:00",
   "count": 326,
   "course_count": 174,
   "news_count": 152,
@@ -1875,6 +1875,16 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
     },
     {
+      "id": "6f7ad46ec969",
+      "title": "【聽見AED】LINE@救援通知系統2026年7月成果報告",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b47%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
+    },
+    {
       "id": "f3c454cbadc0",
       "title": "聽見AED 是什麼？急救守護系統完整介紹：LINE 通知＋IoT 警報器，讓救援早一步開始",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1913,16 +1923,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/faq/popular-science/%e7%94%9f%e5%91%bd%e4%b9%8b%e9%8f%88%e6%98%af%e4%bb%80%e9%ba%bc%ef%bc%9f16%e6%ad%b2%e5%b0%91%e5%b9%b4ohca%e5%a5%87%e8%b9%9f%e7%94%9f%e9%82%84%ef%bc%8c%e7%9c%8bcpraed%e6%80%8e%e9%ba%bc%e6%95%91/"
-    },
-    {
-      "id": "fc345ad51215",
-      "title": "39%的公共心跳停止發生在職場，但只有2%的職場裝了AED",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/emson-advocacy/workplace-ohca-aed/"
     },
     {
       "id": "c302a6b91021",
