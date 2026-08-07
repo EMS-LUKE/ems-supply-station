@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T13:55:43.515362+00:00",
+  "updated": "2026-08-07T00:03:20.633934+00:00",
   "count": 325,
   "course_count": 173,
   "news_count": 152,
@@ -1025,6 +1025,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "13c63be92809",
+      "title": "家醫診所必看｜數位照護方案開放申請，邀請您加入健康好夥伴",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9aedca1e1e84446fae8dc3d5e77656e2"
+    },
+    {
       "id": "b6e31651610a",
       "title": "轉知-衛生福利部疾病管制署舉辦115年「成人公費肺炎鏈球菌疫苗接種政策併同提供PCV20及PCV21」醫事人員線上教育訓練",
       "source": "台灣家庭醫學醫學會",
@@ -1053,16 +1063,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8289c1151595475497aee94f6a2eb53d"
-    },
-    {
-      "id": "bd8bd8ea562e",
-      "title": "「115年友善性病門診專業醫師基礎認證課程」 完訓醫師名單公告",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/2e5a16aa405c43b2a7c42bd11827d6df"
     },
     {
       "id": "ec9baebc8c4d",
@@ -2042,7 +2042,7 @@
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course/"
     },
     {
       "id": "17f164e2e04b",
