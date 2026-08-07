@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Fri, 07 Aug 2026 15:56:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 18:52:19 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【消息】【公告】第三十三屆新生兒科專科醫師甄審考試 (開始受理報名)</title>
@@ -134,6 +134,14 @@
     <pubDate>2026-08-23</pubDate>
     <category>台灣家庭醫學醫學會 - 台灣學會</category>
     <description>【課程】上課通知-115.8.23家醫工作坊-台北場（來源：台灣家庭醫學醫學會）</description>
+  </item>
+  <item>
+    <title>【消息】上課通知-115.8.24(一)體重管理新時代： 掌握早期介入關鍵</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/72657b05d4b7445e8f500244a41df45b</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/72657b05d4b7445e8f500244a41df45b</guid>
+    <pubDate>2026-08-24</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【消息】上課通知-115.8.24(一)體重管理新時代： 掌握早期介入關鍵（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
     <title>【課程】【延期至115/8/27-28】115/7/27~28(一~二)急診創傷訓練課程ETTC</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣外傷醫學會 - 台灣學會</category>
     <description>【消息】【甄審資訊】115年專科醫師甄審公告...（來源：台灣外傷醫學會）</description>
-  </item>
-  <item>
-    <title>【消息】誠徵醫學會秘書...</title>
-    <link>http://www.trauma.org.tw/news/index.asp?/74.html</link>
-    <guid>http://www.trauma.org.tw/news/index.asp?/74.html</guid>
-    <pubDate>None</pubDate>
-    <category>台灣外傷醫學會 - 台灣學會</category>
-    <description>【消息】誠徵醫學會秘書...（來源：台灣外傷醫學會）</description>
   </item>
 </channel>
 </rss>

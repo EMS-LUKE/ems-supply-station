@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-07T15:56:27.742202+00:00",
-  "count": 327,
+  "updated": "2026-08-07T18:52:19.135673+00:00",
+  "count": 328,
   "course_count": 174,
-  "news_count": 153,
+  "news_count": 154,
   "items": [
     {
       "id": "c78cfd627246",
@@ -163,6 +163,16 @@
       "date": "2026-08-23",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0"
+    },
+    {
+      "id": "f8b4e7ea7fd1",
+      "title": "上課通知-115.8.24(一)體重管理新時代： 掌握早期介入關鍵",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-24",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/72657b05d4b7445e8f500244a41df45b"
     },
     {
       "id": "2164b1e70863",
