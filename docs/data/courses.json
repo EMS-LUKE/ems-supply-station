@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T04:56:48.259905+00:00",
+  "updated": "2026-08-07T07:11:04.873801+00:00",
   "count": 326,
   "course_count": 174,
   "news_count": 152,
@@ -1035,6 +1035,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "a6d122944a43",
+      "title": "【釋出少數名額】歡迎報名參加115年度「綠色家庭醫師認證課程」",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/58f9aa6957994da69f9c0f36462a24d9"
+    },
+    {
       "id": "13c63be92809",
       "title": "家醫診所必看｜數位照護方案開放申請，邀請您加入健康好夥伴",
       "source": "台灣家庭醫學醫學會",
@@ -1043,16 +1053,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9aedca1e1e84446fae8dc3d5e77656e2"
-    },
-    {
-      "id": "b6e31651610a",
-      "title": "轉知-衛生福利部疾病管制署舉辦115年「成人公費肺炎鏈球菌疫苗接種政策併同提供PCV20及PCV21」醫事人員線上教育訓練",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/6dc690e8bfb54b7ba6d6d741c41da704"
     },
     {
       "id": "c71f749a94d6",
@@ -1065,14 +1065,14 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8ca5de04b63f489b96fec081290b827d"
     },
     {
-      "id": "6b66371f8739",
-      "title": "轉知-衛生福利部疾病管制署115年「全國性預防接種資訊管理系統（NIIS）」新增「加強型流感疫苗」之疫苗代碼相關注意事項",
+      "id": "b6e31651610a",
+      "title": "轉知-衛生福利部疾病管制署舉辦115年「成人公費肺炎鏈球菌疫苗接種政策併同提供PCV20及PCV21」醫事人員線上教育訓練",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8289c1151595475497aee94f6a2eb53d"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/6dc690e8bfb54b7ba6d6d741c41da704"
     },
     {
       "id": "ec9baebc8c4d",
@@ -1875,6 +1875,16 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
     },
     {
+      "id": "2e2ebb642549",
+      "title": "三分鐘計劃｜讓地圖上的每一台 AED，真的拿得到、用得了、救得到人",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/emson-advocacy/3min-plan/"
+    },
+    {
       "id": "6f7ad46ec969",
       "title": "【聽見AED】LINE@救援通知系統2026年7月成果報告",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1913,16 +1923,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/event-news/thanks-diageo-keepwalking-2026/"
-    },
-    {
-      "id": "db4c9598885b",
-      "title": "生命之鏈是什麼？16歲少年OHCA奇蹟生還，看CPR+AED怎麼救回一條命",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/faq/popular-science/%e7%94%9f%e5%91%bd%e4%b9%8b%e9%8f%88%e6%98%af%e4%bb%80%e9%ba%bc%ef%bc%9f16%e6%ad%b2%e5%b0%91%e5%b9%b4ohca%e5%a5%87%e8%b9%9f%e7%94%9f%e9%82%84%ef%bc%8c%e7%9c%8bcpraed%e6%80%8e%e9%ba%bc%e6%95%91/"
     },
     {
       "id": "c302a6b91021",
