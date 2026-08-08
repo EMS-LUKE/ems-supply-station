@@ -1,59 +1,9 @@
 {
-  "updated": "2026-08-07T21:39:04.935781+00:00",
-  "count": 328,
-  "course_count": 174,
+  "updated": "2026-08-08T01:13:44.284670+00:00",
+  "count": 325,
+  "course_count": 171,
   "news_count": 154,
   "items": [
-    {
-      "id": "c78cfd627246",
-      "title": "【公告】第三十三屆新生兒科專科醫師甄審考試 (開始受理報名)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-07",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=568"
-    },
-    {
-      "id": "16d9b8cf32b3",
-      "title": "【1150815梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-07",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260807142505"
-    },
-    {
-      "id": "667ae76795f7",
-      "title": "8/8-9 ACLS急救課程 台北慈濟醫院教學部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-08",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33080"
-    },
-    {
-      "id": "4553302df918",
-      "title": "接軌國際共譜新章~波士頓的P A S：龍蝦、紅襪隊時空交織的知識微醺饗宴",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-08",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28318"
-    },
-    {
-      "id": "1beeb22791ec",
-      "title": "新生兒高級救命術(NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-08",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28336"
-    },
     {
       "id": "29283c450fb1",
       "title": "115 年度災難醫療救護隊訓練（第二類） 通識課程 衛生福利部南區緊急醫療應變中心",
@@ -73,16 +23,6 @@
       "date": "2026-08-12",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ea0c3905c93748799d0f8ffb3bdb639e"
-    },
-    {
-      "id": "87938b331fee",
-      "title": "115年度災難醫療救護隊訓練（第二類）通識課程 台大醫院、台北區ＲＥMOＣ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-13",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33168"
     },
     {
       "id": "2bb1f7cd1f43",
@@ -105,14 +45,14 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/24.html"
     },
     {
-      "id": "52a7e37fae3a",
-      "title": "新生兒高級急救術(NRP)訓練",
+      "id": "ed7881378c62",
+      "title": "115年新生兒高級救命術(NRP)訓練課程",
       "source": "台灣新生兒科醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-08-15",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28329"
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28312"
     },
     {
       "id": "79304f487d3b",
@@ -125,14 +65,24 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28327"
     },
     {
-      "id": "ed7881378c62",
-      "title": "115年新生兒高級救命術(NRP)訓練課程",
+      "id": "52a7e37fae3a",
+      "title": "新生兒高級急救術(NRP)訓練",
       "source": "台灣新生兒科醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-08-15",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28312"
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28329"
+    },
+    {
+      "id": "78891fbd589f",
+      "title": "中華民國小兒骨科醫學會2026嬰兒髖關節超音波研習課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28277"
     },
     {
       "id": "737879a7520f",
@@ -2935,6 +2885,26 @@
       "url": "https://emj.bmj.com/content/43/7"
     },
     {
+      "id": "c78cfd627246",
+      "title": "【公告】第三十三屆新生兒科專科醫師甄審考試 (開始受理報名)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-07",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=568"
+    },
+    {
+      "id": "16d9b8cf32b3",
+      "title": "【1150815梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-07",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260807142505"
+    },
+    {
       "id": "479e3f547f89",
       "title": "專科醫師證書更新複審結果公告-王O人等38位醫師(到期日如內文)",
       "source": "台灣急診醫學會",
@@ -3035,6 +3005,16 @@
       "url": "https://www.sem.org.tw/News/11/Details/1454"
     },
     {
+      "id": "36a3bf466827",
+      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1633"
+    },
+    {
       "id": "cdc42c4dd53f",
       "title": "【公告】SGA 兒童健康照護政策建言書",
       "source": "台灣新生兒科醫學會",
@@ -3053,16 +3033,6 @@
       "date": "2026-07-28",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/07/blog-post_28.html"
-    },
-    {
-      "id": "e5cb7301a812",
-      "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-27",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1631"
     },
     {
       "id": "e8a2cd2fe293",
