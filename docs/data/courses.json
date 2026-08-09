@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-08T21:30:00.323764+00:00",
-  "count": 325,
+  "updated": "2026-08-09T01:18:22.603744+00:00",
+  "count": 324,
   "course_count": 171,
-  "news_count": 154,
+  "news_count": 153,
   "items": [
     {
       "id": "29283c450fb1",
@@ -3035,6 +3035,16 @@
       "url": "https://temataiwan.blogspot.com/2026/07/blog-post_28.html"
     },
     {
+      "id": "e5cb7301a812",
+      "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-27",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1631"
+    },
+    {
       "id": "e8a2cd2fe293",
       "title": "轉知「SECC Congress 2026 Taipei 暨2026急重症聯合學術年會 ＆ 第十屆亞太早期重症復健國際會議(APEM 2026)」",
       "source": "台灣急診醫學會",
@@ -3233,26 +3243,6 @@
       "date": "2026-07-11",
       "deadline": "2026-06-12",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cc74ef8393d440cdb740fbe59711414d"
-    },
-    {
-      "id": "82bfd7c732c8",
-      "title": "第十七屆理事長、常務理事、常務監事當選名單公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1621"
-    },
-    {
-      "id": "fe05ebc02ad9",
-      "title": "《當災害發生在醫院》當醫院變成孤島 - 卡崔娜颶風事件對台灣醫院防災與韌性醫療的啟發",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/07/blog-post.html"
     }
   ]
 }
