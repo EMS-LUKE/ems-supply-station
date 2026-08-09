@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-09T15:30:37.052416+00:00",
-  "count": 324,
-  "course_count": 171,
+  "updated": "2026-08-09T18:36:52.254509+00:00",
+  "count": 325,
+  "course_count": 172,
   "news_count": 153,
   "items": [
     {
@@ -93,6 +93,16 @@
       "date": "2026-08-16",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/a3b9d124c8af4aca9aaaeff0fe415c9b"
+    },
+    {
+      "id": "30372d979165",
+      "title": "APLS & PALS Provider Course高級小兒救命術 大千綜合醫院 醫務部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-22",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33201"
     },
     {
       "id": "fa10de726c18",
@@ -1025,6 +1035,26 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/58f9aa6957994da69f9c0f36462a24d9"
     },
     {
+      "id": "82666a9276ec",
+      "title": "115年專科醫師甄審線上報名（8/10-8/21），逾期恕不受理",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7b9deb096e7d48a5a85c5fcc2eccd378"
+    },
+    {
+      "id": "9112f069c489",
+      "title": "【公告】轉知全聯會修訂「特定美容醫學處置暨美容醫學手術之訓練及繼續教育課程課綱」，請符合資格之醫師依最新規定辦理。",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/d79daa98bf224211a8f91cfd09977c03"
+    },
+    {
       "id": "13c63be92809",
       "title": "家醫診所必看｜數位照護方案開放申請，邀請您加入健康好夥伴",
       "source": "台灣家庭醫學醫學會",
@@ -1033,26 +1063,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9aedca1e1e84446fae8dc3d5e77656e2"
-    },
-    {
-      "id": "c71f749a94d6",
-      "title": "轉知-衛生福利部疾病管制署與南洋台灣姊妹會合作辦理「外籍人士醫療及衛教諮詢外語通譯服務」，開放公衛或醫療人員於服務外籍慢性傳染病個案時可申請使用",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8ca5de04b63f489b96fec081290b827d"
-    },
-    {
-      "id": "b6e31651610a",
-      "title": "轉知-衛生福利部疾病管制署舉辦115年「成人公費肺炎鏈球菌疫苗接種政策併同提供PCV20及PCV21」醫事人員線上教育訓練",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/6dc690e8bfb54b7ba6d6d741c41da704"
     },
     {
       "id": "ec9baebc8c4d",
