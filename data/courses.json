@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-10T10:18:44.425810+00:00",
-  "count": 327,
+  "updated": "2026-08-10T12:59:50.175417+00:00",
+  "count": 328,
   "course_count": 172,
-  "news_count": 155,
+  "news_count": 156,
   "items": [
     {
       "id": "1bfd9a80fc1c",
@@ -2033,6 +2033,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "273bb9291b88",
+      "title": "Flood Death Toll in India’s Assam Reaches 100",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/news-feed/flood-death-toll-in-indias-assam-reaches-100/"
     },
     {
       "id": "cc05242f9202",
