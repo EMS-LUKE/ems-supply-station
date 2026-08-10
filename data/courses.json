@@ -1,9 +1,19 @@
 {
-  "updated": "2026-08-10T04:31:19.026739+00:00",
-  "count": 325,
+  "updated": "2026-08-10T07:24:24.237272+00:00",
+  "count": 326,
   "course_count": 172,
-  "news_count": 153,
+  "news_count": 154,
   "items": [
+    {
+      "id": "1bfd9a80fc1c",
+      "title": "【1150813梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-10",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260810143455"
+    },
     {
       "id": "29283c450fb1",
       "title": "115 年度災難醫療救護隊訓練（第二類） 通識課程 衛生福利部南區緊急醫療應變中心",
@@ -13,6 +23,16 @@
       "date": "2026-08-11",
       "deadline": "2026-08-11",
       "url": "https://www.sem.org.tw/Activity/B/Details/33138"
+    },
+    {
+      "id": "ae2cda4db6d0",
+      "title": "上課通知-115.8.12新世代新冠疫苗mNEXSPIKE台灣上市學術研討會(線上直播)",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-12",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/deafeb934e544168aa4e6e2cbf5cd8e2"
     },
     {
       "id": "8e7c4c5119d7",
@@ -2923,16 +2943,6 @@
       "date": "2026-08-05",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/10/Details/1636"
-    },
-    {
-      "id": "92971bef6678",
-      "title": "【TEMTA 08/05 下午客服暫停公告】",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-05",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260804175514"
     },
     {
       "id": "d614f94cbc34",
