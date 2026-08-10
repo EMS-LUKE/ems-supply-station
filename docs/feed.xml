@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Mon, 10 Aug 2026 07:24:24 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 10:18:44 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】【1150813梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊</title>
@@ -14,6 +14,14 @@
     <pubDate>2026-08-10</pubDate>
     <category>中華緊急救護技術員協會 - 台灣協會</category>
     <description>【課程】【1150813梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊（來源：中華緊急救護技術員協會）</description>
+  </item>
+  <item>
+    <title>【消息】風險分析中的共同語言（三）風險矩陣也是溝通工具：從風險判斷的收束到資訊降維</title>
+    <link>https://temataiwan.blogspot.com/2026/08/blog-post.html</link>
+    <guid>https://temataiwan.blogspot.com/2026/08/blog-post.html</guid>
+    <pubDate>2026-08-10</pubDate>
+    <category>台灣緊急應變管理協會 - 台灣協會</category>
+    <description>【消息】風險分析中的共同語言（三）風險矩陣也是溝通工具：從風險判斷的收束到資訊降維（來源：台灣緊急應變管理協會）</description>
   </item>
   <item>
     <title>【課程】115 年度災難醫療救護隊訓練（第二類） 通識課程 衛生福利部南區緊急醫療應變中心</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣外傷醫學會 - 台灣學會</category>
     <description>【消息】誠徵醫學會秘書...（來源：台灣外傷醫學會）</description>
-  </item>
-  <item>
-    <title>【消息】本學會災難醫學專科甄審辦法 🔗</title>
-    <link>https://drive.google.com/file/d/1jg_csfv2mdUllqJx2EEkWvPDWHy_LO27/view?usp=sharing</link>
-    <guid>https://drive.google.com/file/d/1jg_csfv2mdUllqJx2EEkWvPDWHy_LO27/view?usp=sharing</guid>
-    <pubDate>None</pubDate>
-    <category>台灣災難醫學會 - 台灣學會</category>
-    <description>【消息】本學會災難醫學專科甄審辦法 🔗（來源：台灣災難醫學會）</description>
   </item>
 </channel>
 </rss>
