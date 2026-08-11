@@ -1,39 +1,9 @@
 {
-  "updated": "2026-08-10T21:41:25.358027+00:00",
-  "count": 328,
-  "course_count": 172,
-  "news_count": 156,
+  "updated": "2026-08-11T01:18:12.298583+00:00",
+  "count": 325,
+  "course_count": 170,
+  "news_count": 155,
   "items": [
-    {
-      "id": "1bfd9a80fc1c",
-      "title": "【1150813梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-10",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260810143455"
-    },
-    {
-      "id": "69cf70d31659",
-      "title": "風險分析中的共同語言（三）風險矩陣也是溝通工具：從風險判斷的收束到資訊降維",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-08-10",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/08/blog-post.html"
-    },
-    {
-      "id": "29283c450fb1",
-      "title": "115 年度災難醫療救護隊訓練（第二類） 通識課程 衛生福利部南區緊急醫療應變中心",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-11",
-      "deadline": "2026-08-11",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33138"
-    },
     {
       "id": "ae2cda4db6d0",
       "title": "上課通知-115.8.12新世代新冠疫苗mNEXSPIKE台灣上市學術研討會(線上直播)",
@@ -2935,6 +2905,26 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
+      "id": "1bfd9a80fc1c",
+      "title": "【1150813梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-10",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260810143455"
+    },
+    {
+      "id": "69cf70d31659",
+      "title": "風險分析中的共同語言（三）風險矩陣也是溝通工具：從風險判斷的收束到資訊降維",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-08-10",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/08/blog-post.html"
+    },
+    {
       "id": "c78cfd627246",
       "title": "【公告】第三十三屆新生兒科專科醫師甄審考試 (開始受理報名)",
       "source": "台灣新生兒科醫學會",
@@ -3263,26 +3253,6 @@
       "date": "2026-07-12",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/d7d7efaccd2b420abc2af8a0a0e55379"
-    },
-    {
-      "id": "f6b0e8fb1906",
-      "title": "2026外傷教育課程-中部地區(Ⅰ)... 【異動資訊】本場次因受巴威颱風影響，取消辦理。已完成報名學員可於本年度改報名其他場次或申請退費（並同時以電子郵件通知課程取消辦理資訊）。",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-11",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/index.asp?/20.html"
-    },
-    {
-      "id": "5ef29a335835",
-      "title": "115.7.11-12年度學術研討會暨會員代表大會活動通知 （兩天的精彩活動,早鳥優惠115.6.12前）",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-11",
-      "deadline": "2026-06-12",
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cc74ef8393d440cdb740fbe59711414d"
     }
   ]
 }
