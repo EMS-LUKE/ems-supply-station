@@ -1,9 +1,39 @@
 {
-  "updated": "2026-08-11T01:18:12.298583+00:00",
-  "count": 325,
-  "course_count": 170,
+  "updated": "2026-08-11T04:20:41.375684+00:00",
+  "count": 326,
+  "course_count": 171,
   "news_count": 155,
   "items": [
+    {
+      "id": "f4711a021d95",
+      "title": "2026冬季學術討論會暨1119台灣急診日",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-11",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/12/Details/1638"
+    },
+    {
+      "id": "b77f7608d41f",
+      "title": "【1150718梯次】南區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-11",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260811103637"
+    },
+    {
+      "id": "a7f34bde449a",
+      "title": "【1150718梯次】北區假日班EMT-1課程 學術科及補考合格名單",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-11",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260806173712"
+    },
     {
       "id": "ae2cda4db6d0",
       "title": "上課通知-115.8.12新世代新冠疫苗mNEXSPIKE台灣上市學術研討會(線上直播)",
@@ -525,6 +555,16 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
+      "id": "e85ef2684575",
+      "title": "2026精進外科系醫師醫療韌性國際研討會，歡迎踴躍報名...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/83.html"
+    },
+    {
       "id": "4fa3b6922b3f",
       "title": "【ATLS課表公告】115年第11梯次ATLS再認證課程（大林慈濟醫院）...",
       "source": "台灣外傷醫學會",
@@ -563,16 +603,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
-    },
-    {
-      "id": "1cfee8fade00",
-      "title": "誠徵醫學會秘書...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
     },
     {
       "id": "86005a8326cc",
@@ -2905,16 +2935,6 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1bfd9a80fc1c",
-      "title": "【1150813梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-10",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260810143455"
-    },
-    {
       "id": "69cf70d31659",
       "title": "風險分析中的共同語言（三）風險矩陣也是溝通工具：從風險判斷的收束到資訊降維",
       "source": "台灣緊急應變管理協會",
@@ -2933,16 +2953,6 @@
       "date": "2026-08-07",
       "deadline": null,
       "url": "https://tsn-neonatology.com/news_content.aspx?id=568"
-    },
-    {
-      "id": "16d9b8cf32b3",
-      "title": "【1150815梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-07",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260807142505"
     },
     {
       "id": "479e3f547f89",
