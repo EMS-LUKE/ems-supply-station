@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-11T10:00:23.613116+00:00",
-  "count": 326,
+  "updated": "2026-08-11T12:55:08.884030+00:00",
+  "count": 328,
   "course_count": 171,
-  "news_count": 155,
+  "news_count": 157,
   "items": [
     {
       "id": "f4711a021d95",
@@ -183,6 +183,16 @@
       "date": "2026-08-29",
       "deadline": "2026-08-17",
       "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
+    },
+    {
+      "id": "65d75f3289a0",
+      "title": "2026.9.6【2026台灣呼吸道處理醫學會年會暨國際學術研討會】歡迎報名參加",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-06",
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/df_info.asp?/992.html"
     },
     {
       "id": "f8a9622624b9",
@@ -2015,6 +2025,16 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
+      "id": "cf55b5f8139b",
+      "title": "Baltimore Is Rethinking What It Means to Call 911—and Who Responds",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/baltimore-is-rethinking-what-it-means-to-call-911-and-who-responds/"
+    },
+    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -2025,16 +2045,6 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "d39b20076f5b",
-      "title": "Yosemite (CA) Speed Climber Dies in Accident in Sequoia National Park",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/yosemite-ca-speed-climber-dies-in-accident-in-sequoia-national-park/"
-    },
-    {
       "id": "98860142062c",
       "title": "Headlines",
       "source": "JEMS",
@@ -2043,6 +2053,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "d39b20076f5b",
+      "title": "Yosemite (CA) Speed Climber Dies in Accident in Sequoia National Park",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/yosemite-ca-speed-climber-dies-in-accident-in-sequoia-national-park/"
     },
     {
       "id": "cc05242f9202",
