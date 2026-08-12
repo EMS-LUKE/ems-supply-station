@@ -1,39 +1,9 @@
 {
-  "updated": "2026-08-11T21:46:28.645216+00:00",
-  "count": 328,
-  "course_count": 171,
+  "updated": "2026-08-12T01:26:35.931381+00:00",
+  "count": 327,
+  "course_count": 170,
   "news_count": 157,
   "items": [
-    {
-      "id": "f4711a021d95",
-      "title": "2026冬季學術討論會暨1119台灣急診日",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-11",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/12/Details/1638"
-    },
-    {
-      "id": "b77f7608d41f",
-      "title": "【1150718梯次】南區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-11",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260811103637"
-    },
-    {
-      "id": "a7f34bde449a",
-      "title": "【1150718梯次】北區假日班EMT-1課程 學術科及補考合格名單",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-11",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260806173712"
-    },
     {
       "id": "ae2cda4db6d0",
       "title": "上課通知-115.8.12新世代新冠疫苗mNEXSPIKE台灣上市學術研討會(線上直播)",
@@ -2922,7 +2892,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2025-338211v2?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100543.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -2953,6 +2923,36 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "f4711a021d95",
+      "title": "2026冬季學術討論會暨1119台灣急診日",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-11",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/12/Details/1638"
+    },
+    {
+      "id": "b77f7608d41f",
+      "title": "【1150718梯次】南區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-11",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260811103637"
+    },
+    {
+      "id": "a7f34bde449a",
+      "title": "【1150718梯次】北區假日班EMT-1課程 學術科及補考合格名單",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-11",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260806173712"
     },
     {
       "id": "69cf70d31659",
@@ -3273,16 +3273,6 @@
       "date": "2026-07-15",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260715174415"
-    },
-    {
-      "id": "6aca5801bd8a",
-      "title": "年度學術研討會-115.7.12(日) 第二天",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-12",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/d7d7efaccd2b420abc2af8a0a0e55379"
     }
   ]
 }
