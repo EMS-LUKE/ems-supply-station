@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Wed, 12 Aug 2026 07:20:54 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 10:04:42 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【消息】上課通知-115.8.12新世代新冠疫苗mNEXSPIKE台灣上市學術研討會(線上直播)</title>
@@ -158,6 +158,14 @@
     <pubDate>2026-09-12</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】中區聯合病例討論會（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】2026新生兒倫理研討會</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28363</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28363</guid>
+    <pubDate>2026-09-13</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】2026新生兒倫理研討會（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】【DHA 2026】2026 International Conference on Digital Health and Medical Analytics（DHA 2026）115.09.18-20高雄科技大學</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣外傷醫學會 - 台灣學會</category>
     <description>【消息】【甄審資訊】115年專科醫師甄審公告...（來源：台灣外傷醫學會）</description>
-  </item>
-  <item>
-    <title>【消息】本學會災難醫學專科甄審辦法 🔗</title>
-    <link>https://drive.google.com/file/d/1jg_csfv2mdUllqJx2EEkWvPDWHy_LO27/view?usp=sharing</link>
-    <guid>https://drive.google.com/file/d/1jg_csfv2mdUllqJx2EEkWvPDWHy_LO27/view?usp=sharing</guid>
-    <pubDate>None</pubDate>
-    <category>台灣災難醫學會 - 台灣學會</category>
-    <description>【消息】本學會災難醫學專科甄審辦法 🔗（來源：台灣災難醫學會）</description>
   </item>
 </channel>
 </rss>

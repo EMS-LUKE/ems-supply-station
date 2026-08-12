@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-12T07:20:54.212022+00:00",
+  "updated": "2026-08-12T10:04:42.854610+00:00",
   "count": 327,
-  "course_count": 170,
-  "news_count": 157,
+  "course_count": 171,
+  "news_count": 156,
   "items": [
     {
       "id": "ae2cda4db6d0",
@@ -193,6 +193,16 @@
       "date": "2026-09-12",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28131"
+    },
+    {
+      "id": "ca8eae5dea72",
+      "title": "2026新生兒倫理研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-13",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28363"
     },
     {
       "id": "032e497ba690",
@@ -2005,16 +2015,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "cf55b5f8139b",
-      "title": "Baltimore Is Rethinking What It Means to Call 911—and Who Responds",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/baltimore-is-rethinking-what-it-means-to-call-911-and-who-responds/"
-    },
-    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -2035,14 +2035,14 @@
       "url": "https://www.jems.com/news/"
     },
     {
-      "id": "d39b20076f5b",
-      "title": "Yosemite (CA) Speed Climber Dies in Accident in Sequoia National Park",
+      "id": "cf55b5f8139b",
+      "title": "Baltimore Is Rethinking What It Means to Call 911—and Who Responds",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/yosemite-ca-speed-climber-dies-in-accident-in-sequoia-national-park/"
+      "url": "https://www.jems.com/news/baltimore-is-rethinking-what-it-means-to-call-911-and-who-responds/"
     },
     {
       "id": "cc05242f9202",
