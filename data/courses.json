@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-12T10:04:42.854610+00:00",
-  "count": 327,
+  "updated": "2026-08-12T13:00:08.904352+00:00",
+  "count": 326,
   "course_count": 171,
-  "news_count": 156,
+  "news_count": 155,
   "items": [
     {
       "id": "ae2cda4db6d0",
@@ -2033,16 +2033,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "cf55b5f8139b",
-      "title": "Baltimore Is Rethinking What It Means to Call 911—and Who Responds",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/baltimore-is-rethinking-what-it-means-to-call-911-and-who-responds/"
     },
     {
       "id": "cc05242f9202",
