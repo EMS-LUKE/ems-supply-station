@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-12T19:00:28.331355+00:00",
-  "count": 326,
+  "updated": "2026-08-12T21:45:42.987062+00:00",
+  "count": 327,
   "course_count": 171,
-  "news_count": 155,
+  "news_count": 156,
   "items": [
     {
       "id": "ae2cda4db6d0",
@@ -2015,16 +2015,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "a39f65225f1e",
-      "title": "News Feed",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
       "id": "98860142062c",
       "title": "Headlines",
       "source": "JEMS",
@@ -2033,6 +2023,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "a39f65225f1e",
+      "title": "News Feed",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/news-feed/"
     },
     {
       "id": "cc05242f9202",
@@ -2935,6 +2935,16 @@
       "url": "https://www.sem.org.tw/News/12/Details/1638"
     },
     {
+      "id": "32daf37c2cde",
+      "title": "2026еҶ¬еӯЈеӯёиЎ“иЁҺи«–жңғжҡЁ1119еҸ°зҒЈжҖҘиЁәж—Ҙ",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-11",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/12/Details/1638"
+    },
+    {
       "id": "b77f7608d41f",
       "title": "【1150718梯次】南區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
       "source": "中華緊急救護技術員協會",
@@ -2965,8 +2975,8 @@
       "url": "https://tsn-neonatology.com/news_content.aspx?id=568"
     },
     {
-      "id": "479e3f547f89",
-      "title": "專科醫師證書更新複審結果公告-王O人等38位醫師(到期日如內文)",
+      "id": "4be77fdc392c",
+      "title": "е°Ҳз§‘йҶ«её«иӯүжӣёжӣҙж–°иӨҮеҜ©зөҗжһңе…¬е‘Ҡ-зҺӢOдәәзӯү38дҪҚйҶ«её«(еҲ°жңҹж—ҘеҰӮе…§ж–Ү)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
