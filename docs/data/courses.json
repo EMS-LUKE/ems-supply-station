@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T04:49:56.043690+00:00",
+  "updated": "2026-08-12T07:20:54.212022+00:00",
   "count": 327,
   "course_count": 170,
   "news_count": 157,
@@ -23,6 +23,16 @@
       "date": "2026-08-12",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ea0c3905c93748799d0f8ffb3bdb639e"
+    },
+    {
+      "id": "110ddfa7402b",
+      "title": "【1150815梯次】南區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-12",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260812140832"
     },
     {
       "id": "2bb1f7cd1f43",
@@ -925,6 +935,16 @@
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
     },
     {
+      "id": "db8e9410e3d6",
+      "title": "【代轉】誠摯邀請蒞臨9/3數位產業署主辦「2026 ADI DEMO DAY：主權AI賦能-建構可信賴、可控管的AI智慧醫療」(此為免費活動，名額有限，敬請把握難得機會)",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
       "id": "c9bef9500467",
       "title": "【代轉】2026年8月「2026年亞太健康促進與非傳染病防治教育訓練工作坊」",
       "source": "台灣醫學資訊學會",
@@ -937,16 +957,6 @@
     {
       "id": "3a5e55368bd3",
       "title": "【代轉】社團法人亞洲華人醫務管理交流學會8/14-/15辦理「2026高齡健康處方設計師跨領域高階創新人才培訓系列活動」歡迎報名。",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "d45d9fa81b2e",
-      "title": "【代轉】大語言模型與串接醫療 AI 應用系列課程即將推出",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "course",
@@ -2943,16 +2953,6 @@
       "date": "2026-08-11",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260811103637"
-    },
-    {
-      "id": "a7f34bde449a",
-      "title": "【1150718梯次】北區假日班EMT-1課程 學術科及補考合格名單",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-11",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260806173712"
     },
     {
       "id": "69cf70d31659",
