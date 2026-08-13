@@ -1,39 +1,9 @@
 {
-  "updated": "2026-08-12T21:45:42.987062+00:00",
+  "updated": "2026-08-13T01:27:50.032069+00:00",
   "count": 327,
-  "course_count": 171,
-  "news_count": 156,
+  "course_count": 172,
+  "news_count": 155,
   "items": [
-    {
-      "id": "ae2cda4db6d0",
-      "title": "上課通知-115.8.12新世代新冠疫苗mNEXSPIKE台灣上市學術研討會(線上直播)",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-12",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/deafeb934e544168aa4e6e2cbf5cd8e2"
-    },
-    {
-      "id": "8e7c4c5119d7",
-      "title": "上課通知-115.8.12-StrokePrevention in AF : What do you need to know ?-step3共病管理",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-12",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ea0c3905c93748799d0f8ffb3bdb639e"
-    },
-    {
-      "id": "110ddfa7402b",
-      "title": "【1150815梯次】南區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-12",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260812140832"
-    },
     {
       "id": "2bb1f7cd1f43",
       "title": "AHA ACLS provider hybrid 高雄長庚急診醫學部",
@@ -293,6 +263,16 @@
       "date": "2026-09-21",
       "deadline": "2026-09-21",
       "url": "https://www.sem.org.tw/Activity/A/Details/33173"
+    },
+    {
+      "id": "e685e4ff3394",
+      "title": "臺北市政府衛生局115年8月1日至115年9月30日辦理臺北健康養成記「命運精靈召喚所．健康運氣在你手」獎勵活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-09-30",
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19200&agroup=a"
     },
     {
       "id": "5ea18ba7e4da",
@@ -1825,16 +1805,6 @@
       "url": "https://www.ntuh.gov.tw"
     },
     {
-      "id": "a5c9190b67c3",
-      "title": "臺大醫院131週年院慶舉辦數位與智慧醫療國際研討會 聚焦機器人與AI創新應用 攜手國際專家共創智慧醫療新未來",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/News.action?q_type=-1&q_itemCode=19059"
-    },
-    {
       "id": "ed2ee3e5b76a",
       "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
       "source": "臺大兒童醫院",
@@ -1843,6 +1813,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "5bb633d2fb9b",
+      "title": "臺大醫院115年度母親節節慶關懷活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
     },
     {
       "id": "ed1866c01f90",
@@ -2925,18 +2905,38 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "f4711a021d95",
-      "title": "2026冬季學術討論會暨1119台灣急診日",
-      "source": "台灣急診醫學會",
+      "id": "ae2cda4db6d0",
+      "title": "上課通知-115.8.12新世代新冠疫苗mNEXSPIKE台灣上市學術研討會(線上直播)",
+      "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "news",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "deadline": null,
-      "url": "https://www.sem.org.tw/News/12/Details/1638"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/deafeb934e544168aa4e6e2cbf5cd8e2"
     },
     {
-      "id": "32daf37c2cde",
-      "title": "2026еҶ¬еӯЈеӯёиЎ“иЁҺи«–жңғжҡЁ1119еҸ°зҒЈжҖҘиЁәж—Ҙ",
+      "id": "8e7c4c5119d7",
+      "title": "上課通知-115.8.12-StrokePrevention in AF : What do you need to know ?-step3共病管理",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-12",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ea0c3905c93748799d0f8ffb3bdb639e"
+    },
+    {
+      "id": "110ddfa7402b",
+      "title": "【1150815梯次】南區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-12",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260812140832"
+    },
+    {
+      "id": "f4711a021d95",
+      "title": "2026冬季學術討論會暨1119台灣急診日",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -2975,8 +2975,8 @@
       "url": "https://tsn-neonatology.com/news_content.aspx?id=568"
     },
     {
-      "id": "4be77fdc392c",
-      "title": "е°Ҳз§‘йҶ«её«иӯүжӣёжӣҙж–°иӨҮеҜ©зөҗжһңе…¬е‘Ҡ-зҺӢOдәәзӯү38дҪҚйҶ«её«(еҲ°жңҹж—ҘеҰӮе…§ж–Ү)",
+      "id": "479e3f547f89",
+      "title": "專科醫師證書更新複審結果公告-王O人等38位醫師(到期日如內文)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
