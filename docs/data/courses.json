@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-13T07:24:17.362809+00:00",
-  "count": 327,
+  "updated": "2026-08-13T10:03:40.028272+00:00",
+  "count": 328,
   "course_count": 172,
-  "news_count": 155,
+  "news_count": 156,
   "items": [
     {
       "id": "2bb1f7cd1f43",
@@ -1995,14 +1995,14 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "98860142062c",
-      "title": "Headlines",
+      "id": "47a0554df763",
+      "title": "Man Allegedly Kicked ME EMT in the Head",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/"
+      "url": "https://www.jems.com/news/man-allegedly-kicked-me-emt-in-the-head/"
     },
     {
       "id": "a39f65225f1e",
@@ -2013,6 +2013,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
+    },
+    {
+      "id": "98860142062c",
+      "title": "Headlines",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/"
     },
     {
       "id": "cc05242f9202",
