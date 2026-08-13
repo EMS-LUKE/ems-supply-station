@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-13T10:03:40.028272+00:00",
-  "count": 328,
-  "course_count": 172,
+  "updated": "2026-08-13T13:01:58.379188+00:00",
+  "count": 329,
+  "course_count": 173,
   "news_count": 156,
   "items": [
     {
@@ -63,6 +63,16 @@
       "date": "2026-08-15",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28277"
+    },
+    {
+      "id": "c75ab53df448",
+      "title": "雲嘉區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28142"
     },
     {
       "id": "737879a7520f",
@@ -145,6 +155,16 @@
       "url": "http://course.tsccm.org.tw/df_info.asp?/992.html"
     },
     {
+      "id": "2ac81df85df8",
+      "title": "先天性梅毒之母嬰垂直感染防治：新生兒評估、診斷、治療與追蹤",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-09",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28350"
+    },
+    {
       "id": "f8a9622624b9",
       "title": "北區聯合病例討論會",
       "source": "台灣新生兒科醫學會",
@@ -153,6 +173,16 @@
       "date": "2026-09-09",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
+    },
+    {
+      "id": "326b8b90cf7f",
+      "title": "115年慢性阻塞性肺病專科醫師核心教育課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-12",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28354"
     },
     {
       "id": "08518396f20a",
@@ -255,6 +285,16 @@
       "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
     },
     {
+      "id": "0d0878a92c83",
+      "title": "精進周產期與母嬰連續性照護品質國際研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-20",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28359"
+    },
+    {
       "id": "df5070bf548e",
       "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
       "source": "台灣急診醫學會",
@@ -335,34 +375,14 @@
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
     },
     {
-      "id": "6682d9820791",
-      "title": "新生兒高級急救術(NRP)",
+      "id": "510b4cd01535",
+      "title": "SECC Congress 2026 Taipei 暨2026智慧急重症醫療國際會議",
       "source": "台灣新生兒科醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-10-17",
+      "date": "2026-10-04",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28195"
-    },
-    {
-      "id": "c75ab53df448",
-      "title": "雲嘉區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28143"
-    },
-    {
-      "id": "4a927816cc75",
-      "title": "南區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28349"
     },
     {
       "id": "e815a0a74ca9",
@@ -383,16 +403,6 @@
       "date": "2026-10-28",
       "deadline": "2026-10-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
-    },
-    {
-      "id": "e57433088083",
-      "title": "新生兒急救(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-31",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28339"
     },
     {
       "id": "610ba8878908",
@@ -1995,16 +2005,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "47a0554df763",
-      "title": "Man Allegedly Kicked ME EMT in the Head",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/man-allegedly-kicked-me-emt-in-the-head/"
-    },
-    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -2023,6 +2023,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "47a0554df763",
+      "title": "Man Allegedly Kicked ME EMT in the Head",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/man-allegedly-kicked-me-emt-in-the-head/"
     },
     {
       "id": "cc05242f9202",
