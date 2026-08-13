@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-13T18:59:58.166037+00:00",
-  "count": 329,
-  "course_count": 173,
+  "updated": "2026-08-13T21:44:50.432018+00:00",
+  "count": 328,
+  "course_count": 172,
   "news_count": 156,
   "items": [
     {
@@ -2795,44 +2795,34 @@
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
     },
     {
-      "id": "bf8f132c31a9",
-      "title": "Dive Medicine Training",
+      "id": "1a4c4b8a5a11",
+      "title": "Online Courses",
       "source": "Trilogy EMS",
       "cat": "戰術救護",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "javascript:;"
+      "url": "https://lms.trilogyems.com/courses/"
     },
     {
-      "id": "a7aa4fef7df2",
-      "title": "Diver's Alert Network Courses",
+      "id": "40a14da2727e",
+      "title": "Buy Courses",
       "source": "Trilogy EMS",
       "cat": "戰術救護",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://trilogyems.com/dan"
+      "url": "https://lms.trilogyems.com/buy-courses/"
     },
     {
-      "id": "91ee2fa9a53a",
-      "title": "Hyperbaric Chamber Training",
+      "id": "b8d2418a1352",
+      "title": "Explore Courses",
       "source": "Trilogy EMS",
       "cat": "戰術救護",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://trilogyems.com/about"
-    },
-    {
-      "id": "3e7601b7e759",
-      "title": "TECC Instructor Course",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://trilogyems.com/courses/teccinstructor"
+      "url": "https://lms.trilogyems.com/courses/"
     },
     {
       "id": "67b694b172c8",
@@ -2915,14 +2905,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
+      "url": "https://emj.bmj.com/content/43/7"
     },
     {
       "id": "ae2cda4db6d0",
