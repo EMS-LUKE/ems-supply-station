@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T10:00:15.426341+00:00",
+  "updated": "2026-08-14T12:58:02.078976+00:00",
   "count": 329,
   "course_count": 171,
   "news_count": 158,
@@ -1245,16 +1245,6 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1087.html"
     },
     {
-      "id": "90c9bbf3fb6d",
-      "title": "溫馨小提醒：有關115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場舉行與否",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
-    },
-    {
       "id": "4a249f5358dd",
       "title": "115年冬季麻醉專科護理師學術研討會",
       "source": "台灣麻醉專科護理學會",
@@ -1263,6 +1253,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
+    },
+    {
+      "id": "10a585ef7f40",
+      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
     },
     {
       "id": "7f4077aab8c4",
@@ -2025,6 +2025,16 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
+      "id": "3ff8094eec13",
+      "title": "Sixteen Hospitalized After Mass Casualty Incident at MA Industrial Facility",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/sixteen-hospitalized-after-mass-casualty-incident-at-ma-industrial-facility/"
+    },
+    {
       "id": "98860142062c",
       "title": "Headlines",
       "source": "JEMS",
@@ -2033,16 +2043,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "47a0554df763",
-      "title": "Man Allegedly Kicked ME EMT in the Head",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/man-allegedly-kicked-me-emt-in-the-head/"
     },
     {
       "id": "cc05242f9202",
