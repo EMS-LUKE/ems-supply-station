@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-13T21:44:50.432018+00:00",
-  "count": 328,
-  "course_count": 172,
+  "updated": "2026-08-14T01:27:49.480545+00:00",
+  "count": 327,
+  "course_count": 171,
   "news_count": 156,
   "items": [
-    {
-      "id": "2bb1f7cd1f43",
-      "title": "AHA ACLS provider hybrid 高雄長庚急診醫學部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-14",
-      "deadline": "2026-08-14",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33167"
-    },
     {
       "id": "42dd57436370",
       "title": "2026外傷教育課程-北部地區(Ⅲ)...",
