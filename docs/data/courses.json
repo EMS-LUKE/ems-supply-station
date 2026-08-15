@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-15T03:39:52.616992+00:00",
-  "count": 329,
-  "course_count": 171,
+  "updated": "2026-08-15T06:32:38.899013+00:00",
+  "count": 331,
+  "course_count": 173,
   "news_count": 158,
   "items": [
     {
@@ -53,6 +53,16 @@
       "date": "2026-08-16",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28338"
+    },
+    {
+      "id": "3dd8bd1c2120",
+      "title": "新生兒（含早產兒）診療及照護研討暨教學",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-19",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28348"
     },
     {
       "id": "30372d979165",
@@ -413,6 +423,16 @@
       "date": "2026-10-28",
       "deadline": "2026-10-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
+    },
+    {
+      "id": "e57433088083",
+      "title": "新生兒急救(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-31",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28339"
     },
     {
       "id": "610ba8878908",
