@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T12:30:47.246838+00:00",
+  "updated": "2026-08-15T15:20:39.235109+00:00",
   "count": 332,
   "course_count": 174,
   "news_count": 158,
@@ -2055,16 +2055,6 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "3ff8094eec13",
-      "title": "Sixteen Hospitalized After Mass Casualty Incident at MA Industrial Facility",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/sixteen-hospitalized-after-mass-casualty-incident-at-ma-industrial-facility/"
-    },
-    {
       "id": "98860142062c",
       "title": "Headlines",
       "source": "JEMS",
@@ -2073,6 +2063,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "3ff8094eec13",
+      "title": "Sixteen Hospitalized After Mass Casualty Incident at MA Industrial Facility",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/sixteen-hospitalized-after-mass-casualty-incident-at-ma-industrial-facility/"
     },
     {
       "id": "cc05242f9202",
