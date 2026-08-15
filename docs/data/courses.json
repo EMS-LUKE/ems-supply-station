@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-15T00:59:26.491778+00:00",
-  "count": 328,
-  "course_count": 170,
+  "updated": "2026-08-15T03:39:52.616992+00:00",
+  "count": 329,
+  "course_count": 171,
   "news_count": 158,
   "items": [
     {
@@ -13,16 +13,6 @@
       "date": "2026-08-15",
       "deadline": null,
       "url": "http://www.trauma.org.tw/active/index.asp?/24.html"
-    },
-    {
-      "id": "78891fbd589f",
-      "title": "中華民國小兒骨科醫學會2026嬰兒髖關節超音波研習課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-15",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28277"
     },
     {
       "id": "737879a7520f",
@@ -53,6 +43,16 @@
       "date": "2026-08-16",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28334"
+    },
+    {
+      "id": "214c59cf5b62",
+      "title": "新生兒高級急救術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-16",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28338"
     },
     {
       "id": "30372d979165",
@@ -393,6 +393,16 @@
       "date": "2026-10-18",
       "deadline": null,
       "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1724"
+    },
+    {
+      "id": "2770f6998a0b",
+      "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-22",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28358"
     },
     {
       "id": "3685f7be079e",
@@ -1725,46 +1735,6 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
-      "id": "96aeeb9948f7",
-      "title": "CPR+AED",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
-    },
-    {
-      "id": "72feeda9299f",
-      "title": "[第一階段線上] CPR+AED知識課程",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://school.anne.education/courses/cpraed/"
-    },
-    {
-      "id": "ae1bfe2ab10d",
-      "title": "http://saveanne.tw/CPRAnneTaipei12024",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://saveanne.tw/CPRAnneTaipei12024"
-    },
-    {
-      "id": "00a1a278ed65",
-      "title": "http://saveanne.tw/CPRVisionTaichung1",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://saveanne.tw/CPRVisionTaichung1"
-    },
-    {
       "id": "9a9995a5da7d",
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
@@ -1773,6 +1743,46 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
+    },
+    {
+      "id": "ed3caa0dfe34",
+      "title": "全民學急救",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/firstaid.html"
+    },
+    {
+      "id": "74618323376f",
+      "title": "無意識且沒有正常呼吸(CPR+AED)",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/f1ohca.html"
+    },
+    {
+      "id": "17dbb796794e",
+      "title": "翻轉急救｜CPR+AED",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/flippedcpr.html"
+    },
+    {
+      "id": "77986d080e7b",
+      "title": "校園急救教育支持計畫",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/campus.html"
     },
     {
       "id": "c9bc7d463306",
