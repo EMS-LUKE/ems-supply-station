@@ -1,29 +1,9 @@
 {
-  "updated": "2026-08-14T21:25:56.155234+00:00",
-  "count": 329,
-  "course_count": 171,
+  "updated": "2026-08-15T00:59:26.491778+00:00",
+  "count": 328,
+  "course_count": 170,
   "news_count": 158,
   "items": [
-    {
-      "id": "6a4bc6726989",
-      "title": "е…¬е‘ҠгҖҺ2026е№ҙ10жңҲжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҸе ұе‘ҠдәәзҚІйҒёеҗҚе–®",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-14",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1639"
-    },
-    {
-      "id": "ab26ef0bc123",
-      "title": "【1150819梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-14",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260814173047"
-    },
     {
       "id": "42dd57436370",
       "title": "2026外傷教育課程-北部地區(Ⅲ)...",
@@ -33,36 +13,6 @@
       "date": "2026-08-15",
       "deadline": null,
       "url": "http://www.trauma.org.tw/active/index.asp?/24.html"
-    },
-    {
-      "id": "ed7881378c62",
-      "title": "115年新生兒高級救命術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-15",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28312"
-    },
-    {
-      "id": "79304f487d3b",
-      "title": "APLS+PALS Provider Course",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-15",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28327"
-    },
-    {
-      "id": "52a7e37fae3a",
-      "title": "新生兒高級急救術(NRP)訓練",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-15",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28329"
     },
     {
       "id": "78891fbd589f",
@@ -75,16 +25,6 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28277"
     },
     {
-      "id": "c75ab53df448",
-      "title": "雲嘉區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-15",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28142"
-    },
-    {
       "id": "737879a7520f",
       "title": "上課通知-115.8.16 2026新竹家庭醫學周末研討會",
       "source": "台灣家庭醫學醫學會",
@@ -93,6 +33,26 @@
       "date": "2026-08-16",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/a3b9d124c8af4aca9aaaeff0fe415c9b"
+    },
+    {
+      "id": "ed7881378c62",
+      "title": "115年新生兒高級救命術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-16",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28313"
+    },
+    {
+      "id": "e22b03c287f9",
+      "title": "新生兒高級救命術NRP認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-16",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28334"
     },
     {
       "id": "30372d979165",
@@ -393,6 +353,36 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28349"
+    },
+    {
+      "id": "6682d9820791",
+      "title": "新生兒高級急救術(NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28195"
+    },
+    {
+      "id": "c75ab53df448",
+      "title": "雲嘉區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28143"
+    },
+    {
+      "id": "4a927816cc75",
+      "title": "南區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
     },
     {
       "id": "e815a0a74ca9",
@@ -1735,6 +1725,46 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
+      "id": "96aeeb9948f7",
+      "title": "CPR+AED",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
+    },
+    {
+      "id": "72feeda9299f",
+      "title": "[第一階段線上] CPR+AED知識課程",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/courses/cpraed/"
+    },
+    {
+      "id": "ae1bfe2ab10d",
+      "title": "http://saveanne.tw/CPRAnneTaipei12024",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRAnneTaipei12024"
+    },
+    {
+      "id": "00a1a278ed65",
+      "title": "http://saveanne.tw/CPRVisionTaichung1",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRVisionTaichung1"
+    },
+    {
       "id": "9a9995a5da7d",
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
@@ -1743,46 +1773,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
-    },
-    {
-      "id": "ed3caa0dfe34",
-      "title": "全民學急救",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/firstaid.html"
-    },
-    {
-      "id": "74618323376f",
-      "title": "無意識且沒有正常呼吸(CPR+AED)",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/f1ohca.html"
-    },
-    {
-      "id": "17dbb796794e",
-      "title": "翻轉急救｜CPR+AED",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
-    },
-    {
-      "id": "77986d080e7b",
-      "title": "校園急救教育支持計畫",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/campus.html"
     },
     {
       "id": "c9bc7d463306",
@@ -2925,6 +2915,26 @@
       "url": "https://emj.bmj.com/content/43/7"
     },
     {
+      "id": "6a4bc6726989",
+      "title": "е…¬е‘ҠгҖҺ2026е№ҙ10жңҲжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҸе ұе‘ҠдәәзҚІйҒёеҗҚе–®",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-14",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1639"
+    },
+    {
+      "id": "ab26ef0bc123",
+      "title": "【1150819梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-14",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260814173047"
+    },
+    {
       "id": "ae2cda4db6d0",
       "title": "上課通知-115.8.12新世代新冠疫苗mNEXSPIKE台灣上市學術研討會(線上直播)",
       "source": "台灣家庭醫學醫學會",
@@ -3273,26 +3283,6 @@
       "date": "2026-07-16",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/07/blog-post_16.html"
-    },
-    {
-      "id": "baa0e113e972",
-      "title": "【免費視訊線上會議】ACLS Update 2025：學術與實戰的專家觀點115.07.15 中午12:00-13:00",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-15",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/810.html#here"
-    },
-    {
-      "id": "66b6e77dd463",
-      "title": "【2026第十二屆全國呼吸道插管暨心肺復甦術競賽開放報名】",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-15",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260715174415"
     }
   ]
 }
