@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-15T06:32:38.899013+00:00",
-  "count": 331,
-  "course_count": 173,
+  "updated": "2026-08-15T09:26:39.432271+00:00",
+  "count": 332,
+  "course_count": 174,
   "news_count": 158,
   "items": [
     {
@@ -413,6 +413,16 @@
       "date": "2026-10-22",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28358"
+    },
+    {
+      "id": "14dbcff89140",
+      "title": "2026年長榮航空觀光馬拉松醫護志工線上報名",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-25",
+      "deadline": null,
+      "url": "https://www.mgems.org/261025_eva_checkin/"
     },
     {
       "id": "3685f7be079e",
