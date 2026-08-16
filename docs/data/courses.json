@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T15:21:24.098433+00:00",
+  "updated": "2026-08-16T18:26:50.325674+00:00",
   "count": 331,
   "course_count": 174,
   "news_count": 157,
@@ -1095,16 +1095,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/58f9aa6957994da69f9c0f36462a24d9"
     },
     {
-      "id": "7958d0981807",
-      "title": "「醫事人員急性病毒性肝炎防治教育訓練計畫」課前提醒-視訊場(8/16)",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/dee9f71b77d44521a34ebffe16b9f759"
-    },
-    {
       "id": "9112f069c489",
       "title": "【公告】轉知全聯會修訂「特定美容醫學處置暨美容醫學手術之訓練及繼續教育課程課綱」，請符合資格之醫師依最新規定辦理。",
       "source": "台灣家庭醫學醫學會",
@@ -1113,6 +1103,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/d79daa98bf224211a8f91cfd09977c03"
+    },
+    {
+      "id": "7958d0981807",
+      "title": "「醫事人員急性病毒性肝炎防治教育訓練計畫」課前提醒-視訊場(8/16)",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/dee9f71b77d44521a34ebffe16b9f759"
     },
     {
       "id": "ec9baebc8c4d",
