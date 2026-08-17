@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-17T06:49:32.341191+00:00",
-  "count": 325,
-  "course_count": 172,
-  "news_count": 153,
+  "updated": "2026-08-17T09:40:30.229748+00:00",
+  "count": 330,
+  "course_count": 174,
+  "news_count": 156,
   "items": [
     {
       "id": "3dd8bd1c2120",
@@ -165,6 +165,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28363"
     },
     {
+      "id": "032e497ba690",
+      "title": "【DHA 2026】2026 International Conference on Digital Health and Medical Analytics（DHA 2026）115.09.18-20高雄科技大學",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-18",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/783.html#here"
+    },
+    {
       "id": "289ecb43dfc6",
       "title": "重症會員早鳥報名優惠-2026.9.18~20 【第七屆亞太急性腎損傷與連續性腎替代療法大會】",
       "source": "中華民國重症醫學會",
@@ -273,6 +283,16 @@
       "date": "2026-10-03",
       "deadline": "2026-10-03",
       "url": "https://www.sem.org.tw/Activity/A/Details/33127"
+    },
+    {
+      "id": "ee73dae697d5",
+      "title": "【開放國內報名!投稿延長!】 SECC Congress 2026 Taipei 暨2026智慧急重症醫療國際會議/第十屆亞太早期重症復健國際會議_115.10.3-4台大醫院國際會議中心",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/793.html#here"
     },
     {
       "id": "31a3e058dad0",
@@ -503,6 +523,36 @@
       "date": null,
       "deadline": null,
       "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here"
+    },
+    {
+      "id": "3bd678241819",
+      "title": "【Call For Abstract】The APACCM 2026 congress November. 4-6, 2026 Mnaila",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/811.html#here"
+    },
+    {
+      "id": "b82b0ec879e2",
+      "title": "【Call For ABSTRACT&Registration】The 10th Asia-Pacific Conference on ICU Early Rehabilitation Taipei 2026 -Oct. 3-4 台大醫院國際會議中心",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/792.html#here"
+    },
+    {
+      "id": "3fe587589dc7",
+      "title": "【Call For ABSTRACT&Registration】SECC Congress 2026 Taipei OCT. 3-4 台大醫院國際會議中心",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/791.html#here"
     },
     {
       "id": "5976222d7829",
