@@ -1,9 +1,19 @@
 {
-  "updated": "2026-08-17T09:40:30.229748+00:00",
+  "updated": "2026-08-17T12:36:46.296308+00:00",
   "count": 330,
   "course_count": 174,
   "news_count": 156,
   "items": [
+    {
+      "id": "2542cd8b9584",
+      "title": "【1150829梯次】中區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-17",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260817175116"
+    },
     {
       "id": "3dd8bd1c2120",
       "title": "新生兒（含早產兒）診療及照護研討暨教學",
@@ -2035,14 +2045,14 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "98860142062c",
-      "title": "Headlines",
+      "id": "f325508f929b",
+      "title": "One Killed, Four Injured in Shooting at Park in KY",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/"
+      "url": "https://www.jems.com/news/one-killed-four-injured-in-shooting-at-park-in-ky/"
     },
     {
       "id": "cc05242f9202",
@@ -2983,16 +2993,6 @@
       "date": "2026-08-12",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ea0c3905c93748799d0f8ffb3bdb639e"
-    },
-    {
-      "id": "110ddfa7402b",
-      "title": "【1150815梯次】南區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-12",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260812140832"
     },
     {
       "id": "32daf37c2cde",
