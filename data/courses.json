@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-17T21:26:39.004010+00:00",
-  "count": 333,
-  "course_count": 173,
-  "news_count": 160,
+  "updated": "2026-08-18T00:57:44.645399+00:00",
+  "count": 331,
+  "course_count": 172,
+  "news_count": 159,
   "items": [
-    {
-      "id": "2542cd8b9584",
-      "title": "【1150829梯次】中區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-17",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260817175116"
-    },
     {
       "id": "3dd8bd1c2120",
       "title": "新生兒（含早產兒）診療及照護研討暨教學",
@@ -2965,6 +2955,16 @@
       "url": "https://emj.bmj.com/content/43/7"
     },
     {
+      "id": "2542cd8b9584",
+      "title": "【1150829梯次】中區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-17",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260817175116"
+    },
+    {
       "id": "737879a7520f",
       "title": "上課通知-115.8.16 2026新竹家庭醫學周末研討會",
       "source": "台灣家庭醫學醫學會",
@@ -3313,26 +3313,6 @@
       "date": "2026-07-19",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/84b186647902425c90675814a1ab29f3"
-    },
-    {
-      "id": "6c7acf9af5b5",
-      "title": "【重症聯甄】Holistic and Patient-Centered Critical Care 115.07.18 國泰人壽大樓B1國際會議廳",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-18",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/805.html#here"
-    },
-    {
-      "id": "452b7eab7397",
-      "title": "2026.7.18 台灣復甦照護學會Holistic and Patient-Centered Critical Care研討會及工作坊開放報名",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
     }
   ]
 }
