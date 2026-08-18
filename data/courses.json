@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T09:32:09.569267+00:00",
+  "updated": "2026-08-18T12:38:39.288467+00:00",
   "count": 336,
   "course_count": 176,
   "news_count": 160,
@@ -33,6 +33,16 @@
       "date": "2026-08-19",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28348"
+    },
+    {
+      "id": "66be4c6b6c71",
+      "title": "115年度醫院安全及緊急應變訓練課程 衛生福利部高屏區緊急醫療應變中心、高雄榮民總醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-20",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33074"
     },
     {
       "id": "30372d979165",
@@ -143,16 +153,6 @@
       "date": "2026-08-29",
       "deadline": "2026-08-17",
       "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
-    },
-    {
-      "id": "6b773fbf2df4",
-      "title": "2026 臺灣災難醫療國際研討會- 危機下的醫療協作 衛生福利部南區緊急醫療應變中心、 中華民國重症醫學會、國立成功大學醫 學院附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-30",
-      "deadline": "2026-08-30",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33172"
     },
     {
       "id": "5708dfe93f3d",
@@ -1135,6 +1135,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "b619c2f598d3",
+      "title": "轉知 疾管署新聞稿-七夕將至 呼籲浪漫時刻落實安全性行為；如有需求可多利用性傳染病伴侶服務之匿名第三方告知平台",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/967ef7c3e2db4bfeb41821a9adf96fd2"
+    },
+    {
       "id": "9112f069c489",
       "title": "【公告】轉知全聯會修訂「特定美容醫學處置暨美容醫學手術之訓練及繼續教育課程課綱」，請符合資格之醫師依最新規定辦理。",
       "source": "台灣家庭醫學醫學會",
@@ -1153,16 +1163,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/58f9aa6957994da69f9c0f36462a24d9"
-    },
-    {
-      "id": "7958d0981807",
-      "title": "「醫事人員急性病毒性肝炎防治教育訓練計畫」課前提醒-視訊場(8/16)",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/dee9f71b77d44521a34ebffe16b9f759"
     },
     {
       "id": "ec9baebc8c4d",
