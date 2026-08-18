@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-18T06:38:33.944816+00:00",
-  "count": 333,
-  "course_count": 177,
-  "news_count": 156,
+  "updated": "2026-08-18T09:32:09.569267+00:00",
+  "count": 336,
+  "course_count": 176,
+  "news_count": 160,
   "items": [
     {
       "id": "86c60eb7f9cd",
@@ -1805,11 +1805,51 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
+      "id": "96aeeb9948f7",
+      "title": "CPR+AED",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
+    },
+    {
+      "id": "72feeda9299f",
+      "title": "[第一階段線上] CPR+AED知識課程",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/courses/cpraed/"
+    },
+    {
+      "id": "ae1bfe2ab10d",
+      "title": "http://saveanne.tw/CPRAnneTaipei12024",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRAnneTaipei12024"
+    },
+    {
+      "id": "00a1a278ed65",
+      "title": "http://saveanne.tw/CPRVisionTaichung1",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRVisionTaichung1"
+    },
+    {
       "id": "9a9995a5da7d",
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
@@ -1819,7 +1859,7 @@
       "title": "全民學急救",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/firstaid.html"
@@ -1829,7 +1869,7 @@
       "title": "無意識且沒有正常呼吸(CPR+AED)",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/f1ohca.html"
@@ -1839,7 +1879,7 @@
       "title": "翻轉急救｜CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
@@ -1849,20 +1889,10 @@
       "title": "校園急救教育支持計畫",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/campus.html"
-    },
-    {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
+      "url": "https://www.anne.education/campus.html"
     },
     {
       "id": "1a7323e30be9",
@@ -2095,14 +2125,14 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "f325508f929b",
-      "title": "One Killed, Four Injured in Shooting at Park in KY",
+      "id": "98860142062c",
+      "title": "Headlines",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/one-killed-four-injured-in-shooting-at-park-in-ky/"
+      "url": "https://www.jems.com/news/"
     },
     {
       "id": "cc05242f9202",
@@ -2875,14 +2905,14 @@
       "url": "https://lms.trilogyems.com/courses/"
     },
     {
-      "id": "40a14da2727e",
-      "title": "Buy Courses",
+      "id": "23adf4e4ec24",
+      "title": "BUY COURSES",
       "source": "Trilogy EMS",
       "cat": "戰術救護",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://lms.trilogyems.com/buy-courses/"
+      "url": "https://lms.trilogyems.com/buy-course/"
     },
     {
       "id": "b8d2418a1352",
