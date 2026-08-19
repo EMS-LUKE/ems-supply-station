@@ -1,9 +1,19 @@
 {
-  "updated": "2026-08-19T06:39:06.968374+00:00",
-  "count": 335,
+  "updated": "2026-08-19T09:33:20.002810+00:00",
+  "count": 336,
   "course_count": 176,
-  "news_count": 159,
+  "news_count": 160,
   "items": [
+    {
+      "id": "f1145fc53d41",
+      "title": "【1150827梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-19",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260819164145"
+    },
     {
       "id": "66be4c6b6c71",
       "title": "115年度醫院安全及緊急應變訓練課程 衛生福利部高屏區緊急醫療應變中心、高雄榮民總醫院",
@@ -2105,6 +2115,26 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
+      "id": "448c9a870902",
+      "title": "Providence (RI) Fire Department Expands EMS Capacity, Adds Ambulance",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/providence-ri-fire-department-expands-ems-capacity-adds-ambulance/"
+    },
+    {
+      "id": "6cd2e72b70eb",
+      "title": "Lifeline for Rural Hospitals Faces Test Under ‘Big Beautiful’ Law",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/lifeline-for-rural-hospitals-faces-test-under-big-beautiful-law/"
+    },
+    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -2113,16 +2143,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
-      "id": "98860142062c",
-      "title": "Headlines",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/"
     },
     {
       "id": "cc05242f9202",
@@ -3023,16 +3043,6 @@
       "date": "2026-08-18",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/08/blog-post_18.html"
-    },
-    {
-      "id": "2542cd8b9584",
-      "title": "【1150829梯次】中區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-17",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260817175116"
     },
     {
       "id": "737879a7520f",
