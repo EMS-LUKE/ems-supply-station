@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-19T00:58:23.058423+00:00",
+  "updated": "2026-08-19T03:47:17.536512+00:00",
   "count": 335,
   "course_count": 176,
   "news_count": 159,
   "items": [
-    {
-      "id": "3dd8bd1c2120",
-      "title": "新生兒（含早產兒）診療及照護研討暨教學",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-19",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28348"
-    },
     {
       "id": "66be4c6b6c71",
       "title": "115年度醫院安全及緊急應變訓練課程 衛生福利部高屏區緊急醫療應變中心、高雄榮民總醫院",
@@ -133,6 +123,16 @@
       "date": "2026-08-29",
       "deadline": "2026-08-17",
       "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
+    },
+    {
+      "id": "b42f0563e908",
+      "title": "兒童手持超音波教學工作坊",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-29",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28333"
     },
     {
       "id": "5708dfe93f3d",
