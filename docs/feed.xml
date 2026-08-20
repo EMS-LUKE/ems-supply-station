@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Thu, 20 Aug 2026 06:41:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 09:33:30 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】115年度醫院安全及緊急應變訓練課程 衛生福利部高屏區緊急醫療應變中心、高雄榮民總醫院</title>
@@ -304,6 +304,14 @@
     <description>【課程】2026/10/03-04台灣實證醫學學會種子師資培訓工作坊（來源：台灣實證醫學學會）</description>
   </item>
   <item>
+    <title>【課程】新生兒高級急救術(NRP)</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28195</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28195</guid>
+    <pubDate>2026-10-03</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】新生兒高級急救術(NRP)（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
     <title>【課程】2026台灣實證醫學學會種子師資培訓工作坊</title>
     <link>https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b</link>
     <guid>https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b</guid>
@@ -318,14 +326,6 @@
     <pubDate>2026-10-04</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】SECC Congress 2026 Taipei 暨2026智慧急重症醫療國際會議（來源：台灣新生兒科醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】新生兒高級急救術(NRP)</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28195</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28195</guid>
-    <pubDate>2026-10-17</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】新生兒高級急救術(NRP)（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】雲嘉區聯合病例討論會</title>
