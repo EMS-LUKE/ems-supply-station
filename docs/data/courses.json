@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-21T09:36:10.282982+00:00",
-  "count": 336,
-  "course_count": 177,
-  "news_count": 159,
+  "updated": "2026-08-21T12:39:42.649069+00:00",
+  "count": 337,
+  "course_count": 176,
+  "news_count": 161,
   "items": [
     {
       "id": "fbc3d6027449",
@@ -1889,20 +1889,50 @@
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
     },
     {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
+      "id": "ed3caa0dfe34",
+      "title": "全民學急救",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/firstaid.html"
+    },
+    {
+      "id": "74618323376f",
+      "title": "無意識且沒有正常呼吸(CPR+AED)",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/f1ohca.html"
+    },
+    {
+      "id": "17dbb796794e",
+      "title": "翻轉急救｜CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
+    },
+    {
+      "id": "77986d080e7b",
+      "title": "校園急救教育支持計畫",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/campus.html"
     },
     {
       "id": "1a7323e30be9",
@@ -2143,26 +2173,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "448c9a870902",
-      "title": "Providence (RI) Fire Department Expands EMS Capacity, Adds Ambulance",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/providence-ri-fire-department-expands-ems-capacity-adds-ambulance/"
-    },
-    {
-      "id": "6cd2e72b70eb",
-      "title": "Lifeline for Rural Hospitals Faces Test Under ‘Big Beautiful’ Law",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/lifeline-for-rural-hospitals-faces-test-under-big-beautiful-law/"
     },
     {
       "id": "cc05242f9202",
