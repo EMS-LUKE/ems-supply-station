@@ -5,40 +5,8 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Fri, 21 Aug 2026 21:23:56 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 00:59:23 +0000</lastBuildDate>
   <ttl>180</ttl>
-  <item>
-    <title>【課程】【1150829梯次】中區初級救護技術員(EMT-1) 教育訓練 上課資訊</title>
-    <link>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260821164433</link>
-    <guid>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260821164433</guid>
-    <pubDate>2026-08-21</pubDate>
-    <category>中華緊急救護技術員協會 - 台灣協會</category>
-    <description>【課程】【1150829梯次】中區初級救護技術員(EMT-1) 教育訓練 上課資訊（來源：中華緊急救護技術員協會）</description>
-  </item>
-  <item>
-    <title>【課程】【1150829梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊</title>
-    <link>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260821164146</link>
-    <guid>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260821164146</guid>
-    <pubDate>2026-08-21</pubDate>
-    <category>中華緊急救護技術員協會 - 台灣協會</category>
-    <description>【課程】【1150829梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊（來源：中華緊急救護技術員協會）</description>
-  </item>
-  <item>
-    <title>【消息】災難不是突然發生的：從森林野火看醫院內不斷累積的脆弱性</title>
-    <link>https://temataiwan.blogspot.com/2026/08/blog-post_21.html</link>
-    <guid>https://temataiwan.blogspot.com/2026/08/blog-post_21.html</guid>
-    <pubDate>2026-08-21</pubDate>
-    <category>台灣緊急應變管理協會 - 台灣協會</category>
-    <description>【消息】災難不是突然發生的：從森林野火看醫院內不斷累積的脆弱性（來源：台灣緊急應變管理協會）</description>
-  </item>
-  <item>
-    <title>【課程】APLS &amp; PALS Provider Course高級小兒救命術 大千綜合醫院 醫務部</title>
-    <link>https://www.sem.org.tw/Activity/B/Details/33201</link>
-    <guid>https://www.sem.org.tw/Activity/B/Details/33201</guid>
-    <pubDate>2026-08-22</pubDate>
-    <category>台灣急診醫學會 - 台灣學會</category>
-    <description>【課程】APLS &amp; PALS Provider Course高級小兒救命術 大千綜合醫院 醫務部（來源：台灣急診醫學會）</description>
-  </item>
   <item>
     <title>【課程】急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院</title>
     <link>https://www.sem.org.tw/Activity/A/Details/33112</link>
@@ -144,12 +112,28 @@
     <description>【消息】上課通知-115.8.30(日)2026台東家庭醫學週末研討會（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
+    <title>【課程】115年度化學物質緊急事件醫療應變訓練通識課程 衛生福利部中區緊急醫療應變中心、中山醫學大學附設醫院、臺中榮民總醫院</title>
+    <link>https://www.sem.org.tw/Activity/B/Details/33054</link>
+    <guid>https://www.sem.org.tw/Activity/B/Details/33054</guid>
+    <pubDate>2026-08-31</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】115年度化學物質緊急事件醫療應變訓練通識課程 衛生福利部中區緊急醫療應變中心、中山醫學大學附設醫院、臺中榮民總醫院（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
     <title>【課程】115年度醫院安全及緊急應變訓練通識課程 台大醫院、台北區ＲＥMOＣ</title>
     <link>https://www.sem.org.tw/Activity/B/Details/33215</link>
     <guid>https://www.sem.org.tw/Activity/B/Details/33215</guid>
     <pubDate>2026-09-02</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】115年度醫院安全及緊急應變訓練通識課程 台大醫院、台北區ＲＥMOＣ（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】2026 台灣兒童人工智慧暨精準醫療學會：第二次學術研討會</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28367</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28367</guid>
+    <pubDate>2026-09-05</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】2026 台灣兒童人工智慧暨精準醫療學會：第二次學術研討會（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【消息】2026.9.6【2026台灣呼吸道處理醫學會年會暨國際學術研討會】歡迎報名參加</title>
@@ -190,6 +174,14 @@
     <pubDate>2026-09-12</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】中區聯合病例討論會（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】2026台灣兒童急診醫學會年會暨學術演講會</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28366</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28366</guid>
+    <pubDate>2026-09-13</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】2026台灣兒童急診醫學會年會暨學術演講會（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】2026新生兒倫理研討會</title>
@@ -278,6 +270,22 @@
     <pubDate>2026-09-21</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】新生兒（含早產兒）診療及照護研討暨教學</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28369</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28369</guid>
+    <pubDate>2026-09-23</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】新生兒（含早產兒）診療及照護研討暨教學（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28370</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28370</guid>
+    <pubDate>2026-09-23</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】臺北市政府衛生局115年8月1日至115年9月30日辦理臺北健康養成記「命運精靈召喚所．健康運氣在你手」獎勵活動</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣急救加護醫學會 - 台灣學會</category>
     <description>【課程】&lt;公佈分組名單和出題題目&gt;115年高級心臟救命術指導員訓練課程(ACLS Instructor Course )第二階段（來源：台灣急救加護醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】&lt;即日開放報名&gt;115年高級心臟救命術指導員訓練課程(ACLS Instructor Course)</title>
-    <link>https://www.seccm.org.tw/news/acls_course_info.asp?/777.html#here</link>
-    <guid>https://www.seccm.org.tw/news/acls_course_info.asp?/777.html#here</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急救加護醫學會 - 台灣學會</category>
-    <description>【課程】&lt;即日開放報名&gt;115年高級心臟救命術指導員訓練課程(ACLS Instructor Course)（來源：台灣急救加護醫學會）</description>
   </item>
 </channel>
 </rss>

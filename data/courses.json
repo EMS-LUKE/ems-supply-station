@@ -1,49 +1,9 @@
 {
-  "updated": "2026-08-21T21:23:56.833579+00:00",
-  "count": 334,
-  "course_count": 177,
-  "news_count": 157,
+  "updated": "2026-08-22T00:59:23.204306+00:00",
+  "count": 341,
+  "course_count": 180,
+  "news_count": 161,
   "items": [
-    {
-      "id": "fbc3d6027449",
-      "title": "【1150829梯次】中區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-21",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260821164433"
-    },
-    {
-      "id": "17aaed5312ba",
-      "title": "【1150829梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-21",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260821164146"
-    },
-    {
-      "id": "e2a690e5a605",
-      "title": "災難不是突然發生的：從森林野火看醫院內不斷累積的脆弱性",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-08-21",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/08/blog-post_21.html"
-    },
-    {
-      "id": "30372d979165",
-      "title": "APLS & PALS Provider Course高級小兒救命術 大千綜合醫院 醫務部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-22",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33201"
-    },
     {
       "id": "fa10de726c18",
       "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
@@ -175,6 +135,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7f77a7c370524bf8951c61f2fc66fed4"
     },
     {
+      "id": "d0c6b892e166",
+      "title": "115年度化學物質緊急事件醫療應變訓練通識課程 衛生福利部中區緊急醫療應變中心、中山醫學大學附設醫院、臺中榮民總醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33054"
+    },
+    {
       "id": "5708dfe93f3d",
       "title": "115年度醫院安全及緊急應變訓練通識課程 台大醫院、台北區ＲＥMOＣ",
       "source": "台灣急診醫學會",
@@ -183,6 +153,16 @@
       "date": "2026-09-02",
       "deadline": "2026-09-02",
       "url": "https://www.sem.org.tw/Activity/B/Details/33215"
+    },
+    {
+      "id": "ad59900be4c6",
+      "title": "2026 台灣兒童人工智慧暨精準醫療學會：第二次學術研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-05",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28367"
     },
     {
       "id": "65d75f3289a0",
@@ -233,6 +213,16 @@
       "date": "2026-09-12",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28131"
+    },
+    {
+      "id": "04ce3e86f15a",
+      "title": "2026台灣兒童急診醫學會年會暨學術演講會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-13",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28366"
     },
     {
       "id": "ca8eae5dea72",
@@ -343,6 +333,26 @@
       "date": "2026-09-21",
       "deadline": "2026-09-21",
       "url": "https://www.sem.org.tw/Activity/A/Details/33173"
+    },
+    {
+      "id": "3dd8bd1c2120",
+      "title": "新生兒（含早產兒）診療及照護研討暨教學",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28369"
+    },
+    {
+      "id": "443ce2f4ad1f",
+      "title": "115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28370"
     },
     {
       "id": "e685e4ff3394",
@@ -1845,11 +1855,51 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
+      "id": "96aeeb9948f7",
+      "title": "CPR+AED",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
+    },
+    {
+      "id": "72feeda9299f",
+      "title": "[第一階段線上] CPR+AED知識課程",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/courses/cpraed/"
+    },
+    {
+      "id": "ae1bfe2ab10d",
+      "title": "http://saveanne.tw/CPRAnneTaipei12024",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRAnneTaipei12024"
+    },
+    {
+      "id": "00a1a278ed65",
+      "title": "http://saveanne.tw/CPRVisionTaichung1",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRVisionTaichung1"
+    },
+    {
       "id": "9a9995a5da7d",
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
@@ -1859,7 +1909,7 @@
       "title": "全民學急救",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/firstaid.html"
@@ -1869,7 +1919,7 @@
       "title": "無意識且沒有正常呼吸(CPR+AED)",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/f1ohca.html"
@@ -1879,7 +1929,7 @@
       "title": "翻轉急救｜CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
@@ -1889,20 +1939,10 @@
       "title": "校園急救教育支持計畫",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/campus.html"
-    },
-    {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
+      "url": "https://www.anne.education/campus.html"
     },
     {
       "id": "1a7323e30be9",
@@ -3023,6 +3063,36 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/8"
+    },
+    {
+      "id": "fbc3d6027449",
+      "title": "【1150829梯次】中區初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-21",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260821164433"
+    },
+    {
+      "id": "17aaed5312ba",
+      "title": "【1150829梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-21",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260821164146"
+    },
+    {
+      "id": "e2a690e5a605",
+      "title": "災難不是突然發生的：從森林野火看醫院內不斷累積的脆弱性",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-08-21",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/08/blog-post_21.html"
     },
     {
       "id": "28e2560e0eac",
