@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T09:26:50.988094+00:00",
+  "updated": "2026-08-22T12:31:27.503531+00:00",
   "count": 338,
   "course_count": 181,
   "news_count": 157,
@@ -1165,16 +1165,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/baba4ad1610e4125a61bf6b840f93fe5"
     },
     {
-      "id": "82666a9276ec",
-      "title": "115年專科醫師甄審線上報名（8/10-8/21），逾期恕不受理",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7b9deb096e7d48a5a85c5fcc2eccd378"
-    },
-    {
       "id": "a850421e172e",
       "title": "【重要公告】轉知衛福部公告修正「家庭醫學科專科醫師甄審原則」，並自即日生效。",
       "source": "台灣家庭醫學醫學會",
@@ -1203,6 +1193,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/d79daa98bf224211a8f91cfd09977c03"
+    },
+    {
+      "id": "82666a9276ec",
+      "title": "115年專科醫師甄審線上報名（8/10-8/21），逾期恕不受理",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7b9deb096e7d48a5a85c5fcc2eccd378"
     },
     {
       "id": "a6d122944a43",
