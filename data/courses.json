@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-23T15:22:23.388588+00:00",
-  "count": 336,
+  "updated": "2026-08-23T18:25:52.008777+00:00",
+  "count": 337,
   "course_count": 180,
-  "news_count": 156,
+  "news_count": 157,
   "items": [
     {
       "id": "fa10de726c18",
@@ -3023,6 +3023,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/8"
+    },
+    {
+      "id": "242ba899ade2",
+      "title": "為恭醫療財團法人為恭紀念醫院誠徵 新生兒醫師",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-21",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=442"
     },
     {
       "id": "fbc3d6027449",
