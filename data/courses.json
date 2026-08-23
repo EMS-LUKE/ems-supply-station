@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-23T03:50:34.894238+00:00",
-  "count": 337,
-  "course_count": 181,
+  "updated": "2026-08-23T06:36:04.699017+00:00",
+  "count": 336,
+  "course_count": 180,
   "news_count": 156,
   "items": [
     {
@@ -23,16 +23,6 @@
       "date": "2026-08-23",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0"
-    },
-    {
-      "id": "60a91704384e",
-      "title": "115年度桃園市幼兒專責醫師經驗分享交流會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28321"
     },
     {
       "id": "f8b4e7ea7fd1",
@@ -1125,16 +1115,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/928bef7953b94372a03205a8654a5a6a"
     },
     {
-      "id": "41b10ef8c47e",
-      "title": "家醫工作坊－台北場",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0"
-    },
-    {
       "id": "fc757f8ea3f1",
       "title": "115年家庭醫師整合性照護計畫暨115年地區醫院全人全社區照護計畫訓練課程",
       "source": "台灣家庭醫學醫學會",
@@ -1163,6 +1143,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/baba4ad1610e4125a61bf6b840f93fe5"
+    },
+    {
+      "id": "95e0269bc88e",
+      "title": "113002-網路遊戲成癮之診斷、治療、與演變",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/07f49bf6210d4d8ca31e61a2a32ac628"
     },
     {
       "id": "a850421e172e",
@@ -3002,7 +2992,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100614.short?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100625.short?rss=1"
     },
     {
       "id": "8d656ad77115",
