@@ -1,29 +1,9 @@
 {
-  "updated": "2026-08-23T21:21:49.355197+00:00",
-  "count": 337,
-  "course_count": 180,
+  "updated": "2026-08-24T01:01:15.196878+00:00",
+  "count": 336,
+  "course_count": 179,
   "news_count": 157,
   "items": [
-    {
-      "id": "fa10de726c18",
-      "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-23",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/A/Details/33112"
-    },
-    {
-      "id": "ee2ff74f6d62",
-      "title": "上課通知-115.8.23家醫工作坊-台北場",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-23",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0"
-    },
     {
       "id": "f8b4e7ea7fd1",
       "title": "上課通知-115.8.24(一)體重管理新時代： 掌握早期介入關鍵",
@@ -3025,6 +3005,26 @@
       "url": "https://emj.bmj.com/content/43/8"
     },
     {
+      "id": "fa10de726c18",
+      "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-23",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/A/Details/33112"
+    },
+    {
+      "id": "ee2ff74f6d62",
+      "title": "上課通知-115.8.23家醫工作坊-台北場",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-23",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0"
+    },
+    {
       "id": "242ba899ade2",
       "title": "為恭醫療財團法人為恭紀念醫院誠徵 新生兒醫師",
       "source": "台灣新生兒科醫學會",
@@ -3363,16 +3363,6 @@
       "date": "2026-07-25",
       "deadline": null,
       "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
-    },
-    {
-      "id": "5808f215b051",
-      "title": "【員郭醫院】醫院緊急應變管理課程",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-24",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_24.html"
     }
   ]
 }
