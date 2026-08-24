@@ -1,9 +1,19 @@
 {
-  "updated": "2026-08-24T03:54:42.655861+00:00",
+  "updated": "2026-08-24T06:48:58.023812+00:00",
   "count": 338,
   "course_count": 181,
   "news_count": 157,
   "items": [
+    {
+      "id": "828b83a5f6c2",
+      "title": "轉知 疾管署-自115年8月24日起至9月30日止，擴大公費流感抗病毒藥劑使用對象，請合約醫療機構配合辦理!",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-24",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/bcc67bede40a485d98191f8f8ddaa6e1"
+    },
     {
       "id": "f8b4e7ea7fd1",
       "title": "上課通知-115.8.24(一)體重管理新時代： 掌握早期介入關鍵",
@@ -13,6 +23,16 @@
       "date": "2026-08-24",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/72657b05d4b7445e8f500244a41df45b"
+    },
+    {
+      "id": "219bab59d39d",
+      "title": "【1150829梯次】北區 平日班 初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-24",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260824111833"
     },
     {
       "id": "e997aaca28a2",
@@ -441,7 +461,7 @@
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-10-03",
-      "deadline": "2026-09-07",
+      "deadline": null,
       "url": "http://www.trauma.org.tw/active/index.asp?/26.html"
     },
     {
@@ -3065,16 +3085,6 @@
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260821164433"
     },
     {
-      "id": "17aaed5312ba",
-      "title": "【1150829梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-21",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260821164146"
-    },
-    {
       "id": "e2a690e5a605",
       "title": "災難不是突然發生的：從森林野火看醫院內不斷累積的脆弱性",
       "source": "台灣緊急應變管理協會",
@@ -3133,16 +3143,6 @@
       "date": "2026-08-12",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/deafeb934e544168aa4e6e2cbf5cd8e2"
-    },
-    {
-      "id": "8e7c4c5119d7",
-      "title": "上課通知-115.8.12-StrokePrevention in AF : What do you need to know ?-step3共病管理",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-12",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ea0c3905c93748799d0f8ffb3bdb639e"
     },
     {
       "id": "32daf37c2cde",
