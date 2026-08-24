@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-24T01:01:15.196878+00:00",
-  "count": 336,
-  "course_count": 179,
+  "updated": "2026-08-24T03:54:42.655861+00:00",
+  "count": 338,
+  "course_count": 181,
   "news_count": 157,
   "items": [
     {
@@ -125,6 +125,26 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/33215"
     },
     {
+      "id": "9e9c0dbda5f8",
+      "title": "新生兒高級救命術 (NRP) 訓練",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-05",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28362"
+    },
+    {
+      "id": "6b040a1e3b6d",
+      "title": "NRP新生兒高級救命術訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-05",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28344"
+    },
+    {
       "id": "ad59900be4c6",
       "title": "2026 台灣兒童人工智慧暨精準醫療學會：第二次學術研討會",
       "source": "台灣新生兒科醫學會",
@@ -143,6 +163,26 @@
       "date": "2026-09-06",
       "deadline": null,
       "url": "http://course.tsccm.org.tw/df_info.asp?/992.html"
+    },
+    {
+      "id": "ee8127b30391",
+      "title": "新生兒高級救命術（NRP Provider)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-06",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28345"
+    },
+    {
+      "id": "b8c110b79e70",
+      "title": "115年新生兒高級急救救命術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-06",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28353"
     },
     {
       "id": "2ac81df85df8",
@@ -165,6 +205,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
     },
     {
+      "id": "7d3ddae0a687",
+      "title": "新生兒高級急救救命術(NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-12",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28347"
+    },
+    {
       "id": "326b8b90cf7f",
       "title": "115年慢性阻塞性肺病專科醫師核心教育課程",
       "source": "台灣新生兒科醫學會",
@@ -183,6 +233,16 @@
       "date": "2026-09-12",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28131"
+    },
+    {
+      "id": "cf5d4a9b3e2b",
+      "title": "NRP新生兒高級救命術認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-13",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28356"
     },
     {
       "id": "04ce3e86f15a",
@@ -285,6 +345,26 @@
       "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
     },
     {
+      "id": "1beeb22791ec",
+      "title": "新生兒高級救命術(NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-20",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28346"
+    },
+    {
+      "id": "0a71b6f508ad",
+      "title": "115年度新生兒高級救命術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-20",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28357"
+    },
+    {
       "id": "0d0878a92c83",
       "title": "精進周產期與母嬰連續性照護品質國際研討會",
       "source": "台灣新生兒科醫學會",
@@ -385,16 +465,6 @@
       "url": "https://www.tebma.org.tw/event/list"
     },
     {
-      "id": "6682d9820791",
-      "title": "新生兒高級急救術(NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-03",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28195"
-    },
-    {
       "id": "009c255ace66",
       "title": "2026台灣實證醫學學會種子師資培訓工作坊",
       "source": "台灣實證醫學學會",
@@ -405,36 +475,6 @@
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
     },
     {
-      "id": "510b4cd01535",
-      "title": "SECC Congress 2026 Taipei 暨2026智慧急重症醫療國際會議",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-04",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28349"
-    },
-    {
-      "id": "c75ab53df448",
-      "title": "雲嘉區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28143"
-    },
-    {
-      "id": "4a927816cc75",
-      "title": "南區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
-    },
-    {
       "id": "e815a0a74ca9",
       "title": "2026/10/18(日)第八屆第二次會員大會暨學術研討會(精準與永續：智慧急重症鏈－從數據預警到社區永續照護的實踐與挑戰)",
       "source": "台灣老人急重症醫學會",
@@ -443,16 +483,6 @@
       "date": "2026-10-18",
       "deadline": null,
       "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1724"
-    },
-    {
-      "id": "2770f6998a0b",
-      "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-22",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28358"
     },
     {
       "id": "4794f668f13d",
@@ -483,16 +513,6 @@
       "date": "2026-10-28",
       "deadline": "2026-10-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
-    },
-    {
-      "id": "e57433088083",
-      "title": "新生兒急救(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-31",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28339"
     },
     {
       "id": "610ba8878908",
@@ -1145,6 +1165,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "fddca023d805",
+      "title": "您錯過了今年流感疫苗教育訓練課程嗎？網際網路線上課程—開始受理報名了",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b73c5755481a444eac50676d43a9e75a"
+    },
+    {
       "id": "b619c2f598d3",
       "title": "轉知 疾管署新聞稿-七夕將至 呼籲浪漫時刻落實安全性行為；如有需求可多利用性傳染病伴侶服務之匿名第三方告知平台",
       "source": "台灣家庭醫學醫學會",
@@ -1173,16 +1203,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7b9deb096e7d48a5a85c5fcc2eccd378"
-    },
-    {
-      "id": "a6d122944a43",
-      "title": "【釋出少數名額】歡迎報名參加115年度「綠色家庭醫師認證課程」",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/58f9aa6957994da69f9c0f36462a24d9"
     },
     {
       "id": "ec9baebc8c4d",
