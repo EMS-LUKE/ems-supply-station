@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-25T01:00:54.065035+00:00",
-  "count": 334,
-  "course_count": 177,
+  "updated": "2026-08-25T03:50:18.699655+00:00",
+  "count": 335,
+  "course_count": 178,
   "news_count": 157,
   "items": [
     {
@@ -473,6 +473,16 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
+    },
+    {
+      "id": "e49f2ca0c884",
+      "title": "2026外傷教育課程-桃竹苗地區(Ⅱ)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": "2026-10-05",
+      "url": "http://www.trauma.org.tw/active/index.asp?/28.html"
     },
     {
       "id": "e815a0a74ca9",
