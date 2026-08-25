@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:36:33.716175+00:00",
+  "updated": "2026-08-25T21:27:50.301780+00:00",
   "count": 339,
   "course_count": 180,
   "news_count": 159,
@@ -2345,6 +2345,26 @@
       "url": "https://www.erc.edu/education/for-professionals/course-types/epals/"
     },
     {
+      "id": "265996580141",
+      "title": "2027 WMS Winter Conference In-Person",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org/wms.org/winter27"
+    },
+    {
+      "id": "155c5c25135c",
+      "title": "2027 WMS Winter Conference Virtual",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org/wms.org/winter27"
+    },
+    {
       "id": "a48a802d78f5",
       "title": "Events",
       "source": "Wilderness Medical Society",
@@ -2373,26 +2393,6 @@
       "date": null,
       "deadline": null,
       "url": "https://wms.org/WMS/WMS/Attend/Conferences/SC26/Master_Summer_2026.aspx"
-    },
-    {
-      "id": "2bf887ec0347",
-      "title": "2026 WMS Summer Conference Virtual",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org/WMS/Attend/Conferences/SC26/25-Virtual-Summer/Master_Virtual_Summer_2026.aspx"
-    },
-    {
-      "id": "4a6c51faaed4",
-      "title": "2026 Partner Rescue at Looking Glass Rock Pre-Conference",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org"
     },
     {
       "id": "d7c182893afb",
