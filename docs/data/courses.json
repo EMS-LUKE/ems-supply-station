@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-25T09:35:20.222211+00:00",
-  "count": 338,
+  "updated": "2026-08-25T12:41:35.844268+00:00",
+  "count": 339,
   "course_count": 180,
-  "news_count": 158,
+  "news_count": 159,
   "items": [
     {
       "id": "e997aaca28a2",
@@ -2183,6 +2183,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
+    },
+    {
+      "id": "c91e48d0abe7",
+      "title": "CA Rollover Crash Sends 10 People to the Hospital",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/ca-rollover-crash-sends-10-people-to-the-hospital/"
     },
     {
       "id": "98860142062c",
