@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T15:43:15.646704+00:00",
+  "updated": "2026-08-25T18:36:33.716175+00:00",
   "count": 339,
   "course_count": 180,
   "news_count": 159,
@@ -1195,16 +1195,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
-      "id": "fddca023d805",
-      "title": "您錯過了今年流感疫苗教育訓練課程嗎？網際網路線上課程—開始受理報名了",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b73c5755481a444eac50676d43a9e75a"
-    },
-    {
       "id": "b619c2f598d3",
       "title": "轉知 疾管署新聞稿-七夕將至 呼籲浪漫時刻落實安全性行為；如有需求可多利用性傳染病伴侶服務之匿名第三方告知平台",
       "source": "台灣家庭醫學醫學會",
@@ -1213,6 +1203,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/967ef7c3e2db4bfeb41821a9adf96fd2"
+    },
+    {
+      "id": "fddca023d805",
+      "title": "您錯過了今年流感疫苗教育訓練課程嗎？網際網路線上課程—開始受理報名了",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b73c5755481a444eac50676d43a9e75a"
     },
     {
       "id": "9112f069c489",
