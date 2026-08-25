@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-25T03:50:18.699655+00:00",
-  "count": 335,
-  "course_count": 178,
+  "updated": "2026-08-25T06:42:59.545739+00:00",
+  "count": 336,
+  "course_count": 179,
   "news_count": 157,
   "items": [
     {
@@ -13,6 +13,26 @@
       "date": "2026-08-25",
       "deadline": "2026-08-25",
       "url": "https://www.sem.org.tw/Activity/B/Details/33187"
+    },
+    {
+      "id": "a03dc2c580ee",
+      "title": "【1150801梯次】北區平日班EMT-1課程 學術科及補考合格名單",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-25",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260819140650"
+    },
+    {
+      "id": "8327eb73f510",
+      "title": "【協會主辦】2026年疾病照護風險管理與緊急應變規劃課程",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-25",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/08/2026_01888831670.html"
     },
     {
       "id": "e22b03c287f9",
@@ -3095,16 +3115,6 @@
       "url": "https://tsn-neonatology.com/news_content.aspx?id=442"
     },
     {
-      "id": "fbc3d6027449",
-      "title": "【1150829梯次】中區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-21",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260821164433"
-    },
-    {
       "id": "e2a690e5a605",
       "title": "災難不是突然發生的：從森林野火看醫院內不斷累積的脆弱性",
       "source": "台灣緊急應變管理協會",
@@ -3145,8 +3155,8 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/24.html"
     },
     {
-      "id": "6a4bc6726989",
-      "title": "е…¬е‘ҠгҖҺ2026е№ҙ10жңҲжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҸе ұе‘ҠдәәзҚІйҒёеҗҚе–®",
+      "id": "c343b40ec276",
+      "title": "公告『2026年10月急診住院醫師交流論壇』報告人獲選名單",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3165,8 +3175,8 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/deafeb934e544168aa4e6e2cbf5cd8e2"
     },
     {
-      "id": "32daf37c2cde",
-      "title": "2026еҶ¬еӯЈеӯёиЎ“иЁҺи«–жңғжҡЁ1119еҸ°зҒЈжҖҘиЁәж—Ҙ",
+      "id": "f4711a021d95",
+      "title": "2026冬季學術討論會暨1119台灣急診日",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3175,8 +3185,8 @@
       "url": "https://www.sem.org.tw/News/12/Details/1638"
     },
     {
-      "id": "f4711a021d95",
-      "title": "2026冬季學術討論會暨1119台灣急診日",
+      "id": "32daf37c2cde",
+      "title": "2026еҶ¬еӯЈеӯёиЎ“иЁҺи«–жңғжҡЁ1119еҸ°зҒЈжҖҘиЁәж—Ҙ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3205,8 +3215,8 @@
       "url": "https://tsn-neonatology.com/news_content.aspx?id=568"
     },
     {
-      "id": "479e3f547f89",
-      "title": "專科醫師證書更新複審結果公告-王O人等38位醫師(到期日如內文)",
+      "id": "4be77fdc392c",
+      "title": "е°Ҳз§‘йҶ«её«иӯүжӣёжӣҙж–°иӨҮеҜ©зөҗжһңе…¬е‘Ҡ-зҺӢOдәәзӯү38дҪҚйҶ«её«(еҲ°жңҹж—ҘеҰӮе…§ж–Ү)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3275,8 +3285,8 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
     },
     {
-      "id": "65916232ca75",
-      "title": "115е№ҙеҚҒеӨ§е„Әз§ҖжҖҘиЁәиӯ·п§Өеё«жҺЁи–ҰиҫҰжі•",
+      "id": "ff430ef38337",
+      "title": "115年十大優秀急診護理師推薦辦法",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3285,8 +3295,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1454"
     },
     {
-      "id": "af3d5a4aad65",
-      "title": "115е№ҙиҮЁеәҠжҜ’и—Ҙзү©е°Ҳз§‘йҶ«её«иЁ“з·ҙиЁҲз•«жӢӣз”ҹе…¬е‘Ҡ",
+      "id": "36a3bf466827",
+      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3315,8 +3325,8 @@
       "url": "https://temataiwan.blogspot.com/2026/07/blog-post_28.html"
     },
     {
-      "id": "94d4cae45b52",
-      "title": "иӘ еҫө2026е№ҙ10жңҲгҖҢжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҚе ұе‘Ҡдәә",
+      "id": "e5cb7301a812",
+      "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3325,8 +3335,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1631"
     },
     {
-      "id": "32ad96234ca5",
-      "title": "иҪүзҹҘгҖҢSECC Congress 2026 Taipei жҡЁ2026жҖҘйҮҚз—ҮиҒҜеҗҲеӯёиЎ“е№ҙжңғ пјҶ з¬¬еҚҒеұҶдәһеӨӘж—©жңҹйҮҚз—Үеҫ©еҒҘеңӢйҡӣжңғиӯ°(APEM 2026)гҖҚ",
+      "id": "e8a2cd2fe293",
+      "title": "轉知「SECC Congress 2026 Taipei 暨2026急重症聯合學術年會 ＆ 第十屆亞太早期重症復健國際會議(APEM 2026)」",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
