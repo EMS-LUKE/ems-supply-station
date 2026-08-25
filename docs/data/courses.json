@@ -1,39 +1,9 @@
 {
-  "updated": "2026-08-24T21:30:12.192925+00:00",
-  "count": 338,
-  "course_count": 181,
+  "updated": "2026-08-25T01:00:54.065035+00:00",
+  "count": 334,
+  "course_count": 177,
   "news_count": 157,
   "items": [
-    {
-      "id": "828b83a5f6c2",
-      "title": "轉知 疾管署-自115年8月24日起至9月30日止，擴大公費流感抗病毒藥劑使用對象，請合約醫療機構配合辦理!",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-24",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/bcc67bede40a485d98191f8f8ddaa6e1"
-    },
-    {
-      "id": "f8b4e7ea7fd1",
-      "title": "上課通知-115.8.24(一)體重管理新時代： 掌握早期介入關鍵",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-24",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/72657b05d4b7445e8f500244a41df45b"
-    },
-    {
-      "id": "219bab59d39d",
-      "title": "【1150829梯次】北區 平日班 初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-24",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260824111833"
-    },
     {
       "id": "e997aaca28a2",
       "title": "115年急性毒性物質傷害模擬訓練課程(S.T.A.T.) 三軍總醫院急診醫學部",
@@ -185,16 +155,6 @@
       "url": "http://course.tsccm.org.tw/df_info.asp?/992.html"
     },
     {
-      "id": "ee8127b30391",
-      "title": "新生兒高級救命術（NRP Provider)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-06",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28345"
-    },
-    {
       "id": "b8c110b79e70",
       "title": "115年新生兒高級急救救命術(NRP)訓練課程",
       "source": "台灣新生兒科醫學會",
@@ -203,6 +163,16 @@
       "date": "2026-09-06",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28353"
+    },
+    {
+      "id": "ee8127b30391",
+      "title": "新生兒高級救命術（NRP Provider)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-06",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28345"
     },
     {
       "id": "2ac81df85df8",
@@ -483,6 +453,16 @@
       "date": "2026-10-03",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "6682d9820791",
+      "title": "新生兒高級急救術(NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28195"
     },
     {
       "id": "009c255ace66",
@@ -3045,6 +3025,36 @@
       "url": "https://emj.bmj.com/content/43/8"
     },
     {
+      "id": "828b83a5f6c2",
+      "title": "轉知 疾管署-自115年8月24日起至9月30日止，擴大公費流感抗病毒藥劑使用對象，請合約醫療機構配合辦理!",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-24",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/bcc67bede40a485d98191f8f8ddaa6e1"
+    },
+    {
+      "id": "f8b4e7ea7fd1",
+      "title": "上課通知-115.8.24(一)體重管理新時代： 掌握早期介入關鍵",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-24",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/72657b05d4b7445e8f500244a41df45b"
+    },
+    {
+      "id": "219bab59d39d",
+      "title": "【1150829梯次】北區 平日班 初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-24",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260824111833"
+    },
+    {
       "id": "fa10de726c18",
       "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
       "source": "台灣急診醫學會",
@@ -3333,56 +3343,6 @@
       "date": "2026-07-26",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/90c442593faa418b963437c028b38433"
-    },
-    {
-      "id": "f2d34a9b9a5d",
-      "title": "【重症聯甄】超值價!即日開放報名~急救重症傷口皮膚照護工作坊-115.07.25 秀傳紀念醫院",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/804.html#here"
-    },
-    {
-      "id": "5bd23fc6becf",
-      "title": "2026 Ai實證簡報力工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/4cb9057694d6a3a1b49e6cf5da5743e2"
-    },
-    {
-      "id": "adf23d0371a6",
-      "title": "2026/07/25(六) Ai實證簡報力工作坊2026-03-21",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "f224c9d93e14",
-      "title": "2026/07/25(六) Ai實證簡報力工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "7a9d938e31f6",
-      "title": "2026.07.25 台灣運動醫學學會年度學術研討會-桃園福容A8",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
     }
   ]
 }
