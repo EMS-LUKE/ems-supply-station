@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T01:01:28.096558+00:00",
+  "updated": "2026-08-26T03:59:11.402753+00:00",
   "count": 334,
   "course_count": 176,
   "news_count": 158,
@@ -1165,6 +1165,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "973ccc5925ff",
+      "title": "久等了~本學會三本核心教材完成改版",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/c5fadd2b81dc45c59bb4b50b6f9fcb04"
+    },
+    {
       "id": "b619c2f598d3",
       "title": "轉知 疾管署新聞稿-七夕將至 呼籲浪漫時刻落實安全性行為；如有需求可多利用性傳染病伴侶服務之匿名第三方告知平台",
       "source": "台灣家庭醫學醫學會",
@@ -1193,16 +1203,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/d79daa98bf224211a8f91cfd09977c03"
-    },
-    {
-      "id": "82666a9276ec",
-      "title": "115年專科醫師甄審線上報名（8/10-8/21），逾期恕不受理",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7b9deb096e7d48a5a85c5fcc2eccd378"
     },
     {
       "id": "223552563fec",
