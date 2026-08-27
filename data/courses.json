@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-27T00:29:26.213873+00:00",
-  "count": 333,
-  "course_count": 176,
+  "updated": "2026-08-27T13:36:15.946945+00:00",
+  "count": 334,
+  "course_count": 177,
   "news_count": 157,
   "items": [
     {
@@ -503,6 +503,16 @@
       "date": "2026-10-25",
       "deadline": null,
       "url": "https://www.mgems.org/261025_eva_checkin/"
+    },
+    {
+      "id": "d9371fb49f2a",
+      "title": "115年度中毒個案討論會–北區 社團法人台灣急診醫學會、三軍總醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-27",
+      "deadline": "2026-10-27",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33254"
     },
     {
       "id": "3685f7be079e",
@@ -1175,16 +1185,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/c5fadd2b81dc45c59bb4b50b6f9fcb04"
     },
     {
-      "id": "b619c2f598d3",
-      "title": "轉知 疾管署新聞稿-七夕將至 呼籲浪漫時刻落實安全性行為；如有需求可多利用性傳染病伴侶服務之匿名第三方告知平台",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/967ef7c3e2db4bfeb41821a9adf96fd2"
-    },
-    {
       "id": "fddca023d805",
       "title": "您錯過了今年流感疫苗教育訓練課程嗎？網際網路線上課程—開始受理報名了",
       "source": "台灣家庭醫學醫學會",
@@ -1193,6 +1193,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b73c5755481a444eac50676d43a9e75a"
+    },
+    {
+      "id": "b619c2f598d3",
+      "title": "轉知 疾管署新聞稿-七夕將至 呼籲浪漫時刻落實安全性行為；如有需求可多利用性傳染病伴侶服務之匿名第三方告知平台",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/967ef7c3e2db4bfeb41821a9adf96fd2"
     },
     {
       "id": "9112f069c489",
@@ -2165,14 +2175,14 @@
       "url": "https://www.jems.com/news/"
     },
     {
-      "id": "1e76a97fd3a4",
-      "title": "Putnam (OH) Commissioners Eliminate Bonuses for EMS Runs",
+      "id": "83b56302e4a2",
+      "title": "Ten Taken to Hospitals After VA Bus Crash",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/putnam-oh-commissioners-eliminate-bonuses-for-ems-runs/"
+      "url": "https://www.jems.com/news/ten-taken-to-hospitals-after-va-bus-crash/"
     },
     {
       "id": "cc05242f9202",
