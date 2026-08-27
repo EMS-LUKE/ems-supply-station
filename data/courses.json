@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-26T19:48:37.820784+00:00",
-  "count": 335,
-  "course_count": 177,
-  "news_count": 158,
+  "updated": "2026-08-27T00:29:26.213873+00:00",
+  "count": 333,
+  "course_count": 176,
+  "news_count": 157,
   "items": [
     {
       "id": "2164b1e70863",
@@ -73,16 +73,6 @@
       "date": "2026-08-30",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28351"
-    },
-    {
-      "id": "d0c6b892e166",
-      "title": "115年度化學物質緊急事件醫療應變訓練通識課程 衛生福利部中區緊急醫療應變中心、中山醫學大學附設醫院、臺中榮民總醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33054"
     },
     {
       "id": "5708dfe93f3d",
@@ -3343,16 +3333,6 @@
       "date": "2026-07-28",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/07/blog-post_28.html"
-    },
-    {
-      "id": "94d4cae45b52",
-      "title": "иӘ еҫө2026е№ҙ10жңҲгҖҢжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҚе ұе‘Ҡдәә",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-27",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1631"
     }
   ]
 }
