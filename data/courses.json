@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-27T13:36:15.946945+00:00",
+  "updated": "2026-08-28T00:18:30.343803+00:00",
   "count": 334,
-  "course_count": 177,
-  "news_count": 157,
+  "course_count": 178,
+  "news_count": 156,
   "items": [
-    {
-      "id": "2164b1e70863",
-      "title": "【延期至115/8/27-28】115/7/27~28(一~二)急診創傷訓練課程ETTC",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-27",
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1727"
-    },
     {
       "id": "8e739a3cd417",
       "title": "核能災害緊急應變作業工作坊 臺北榮民總醫院急診部",
@@ -123,6 +113,16 @@
       "date": "2026-09-06",
       "deadline": null,
       "url": "http://course.tsccm.org.tw/df_info.asp?/992.html"
+    },
+    {
+      "id": "7d7870795b25",
+      "title": "上課通知-115.9.6(日)家醫工作坊－台中場",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-06",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e401f108ca144e98ad1626c29af5dade"
     },
     {
       "id": "b8c110b79e70",
@@ -1115,6 +1115,16 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
+      "id": "970784f703a4",
+      "title": "家醫工作坊－台中場",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e401f108ca144e98ad1626c29af5dade"
+    },
+    {
       "id": "fc757f8ea3f1",
       "title": "115年家庭醫師整合性照護計畫暨115年地區醫院全人全社區照護計畫訓練課程",
       "source": "台灣家庭醫學醫學會",
@@ -1153,16 +1163,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/baba4ad1610e4125a61bf6b840f93fe5"
-    },
-    {
-      "id": "95e0269bc88e",
-      "title": "113002-網路遊戲成癮之診斷、治療、與演變",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/07f49bf6210d4d8ca31e61a2a32ac628"
     },
     {
       "id": "a850421e172e",
@@ -2185,6 +2185,16 @@
       "url": "https://www.jems.com/news/ten-taken-to-hospitals-after-va-bus-crash/"
     },
     {
+      "id": "a5292176985f",
+      "title": "Heat Makes Emergency Rooms Busier. Study Shows Which Illness and Injuries Rise During Hot Spells",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/heat-makes-emergency-rooms-busier-study-shows-which-illness-and-injuries-rise-during-hot-spells/"
+    },
+    {
       "id": "cc05242f9202",
       "title": "Event & Expedition Medic Provision",
       "source": "World Extreme Medicine",
@@ -3065,6 +3075,16 @@
       "url": "https://emj.bmj.com/content/43/8"
     },
     {
+      "id": "2164b1e70863",
+      "title": "【延期至115/8/27-28】115/7/27~28(一~二)急診創傷訓練課程ETTC",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-27",
+      "deadline": null,
+      "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1727"
+    },
+    {
       "id": "a03dc2c580ee",
       "title": "【1150801梯次】北區平日班EMT-1課程 學術科及補考合格名單",
       "source": "中華緊急救護技術員協會",
@@ -3323,26 +3343,6 @@
       "date": "2026-07-29",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1633"
-    },
-    {
-      "id": "cdc42c4dd53f",
-      "title": "【公告】SGA 兒童健康照護政策建言書",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=566"
-    },
-    {
-      "id": "5c240855df45",
-      "title": "風險分析中的共同語言（二）《透過設定風險情境來溝通，才能比較不同危害》",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-07-28",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/07/blog-post_28.html"
     }
   ]
 }
