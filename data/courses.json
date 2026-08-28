@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-28T00:18:30.343803+00:00",
-  "count": 334,
+  "updated": "2026-08-28T14:54:17.974281+00:00",
+  "count": 335,
   "course_count": 178,
-  "news_count": 156,
+  "news_count": 157,
   "items": [
     {
       "id": "8e739a3cd417",
@@ -13,6 +13,26 @@
       "date": "2026-08-28",
       "deadline": "2026-08-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/33158"
+    },
+    {
+      "id": "3fc741357125",
+      "title": "е…¬е‘ҠAILS Training CourseйҖҡйҒҺеҗҚе–® (115.08.23~115.08.24)",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-28",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1645"
+    },
+    {
+      "id": "5db6a811a097",
+      "title": "系統不可能永遠不失效：從風險管理重新思考醫院的「容錯」",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-08-28",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/08/blog-post_28.html"
     },
     {
       "id": "21cfe5098961",
@@ -2175,24 +2195,14 @@
       "url": "https://www.jems.com/news/"
     },
     {
-      "id": "83b56302e4a2",
-      "title": "Ten Taken to Hospitals After VA Bus Crash",
+      "id": "3b7dfc6d73fb",
+      "title": "Ebola Outbreak in Eastern Congo Spreads to Two New Health Zones With a Total of 60 Areas Now Affected",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/ten-taken-to-hospitals-after-va-bus-crash/"
-    },
-    {
-      "id": "a5292176985f",
-      "title": "Heat Makes Emergency Rooms Busier. Study Shows Which Illness and Injuries Rise During Hot Spells",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/heat-makes-emergency-rooms-busier-study-shows-which-illness-and-injuries-rise-during-hot-spells/"
+      "url": "https://www.jems.com/news/ebola-outbreak-in-eastern-congo-spreads-to-two-new-health-zones-with-a-total-of-60-areas-now-affected/"
     },
     {
       "id": "cc05242f9202",
