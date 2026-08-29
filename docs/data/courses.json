@@ -1,39 +1,9 @@
 {
-  "updated": "2026-08-28T23:55:06.656246+00:00",
-  "count": 335,
-  "course_count": 178,
-  "news_count": 157,
+  "updated": "2026-08-29T05:14:52.021845+00:00",
+  "count": 333,
+  "course_count": 177,
+  "news_count": 156,
   "items": [
-    {
-      "id": "8e739a3cd417",
-      "title": "核能災害緊急應變作業工作坊 臺北榮民總醫院急診部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-28",
-      "deadline": "2026-08-28",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33158"
-    },
-    {
-      "id": "3fc741357125",
-      "title": "е…¬е‘ҠAILS Training CourseйҖҡйҒҺеҗҚе–® (115.08.23~115.08.24)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-28",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1645"
-    },
-    {
-      "id": "5db6a811a097",
-      "title": "系統不可能永遠不失效：從風險管理重新思考醫院的「容錯」",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-08-28",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/08/blog-post_28.html"
-    },
     {
       "id": "21cfe5098961",
       "title": "2026外傷教育課程-南部地區(Ⅱ)...",
@@ -43,16 +13,6 @@
       "date": "2026-08-29",
       "deadline": "2026-08-17",
       "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
-    },
-    {
-      "id": "b42f0563e908",
-      "title": "兒童手持超音波教學工作坊",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-29",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28333"
     },
     {
       "id": "6b773fbf2df4",
@@ -473,6 +433,16 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28368"
+    },
+    {
+      "id": "510b4cd01535",
+      "title": "SECC Congress 2026 Taipei 暨2026智慧急重症醫療國際會議",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-04",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28349"
     },
     {
       "id": "e49f2ca0c884",
@@ -3085,6 +3055,26 @@
       "url": "https://emj.bmj.com/content/43/8"
     },
     {
+      "id": "3fc741357125",
+      "title": "е…¬е‘ҠAILS Training CourseйҖҡйҒҺеҗҚе–® (115.08.23~115.08.24)",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-28",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1645"
+    },
+    {
+      "id": "5db6a811a097",
+      "title": "系統不可能永遠不失效：從風險管理重新思考醫院的「容錯」",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-08-28",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/08/blog-post_28.html"
+    },
+    {
       "id": "2164b1e70863",
       "title": "【延期至115/8/27-28】115/7/27~28(一~二)急診創傷訓練課程ETTC",
       "source": "台灣老人急重症醫學會",
@@ -3343,16 +3333,6 @@
       "date": "2026-07-30",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1454"
-    },
-    {
-      "id": "af3d5a4aad65",
-      "title": "115е№ҙиҮЁеәҠжҜ’и—Ҙзү©е°Ҳз§‘йҶ«её«иЁ“з·ҙиЁҲз•«жӢӣз”ҹе…¬е‘Ҡ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1633"
     }
   ]
 }
