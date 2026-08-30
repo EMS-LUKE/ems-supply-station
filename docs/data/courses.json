@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-30T03:05:08.941719+00:00",
-  "count": 330,
-  "course_count": 175,
+  "updated": "2026-08-30T09:06:08.958382+00:00",
+  "count": 331,
+  "course_count": 176,
   "news_count": 155,
   "items": [
     {
@@ -23,6 +23,16 @@
       "date": "2026-09-02",
       "deadline": "2026-09-02",
       "url": "https://www.sem.org.tw/Activity/B/Details/33215"
+    },
+    {
+      "id": "40d43964d268",
+      "title": "烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-05",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33229"
     },
     {
       "id": "6b040a1e3b6d",
