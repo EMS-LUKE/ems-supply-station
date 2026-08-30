@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T14:27:08.308750+00:00",
+  "updated": "2026-08-30T18:28:09.726533+00:00",
   "count": 331,
   "course_count": 176,
   "news_count": 155,
@@ -3025,14 +3025,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/8"
+      "url": "https://emj.bmj.com/content/current"
     },
     {
       "id": "21cfe5098961",
