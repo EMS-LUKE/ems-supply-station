@@ -1,29 +1,9 @@
 {
-  "updated": "2026-08-29T23:04:24.291715+00:00",
-  "count": 333,
-  "course_count": 177,
-  "news_count": 156,
+  "updated": "2026-08-30T03:05:08.941719+00:00",
+  "count": 330,
+  "course_count": 175,
+  "news_count": 155,
   "items": [
-    {
-      "id": "21cfe5098961",
-      "title": "2026外傷教育課程-南部地區(Ⅱ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-29",
-      "deadline": "2026-08-17",
-      "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
-    },
-    {
-      "id": "6b773fbf2df4",
-      "title": "2026 臺灣災難醫療國際研討會- 危機下的醫療協作 衛生福利部南區緊急醫療應變中心、 中華民國重症醫學會、國立成功大學醫 學院附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-30",
-      "deadline": "2026-08-30",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33172"
-    },
     {
       "id": "8b364a782480",
       "title": "上課通知-115.8.30(日)2026台東家庭醫學週末研討會",
@@ -33,16 +13,6 @@
       "date": "2026-08-30",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7f77a7c370524bf8951c61f2fc66fed4"
-    },
-    {
-      "id": "dcd165e7fe15",
-      "title": "第五屆兒童急重難罕症新知與實務研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-30",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28351"
     },
     {
       "id": "5708dfe93f3d",
@@ -55,16 +25,6 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/33215"
     },
     {
-      "id": "9e9c0dbda5f8",
-      "title": "新生兒高級救命術 (NRP) 訓練",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-05",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28362"
-    },
-    {
       "id": "6b040a1e3b6d",
       "title": "NRP新生兒高級救命術訓練課程",
       "source": "台灣新生兒科醫學會",
@@ -73,6 +33,16 @@
       "date": "2026-09-05",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28344"
+    },
+    {
+      "id": "9e9c0dbda5f8",
+      "title": "新生兒高級救命術 (NRP) 訓練",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-05",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28362"
     },
     {
       "id": "ad59900be4c6",
@@ -3055,6 +3025,16 @@
       "url": "https://emj.bmj.com/content/43/8"
     },
     {
+      "id": "21cfe5098961",
+      "title": "2026外傷教育課程-南部地區(Ⅱ)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-29",
+      "deadline": "2026-08-17",
+      "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
+    },
+    {
       "id": "3fc741357125",
       "title": "е…¬е‘ҠAILS Training CourseйҖҡйҒҺеҗҚе–® (115.08.23~115.08.24)",
       "source": "台灣急診醫學會",
@@ -3323,16 +3303,6 @@
       "date": "2026-07-31",
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
-    },
-    {
-      "id": "65916232ca75",
-      "title": "115е№ҙеҚҒеӨ§е„Әз§ҖжҖҘиЁәиӯ·п§Өеё«жҺЁи–ҰиҫҰжі•",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-30",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1454"
     }
   ]
 }
