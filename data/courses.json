@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-30T23:09:46.123374+00:00",
-  "count": 331,
-  "course_count": 176,
-  "news_count": 155,
+  "updated": "2026-08-31T02:59:31.849583+00:00",
+  "count": 330,
+  "course_count": 174,
+  "news_count": 156,
   "items": [
-    {
-      "id": "8b364a782480",
-      "title": "上課通知-115.8.30(日)2026台東家庭醫學週末研討會",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-30",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7f77a7c370524bf8951c61f2fc66fed4"
-    },
     {
       "id": "5708dfe93f3d",
       "title": "115年度醫院安全及緊急應變訓練通識課程 台大醫院、台北區ＲＥMOＣ",
@@ -635,16 +625,6 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
-      "id": "1f1fe4d0032e",
-      "title": "【ATLS課表公告】115年度第6梯次ATLS課程（國軍高雄總醫院）...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/85.html"
-    },
-    {
       "id": "309f6bccc52a",
       "title": "115年精進外科系醫師醫療韌性訓練計畫，將辦理DSTC/DATC/DPNTC課程...",
       "source": "台灣外傷醫學會",
@@ -693,6 +673,16 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
+    },
+    {
+      "id": "1cfee8fade00",
+      "title": "誠徵醫學會秘書...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
     },
     {
       "id": "86005a8326cc",
@@ -3035,6 +3025,16 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
+      "id": "8b364a782480",
+      "title": "上課通知-115.8.30(日)2026台東家庭醫學週末研討會",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-30",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7f77a7c370524bf8951c61f2fc66fed4"
+    },
+    {
       "id": "21cfe5098961",
       "title": "2026外傷教育課程-南部地區(Ⅱ)...",
       "source": "台灣外傷醫學會",
@@ -3303,16 +3303,6 @@
       "date": "2026-08-02",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4596fa6fe70547e890686fb6e5cd0f95"
-    },
-    {
-      "id": "db91393dfea7",
-      "title": "【ATLS報名】115年「再認證」課程報名資訊（含報名表）115.07.31更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-31",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
     }
   ]
 }
