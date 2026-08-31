@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-31T02:59:31.849583+00:00",
+  "updated": "2026-08-31T09:18:41.748279+00:00",
   "count": 330,
-  "course_count": 174,
-  "news_count": 156,
+  "course_count": 175,
+  "news_count": 155,
   "items": [
     {
       "id": "5708dfe93f3d",
@@ -53,6 +53,16 @@
       "date": "2026-09-05",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28367"
+    },
+    {
+      "id": "d01b088151b3",
+      "title": "2026年台灣呼吸處理醫學會年會暨國際學術研討會 台灣呼吸處理醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-06",
+      "deadline": "2026-09-06",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33244"
     },
     {
       "id": "65d75f3289a0",
@@ -2115,6 +2125,16 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
+      "id": "74cb2de05874",
+      "title": "One Dead, Three Others Injured in FL Stabbing",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/one-dead-three-others-injured-in-fl-stabbing/"
+    },
+    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -2123,26 +2143,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
-      "id": "98860142062c",
-      "title": "Headlines",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "3b7dfc6d73fb",
-      "title": "Ebola Outbreak in Eastern Congo Spreads to Two New Health Zones With a Total of 60 Areas Now Affected",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/ebola-outbreak-in-eastern-congo-spreads-to-two-new-health-zones-with-a-total-of-60-areas-now-affected/"
     },
     {
       "id": "cc05242f9202",
