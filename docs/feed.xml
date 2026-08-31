@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Mon, 31 Aug 2026 09:18:41 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 18:42:22 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】115年度醫院安全及緊急應變訓練通識課程 台大醫院、台北區ＲＥMOＣ</title>
@@ -126,6 +126,14 @@
     <pubDate>2026-09-12</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】中區聯合病例討論會（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【消息】上課通知-115.9.13(日)2026台南家庭醫學週末研討會</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/75bdd17e7c8440a4994ddb23f91248a1</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/75bdd17e7c8440a4994ddb23f91248a1</guid>
+    <pubDate>2026-09-13</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【消息】上課通知-115.9.13(日)2026台南家庭醫學週末研討會（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
     <title>【課程】NRP新生兒高級救命術認證課程</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣急救加護醫學會 - 台灣學會</category>
     <description>【課程】即日開放報名!【ACLS聯委會課程】2025 ACLS Update Course-中3/14.南3/21. 北4/18&amp;5/16(共4場次)（來源：台灣急救加護醫學會）</description>
-  </item>
-  <item>
-    <title>【消息】【Call For Abstract】The APACCM 2026 congress November. 4-6, 2026 Mnaila</title>
-    <link>https://www.seccm.org.tw/orgNews/News_info.asp?/811.html#here</link>
-    <guid>https://www.seccm.org.tw/orgNews/News_info.asp?/811.html#here</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急救加護醫學會 - 台灣學會</category>
-    <description>【消息】【Call For Abstract】The APACCM 2026 congress November. 4-6, 2026 Mnaila（來源：台灣急救加護醫學會）</description>
   </item>
 </channel>
 </rss>
