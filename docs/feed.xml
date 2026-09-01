@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Tue, 01 Sep 2026 08:18:39 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 13:58:22 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院</title>
@@ -150,6 +150,14 @@
     <pubDate>2026-09-21</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】AHA BLS+PALS Provider Course-林口長庚 台灣急診醫學會國際培訓中心 長庚醫療財團法人林口長庚紀念醫院 急診醫學科</title>
+    <link>https://www.sem.org.tw/Activity/AHA/Details/33325</link>
+    <guid>https://www.sem.org.tw/Activity/AHA/Details/33325</guid>
+    <pubDate>2026-09-22</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】AHA BLS+PALS Provider Course-林口長庚 台灣急診醫學會國際培訓中心 長庚醫療財團法人林口長庚紀念醫院 急診醫學科（來源：台灣急診醫學會）</description>
   </item>
   <item>
     <title>【課程】臺北市政府衛生局115年8月1日至115年9月30日辦理臺北健康養成記「命運精靈召喚所．健康運氣在你手」獎勵活動</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣緊急救護醫療指導醫師學會 - 台灣學會</category>
     <description>【課程】機構:醫療指導醫師繼續教育訓練認證申請連結https://forms.gle/wRpfnT6FwUaPYZ7j8（來源：台灣緊急救護醫療指導醫師學會）</description>
-  </item>
-  <item>
-    <title>【消息】理監事會 及秘書處</title>
-    <link>https://www.taemsp.com/my-project-4</link>
-    <guid>https://www.taemsp.com/my-project-4</guid>
-    <pubDate>None</pubDate>
-    <category>台灣緊急救護醫療指導醫師學會 - 台灣學會</category>
-    <description>【消息】理監事會 及秘書處（來源：台灣緊急救護醫療指導醫師學會）</description>
   </item>
 </channel>
 </rss>

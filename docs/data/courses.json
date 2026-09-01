@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-01T08:18:39.409392+00:00",
-  "count": 317,
-  "course_count": 162,
+  "updated": "2026-09-01T13:58:22.797342+00:00",
+  "count": 318,
+  "course_count": 163,
   "news_count": 155,
   "items": [
     {
@@ -183,6 +183,16 @@
       "date": "2026-09-21",
       "deadline": "2026-09-21",
       "url": "https://www.sem.org.tw/Activity/A/Details/33173"
+    },
+    {
+      "id": "25803e0146cc",
+      "title": "AHA BLS+PALS Provider Course-林口長庚 台灣急診醫學會國際培訓中心 長庚醫療財團法人林口長庚紀念醫院 急診醫學科",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-22",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/AHA/Details/33325"
     },
     {
       "id": "e685e4ff3394",
