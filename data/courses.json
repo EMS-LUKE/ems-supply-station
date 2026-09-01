@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-01T13:58:22.797342+00:00",
-  "count": 318,
+  "updated": "2026-09-01T18:12:05.294678+00:00",
+  "count": 319,
   "course_count": 163,
-  "news_count": 155,
+  "news_count": 156,
   "items": [
     {
       "id": "40d43964d268",
@@ -103,6 +103,16 @@
       "date": "2026-09-13",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/75bdd17e7c8440a4994ddb23f91248a1"
+    },
+    {
+      "id": "8c3a70547b40",
+      "title": "上課通知-115.9.14(一)StrokePrevention in AF : What do you need to know ?step4臨床實例",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-14",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/c54520aca1e343aaa478b9172705fb41"
     },
     {
       "id": "032e497ba690",
