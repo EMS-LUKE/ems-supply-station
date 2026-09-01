@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-01T00:24:19.861644+00:00",
-  "count": 318,
+  "updated": "2026-09-01T08:18:39.409392+00:00",
+  "count": 317,
   "course_count": 162,
-  "news_count": 156,
+  "news_count": 155,
   "items": [
     {
       "id": "40d43964d268",
@@ -485,16 +485,6 @@
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/811.html#here"
     },
     {
-      "id": "b82b0ec879e2",
-      "title": "【Call For ABSTRACT&Registration】The 10th Asia-Pacific Conference on ICU Early Rehabilitation Taipei 2026 -Oct. 3-4 台大醫院國際會議中心",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/792.html#here"
-    },
-    {
       "id": "3fe587589dc7",
       "title": "【Call For ABSTRACT&Registration】SECC Congress 2026 Taipei OCT. 3-4 台大醫院國際會議中心",
       "source": "台灣急救加護醫學會",
@@ -505,6 +495,16 @@
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/791.html#here"
     },
     {
+      "id": "b82b0ec879e2",
+      "title": "【Call For ABSTRACT&Registration】The 10th Asia-Pacific Conference on ICU Early Rehabilitation Taipei 2026 -Oct. 3-4 台大醫院國際會議中心",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/792.html#here"
+    },
+    {
       "id": "5976222d7829",
       "title": "2026外傷教育課程-南部地區(Ⅰ)... 【課程場地異動通知】原預定場地：馬雅各大樓 10 樓宋・伊利莎白禮拜堂變更後場地：醫療大樓 10 樓禮拜堂敬請各位學員當日依變更後之場地前往報到及上課，造成不便，請見諒。",
       "source": "台灣外傷醫學會",
@@ -513,6 +513,16 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
+    },
+    {
+      "id": "93ee6e20995a",
+      "title": "【ATLS課表公告】115年度第7梯次ATLS課程（三軍總醫院）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/86.html"
     },
     {
       "id": "309f6bccc52a",
@@ -563,16 +573,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
-    },
-    {
-      "id": "1cfee8fade00",
-      "title": "誠徵醫學會秘書...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
     },
     {
       "id": "86005a8326cc",
@@ -1015,6 +1015,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/baba4ad1610e4125a61bf6b840f93fe5"
     },
     {
+      "id": "566ff4e59378",
+      "title": "本學會第17屆理監事選舉順利完成（理事長：黃振國 監事會召集人：施錦泉）",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/5c4946a2271f4260b5c2fff0187917d3"
+    },
+    {
       "id": "a850421e172e",
       "title": "【重要公告】轉知衛福部公告修正「家庭醫學科專科醫師甄審原則」，並自即日生效。",
       "source": "台灣家庭醫學醫學會",
@@ -1053,16 +1063,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/c5fadd2b81dc45c59bb4b50b6f9fcb04"
-    },
-    {
-      "id": "fddca023d805",
-      "title": "您錯過了今年流感疫苗教育訓練課程嗎？網際網路線上課程—開始受理報名了",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b73c5755481a444eac50676d43a9e75a"
     },
     {
       "id": "223552563fec",
@@ -1415,16 +1415,6 @@
       "url": "https://www.pediatr.org.tw/content.php?id=21032"
     },
     {
-      "id": "c882249c61ba",
-      "title": "2025年青山宮繞境活動",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/251210_festival/"
-    },
-    {
       "id": "140fdaafeed9",
       "title": "2026年臺北101公益垂直馬拉松",
       "source": "中華民國大型活動緊急救護協會",
@@ -1455,6 +1445,16 @@
       "url": "https://www.mgems.org/2026-taipei-highway-marathron/"
     },
     {
+      "id": "f55b01b522bb",
+      "title": "慶讚中元祭-2026",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260826_ghost-festival/"
+    },
+    {
       "id": "6a4c234af395",
       "title": "2026年太平山蹦蹦車緊急救護演練",
       "source": "中華民國大型活動緊急救護協會",
@@ -1463,16 +1463,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.mgems.org/260623_tai-ping-shan-rehersal/"
-    },
-    {
-      "id": "b45db06310b7",
-      "title": "山海共生原遊會",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/260608_taloan/"
     },
     {
       "id": "b9b34d53c638",
