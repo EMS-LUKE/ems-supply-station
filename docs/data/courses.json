@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-31T18:42:22.045005+00:00",
-  "count": 332,
-  "course_count": 175,
-  "news_count": 157,
+  "updated": "2026-09-01T00:24:19.861644+00:00",
+  "count": 318,
+  "course_count": 162,
+  "news_count": 156,
   "items": [
-    {
-      "id": "5708dfe93f3d",
-      "title": "115年度醫院安全及緊急應變訓練通識課程 台大醫院、台北區ＲＥMOＣ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-02",
-      "deadline": "2026-09-02",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33215"
-    },
     {
       "id": "40d43964d268",
       "title": "烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院",
@@ -105,56 +95,6 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28345"
     },
     {
-      "id": "2ac81df85df8",
-      "title": "先天性梅毒之母嬰垂直感染防治：新生兒評估、診斷、治療與追蹤",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-09",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28350"
-    },
-    {
-      "id": "f8a9622624b9",
-      "title": "北區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-09",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
-    },
-    {
-      "id": "7d3ddae0a687",
-      "title": "新生兒高級急救救命術(NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28347"
-    },
-    {
-      "id": "326b8b90cf7f",
-      "title": "115年慢性阻塞性肺病專科醫師核心教育課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28354"
-    },
-    {
-      "id": "08518396f20a",
-      "title": "中區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28131"
-    },
-    {
       "id": "4f96f9fa013a",
       "title": "上課通知-115.9.13(日)2026台南家庭醫學週末研討會",
       "source": "台灣家庭醫學醫學會",
@@ -163,36 +103,6 @@
       "date": "2026-09-13",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/75bdd17e7c8440a4994ddb23f91248a1"
-    },
-    {
-      "id": "cf5d4a9b3e2b",
-      "title": "NRP新生兒高級救命術認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-13",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28356"
-    },
-    {
-      "id": "04ce3e86f15a",
-      "title": "2026台灣兒童急診醫學會年會暨學術演講會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-13",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28366"
-    },
-    {
-      "id": "ca8eae5dea72",
-      "title": "2026新生兒倫理研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-13",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28363"
     },
     {
       "id": "032e497ba690",
@@ -255,16 +165,6 @@
       "url": "https://www.tebma.org.tw/event/list"
     },
     {
-      "id": "b82029c5ad1d",
-      "title": "嘉義市政府衛生局 115 年度母乳照護研習會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28328"
-    },
-    {
       "id": "6c12a2120576",
       "title": "2026系統性文獻回顧與統合分析工作坊(秋季班)",
       "source": "台灣實證醫學學會",
@@ -275,36 +175,6 @@
       "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
     },
     {
-      "id": "1beeb22791ec",
-      "title": "新生兒高級救命術(NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28346"
-    },
-    {
-      "id": "0a71b6f508ad",
-      "title": "115年度新生兒高級救命術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28357"
-    },
-    {
-      "id": "0d0878a92c83",
-      "title": "精進周產期與母嬰連續性照護品質國際研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28359"
-    },
-    {
       "id": "df5070bf548e",
       "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
       "source": "台灣急診醫學會",
@@ -313,26 +183,6 @@
       "date": "2026-09-21",
       "deadline": "2026-09-21",
       "url": "https://www.sem.org.tw/Activity/A/Details/33173"
-    },
-    {
-      "id": "3dd8bd1c2120",
-      "title": "新生兒（含早產兒）診療及照護研討暨教學",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28369"
-    },
-    {
-      "id": "443ce2f4ad1f",
-      "title": "115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28370"
     },
     {
       "id": "e685e4ff3394",
@@ -435,6 +285,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28349"
     },
     {
+      "id": "443ce2f4ad1f",
+      "title": "115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-16",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28371"
+    },
+    {
       "id": "e49f2ca0c884",
       "title": "2026外傷教育課程-桃竹苗地區(Ⅱ)...",
       "source": "台灣外傷醫學會",
@@ -503,6 +363,16 @@
       "date": "2026-10-28",
       "deadline": "2026-10-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
+    },
+    {
+      "id": "e3c3aafbcaeb",
+      "title": "2026年臺灣國家公園馬拉松-陽明山",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-11-01",
+      "deadline": null,
+      "url": "https://www.mgems.org/261101-yangminshan-marathron-checkin/"
     },
     {
       "id": "610ba8878908",
@@ -3065,8 +2935,8 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
     },
     {
-      "id": "3fc741357125",
-      "title": "е…¬е‘ҠAILS Training CourseйҖҡйҒҺеҗҚе–® (115.08.23~115.08.24)",
+      "id": "3317ef8df1a3",
+      "title": "公告AILS Training Course通過名單 (115.08.23~115.08.24)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3205,8 +3075,8 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/24.html"
     },
     {
-      "id": "6a4bc6726989",
-      "title": "е…¬е‘ҠгҖҺ2026е№ҙ10жңҲжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҸе ұе‘ҠдәәзҚІйҒёеҗҚе–®",
+      "id": "c343b40ec276",
+      "title": "公告『2026年10月急診住院醫師交流論壇』報告人獲選名單",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3223,16 +3093,6 @@
       "date": "2026-08-12",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/deafeb934e544168aa4e6e2cbf5cd8e2"
-    },
-    {
-      "id": "32daf37c2cde",
-      "title": "2026еҶ¬еӯЈеӯёиЎ“иЁҺи«–жңғжҡЁ1119еҸ°зҒЈжҖҘиЁәж—Ҙ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-11",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/12/Details/1638"
     },
     {
       "id": "f4711a021d95",
