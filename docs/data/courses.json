@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-02T02:28:32.949475+00:00",
-  "count": 316,
-  "course_count": 160,
+  "updated": "2026-09-02T07:37:41.545434+00:00",
+  "count": 317,
+  "course_count": 161,
   "news_count": 156,
   "items": [
     {
@@ -433,6 +433,16 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "72a765ac53c9",
+      "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-25",
+      "deadline": "2026-11-06",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33319"
     },
     {
       "id": "62570103abc2",
@@ -1105,16 +1115,6 @@
       "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
     },
     {
-      "id": "c3ad57b84ebf",
-      "title": "2026傷口衛生競賽公告名單_0821.pdf",
-      "source": "臺灣燒傷暨傷口照護學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.burn.org.tw/attachments/article/304/2026傷口衛生競賽公告名單_0821.pdf"
-    },
-    {
       "id": "4b196016dc2b",
       "title": "深耕學術與臨床｜【延長徵稿至8/10】2026年會論文發表",
       "source": "臺灣燒傷暨傷口照護學會",
@@ -1123,6 +1123,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.burn.org.tw/index.php/news/25-the-project/301-2026"
+    },
+    {
+      "id": "c3ad57b84ebf",
+      "title": "2026傷口衛生競賽公告名單_0821.pdf",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/attachments/article/304/2026傷口衛生競賽公告名單_0821.pdf"
     },
     {
       "id": "2074c2677272",
@@ -1295,16 +1305,6 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1086.html"
     },
     {
-      "id": "e0909b9c6b4d",
-      "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1085.html"
-    },
-    {
       "id": "b7d3ba88a411",
       "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
       "source": "台灣麻醉專科護理學會",
@@ -1313,6 +1313,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
+    },
+    {
+      "id": "e0909b9c6b4d",
+      "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1085.html"
     },
     {
       "id": "edc0d9a86ef8",
