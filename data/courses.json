@@ -1,9 +1,19 @@
 {
-  "updated": "2026-09-02T07:37:41.545434+00:00",
-  "count": 317,
-  "course_count": 161,
+  "updated": "2026-09-02T13:15:32.136998+00:00",
+  "count": 318,
+  "course_count": 162,
   "news_count": 156,
   "items": [
+    {
+      "id": "7b747f1a0af9",
+      "title": "【ATLS報名】115年「再認證」課程報名資訊（含報名表）115.09.02更新...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-02",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
+    },
     {
       "id": "40d43964d268",
       "title": "烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院",
