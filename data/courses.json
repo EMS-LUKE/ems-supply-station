@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-01T23:02:16.763251+00:00",
-  "count": 319,
-  "course_count": 163,
+  "updated": "2026-09-02T02:28:32.949475+00:00",
+  "count": 316,
+  "course_count": 160,
   "news_count": 156,
   "items": [
     {
@@ -3163,36 +3163,6 @@
       "date": "2026-08-04",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e51872e06340477eb9d2ca133a267780"
-    },
-    {
-      "id": "780cbfca9dfa",
-      "title": "【活動異動通知】年度學術研討會-115.8.2(日) 第一天（原7/11改8/2）改地點：圓山大飯店",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-02",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4596fa6fe70547e890686fb6e5cd0f95"
-    },
-    {
-      "id": "ad1568f14951",
-      "title": "年度學術研討會-115.8.2(日) 第一天（原7/11改8/2）",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-02",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4596fa6fe70547e890686fb6e5cd0f95"
-    },
-    {
-      "id": "d7a775c3d190",
-      "title": "【活動異動通知】年度學術研討會-115.8.2(日) 第一天（原7/11改8/2）",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-02",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4596fa6fe70547e890686fb6e5cd0f95"
     }
   ]
 }
