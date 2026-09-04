@@ -1,9 +1,29 @@
 {
-  "updated": "2026-09-04T02:31:19.206716+00:00",
-  "count": 317,
+  "updated": "2026-09-04T07:43:19.698624+00:00",
+  "count": 318,
   "course_count": 161,
-  "news_count": 156,
+  "news_count": 157,
   "items": [
+    {
+      "id": "362aec50a460",
+      "title": "【1150912梯次】北區 初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-04",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260904112741"
+    },
+    {
+      "id": "97e88e14148d",
+      "title": "《當災害發生在醫院》當別家醫院的病人送來：我們準備好「接收」了嗎？",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-09-04",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/09/blog-post.html"
+    },
     {
       "id": "40d43964d268",
       "title": "烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院",
@@ -1752,7 +1772,7 @@
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/"
+      "url": "https://www.anne.educationindex.html"
     },
     {
       "id": "ed3caa0dfe34",
@@ -1762,7 +1782,17 @@
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/firstaid.html"
+      "url": "https://www.anne.educationfirstaid.html"
+    },
+    {
+      "id": "46b7a4ca85e1",
+      "title": "全民學急救總覽",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.educationfirstaid.html"
     },
     {
       "id": "74618323376f",
@@ -1772,17 +1802,7 @@
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/f1ohca.html"
-    },
-    {
-      "id": "17dbb796794e",
-      "title": "翻轉急救｜CPR+AED",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
+      "url": "https://www.anne.educationf1ohca.html"
     },
     {
       "id": "77986d080e7b",
@@ -1792,7 +1812,7 @@
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/campus.html"
+      "url": "https://www.anne.educationcampus.html"
     },
     {
       "id": "c9bc7d463306",
@@ -2835,14 +2855,14 @@
       "url": "https://lms.trilogyems.com/buy-course/"
     },
     {
-      "id": "b8d2418a1352",
-      "title": "Explore Courses",
+      "id": "2eec27c4207b",
+      "title": "Browse Courses",
       "source": "Trilogy EMS",
       "cat": "戰術救護",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://lms.trilogyems.com/courses/"
+      "url": "https://lms.trilogyems.com/buy-course/"
     },
     {
       "id": "67b694b172c8",
@@ -3033,16 +3053,6 @@
       "date": "2026-08-24",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/72657b05d4b7445e8f500244a41df45b"
-    },
-    {
-      "id": "219bab59d39d",
-      "title": "【1150829梯次】北區 平日班 初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-24",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260824111833"
     },
     {
       "id": "ee2ff74f6d62",
