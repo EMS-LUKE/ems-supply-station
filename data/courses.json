@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-03T23:02:16.416071+00:00",
-  "count": 318,
-  "course_count": 162,
+  "updated": "2026-09-04T02:31:19.206716+00:00",
+  "count": 317,
+  "course_count": 161,
   "news_count": 156,
   "items": [
     {
@@ -3173,16 +3173,6 @@
       "date": "2026-08-05",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260805153011"
-    },
-    {
-      "id": "ee188b014c5b",
-      "title": "上課通知-115.8.4開啟GLP-1 RA治療對話: 高品質減重 減脂保肝－線上直播會議",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-04",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e51872e06340477eb9d2ca133a267780"
     }
   ]
 }
