@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-05T02:33:43.861453+00:00",
-  "count": 318,
-  "course_count": 163,
+  "updated": "2026-09-05T07:23:59.664665+00:00",
+  "count": 319,
+  "course_count": 164,
   "news_count": 155,
   "items": [
     {
@@ -13,16 +13,6 @@
       "date": "2026-09-05",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/B/Details/33229"
-    },
-    {
-      "id": "ad59900be4c6",
-      "title": "2026 台灣兒童人工智慧暨精準醫療學會：第二次學術研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-05",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28367"
     },
     {
       "id": "d01b088151b3",
@@ -55,16 +45,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e401f108ca144e98ad1626c29af5dade"
     },
     {
-      "id": "b8c110b79e70",
-      "title": "115年新生兒高級急救救命術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-06",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28353"
-    },
-    {
       "id": "ee8127b30391",
       "title": "新生兒高級救命術（NRP Provider)訓練課程",
       "source": "台灣新生兒科醫學會",
@@ -73,6 +53,16 @@
       "date": "2026-09-06",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28345"
+    },
+    {
+      "id": "b8c110b79e70",
+      "title": "115年新生兒高級急救救命術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-06",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28353"
     },
     {
       "id": "2ac81df85df8",
@@ -93,6 +83,16 @@
       "date": "2026-09-09",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
+    },
+    {
+      "id": "7d3ddae0a687",
+      "title": "新生兒高級急救救命術(NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-12",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28347"
     },
     {
       "id": "4f96f9fa013a",
@@ -363,6 +363,16 @@
       "date": "2026-10-18",
       "deadline": "2026-09-20",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/f9715ce06c6d492ebb253e16782f660e"
+    },
+    {
+      "id": "f2845441fe02",
+      "title": "中華急救教育推廣協會 新生兒高級救命術(NRP)課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-18",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28342"
     },
     {
       "id": "4794f668f13d",
