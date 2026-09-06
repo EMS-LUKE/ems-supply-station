@@ -1,29 +1,9 @@
 {
-  "updated": "2026-09-05T22:40:50.538902+00:00",
-  "count": 320,
-  "course_count": 165,
+  "updated": "2026-09-06T02:28:31.487264+00:00",
+  "count": 321,
+  "course_count": 166,
   "news_count": 155,
   "items": [
-    {
-      "id": "40d43964d268",
-      "title": "烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-05",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33229"
-    },
-    {
-      "id": "d01b088151b3",
-      "title": "2026年台灣呼吸處理醫學會年會暨國際學術研討會 台灣呼吸處理醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-06",
-      "deadline": "2026-09-06",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33244"
-    },
     {
       "id": "65d75f3289a0",
       "title": "2026.9.6【2026台灣呼吸道處理醫學會年會暨國際學術研討會】歡迎報名參加",
@@ -43,26 +23,6 @@
       "date": "2026-09-06",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e401f108ca144e98ad1626c29af5dade"
-    },
-    {
-      "id": "ee8127b30391",
-      "title": "新生兒高級救命術（NRP Provider)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-06",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28345"
-    },
-    {
-      "id": "b8c110b79e70",
-      "title": "115年新生兒高級急救救命術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-06",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28353"
     },
     {
       "id": "2ac81df85df8",
@@ -93,6 +53,26 @@
       "date": "2026-09-12",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28347"
+    },
+    {
+      "id": "326b8b90cf7f",
+      "title": "115年慢性阻塞性肺病專科醫師核心教育課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-12",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28354"
+    },
+    {
+      "id": "08518396f20a",
+      "title": "中區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-12",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28131"
     },
     {
       "id": "4f96f9fa013a",
@@ -373,6 +353,26 @@
       "date": "2026-10-18",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28342"
+    },
+    {
+      "id": "2770f6998a0b",
+      "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-22",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28358"
+    },
+    {
+      "id": "cf5d4a9b3e2b",
+      "title": "NRP新生兒高級救命術認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28352"
     },
     {
       "id": "4794f668f13d",
@@ -2973,6 +2973,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "40d43964d268",
+      "title": "烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-05",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33229"
     },
     {
       "id": "362aec50a460",
