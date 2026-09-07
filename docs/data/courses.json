@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-07T07:53:19.176505+00:00",
-  "count": 321,
-  "course_count": 167,
+  "updated": "2026-09-07T14:47:21.750302+00:00",
+  "count": 323,
+  "course_count": 169,
   "news_count": 154,
   "items": [
     {
@@ -455,6 +455,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33319"
     },
     {
+      "id": "a2814db719a3",
+      "title": "115年住院醫師初階災難訓練課程(北區)【線上+實體】 社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-01",
+      "deadline": "2026-11-13",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33322"
+    },
+    {
       "id": "62570103abc2",
       "title": "JCMIT 2026 國際醫學資訊聯合研討會",
       "source": "台灣醫學資訊學會",
@@ -865,6 +875,16 @@
       "url": "https://tamis.org.tw/activity/60"
     },
     {
+      "id": "f1dbb68b7d0c",
+      "title": "| 🫀 【2026 台灣心肌梗塞學會秋季學術研討會】 公告日期：2026 / 9 / 7",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1274"
+    },
+    {
       "id": "df8d5479b72d",
       "title": "| 🔥 2026 TAMIS 秋季學術研討會－急性心肌梗塞案例競賽 熱烈徵稿中！ 🔥 公告日期：2026 / 7 / 27",
       "source": "台灣心肌梗塞學會",
@@ -873,16 +893,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1266"
-    },
-    {
-      "id": "82fe82c9615f",
-      "title": "| 心臟超音波實戰課！💪 2026 POCUS Workshop 帶你打開「影像透視眼」👀 公告日期：2026 / 2 / 11",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1242"
     },
     {
       "id": "9510b518bf05",
@@ -1113,6 +1123,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.burn.org.tw/index.php/news/25-the-project/303-2026"
+    },
+    {
+      "id": "df0c647597b6",
+      "title": "實踐韌性深耕再生｜【延長報名】2026年會暨國際學術研討會",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
     },
     {
       "id": "ec9baebc8c4d",
