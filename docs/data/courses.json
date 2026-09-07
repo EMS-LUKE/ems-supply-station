@@ -1,29 +1,9 @@
 {
-  "updated": "2026-09-06T22:44:07.693834+00:00",
-  "count": 321,
-  "course_count": 166,
-  "news_count": 155,
+  "updated": "2026-09-07T02:24:40.782117+00:00",
+  "count": 319,
+  "course_count": 165,
+  "news_count": 154,
   "items": [
-    {
-      "id": "65d75f3289a0",
-      "title": "2026.9.6【2026台灣呼吸道處理醫學會年會暨國際學術研討會】歡迎報名參加",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-06",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/992.html"
-    },
-    {
-      "id": "7d7870795b25",
-      "title": "上課通知-115.9.6(日)家醫工作坊－台中場",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-06",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e401f108ca144e98ad1626c29af5dade"
-    },
     {
       "id": "2ac81df85df8",
       "title": "先天性梅毒之母嬰垂直感染防治：新生兒評估、診斷、治療與追蹤",
@@ -2975,14 +2955,24 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "40d43964d268",
-      "title": "烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院",
-      "source": "台灣急診醫學會",
+      "id": "65d75f3289a0",
+      "title": "2026.9.6【2026台灣呼吸道處理醫學會年會暨國際學術研討會】歡迎報名參加",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-06",
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/df_info.asp?/992.html"
+    },
+    {
+      "id": "7d7870795b25",
+      "title": "上課通知-115.9.6(日)家醫工作坊－台中場",
+      "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33229"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e401f108ca144e98ad1626c29af5dade"
     },
     {
       "id": "362aec50a460",
@@ -3203,16 +3193,6 @@
       "date": "2026-08-10",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/08/blog-post.html"
-    },
-    {
-      "id": "c78cfd627246",
-      "title": "【公告】第三十三屆新生兒科專科醫師甄審考試 (開始受理報名)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-07",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=568"
     }
   ]
 }
