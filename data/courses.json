@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-08T07:47:48.520801+00:00",
-  "count": 328,
-  "course_count": 171,
+  "updated": "2026-09-08T13:20:13.336898+00:00",
+  "count": 329,
+  "course_count": 172,
   "news_count": 157,
   "items": [
     {
@@ -483,6 +483,16 @@
       "date": "2026-11-20",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/A/Details/33324"
+    },
+    {
+      "id": "fd39384774fc",
+      "title": "【聯甄課程】Taiwan Emergency & Critical Care Joint Symposium115.11.21台大醫學院103講堂",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/815.html#here"
     },
     {
       "id": "72a765ac53c9",
