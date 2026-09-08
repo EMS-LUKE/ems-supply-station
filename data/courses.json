@@ -1,9 +1,29 @@
 {
-  "updated": "2026-09-07T23:22:05.565689+00:00",
-  "count": 323,
-  "course_count": 169,
-  "news_count": 154,
+  "updated": "2026-09-08T02:37:37.400206+00:00",
+  "count": 327,
+  "course_count": 170,
+  "news_count": 157,
   "items": [
+    {
+      "id": "5c699a656357",
+      "title": "【ED Transforming！急診智慧轉型研討會】—台灣急診管理學會第六屆第一次會員大會暨學術研討會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-08",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1646"
+    },
+    {
+      "id": "f17b66c5c320",
+      "title": "гҖҗED TransformingпјҒжҖҘиЁәжҷәж…§иҪүеһӢз ”иЁҺжңғгҖ‘вҖ”еҸ°зҒЈжҖҘиЁәз®ЎзҗҶеӯёжңғз¬¬е…ӯеұҶз¬¬дёҖж¬Ўжңғе“ЎеӨ§жңғжҡЁеӯёиЎ“з ”иЁҺжңғ",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-08",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1646"
+    },
     {
       "id": "2ac81df85df8",
       "title": "先天性梅毒之母嬰垂直感染防治：新生兒評估、診斷、治療與追蹤",
@@ -443,6 +463,16 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "e41ccd3144ef",
+      "title": "急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-20",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/A/Details/33324"
     },
     {
       "id": "72a765ac53c9",
@@ -2962,7 +2992,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100736.short?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100780.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3217,6 +3247,16 @@
     {
       "id": "f4711a021d95",
       "title": "2026冬季學術討論會暨1119台灣急診日",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-11",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/12/Details/1638"
+    },
+    {
+      "id": "32daf37c2cde",
+      "title": "2026еҶ¬еӯЈеӯёиЎ“иЁҺи«–жңғжҡЁ1119еҸ°зҒЈжҖҘиЁәж—Ҙ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
