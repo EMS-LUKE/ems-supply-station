@@ -1,19 +1,9 @@
 {
-  "updated": "2026-09-09T02:39:53.863243+00:00",
+  "updated": "2026-09-09T07:51:35.030750+00:00",
   "count": 330,
   "course_count": 173,
   "news_count": 157,
   "items": [
-    {
-      "id": "f8a9622624b9",
-      "title": "北區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-09",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
-    },
     {
       "id": "7d3ddae0a687",
       "title": "新生兒高級急救救命術(NRP)",
@@ -55,14 +45,14 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/75bdd17e7c8440a4994ddb23f91248a1"
     },
     {
-      "id": "cf5d4a9b3e2b",
-      "title": "NRP新生兒高級救命術認證課程",
+      "id": "04ce3e86f15a",
+      "title": "2026台灣兒童急診醫學會年會暨學術演講會",
       "source": "台灣新生兒科醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-09-13",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28356"
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28366"
     },
     {
       "id": "8c3a70547b40",
@@ -363,6 +353,16 @@
       "date": "2026-10-22",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28358"
+    },
+    {
+      "id": "cf5d4a9b3e2b",
+      "title": "NRP新生兒高級救命術認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28352"
     },
     {
       "id": "4794f668f13d",
@@ -3002,7 +3002,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100780.short?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100793.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3025,14 +3025,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/8"
+      "url": "https://emj.bmj.com/content/current"
     },
     {
       "id": "5c699a656357",
