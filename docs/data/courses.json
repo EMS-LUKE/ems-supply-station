@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-09T07:51:35.030750+00:00",
-  "count": 330,
-  "course_count": 173,
+  "updated": "2026-09-09T13:25:20.936490+00:00",
+  "count": 326,
+  "course_count": 169,
   "news_count": 157,
   "items": [
     {
@@ -45,14 +45,14 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/75bdd17e7c8440a4994ddb23f91248a1"
     },
     {
-      "id": "04ce3e86f15a",
-      "title": "2026台灣兒童急診醫學會年會暨學術演講會",
+      "id": "a7e9b7c48a09",
+      "title": "新生兒高級救命術(NRP)訓練課程",
       "source": "台灣新生兒科醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-09-13",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28366"
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28374"
     },
     {
       "id": "8c3a70547b40",
@@ -245,6 +245,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28368"
     },
     {
+      "id": "cf5d4a9b3e2b",
+      "title": "NRP新生兒高級救命術認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-04",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28373"
+    },
+    {
       "id": "14742f761ce7",
       "title": "2026長庚醫學週-周產期新生兒科醫學的新進展",
       "source": "台灣新生兒科醫學會",
@@ -265,6 +275,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28349"
     },
     {
+      "id": "1beeb22791ec",
+      "title": "新生兒高級救命術(NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-07",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28379"
+    },
+    {
       "id": "fc008de83eae",
       "title": "115年災難應變與醫療聯合討論會(北慈場) 社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -275,16 +295,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33306"
     },
     {
-      "id": "443ce2f4ad1f",
-      "title": "115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-16",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28371"
-    },
-    {
       "id": "e49f2ca0c884",
       "title": "2026外傷教育課程-桃竹苗地區(Ⅱ)...",
       "source": "台灣外傷醫學會",
@@ -293,26 +303,6 @@
       "date": "2026-10-17",
       "deadline": "2026-10-05",
       "url": "http://www.trauma.org.tw/active/index.asp?/28.html"
-    },
-    {
-      "id": "c75ab53df448",
-      "title": "雲嘉區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28143"
-    },
-    {
-      "id": "4a927816cc75",
-      "title": "南區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
     },
     {
       "id": "e815a0a74ca9",
@@ -333,36 +323,6 @@
       "date": "2026-10-18",
       "deadline": "2026-09-20",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/f9715ce06c6d492ebb253e16782f660e"
-    },
-    {
-      "id": "f2845441fe02",
-      "title": "中華急救教育推廣協會 新生兒高級救命術(NRP)課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28342"
-    },
-    {
-      "id": "2770f6998a0b",
-      "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-22",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28358"
-    },
-    {
-      "id": "cf5d4a9b3e2b",
-      "title": "NRP新生兒高級救命術認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28352"
     },
     {
       "id": "4794f668f13d",
