@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T02:39:51.818784+00:00",
+  "updated": "2026-09-10T07:52:09.162284+00:00",
   "count": 325,
   "course_count": 169,
   "news_count": 156,
@@ -1075,6 +1075,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "ff69bfa1702d",
+      "title": "轉知 疾管署新聞稿-今年Ｍ痘境外移入個案已10例 為去年同期2倍 其中6例來自泰國 請前往流行地區或國內風險場域民眾應落實自我防護 符合公費接種資格者儘速完成2劑接種",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0372e3bd7f1c4f56b9aa6fecc36df644"
+    },
+    {
       "id": "37ce5b2a7dbe",
       "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-台大醫學院(第1梯)-行政管理-09/13場次",
       "source": "台灣家庭醫學醫學會",
@@ -1093,16 +1103,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/60368d3b37274f7f8eca698784dcd2e9"
-    },
-    {
-      "id": "5e8627b12f03",
-      "title": "40週年晚會紀實",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/5de13e92da3a4636a9d4cbae17b0e020"
     },
     {
       "id": "84fb617b4961",
