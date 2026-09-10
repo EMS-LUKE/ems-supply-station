@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-09T22:59:12.325821+00:00",
-  "count": 326,
+  "updated": "2026-09-10T02:39:51.818784+00:00",
+  "count": 325,
   "course_count": 169,
-  "news_count": 157,
+  "news_count": 156,
   "items": [
     {
       "id": "7d3ddae0a687",
@@ -3253,16 +3253,6 @@
       "date": "2026-08-11",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/12/Details/1638"
-    },
-    {
-      "id": "69cf70d31659",
-      "title": "風險分析中的共同語言（三）風險矩陣也是溝通工具：從風險判斷的收束到資訊降維",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-08-10",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/08/blog-post.html"
     }
   ]
 }
