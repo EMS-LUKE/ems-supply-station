@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-10T13:23:31.112535+00:00",
-  "count": 325,
+  "updated": "2026-09-10T18:06:05.211492+00:00",
+  "count": 326,
   "course_count": 169,
-  "news_count": 156,
+  "news_count": 157,
   "items": [
     {
       "id": "7d3ddae0a687",
@@ -153,6 +153,16 @@
       "date": "2026-09-22",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/AHA/Details/33325"
+    },
+    {
+      "id": "11c848220bb3",
+      "title": "上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-30",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
     },
     {
       "id": "e685e4ff3394",
@@ -2985,14 +2995,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
+      "url": "https://emj.bmj.com/content/43/8"
     },
     {
       "id": "5c699a656357",
