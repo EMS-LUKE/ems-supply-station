@@ -1,9 +1,29 @@
 {
-  "updated": "2026-09-10T22:59:50.785238+00:00",
-  "count": 326,
-  "course_count": 169,
-  "news_count": 157,
+  "updated": "2026-09-11T02:34:13.118357+00:00",
+  "count": 327,
+  "course_count": 173,
+  "news_count": 154,
   "items": [
+    {
+      "id": "e5ba991e5b67",
+      "title": "【1150919梯次】北區 中級救護技術員(EMT-2+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-11",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260911095758"
+    },
+    {
+      "id": "3133fa893d68",
+      "title": "【1150919梯次】南區 中級救護技術員(EMT-2+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-11",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260911100509"
+    },
     {
       "id": "7d3ddae0a687",
       "title": "新生兒高級急救救命術(NRP)",
@@ -33,6 +53,16 @@
       "date": "2026-09-12",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28131"
+    },
+    {
+      "id": "dfb92c6c61ce",
+      "title": "2026台灣兒童急診醫學會年會暨學術演講會 台灣兒童急診醫學會、台中榮民總醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-13",
+      "deadline": "2026-09-13",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33260"
     },
     {
       "id": "4f96f9fa013a",
@@ -65,6 +95,26 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/c54520aca1e343aaa478b9172705fb41"
     },
     {
+      "id": "822b5297a678",
+      "title": "115年度基本救命術BLS 8小時訓練課程 那秋設計工作室",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-18",
+      "deadline": "2026-09-18",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33280"
+    },
+    {
+      "id": "99c47cfaa7f6",
+      "title": "戰傷醫學訓練工作坊 臺北榮民總醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-18",
+      "deadline": "2026-09-18",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33235"
+    },
+    {
       "id": "032e497ba690",
       "title": "【DHA 2026】2026 International Conference on Digital Health and Medical Analytics（DHA 2026）115.09.18-20高雄科技大學",
       "source": "台灣急救加護醫學會",
@@ -93,6 +143,16 @@
       "date": "2026-09-18",
       "deadline": null,
       "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
+    },
+    {
+      "id": "6eaabf54559d",
+      "title": "急診外傷訓練(ETTC)課程 國立臺北護理健康大學",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33282"
     },
     {
       "id": "cbc9aef1d704",
@@ -145,16 +205,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33173"
     },
     {
-      "id": "25803e0146cc",
-      "title": "AHA BLS+PALS Provider Course-林口長庚 台灣急診醫學會國際培訓中心 長庚醫療財團法人林口長庚紀念醫院 急診醫學科",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-22",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/AHA/Details/33325"
-    },
-    {
       "id": "11c848220bb3",
       "title": "上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護",
       "source": "台灣家庭醫學醫學會",
@@ -173,6 +223,16 @@
       "date": "2026-09-30",
       "deadline": null,
       "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19200&agroup=a"
+    },
+    {
+      "id": "0456abb457a6",
+      "title": "115年度臨床毒藥物專科醫師訓練 社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-01",
+      "deadline": "2026-10-01",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33349"
     },
     {
       "id": "5ea18ba7e4da",
@@ -3015,26 +3075,6 @@
       "url": "https://www.sem.org.tw/News/10/Details/1646"
     },
     {
-      "id": "f17b66c5c320",
-      "title": "гҖҗED TransformingпјҒжҖҘиЁәжҷәж…§иҪүеһӢз ”иЁҺжңғгҖ‘вҖ”еҸ°зҒЈжҖҘиЁәз®ЎзҗҶеӯёжңғз¬¬е…ӯеұҶз¬¬дёҖж¬Ўжңғе“ЎеӨ§жңғжҡЁеӯёиЎ“з ”иЁҺжңғ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-08",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1646"
-    },
-    {
-      "id": "749069fd72ff",
-      "title": "【1150815梯次】北區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-08",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260907142826"
-    },
-    {
       "id": "65d75f3289a0",
       "title": "2026.9.6【2026台灣呼吸道處理醫學會年會暨國際學術研討會】歡迎報名參加",
       "source": "中華民國重症醫學會",
@@ -3053,16 +3093,6 @@
       "date": "2026-09-06",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e401f108ca144e98ad1626c29af5dade"
-    },
-    {
-      "id": "362aec50a460",
-      "title": "【1150912梯次】北區 初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-04",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260904112741"
     },
     {
       "id": "97e88e14148d",
@@ -3243,26 +3273,6 @@
       "date": "2026-08-12",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/deafeb934e544168aa4e6e2cbf5cd8e2"
-    },
-    {
-      "id": "f4711a021d95",
-      "title": "2026冬季學術討論會暨1119台灣急診日",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-11",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/12/Details/1638"
-    },
-    {
-      "id": "32daf37c2cde",
-      "title": "2026еҶ¬еӯЈеӯёиЎ“иЁҺи«–жңғжҡЁ1119еҸ°зҒЈжҖҘиЁәж—Ҙ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-11",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/12/Details/1638"
     }
   ]
 }
