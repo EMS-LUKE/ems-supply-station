@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Fri, 11 Sep 2026 07:46:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 13:16:33 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【消息】EMS news letter - 雙月刊</title>
@@ -166,6 +166,14 @@
     <pubDate>2026-09-20</pubDate>
     <category>台灣實證醫學學會 - 台灣學會</category>
     <description>【課程】2026系統性文獻回顧與統合分析工作坊(秋季班)（來源：台灣實證醫學學會）</description>
+  </item>
+  <item>
+    <title>【消息】上課通知-115.9.20(日)RSVPreF3 Indication Expansion &amp;Total Protection Symposium</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9264d6d370e54ced8d3d1076cd78a701</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9264d6d370e54ced8d3d1076cd78a701</guid>
+    <pubDate>2026-09-20</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【消息】上課通知-115.9.20(日)RSVPreF3 Indication Expansion &amp;Total Protection Symposium（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
     <title>【課程】高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣急救加護醫學會 - 台灣學會</category>
     <description>【課程】&lt;公佈分組名單和出題題目&gt;115年高級心臟救命術指導員訓練課程(ACLS Instructor Course )第二階段（來源：台灣急救加護醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】&lt;即日開放報名&gt;115年高級心臟救命術指導員訓練課程(ACLS Instructor Course)</title>
-    <link>https://www.seccm.org.tw/news/acls_course_info.asp?/777.html#here</link>
-    <guid>https://www.seccm.org.tw/news/acls_course_info.asp?/777.html#here</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急救加護醫學會 - 台灣學會</category>
-    <description>【課程】&lt;即日開放報名&gt;115年高級心臟救命術指導員訓練課程(ACLS Instructor Course)（來源：台灣急救加護醫學會）</description>
   </item>
 </channel>
 </rss>
