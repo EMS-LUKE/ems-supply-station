@@ -1,19 +1,9 @@
 {
-  "updated": "2026-09-12T02:42:42.614829+00:00",
+  "updated": "2026-09-12T07:40:46.580786+00:00",
   "count": 331,
   "course_count": 176,
   "news_count": 155,
   "items": [
-    {
-      "id": "08518396f20a",
-      "title": "中區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28131"
-    },
     {
       "id": "dfb92c6c61ce",
       "title": "2026台灣兒童急診醫學會年會暨學術演講會 台灣兒童急診醫學會、台中榮民總醫院",
@@ -63,6 +53,16 @@
       "date": "2026-09-13",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28363"
+    },
+    {
+      "id": "c75845416902",
+      "title": "桃園市診所協會第四屆第一次會員大會暨理監事改選",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-13",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28364"
     },
     {
       "id": "8c3a70547b40",
@@ -3075,14 +3075,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
+      "url": "https://emj.bmj.com/content/43/8"
     },
     {
       "id": "ac6ac8b858dd",
