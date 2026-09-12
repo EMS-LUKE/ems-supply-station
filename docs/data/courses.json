@@ -1,59 +1,9 @@
 {
-  "updated": "2026-09-11T23:02:14.611379+00:00",
+  "updated": "2026-09-12T02:42:42.614829+00:00",
   "count": 331,
-  "course_count": 175,
-  "news_count": 156,
+  "course_count": 176,
+  "news_count": 155,
   "items": [
-    {
-      "id": "ac6ac8b858dd",
-      "title": "EMS news letter - 雙月刊",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-11",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/967"
-    },
-    {
-      "id": "e5ba991e5b67",
-      "title": "【1150919梯次】北區 中級救護技術員(EMT-2+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-11",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260911095758"
-    },
-    {
-      "id": "3133fa893d68",
-      "title": "【1150919梯次】南區 中級救護技術員(EMT-2+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-11",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260911100509"
-    },
-    {
-      "id": "7d3ddae0a687",
-      "title": "新生兒高級急救救命術(NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28347"
-    },
-    {
-      "id": "326b8b90cf7f",
-      "title": "115年慢性阻塞性肺病專科醫師核心教育課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28354"
-    },
     {
       "id": "08518396f20a",
       "title": "中區聯合病例討論會",
@@ -93,6 +43,26 @@
       "date": "2026-09-13",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28374"
+    },
+    {
+      "id": "04ce3e86f15a",
+      "title": "2026台灣兒童急診醫學會年會暨學術演講會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-13",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28366"
+    },
+    {
+      "id": "ca8eae5dea72",
+      "title": "2026新生兒倫理研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-13",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28363"
     },
     {
       "id": "8c3a70547b40",
@@ -325,16 +295,6 @@
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
     },
     {
-      "id": "15dc37604498",
-      "title": "義大大昌院新生兒高級急救救命術(NRP)課程(限院內)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-04",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28368"
-    },
-    {
       "id": "cf5d4a9b3e2b",
       "title": "NRP新生兒高級救命術認證課程",
       "source": "台灣新生兒科醫學會",
@@ -343,6 +303,16 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28373"
+    },
+    {
+      "id": "15dc37604498",
+      "title": "義大大昌院新生兒高級急救救命術(NRP)課程(限院內)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-04",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28368"
     },
     {
       "id": "14742f761ce7",
@@ -383,6 +353,16 @@
       "date": "2026-10-13",
       "deadline": "2026-10-13",
       "url": "https://www.sem.org.tw/Activity/A/Details/33306"
+    },
+    {
+      "id": "443ce2f4ad1f",
+      "title": "115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-16",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28371"
     },
     {
       "id": "e49f2ca0c884",
@@ -3095,14 +3075,44 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/8"
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "ac6ac8b858dd",
+      "title": "EMS news letter - 雙月刊",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-11",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/967"
+    },
+    {
+      "id": "e5ba991e5b67",
+      "title": "【1150919梯次】北區 中級救護技術員(EMT-2+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-11",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260911095758"
+    },
+    {
+      "id": "3133fa893d68",
+      "title": "【1150919梯次】南區 中級救護技術員(EMT-2+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-11",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260911100509"
     },
     {
       "id": "5c699a656357",
@@ -3303,16 +3313,6 @@
       "date": "2026-08-14",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1639"
-    },
-    {
-      "id": "ae2cda4db6d0",
-      "title": "上課通知-115.8.12新世代新冠疫苗mNEXSPIKE台灣上市學術研討會(線上直播)",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-12",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/deafeb934e544168aa4e6e2cbf5cd8e2"
     }
   ]
 }
