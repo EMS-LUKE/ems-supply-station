@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13T13:41:41.384526+00:00",
-  "count": 334,
-  "course_count": 179,
+  "updated": "2026-09-13T17:56:22.695679+00:00",
+  "count": 335,
+  "course_count": 180,
   "news_count": 155,
   "items": [
     {
@@ -1223,6 +1223,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/60368d3b37274f7f8eca698784dcd2e9"
+    },
+    {
+      "id": "96c29d1bd3e6",
+      "title": "【大會議程更新｜延長報名】2026年會暨國際學術研討會",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
     },
     {
       "id": "84fb617b4961",
