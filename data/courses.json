@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13T02:41:46.193032+00:00",
-  "count": 333,
-  "course_count": 178,
+  "updated": "2026-09-13T08:00:05.500558+00:00",
+  "count": 334,
+  "course_count": 179,
   "news_count": 155,
   "items": [
     {
@@ -23,26 +23,6 @@
       "date": "2026-09-13",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/75bdd17e7c8440a4994ddb23f91248a1"
-    },
-    {
-      "id": "ca8eae5dea72",
-      "title": "2026新生兒倫理研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-13",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28363"
-    },
-    {
-      "id": "c75845416902",
-      "title": "桃園市診所協會第四屆第一次會員大會暨理監事改選",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-13",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28364"
     },
     {
       "id": "8c3a70547b40",
@@ -173,6 +153,26 @@
       "date": "2026-09-20",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9264d6d370e54ced8d3d1076cd78a701"
+    },
+    {
+      "id": "0a71b6f508ad",
+      "title": "115年度新生兒高級救命術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-20",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28357"
+    },
+    {
+      "id": "a7e9b7c48a09",
+      "title": "新生兒高級救命術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-20",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28375"
     },
     {
       "id": "df5070bf548e",
@@ -413,6 +413,16 @@
       "date": "2026-10-18",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28342"
+    },
+    {
+      "id": "2770f6998a0b",
+      "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-22",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28358"
     },
     {
       "id": "4794f668f13d",
