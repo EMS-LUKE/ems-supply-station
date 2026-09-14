@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T02:57:28.272652+00:00",
+  "updated": "2026-09-14T08:33:12.060263+00:00",
   "count": 334,
   "course_count": 180,
   "news_count": 154,
@@ -1175,6 +1175,26 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "0e4f917da8d5",
+      "title": "轉知 衛福部-「含蓖麻油溶劑之paclitaxel成分藥品安全資訊風險溝通表」業已發布於本部食品藥物管理署網站",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/f202e5f61e494e48ad17c5c7fbef3312"
+    },
+    {
+      "id": "908ec3c9a899",
+      "title": "轉知 衛福部食藥署-重申GLP-1 RA類注射劑藥品應依藥事法及醫療法相關規定管理及使用，請轉知所屬會員查照辦理。",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9ded424a26fa4cd0bc413fbf5504c7c3"
+    },
+    {
       "id": "ff69bfa1702d",
       "title": "轉知 疾管署新聞稿-今年Ｍ痘境外移入個案已10例 為去年同期2倍 其中6例來自泰國 請前往流行地區或國內風險場域民眾應落實自我防護 符合公費接種資格者儘速完成2劑接種",
       "source": "台灣家庭醫學醫學會",
@@ -1183,26 +1203,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0372e3bd7f1c4f56b9aa6fecc36df644"
-    },
-    {
-      "id": "37ce5b2a7dbe",
-      "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-台大醫學院(第1梯)-行政管理-09/13場次",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/db0857ec9ef04672aea03953703622c2"
-    },
-    {
-      "id": "2fe90a242bbb",
-      "title": "理事長的話-承先啟後，攜手前行:共創台灣家庭醫學下一個精彩40年",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/60368d3b37274f7f8eca698784dcd2e9"
     },
     {
       "id": "96c29d1bd3e6",
