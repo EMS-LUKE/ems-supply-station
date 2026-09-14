@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-14T15:40:07.277076+00:00",
-  "count": 336,
+  "updated": "2026-09-14T21:23:57.783350+00:00",
+  "count": 337,
   "course_count": 180,
-  "news_count": 156,
+  "news_count": 157,
   "items": [
     {
       "id": "8c3a70547b40",
@@ -323,6 +323,16 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28349"
+    },
+    {
+      "id": "d304acd5f961",
+      "title": "上課通知-115.10.6成人呼吸道預防新策略與臨床應用-線上",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-06",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/2e6b260cbd974be89d0e998d80d8dd90"
     },
     {
       "id": "1beeb22791ec",
