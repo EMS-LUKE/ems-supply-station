@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T14:37:25.355480+00:00",
+  "updated": "2026-09-15T18:46:36.422589+00:00",
   "count": 351,
   "course_count": 194,
   "news_count": 157,
@@ -1345,6 +1345,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "bc289d57e130",
+      "title": "家庭醫師診所 呼吸道融合病毒（RSV）及侵襲性腦膜炎雙球菌疾病（IMD）疫苗採購特別方案",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0981f9729fdc4bc599fda4bbe6826eaa"
+    },
+    {
       "id": "0e4f917da8d5",
       "title": "轉知 衛福部-「含蓖麻油溶劑之paclitaxel成分藥品安全資訊風險溝通表」業已發布於本部食品藥物管理署網站",
       "source": "台灣家庭醫學醫學會",
@@ -1363,16 +1373,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9ded424a26fa4cd0bc413fbf5504c7c3"
-    },
-    {
-      "id": "ff69bfa1702d",
-      "title": "轉知 疾管署新聞稿-今年Ｍ痘境外移入個案已10例 為去年同期2倍 其中6例來自泰國 請前往流行地區或國內風險場域民眾應落實自我防護 符合公費接種資格者儘速完成2劑接種",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0372e3bd7f1c4f56b9aa6fecc36df644"
     },
     {
       "id": "96c29d1bd3e6",
