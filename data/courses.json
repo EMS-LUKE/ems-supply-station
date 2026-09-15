@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-15T14:12:00.049024+00:00",
-  "count": 337,
-  "course_count": 180,
+  "updated": "2026-09-15T14:37:25.355480+00:00",
+  "count": 351,
+  "course_count": 194,
   "news_count": 157,
   "items": [
     {
@@ -123,6 +123,26 @@
       "date": "2026-09-19",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28328"
+    },
+    {
+      "id": "57440987b400",
+      "title": "2026/09/19-09/22 Bridge野外急救橋接急救訓練(北部場)",
+      "source": "米亞桑戶外中心",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://miasan.com/event/bridge20260919/"
+    },
+    {
+      "id": "705410b6f5cf",
+      "title": "2026/09/19-09/22 Bridge(WAFA to WFR)橋接課程",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
     },
     {
       "id": "6c12a2120576",
@@ -385,6 +405,26 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
     },
     {
+      "id": "8954820cb878",
+      "title": "2026/10/17-10/20 Bridge野外急救橋接急救訓練(北部場)",
+      "source": "米亞桑戶外中心",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://miasan.com/event/bridge20261017/"
+    },
+    {
+      "id": "2747648451f7",
+      "title": "2026/10/17-10/20 Bridge(WAFA to WFR)橋接課程",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
+    },
+    {
       "id": "e815a0a74ca9",
       "title": "2026/10/18(日)第八屆第二次會員大會暨學術研討會(精準與永續：智慧急重症鏈－從數據預警到社區永續照護的實踐與挑戰)",
       "source": "台灣老人急重症醫學會",
@@ -485,6 +525,26 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/29.html"
     },
     {
+      "id": "bc6a2d0111b8",
+      "title": "2026/10/31-11/03 WAFA野外進階急救訓練(北部場)",
+      "source": "米亞桑戶外中心",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-10-31",
+      "deadline": null,
+      "url": "https://miasan.com/event/wafa20261031/"
+    },
+    {
+      "id": "90321f4838c3",
+      "title": "2026/10/31-11/03 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-10-31",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
+    },
+    {
       "id": "e3c3aafbcaeb",
       "title": "2026年臺灣國家公園馬拉松-陽明山",
       "source": "中華民國大型活動緊急救護協會",
@@ -513,6 +573,16 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://miasan.com/event/wals20261107/?fbclid=IwY2xjawRuixxleHRuA2FlbQIxMABicmlkETFHbDJMVTZ0ZEF5aFFXR1N3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiNf2LUzOJweFDHmBDgvG9ogJyNIuWYsykxsKNd1nvYrgTGqQl1ZVN8WtHWO_aem_vHJ8ecQX3dwiLOp4TEq-jA&brid=YWdncwH-PTH6wTwISkL3dltxbfuo"
+    },
+    {
+      "id": "3c7bfd35facc",
+      "title": "2026/11/07-11/11 野外高級救命術 Wilderness Advanced Life Support – WALS",
+      "source": "米亞桑戶外中心",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": null,
+      "url": "https://miasan.com/event/wals20261107/"
     },
     {
       "id": "c1772c700f8e",
@@ -545,6 +615,16 @@
       "url": "https://www.tebma.org.tw/event/list"
     },
     {
+      "id": "763ad854bfda",
+      "title": "2026/11/14-11/15+11/21-11/23 野外醫療救護 -WEMS",
+      "source": "米亞桑戶外中心",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://miasan.com/event/wems20261114/"
+    },
+    {
       "id": "e41ccd3144ef",
       "title": "急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -575,6 +655,26 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33319"
     },
     {
+      "id": "c88c1e48ee93",
+      "title": "2026/11/28-11/29 WFA兩天初階野外急救訓練(北部場)",
+      "source": "米亞桑戶外中心",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-11-28",
+      "deadline": null,
+      "url": "https://miasan.com/event/wfa20261128/"
+    },
+    {
+      "id": "d4f2fc16cf15",
+      "title": "2026/11/28-11/29 WFA(Wilderness First- Aid)初級野外急救訓練",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-11-28",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=99"
+    },
+    {
       "id": "a2814db719a3",
       "title": "115年住院醫師初階災難訓練課程(北區)【線上+實體】 社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -583,6 +683,46 @@
       "date": "2026-12-01",
       "deadline": "2026-11-13",
       "url": "https://www.sem.org.tw/Activity/A/Details/33322"
+    },
+    {
+      "id": "5624900757fb",
+      "title": "2026/12/05-12/08 WAFA野外進階急救訓練(北部場)",
+      "source": "米亞桑戶外中心",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-12-05",
+      "deadline": null,
+      "url": "https://miasan.com/event/wafa20261205/"
+    },
+    {
+      "id": "827ec5e8ced4",
+      "title": "2026/12/05-12/08 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-12-05",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
+    },
+    {
+      "id": "91714c651008",
+      "title": "2026/12/12-12/15 WAFA野外進階急救訓練(北部場)",
+      "source": "米亞桑戶外中心",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-12-12",
+      "deadline": null,
+      "url": "https://miasan.com/event/wafa20261212/"
+    },
+    {
+      "id": "720aa10f155f",
+      "title": "2026/12/12-12/15 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-12-12",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
     },
     {
       "id": "62570103abc2",
