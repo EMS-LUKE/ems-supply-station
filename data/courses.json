@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-15T18:46:36.422589+00:00",
-  "count": 351,
-  "course_count": 194,
+  "updated": "2026-09-15T21:49:54.523750+00:00",
+  "count": 357,
+  "course_count": 200,
   "news_count": 157,
   "items": [
     {
@@ -143,6 +143,16 @@
       "date": "2026-09-19",
       "deadline": null,
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
+    },
+    {
+      "id": "35e4a131dc6b",
+      "title": "2026/09/19-09/22 Bridge 四日野外急救橋接訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/186/"
     },
     {
       "id": "6c12a2120576",
@@ -425,6 +435,16 @@
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
     },
     {
+      "id": "d5a6df19fb8c",
+      "title": "2026/10/17-10/20 Bridge 四日野外急救橋接訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/186/"
+    },
+    {
       "id": "e815a0a74ca9",
       "title": "2026/10/18(日)第八屆第二次會員大會暨學術研討會(精準與永續：智慧急重症鏈－從數據預警到社區永續照護的實踐與挑戰)",
       "source": "台灣老人急重症醫學會",
@@ -543,6 +563,16 @@
       "date": "2026-10-31",
       "deadline": null,
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
+    },
+    {
+      "id": "aafb7eba0189",
+      "title": "2026/10/31-11/03 WAFA 四日進階野外急救訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-10-31",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/188/"
     },
     {
       "id": "e3c3aafbcaeb",
@@ -675,6 +705,16 @@
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=99"
     },
     {
+      "id": "e535b61f91c2",
+      "title": "2026/11/28-11/29 WFA 二日初階野外急救訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-11-28",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/189/"
+    },
+    {
       "id": "a2814db719a3",
       "title": "115年住院醫師初階災難訓練課程(北區)【線上+實體】 社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -705,6 +745,16 @@
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
     },
     {
+      "id": "c8db9ca6272b",
+      "title": "2026/12/05-12/08 WAFA 四日進階野外急救訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-12-05",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/188/"
+    },
+    {
       "id": "91714c651008",
       "title": "2026/12/12-12/15 WAFA野外進階急救訓練(北部場)",
       "source": "米亞桑戶外中心",
@@ -723,6 +773,16 @@
       "date": "2026-12-12",
       "deadline": null,
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
+    },
+    {
+      "id": "1c7ba2370870",
+      "title": "2026/12/12-12/15 WAFA 四日進階野外急救訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-12-12",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/188/"
     },
     {
       "id": "62570103abc2",

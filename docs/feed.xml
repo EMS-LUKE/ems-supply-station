@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Tue, 15 Sep 2026 18:46:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 21:49:54 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】【1150829梯次】北區平日班EMT-1課程 學術科合格名單(含應下梯次補考之不合格名單)</title>
@@ -118,6 +118,14 @@
     <pubDate>2026-09-19</pubDate>
     <category>小島探險 - 台灣急救社群</category>
     <description>【課程】2026/09/19-09/22 Bridge(WAFA to WFR)橋接課程（來源：小島探險）</description>
+  </item>
+  <item>
+    <title>【課程】2026/09/19-09/22 Bridge 四日野外急救橋接訓練（台北）</title>
+    <link>https://mttigertw.com/lectureInfo/186/</link>
+    <guid>https://mttigertw.com/lectureInfo/186/</guid>
+    <pubDate>2026-09-19</pubDate>
+    <category>羌虎跨域生活 - 台灣急救社群</category>
+    <description>【課程】2026/09/19-09/22 Bridge 四日野外急救橋接訓練（台北）（來源：羌虎跨域生活）</description>
   </item>
   <item>
     <title>【課程】2026系統性文獻回顧與統合分析工作坊(秋季班)</title>
@@ -344,6 +352,14 @@
     <description>【課程】2026/10/17-10/20 Bridge(WAFA to WFR)橋接課程（來源：小島探險）</description>
   </item>
   <item>
+    <title>【課程】2026/10/17-10/20 Bridge 四日野外急救橋接訓練（台北）</title>
+    <link>https://mttigertw.com/lectureInfo/186/</link>
+    <guid>https://mttigertw.com/lectureInfo/186/</guid>
+    <pubDate>2026-10-17</pubDate>
+    <category>羌虎跨域生活 - 台灣急救社群</category>
+    <description>【課程】2026/10/17-10/20 Bridge 四日野外急救橋接訓練（台北）（來源：羌虎跨域生活）</description>
+  </item>
+  <item>
     <title>【課程】2026/10/18(日)第八屆第二次會員大會暨學術研討會(精準與永續：智慧急重症鏈－從數據預警到社區永續照護的實踐與挑戰)</title>
     <link>http://www.sgecm.org.tw/educate/edu_info.asp?id=1724</link>
     <guid>http://www.sgecm.org.tw/educate/edu_info.asp?id=1724</guid>
@@ -440,6 +456,14 @@
     <description>【課程】2026/10/31-11/03 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練（來源：小島探險）</description>
   </item>
   <item>
+    <title>【課程】2026/10/31-11/03 WAFA 四日進階野外急救訓練（台北）</title>
+    <link>https://mttigertw.com/lectureInfo/188/</link>
+    <guid>https://mttigertw.com/lectureInfo/188/</guid>
+    <pubDate>2026-10-31</pubDate>
+    <category>羌虎跨域生活 - 台灣急救社群</category>
+    <description>【課程】2026/10/31-11/03 WAFA 四日進階野外急救訓練（台北）（來源：羌虎跨域生活）</description>
+  </item>
+  <item>
     <title>【課程】2026年臺灣國家公園馬拉松-陽明山</title>
     <link>https://www.mgems.org/261101-yangminshan-marathron-checkin/</link>
     <guid>https://www.mgems.org/261101-yangminshan-marathron-checkin/</guid>
@@ -462,30 +486,6 @@
     <pubDate>2026-11-07</pubDate>
     <category>台灣醫療救護學會 - 台灣學會</category>
     <description>【課程】2026/11/07-11/11 野外高級救命術（來源：台灣醫療救護學會）</description>
-  </item>
-  <item>
-    <title>【課程】2026/11/07-11/11 野外高級救命術 Wilderness Advanced Life Support – WALS</title>
-    <link>https://miasan.com/event/wals20261107/</link>
-    <guid>https://miasan.com/event/wals20261107/</guid>
-    <pubDate>2026-11-07</pubDate>
-    <category>米亞桑戶外中心 - 台灣急救社群</category>
-    <description>【課程】2026/11/07-11/11 野外高級救命術 Wilderness Advanced Life Support – WALS（來源：米亞桑戶外中心）</description>
-  </item>
-  <item>
-    <title>【課程】2026 台灣實證醫學學會學術年會</title>
-    <link>https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392</link>
-    <guid>https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392</guid>
-    <pubDate>2026-11-14</pubDate>
-    <category>台灣實證醫學學會 - 台灣學會</category>
-    <description>【課程】2026 台灣實證醫學學會學術年會（來源：台灣實證醫學學會）</description>
-  </item>
-  <item>
-    <title>【課程】2026/11/14(六) 台灣實證醫學學會學術年會2026-06-08</title>
-    <link>https://www.tebma.org.tw/event/list</link>
-    <guid>https://www.tebma.org.tw/event/list</guid>
-    <pubDate>2026-11-14</pubDate>
-    <category>台灣實證醫學學會 - 台灣學會</category>
-    <description>【課程】2026/11/14(六) 台灣實證醫學學會學術年會2026-06-08（來源：台灣實證醫學學會）</description>
   </item>
 </channel>
 </rss>
