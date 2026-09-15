@@ -2276,6 +2276,9 @@ SCRAPERS = [
     ("Resuscitation Journal",       scrape_resus),
 ]
 
+from wilderness_sources import build_scrapers
+SCRAPERS.extend(build_scrapers(mk, log))
+
 MAX_PER_MONTH = 5  # 每個單位每月同類型最多5筆
 
 def limit_per_source(results):
@@ -2461,3 +2464,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
