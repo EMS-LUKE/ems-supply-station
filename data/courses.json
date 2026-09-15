@@ -1,9 +1,19 @@
 {
-  "updated": "2026-09-15T03:00:03.931964+00:00",
+  "updated": "2026-09-15T08:24:02.832111+00:00",
   "count": 336,
   "course_count": 179,
   "news_count": 157,
   "items": [
+    {
+      "id": "4161eefd59d1",
+      "title": "【1150829梯次】北區平日班EMT-1課程 學術科合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-15",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260910112814"
+    },
     {
       "id": "99c47cfaa7f6",
       "title": "戰傷醫學訓練工作坊 臺北榮民總醫院急診部",
@@ -173,16 +183,6 @@
       "date": "2026-09-30",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
-    },
-    {
-      "id": "e685e4ff3394",
-      "title": "臺北市政府衛生局115年8月1日至115年9月30日辦理臺北健康養成記「命運精靈召喚所．健康運氣在你手」獎勵活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-09-30",
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19200&agroup=a"
     },
     {
       "id": "0456abb457a6",
@@ -413,6 +413,16 @@
       "date": "2026-10-22",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28358"
+    },
+    {
+      "id": "31731e3015c5",
+      "title": "中級空中醫療救護專業人員訓練課程 社團法人台灣急診醫學會、衛生福利部空中轉診審核中心",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-23",
+      "deadline": "2026-09-24",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33360"
     },
     {
       "id": "4794f668f13d",
@@ -3173,16 +3183,6 @@
       "date": "2026-09-11",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260911095758"
-    },
-    {
-      "id": "3133fa893d68",
-      "title": "【1150919梯次】南區 中級救護技術員(EMT-2+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-11",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260911100509"
     },
     {
       "id": "5c699a656357",

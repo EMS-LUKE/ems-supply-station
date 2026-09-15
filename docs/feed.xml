@@ -5,8 +5,16 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Tue, 15 Sep 2026 03:00:03 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 08:24:02 +0000</lastBuildDate>
   <ttl>180</ttl>
+  <item>
+    <title>【課程】【1150829梯次】北區平日班EMT-1課程 學術科合格名單(含應下梯次補考之不合格名單)</title>
+    <link>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260910112814</link>
+    <guid>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260910112814</guid>
+    <pubDate>2026-09-15</pubDate>
+    <category>中華緊急救護技術員協會 - 台灣協會</category>
+    <description>【課程】【1150829梯次】北區平日班EMT-1課程 學術科合格名單(含應下梯次補考之不合格名單)（來源：中華緊急救護技術員協會）</description>
+  </item>
   <item>
     <title>【課程】戰傷醫學訓練工作坊 臺北榮民總醫院急診部</title>
     <link>https://www.sem.org.tw/Activity/B/Details/33235</link>
@@ -142,14 +150,6 @@
     <pubDate>2026-09-30</pubDate>
     <category>台灣家庭醫學醫學會 - 台灣學會</category>
     <description>【消息】上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護（來源：台灣家庭醫學醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】臺北市政府衛生局115年8月1日至115年9月30日辦理臺北健康養成記「命運精靈召喚所．健康運氣在你手」獎勵活動</title>
-    <link>https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19200&agroup=a</link>
-    <guid>https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19200&agroup=a</guid>
-    <pubDate>2026-09-30</pubDate>
-    <category>臺大兒童醫院 - 台灣急救社群</category>
-    <description>【課程】臺北市政府衛生局115年8月1日至115年9月30日辦理臺北健康養成記「命運精靈召喚所．健康運氣在你手」獎勵活動（來源：臺大兒童醫院）</description>
   </item>
   <item>
     <title>【課程】115年度臨床毒藥物專科醫師訓練 社團法人台灣急診醫學會</title>
@@ -336,6 +336,14 @@
     <description>【課程】小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
+    <title>【課程】中級空中醫療救護專業人員訓練課程 社團法人台灣急診醫學會、衛生福利部空中轉診審核中心</title>
+    <link>https://www.sem.org.tw/Activity/A/Details/33360</link>
+    <guid>https://www.sem.org.tw/Activity/A/Details/33360</guid>
+    <pubDate>2026-10-23</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】中級空中醫療救護專業人員訓練課程 社團法人台灣急診醫學會、衛生福利部空中轉診審核中心（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
     <title>【課程】台灣野外救命術訓練課程(初階證照班) 社團法人台灣急診醫學會、羅東博愛醫院</title>
     <link>https://www.sem.org.tw/Activity/A/Details/33268</link>
     <guid>https://www.sem.org.tw/Activity/A/Details/33268</guid>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣急救加護醫學會 - 台灣學會</category>
     <description>【課程】115年度高級心臟救命術指導員課程通過名單及試教須知（來源：台灣急救加護醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】&lt;公佈分組名單和出題題目&gt;115年高級心臟救命術指導員訓練課程(ACLS Instructor Course )第二階段</title>
-    <link>https://www.seccm.org.tw/news/acls_course_info.asp?/787.html#here</link>
-    <guid>https://www.seccm.org.tw/news/acls_course_info.asp?/787.html#here</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急救加護醫學會 - 台灣學會</category>
-    <description>【課程】&lt;公佈分組名單和出題題目&gt;115年高級心臟救命術指導員訓練課程(ACLS Instructor Course )第二階段（來源：台灣急救加護醫學會）</description>
   </item>
 </channel>
 </rss>
