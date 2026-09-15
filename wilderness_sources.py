@@ -184,16 +184,69 @@ def parse_tiger(soup, current, mk, log, fetcher=None):
     return out
 
 
+def parse_tiger_api(payload, mk):
+    """Parse the public JSON used by lecture.js, including every listed cohort."""
+    out = []
+    rows = payload.get('data', {}).get('new', {}).get('list', [])
+    if not isinstance(rows, list):
+        raise ValueError('Unexpected Tiger course list format')
+    for row in rows:
+        title = str(row.get('name', '')).strip()
+        if not _is_course(title) or not str(row.get('id', '')).isdigit():
+            continue
+        url = f'https://mttigertw.com/lectureInfo/{row["id"]}/'
+        dates = str(row.get('date', ''))
+        year_match = re.search(r'(\d{4})', dates) or re.search(r'(\d{4})', title)
+        year = int(year_match.group(1)) if year_match else None
+        pattern = r'(?:(\d{4})/)?(\d{1,2})/(\d{1,2})\s*[-–~～]\s*(?:(\d{1,2})/)?(\d{1,2})'
+        cohorts = []
+        for match in re.finditer(pattern, dates):
+            if match.group(1):
+                year = int(match.group(1))
+            if year is None:
+                continue
+            month, day = int(match.group(2)), int(match.group(3))
+            end_month, end_day = int(match.group(4) or month), int(match.group(5))
+            try:
+                start = date(year, month, day)
+                end = date(year + (end_month < month), end_month, end_day)
+                if end < start:
+                    continue
+            except ValueError:
+                continue
+            cohorts.append((start, end))
+        if not cohorts:
+            start_date = _start_date(dates)
+            item = mk(title, TIGER, '台灣急救社群', url, 'course', date=start_date)
+            item['date'], item['deadline'] = start_date, None
+            item['id'] = hashlib.md5(f'{TIGER}::{url}::{start_date}'.encode()).hexdigest()[:12]
+            out.append(item)
+        for start, end in cohorts:
+            name = re.sub(r'^\d{4}\s+', '', title)
+            dated_title = f'{start:%Y/%m/%d}-{end:%m/%d} {name}'
+            item = mk(dated_title, TIGER, '台灣急救社群', url, 'course', date=start.isoformat())
+            item['date'], item['deadline'] = start.isoformat(), None
+            item['id'] = hashlib.md5(f'{TIGER}::{url}::{start.isoformat()}'.encode()).hexdigest()[:12]
+            out.append(item)
+    return out
+
+
 def scrape_tiger(mk, log):
-    current = 'https://mttigertw.com/lecture/wmaitw/1/'
-    out, visited = [], set()
-    while current and current not in visited and len(visited) < 20:
-        visited.add(current)
-        soup = _fetch(current, log)
-        if soup is None:
-            break
-        out.extend(parse_tiger(soup, current, mk, log))
-        current = _next_page(soup, current, 'mttigertw.com', '/lecture/wmaitw/')
+    out, seen = [], set()
+    # This is the read-only listing POST performed by the website's lecture.js.
+    for category in ('wmaitw', 'activity'):
+        try:
+            response = requests.post('https://mttigertw.com/api/lecture.php',
+                                     params={'type': category, 'p': 1},
+                                     headers={'User-Agent': 'Mozilla/5.0'}, timeout=20)
+            response.raise_for_status()
+            response.encoding = 'utf-8'
+            for item in parse_tiger_api(response.json(), mk):
+                if item['id'] not in seen:
+                    seen.add(item['id'])
+                    out.append(item)
+        except (requests.RequestException, ValueError, TypeError, AttributeError) as exc:
+            log(f'    [warn] 羌虎動態課程清單讀取失敗 ({category}): {exc}')
     return out
 
 
