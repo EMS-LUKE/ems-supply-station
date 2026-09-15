@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-15T08:24:02.832111+00:00",
-  "count": 336,
-  "course_count": 179,
+  "updated": "2026-09-15T14:12:00.049024+00:00",
+  "count": 337,
+  "course_count": 180,
   "news_count": 157,
   "items": [
     {
@@ -303,6 +303,16 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28349"
+    },
+    {
+      "id": "37b989f17538",
+      "title": "【重症聯甄】復甦後照護及目標體溫照護國際研討會115.10.05輔大醫院",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-05",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/816.html#here"
     },
     {
       "id": "d304acd5f961",
@@ -3092,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100844.short?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100857.short?rss=1"
     },
     {
       "id": "8d656ad77115",
