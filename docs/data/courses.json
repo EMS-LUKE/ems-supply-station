@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-16T08:17:48.826581+00:00",
-  "count": 356,
-  "course_count": 200,
+  "updated": "2026-09-16T14:05:05.065523+00:00",
+  "count": 357,
+  "course_count": 201,
   "news_count": 156,
   "items": [
     {
@@ -1225,6 +1225,16 @@
       "url": "https://tamis.org.tw/activity/42"
     },
     {
+      "id": "18245bd315b9",
+      "title": "| 【TAMIS 超級心光大道－24首金曲】第九首熱血開唱：《逆光》 公告日期：2026 / 9 / 16",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1278"
+    },
+    {
       "id": "3500c5b33f25",
       "title": "| 📣【TAMIS 超級心光大道】第八首《如果可以》線上開唱！📣 公告日期：2026 / 8 / 14",
       "source": "台灣心肌梗塞學會",
@@ -1243,16 +1253,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1270"
-    },
-    {
-      "id": "4b88b52f6af4",
-      "title": "| 🏆 2026 TAMIS 心肌梗塞知識王挑戰賽 熱烈報名中！ 公告日期：2026 / 7 / 27",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1267"
     },
     {
       "id": "32dbb30467e3",
@@ -3105,6 +3105,36 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "34d97b943ff2",
+      "title": "Public Access Bleeding Control Kit - Nylon",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f84e086eb&_ss=r"
+    },
+    {
+      "id": "7f0bd426cd0d",
+      "title": "B-CON Bleeding Control Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=f84e086eb&_ss=r"
+    },
+    {
+      "id": "1a9c336e65db",
+      "title": "RED - Ready Every Day - Personal Aid Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=3&_sid=f84e086eb&_ss=r"
+    },
+    {
       "id": "10b151ad3422",
       "title": "Curaplex Stop The Bleed Multi-Pack Kit - Basic",
       "source": "Tactical Medicine Training & Equipment",
@@ -3112,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=1&_sid=2315e873d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=4&_sid=f84e086eb&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3122,37 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=2&_sid=2315e873d&_ss=r"
-    },
-    {
-      "id": "d99462985b15",
-      "title": "Mojo® Public Access Trauma Station - Advanced",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/mojo%C2%AE-public-access-trauma-station-advanced?_pos=3&_sid=2315e873d&_ss=r"
-    },
-    {
-      "id": "780879151377",
-      "title": "Mobilize Public Access Trauma Kit by ZOLL",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/mobilize-public-access-trauma-kit-by-zoll?_pos=4&_sid=2315e873d&_ss=r"
-    },
-    {
-      "id": "ba12c7838487",
-      "title": "Mojo® Public Access Trauma Station",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/mojo-public-access-trauma-station?_pos=5&_sid=2315e873d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=f84e086eb&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3333,6 +3333,16 @@
       "date": "2026-09-15",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260910112814"
+    },
+    {
+      "id": "10b170f9e6d5",
+      "title": "健康線上影音課程-115/9/15孩子發燒要不要看醫生？",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-09-15",
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1075"
     },
     {
       "id": "8c3a70547b40",
