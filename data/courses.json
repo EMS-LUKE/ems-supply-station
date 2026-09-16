@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T02:55:33.917993+00:00",
+  "updated": "2026-09-16T08:17:48.826581+00:00",
   "count": 356,
   "course_count": 200,
   "news_count": 156,
@@ -3105,54 +3105,54 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
-      "id": "4110ccb750ce",
-      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
+      "id": "10b151ad3422",
+      "title": "Curaplex Stop The Bleed Multi-Pack Kit - Basic",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard"
+      "url": "https://www.tactical-medicine.com/en-ca/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=1&_sid=2315e873d&_ss=r"
     },
     {
-      "id": "c7e010eeb627",
-      "title": "The HEMGUARD® Targeted Pressure Bandage",
+      "id": "4c7353f6cea7",
+      "title": "Curaplex Stop the Bleed Kit - Individual - Intermediate",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/thehemguard-r-targeted-pressure-bandage"
+      "url": "https://www.tactical-medicine.com/en-ca/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=2&_sid=2315e873d&_ss=r"
     },
     {
-      "id": "59b9bcaf3a5b",
-      "title": "Elite Bags PARAMED Backpack",
+      "id": "d99462985b15",
+      "title": "Mojo® Public Access Trauma Station - Advanced",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/elite-bags-paramed-backpack"
+      "url": "https://www.tactical-medicine.com/en-ca/products/mojo%C2%AE-public-access-trauma-station-advanced?_pos=3&_sid=2315e873d&_ss=r"
     },
     {
-      "id": "0694954ed379",
-      "title": "MED-TAC ALS Oxygen Trauma Backpack w/Modular Pouch System",
+      "id": "780879151377",
+      "title": "Mobilize Public Access Trauma Kit by ZOLL",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/med-tac-als-oxygen-trauma-backpack-w-modular-pouch-system"
+      "url": "https://www.tactical-medicine.com/en-ca/products/mobilize-public-access-trauma-kit-by-zoll?_pos=4&_sid=2315e873d&_ss=r"
     },
     {
-      "id": "7f27b5999ba6",
-      "title": "Tasmanian Tiger Modular Medic Combat Pack 18",
+      "id": "ba12c7838487",
+      "title": "Mojo® Public Access Trauma Station",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-modular-medic-combat-pack-18"
+      "url": "https://www.tactical-medicine.com/en-ca/products/mojo-public-access-trauma-station?_pos=5&_sid=2315e873d&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3315,14 +3315,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
+      "url": "https://emj.bmj.com/content/43/8"
     },
     {
       "id": "4161eefd59d1",
