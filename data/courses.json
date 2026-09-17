@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T02:59:15.006814+00:00",
+  "updated": "2026-09-17T08:24:28.384776+00:00",
   "count": 357,
   "course_count": 201,
   "news_count": 156,
@@ -2295,6 +2295,16 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
     },
     {
+      "id": "12681d8d321d",
+      "title": "我去了一趟雲林麥寮，為了確認一件事｜台全牧場 × 聽見AED 中秋公益聯名",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/tqfarm-midautumn-2026/"
+    },
+    {
       "id": "a9e25c3d5076",
       "title": "無人機空投 AED：如果附近沒有 AED，我們讓它飛過來｜總統盃黑客松 #214 需要你的 9 票",
       "source": "臺灣愛陌生安全推廣協會",
@@ -2333,16 +2343,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/emson-advocacy/3min-plan/"
-    },
-    {
-      "id": "6f7ad46ec969",
-      "title": "【聽見AED】LINE@救援通知系統2026年7月成果報告",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b47%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
     },
     {
       "id": "c302a6b91021",
@@ -3112,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9b915f408&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a2473a12a&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -3122,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=2&_sid=9b915f408&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=2&_sid=a2473a12a&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3132,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=3&_sid=9b915f408&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=3&_sid=a2473a12a&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3142,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=9b915f408&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=a2473a12a&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3152,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=9b915f408&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=a2473a12a&_ss=r"
     },
     {
       "id": "715383a36e2a",
