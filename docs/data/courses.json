@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T13:25:17.942827+00:00",
+  "updated": "2026-09-18T18:07:26.386133+00:00",
   "count": 359,
   "course_count": 203,
   "news_count": 156,
@@ -1245,6 +1245,16 @@
       "url": "https://tamis.org.tw/activity/42"
     },
     {
+      "id": "f1f303ad451a",
+      "title": "| 📣 【TAMIS 超級心光大道－24首金曲】第十首重磅登場：《依靠》 📣 公告日期：2026 / 9 / 18",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1281"
+    },
+    {
       "id": "18245bd315b9",
       "title": "| 【TAMIS 超級心光大道－24首金曲】第九首熱血開唱：《逆光》 公告日期：2026 / 9 / 16",
       "source": "台灣心肌梗塞學會",
@@ -1263,16 +1273,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1273"
-    },
-    {
-      "id": "d61ee024f4d1",
-      "title": "| 📣【TAMIS 超級心光大道－24首金曲】巡迴開唱：第七首《孤勇者》📣 公告日期：2026 / 8 / 3",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1270"
     },
     {
       "id": "32dbb30467e3",
@@ -3142,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=8c8ce58a0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=10f2cec7b&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3152,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=8c8ce58a0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=10f2cec7b&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3162,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=8c8ce58a0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=10f2cec7b&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=8c8ce58a0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=10f2cec7b&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=8c8ce58a0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=10f2cec7b&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3352,7 +3352,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/8"
+      "url": "https://emj.bmj.com/content/43/9"
     },
     {
       "id": "4161eefd59d1",
