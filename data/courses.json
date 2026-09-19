@@ -1,59 +1,9 @@
 {
-  "updated": "2026-09-18T23:04:58.646777+00:00",
+  "updated": "2026-09-19T02:44:42.907372+00:00",
   "count": 359,
   "course_count": 203,
   "news_count": 156,
   "items": [
-    {
-      "id": "99c47cfaa7f6",
-      "title": "戰傷醫學訓練工作坊 臺北榮民總醫院急診部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-18",
-      "deadline": "2026-09-18",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33235"
-    },
-    {
-      "id": "a3739a0bc728",
-      "title": "函轉聯新國際醫療創新教育中心舉辦「健康產業會員大數據經營」沙龍論壇",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/5/Details/1655"
-    },
-    {
-      "id": "032e497ba690",
-      "title": "【DHA 2026】2026 International Conference on Digital Health and Medical Analytics（DHA 2026）115.09.18-20高雄科技大學",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/783.html#here"
-    },
-    {
-      "id": "289ecb43dfc6",
-      "title": "重症會員早鳥報名優惠-2026.9.18~20 【第七屆亞太急性腎損傷與連續性腎替代療法大會】",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": "2026-09-18",
-      "url": "http://course.tsccm.org.tw/df_info.asp?/968.html"
-    },
-    {
-      "id": "83ad24e5b303",
-      "title": "徵稿中~~2026.9.18-20 International Conference on Digital Health and Medical Analytics（DHA 2026）",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
-    },
     {
       "id": "a4f62993004c",
       "title": "Provider Manual & CD 衛生福利部嘉義醫院 急診室.極簡顧問有限公司",
@@ -65,14 +15,14 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/33281"
     },
     {
-      "id": "5eca934505bc",
-      "title": "ACLS急救課程 佛教慈濟醫療財團法人台北慈濟醫院",
+      "id": "c89c0722853d",
+      "title": "APLS 天主教耕莘醫療財團法人耕莘醫院",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-09-19",
       "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33259"
+      "url": "https://www.sem.org.tw/Activity/B/Details/33258"
     },
     {
       "id": "27bb0374dcde",
@@ -113,16 +63,6 @@
       "date": "2026-09-19",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "b82029c5ad1d",
-      "title": "嘉義市政府衛生局 115 年度母乳照護研習會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28328"
     },
     {
       "id": "57440987b400",
@@ -193,6 +133,16 @@
       "date": "2026-09-20",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28375"
+    },
+    {
+      "id": "0d0878a92c83",
+      "title": "精進周產期與母嬰連續性照護品質國際研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-20",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28359"
     },
     {
       "id": "df5070bf548e",
@@ -533,6 +483,16 @@
       "date": "2026-10-28",
       "deadline": "2026-10-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
+    },
+    {
+      "id": "80911dacdb16",
+      "title": "兒童抽搐",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-28",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28381"
     },
     {
       "id": "44ea765c0725",
@@ -3142,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=042fc4e50&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=38a43a831&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3152,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=042fc4e50&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=38a43a831&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3162,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=042fc4e50&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=38a43a831&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3172,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=042fc4e50&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=38a43a831&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -3182,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=042fc4e50&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=38a43a831&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3353,6 +3313,46 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
+    },
+    {
+      "id": "a3739a0bc728",
+      "title": "函轉聯新國際醫療創新教育中心舉辦「健康產業會員大數據經營」沙龍論壇",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-18",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/5/Details/1655"
+    },
+    {
+      "id": "032e497ba690",
+      "title": "【DHA 2026】2026 International Conference on Digital Health and Medical Analytics（DHA 2026）115.09.18-20高雄科技大學",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-18",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/783.html#here"
+    },
+    {
+      "id": "289ecb43dfc6",
+      "title": "重症會員早鳥報名優惠-2026.9.18~20 【第七屆亞太急性腎損傷與連續性腎替代療法大會】",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-18",
+      "deadline": "2026-09-18",
+      "url": "http://course.tsccm.org.tw/df_info.asp?/968.html"
+    },
+    {
+      "id": "83ad24e5b303",
+      "title": "徵稿中~~2026.9.18-20 International Conference on Digital Health and Medical Analytics（DHA 2026）",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-18",
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
     },
     {
       "id": "4161eefd59d1",
