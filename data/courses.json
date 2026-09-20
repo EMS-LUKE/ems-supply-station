@@ -1,99 +1,9 @@
 {
-  "updated": "2026-09-19T22:43:34.107045+00:00",
-  "count": 359,
-  "course_count": 203,
+  "updated": "2026-09-20T02:57:28.644397+00:00",
+  "count": 363,
+  "course_count": 207,
   "news_count": 156,
   "items": [
-    {
-      "id": "a4f62993004c",
-      "title": "Provider Manual & CD 衛生福利部嘉義醫院 急診室.極簡顧問有限公司",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": "2026-08-18",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33281"
-    },
-    {
-      "id": "c89c0722853d",
-      "title": "APLS 天主教耕莘醫療財團法人耕莘醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33258"
-    },
-    {
-      "id": "27bb0374dcde",
-      "title": "115年09月19-20日高級兒童救命術課程（APLS + PALS） 臺北市立萬芳醫院急診醫學科",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": "2026-08-03",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33226"
-    },
-    {
-      "id": "cbc9aef1d704",
-      "title": "2026外傷教育課程-北部地區(Ⅳ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": "2026-09-07",
-      "url": "http://www.trauma.org.tw/active/index.asp?/27.html"
-    },
-    {
-      "id": "ce4831580b27",
-      "title": "2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "e2cea50802ce",
-      "title": "2026/09/19-20系統性文獻回顧與統合分析工作坊(秋季班)",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "57440987b400",
-      "title": "2026/09/19-09/22 Bridge野外急救橋接急救訓練(北部場)",
-      "source": "米亞桑戶外中心",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://miasan.com/event/bridge20260919/"
-    },
-    {
-      "id": "705410b6f5cf",
-      "title": "2026/09/19-09/22 Bridge(WAFA to WFR)橋接課程",
-      "source": "小島探險",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
-    },
-    {
-      "id": "35e4a131dc6b",
-      "title": "2026/09/19-09/22 Bridge 四日野外急救橋接訓練（台北）",
-      "source": "羌虎跨域生活",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://mttigertw.com/lectureInfo/186/"
-    },
     {
       "id": "6c12a2120576",
       "title": "2026系統性文獻回顧與統合分析工作坊(秋季班)",
@@ -115,36 +25,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9264d6d370e54ced8d3d1076cd78a701"
     },
     {
-      "id": "0a71b6f508ad",
-      "title": "115年度新生兒高級救命術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28357"
-    },
-    {
-      "id": "a7e9b7c48a09",
-      "title": "新生兒高級救命術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28375"
-    },
-    {
-      "id": "0d0878a92c83",
-      "title": "精進周產期與母嬰連續性照護品質國際研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28359"
-    },
-    {
       "id": "df5070bf548e",
       "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
       "source": "台灣急診醫學會",
@@ -155,6 +35,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33173"
     },
     {
+      "id": "3dd8bd1c2120",
+      "title": "新生兒（含早產兒）診療及照護研討暨教學",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28369"
+    },
+    {
       "id": "11c848220bb3",
       "title": "上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護",
       "source": "台灣家庭醫學醫學會",
@@ -163,6 +53,16 @@
       "date": "2026-09-30",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
+    },
+    {
+      "id": "814cd1a68698",
+      "title": "胎兒小於妊娠年齡孩童之追蹤照護",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-30",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28372"
     },
     {
       "id": "0456abb457a6",
@@ -495,6 +395,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28381"
     },
     {
+      "id": "f8a9622624b9",
+      "title": "北區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-28",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28127"
+    },
+    {
       "id": "44ea765c0725",
       "title": "2026外傷教育課程-南部地區(Ⅲ)...",
       "source": "台灣外傷醫學會",
@@ -503,6 +413,26 @@
       "date": "2026-10-31",
       "deadline": null,
       "url": "http://www.trauma.org.tw/active/index.asp?/29.html"
+    },
+    {
+      "id": "e57433088083",
+      "title": "新生兒急救(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-31",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28339"
+    },
+    {
+      "id": "61a061532ec1",
+      "title": "新生兒高級急救術(NRP)訓練課程(不對外開放)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-31",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28361"
     },
     {
       "id": "bc6a2d0111b8",
@@ -613,6 +543,26 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "c7bfc459e1c7",
+      "title": "新生兒急救加護訓練課程 (NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
+    },
+    {
+      "id": "03f3d9a79297",
+      "title": "2026年新生兒高級救命術NRP訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28360"
     },
     {
       "id": "763ad854bfda",
@@ -3102,7 +3052,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=4f409fbf0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=67c5ca041&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3112,7 +3062,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=4f409fbf0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=67c5ca041&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3122,7 +3072,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=4f409fbf0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=67c5ca041&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3132,7 +3082,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=4f409fbf0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=67c5ca041&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -3142,7 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=4f409fbf0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=67c5ca041&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3305,14 +3255,104 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/9"
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "a4f62993004c",
+      "title": "Provider Manual & CD 衛生福利部嘉義醫院 急診室.極簡顧問有限公司",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": "2026-08-18",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33281"
+    },
+    {
+      "id": "c89c0722853d",
+      "title": "APLS 天主教耕莘醫療財團法人耕莘醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33258"
+    },
+    {
+      "id": "27bb0374dcde",
+      "title": "115年09月19-20日高級兒童救命術課程（APLS + PALS） 臺北市立萬芳醫院急診醫學科",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": "2026-08-03",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33226"
+    },
+    {
+      "id": "cbc9aef1d704",
+      "title": "2026外傷教育課程-北部地區(Ⅳ)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": "2026-09-07",
+      "url": "http://www.trauma.org.tw/active/index.asp?/27.html"
+    },
+    {
+      "id": "ce4831580b27",
+      "title": "2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "e2cea50802ce",
+      "title": "2026/09/19-20系統性文獻回顧與統合分析工作坊(秋季班)",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "57440987b400",
+      "title": "2026/09/19-09/22 Bridge野外急救橋接急救訓練(北部場)",
+      "source": "米亞桑戶外中心",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://miasan.com/event/bridge20260919/"
+    },
+    {
+      "id": "705410b6f5cf",
+      "title": "2026/09/19-09/22 Bridge(WAFA to WFR)橋接課程",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
+    },
+    {
+      "id": "35e4a131dc6b",
+      "title": "2026/09/19-09/22 Bridge 四日野外急救橋接訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/186/"
     },
     {
       "id": "a3739a0bc728",
