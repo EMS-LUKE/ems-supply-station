@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-21T02:53:46.827070+00:00",
-  "count": 361,
-  "course_count": 205,
-  "news_count": 156,
+  "updated": "2026-09-21T08:35:40.133224+00:00",
+  "count": 362,
+  "course_count": 204,
+  "news_count": 158,
   "items": [
     {
       "id": "df5070bf548e",
@@ -13,6 +13,16 @@
       "date": "2026-09-21",
       "deadline": "2026-09-21",
       "url": "https://www.sem.org.tw/Activity/A/Details/33173"
+    },
+    {
+      "id": "13c62c486c6c",
+      "title": "一場地震之後，風險並沒有結束：談整合式災害風險管理",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-09-21",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/09/blog-post_21.html"
     },
     {
       "id": "25803e0146cc",
@@ -83,6 +93,16 @@
       "date": "2026-10-03",
       "deadline": "2026-10-03",
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/793.html#here"
+    },
+    {
+      "id": "aca6f6ddeac8",
+      "title": "【線上開放投票!】邀請您參與APEM 2026 首屆重症病人早期活動影片-最佳人氣王投票115.10.03-04",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-03",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/818.html#here"
     },
     {
       "id": "31a3e058dad0",
@@ -1325,6 +1345,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/238fecbc0a7f4bf8ac22136cc884bc9d"
     },
     {
+      "id": "1aaa9f859717",
+      "title": "轉知-檢送衛福部疾管署修訂之「醫療機構因應伊波拉病毒感染及馬堡病毒出血熱之感染管制指引」，請轉知所轄醫療機構及所屬會員依循辦理。",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cab55632908e4e1b8a519fc8e639e241"
+    },
+    {
       "id": "bc289d57e130",
       "title": "家庭醫師診所 呼吸道融合病毒（RSV）及侵襲性腦膜炎雙球菌疾病（IMD）疫苗採購特別方案",
       "source": "台灣家庭醫學醫學會",
@@ -1333,16 +1363,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0981f9729fdc4bc599fda4bbe6826eaa"
-    },
-    {
-      "id": "0e4f917da8d5",
-      "title": "轉知 衛福部-「含蓖麻油溶劑之paclitaxel成分藥品安全資訊風險溝通表」業已發布於本部食品藥物管理署網站",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/f202e5f61e494e48ad17c5c7fbef3312"
     },
     {
       "id": "96c29d1bd3e6",
@@ -2235,6 +2255,16 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/tqfarm-midautumn-2026/"
     },
     {
+      "id": "d397dbfefcee",
+      "title": "聽見AED｜2026年8月到場成果出爐】",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b48%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90%e3%80%91/"
+    },
+    {
       "id": "a9e25c3d5076",
       "title": "無人機空投 AED：如果附近沒有 AED，我們讓它飛過來｜總統盃黑客松 #214 需要你的 9 票",
       "source": "臺灣愛陌生安全推廣協會",
@@ -2263,16 +2293,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
-    },
-    {
-      "id": "2e2ebb642549",
-      "title": "三分鐘計劃｜讓地圖上的每一台 AED，真的拿得到、用得了、救得到人",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/emson-advocacy/3min-plan/"
     },
     {
       "id": "c302a6b91021",
@@ -3042,7 +3062,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=273d83972&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=0f03be177&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3052,7 +3072,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=273d83972&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=0f03be177&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3062,7 +3082,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=273d83972&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=0f03be177&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3072,7 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=273d83972&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=0f03be177&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -3082,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=273d83972&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=0f03be177&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3353,16 +3373,6 @@
       "date": "2026-09-18",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/5/Details/1655"
-    },
-    {
-      "id": "032e497ba690",
-      "title": "【DHA 2026】2026 International Conference on Digital Health and Medical Analytics（DHA 2026）115.09.18-20高雄科技大學",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/783.html#here"
     },
     {
       "id": "289ecb43dfc6",
