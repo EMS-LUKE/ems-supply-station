@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T15:42:21.550179+00:00",
+  "updated": "2026-09-21T21:39:57.169299+00:00",
   "count": 363,
   "course_count": 205,
   "news_count": 158,
@@ -2275,16 +2275,6 @@
       "url": "https://www.hear-aed.com.tw/news/emson-advocacy/drone-aed-hackathon-214/"
     },
     {
-      "id": "77c5f8a9ced5",
-      "title": "救在當下・預熱短片8】遇到女性倒下，我可以做CPR嗎？AED該怎麼貼？🚨👩",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e6%95%91%e5%9c%a8%e7%95%b6%e4%b8%8b%e3%83%bb%e9%a0%90%e7%86%b1%e7%9f%ad%e7%89%878%e3%80%91%e9%81%87%e5%88%b0%e5%a5%b3%e6%80%a7%e5%80%92%e4%b8%8b%ef%bc%8c%e6%88%91%e5%8f%af%e4%bb%a5%e5%81%9acpr/"
-    },
-    {
       "id": "38c215d8bf19",
       "title": "聽見AED 臉書動態",
       "source": "臺灣愛陌生安全推廣協會",
@@ -2293,6 +2283,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
+    },
+    {
+      "id": "77c5f8a9ced5",
+      "title": "救在當下・預熱短片8】遇到女性倒下，我可以做CPR嗎？AED該怎麼貼？🚨👩",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e6%95%91%e5%9c%a8%e7%95%b6%e4%b8%8b%e3%83%bb%e9%a0%90%e7%86%b1%e7%9f%ad%e7%89%878%e3%80%91%e9%81%87%e5%88%b0%e5%a5%b3%e6%80%a7%e5%80%92%e4%b8%8b%ef%bc%8c%e6%88%91%e5%8f%af%e4%bb%a5%e5%81%9acpr/"
     },
     {
       "id": "c302a6b91021",
@@ -3062,7 +3062,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=2b4a4656b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=6509dd65e&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3072,7 +3072,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=2b4a4656b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=6509dd65e&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3082,7 +3082,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=2b4a4656b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=6509dd65e&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3092,7 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=2b4a4656b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=6509dd65e&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -3102,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=2b4a4656b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=6509dd65e&_ss=r"
     },
     {
       "id": "715383a36e2a",
