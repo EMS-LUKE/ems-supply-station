@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-21T08:35:40.133224+00:00",
-  "count": 362,
-  "course_count": 204,
+  "updated": "2026-09-21T15:42:21.550179+00:00",
+  "count": 363,
+  "course_count": 205,
   "news_count": 158,
   "items": [
     {
@@ -3062,7 +3062,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=0f03be177&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=2b4a4656b&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3072,7 +3072,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=0f03be177&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=2b4a4656b&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3082,7 +3082,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=0f03be177&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=2b4a4656b&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3092,7 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=0f03be177&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=2b4a4656b&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -3102,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=0f03be177&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=2b4a4656b&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3373,6 +3373,16 @@
       "date": "2026-09-18",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/5/Details/1655"
+    },
+    {
+      "id": "032e497ba690",
+      "title": "【DHA 2026】2026 International Conference on Digital Health and Medical Analytics（DHA 2026）115.09.18-20高雄科技大學",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-18",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/783.html#here"
     },
     {
       "id": "289ecb43dfc6",
