@@ -1,29 +1,9 @@
 {
-  "updated": "2026-09-20T22:59:20.093642+00:00",
-  "count": 363,
-  "course_count": 207,
+  "updated": "2026-09-21T02:53:46.827070+00:00",
+  "count": 361,
+  "course_count": 205,
   "news_count": 156,
   "items": [
-    {
-      "id": "6c12a2120576",
-      "title": "2026系統性文獻回顧與統合分析工作坊(秋季班)",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
-    },
-    {
-      "id": "833242aed1ad",
-      "title": "上課通知-115.9.20(日)RSVPreF3 Indication Expansion &Total Protection Symposium",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9264d6d370e54ced8d3d1076cd78a701"
-    },
     {
       "id": "df5070bf548e",
       "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
@@ -33,6 +13,16 @@
       "date": "2026-09-21",
       "deadline": "2026-09-21",
       "url": "https://www.sem.org.tw/Activity/A/Details/33173"
+    },
+    {
+      "id": "25803e0146cc",
+      "title": "AHA BLS+PALS Provider Course-林口長庚 台灣急診醫學會國際培訓中心 長庚醫療財團法人林口長庚紀念醫院 急診醫學科",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-22",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/AHA/Details/33325"
     },
     {
       "id": "3dd8bd1c2120",
@@ -1325,6 +1315,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "6168d6a924ae",
+      "title": "轉知 衛福部疾管署-因應近日國內診所發生急性病毒性C型肝炎群聚事件，請各醫療機構加強落實安全注射感染管制措施",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/238fecbc0a7f4bf8ac22136cc884bc9d"
+    },
+    {
       "id": "bc289d57e130",
       "title": "家庭醫師診所 呼吸道融合病毒（RSV）及侵襲性腦膜炎雙球菌疾病（IMD）疫苗採購特別方案",
       "source": "台灣家庭醫學醫學會",
@@ -1343,16 +1343,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/f202e5f61e494e48ad17c5c7fbef3312"
-    },
-    {
-      "id": "908ec3c9a899",
-      "title": "轉知 衛福部食藥署-重申GLP-1 RA類注射劑藥品應依藥事法及醫療法相關規定管理及使用，請轉知所屬會員查照辦理。",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9ded424a26fa4cd0bc413fbf5504c7c3"
     },
     {
       "id": "96c29d1bd3e6",
@@ -3052,7 +3042,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=2b6e9241a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=273d83972&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3062,7 +3052,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=2b6e9241a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=273d83972&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3072,7 +3062,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=2b6e9241a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=273d83972&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3082,7 +3072,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=2b6e9241a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=273d83972&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -3092,7 +3082,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=2b6e9241a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=273d83972&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3265,34 +3255,24 @@
       "url": "https://emj.bmj.com/content/43/9"
     },
     {
-      "id": "a4f62993004c",
-      "title": "Provider Manual & CD 衛生福利部嘉義醫院 急診室.極簡顧問有限公司",
-      "source": "台灣急診醫學會",
+      "id": "6c12a2120576",
+      "title": "2026系統性文獻回顧與統合分析工作坊(秋季班)",
+      "source": "台灣實證醫學學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-09-19",
-      "deadline": "2026-08-18",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33281"
-    },
-    {
-      "id": "c89c0722853d",
-      "title": "APLS 天主教耕莘醫療財團法人耕莘醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33258"
+      "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
     },
     {
-      "id": "27bb0374dcde",
-      "title": "115年09月19-20日高級兒童救命術課程（APLS + PALS） 臺北市立萬芳醫院急診醫學科",
-      "source": "台灣急診醫學會",
+      "id": "833242aed1ad",
+      "title": "上課通知-115.9.20(日)RSVPreF3 Indication Expansion &Total Protection Symposium",
+      "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": "2026-08-03",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33226"
+      "type": "news",
+      "date": "2026-09-20",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9264d6d370e54ced8d3d1076cd78a701"
     },
     {
       "id": "cbc9aef1d704",
@@ -3357,6 +3337,16 @@
     {
       "id": "a3739a0bc728",
       "title": "函轉聯新國際醫療創新教育中心舉辦「健康產業會員大數據經營」沙龍論壇",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-18",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/5/Details/1655"
+    },
+    {
+      "id": "24acd38817e7",
+      "title": "еҮҪиҪүиҒҜж–°еңӢйҡӣйҶ«зҷӮеүөж–°ж•ҷиӮІдёӯеҝғиҲүиҫҰгҖҢеҒҘеә·з”ўжҘӯжңғе“ЎеӨ§ж•ёж“ҡз¶“зҮҹгҖҚжІҷйҫҚи«–еЈҮ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3477,6 +3467,16 @@
     {
       "id": "5c699a656357",
       "title": "【ED Transforming！急診智慧轉型研討會】—台灣急診管理學會第六屆第一次會員大會暨學術研討會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-08",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1646"
+    },
+    {
+      "id": "f17b66c5c320",
+      "title": "гҖҗED TransformingпјҒжҖҘиЁәжҷәж…§иҪүеһӢз ”иЁҺжңғгҖ‘вҖ”еҸ°зҒЈжҖҘиЁәз®ЎзҗҶеӯёжңғз¬¬е…ӯеұҶз¬¬дёҖж¬Ўжңғе“ЎеӨ§жңғжҡЁеӯёиЎ“з ”иЁҺжңғ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3613,26 +3613,6 @@
       "date": "2026-08-23",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0"
-    },
-    {
-      "id": "242ba899ade2",
-      "title": "為恭醫療財團法人為恭紀念醫院誠徵 新生兒醫師",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-21",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=442"
-    },
-    {
-      "id": "e2a690e5a605",
-      "title": "災難不是突然發生的：從森林野火看醫院內不斷累積的脆弱性",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-08-21",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/08/blog-post_21.html"
     }
   ]
 }
