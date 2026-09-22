@@ -1,39 +1,9 @@
 {
-  "updated": "2026-09-21T21:39:57.169299+00:00",
-  "count": 363,
-  "course_count": 205,
+  "updated": "2026-09-22T02:55:18.699441+00:00",
+  "count": 362,
+  "course_count": 204,
   "news_count": 158,
   "items": [
-    {
-      "id": "df5070bf548e",
-      "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-21",
-      "deadline": "2026-09-21",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33173"
-    },
-    {
-      "id": "13c62c486c6c",
-      "title": "一場地震之後，風險並沒有結束：談整合式災害風險管理",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-09-21",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/09/blog-post_21.html"
-    },
-    {
-      "id": "25803e0146cc",
-      "title": "AHA BLS+PALS Provider Course-林口長庚 台灣急診醫學會國際培訓中心 長庚醫療財團法人林口長庚紀念醫院 急診醫學科",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-22",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/AHA/Details/33325"
-    },
     {
       "id": "3dd8bd1c2120",
       "title": "新生兒（含早產兒）診療及照護研討暨教學",
@@ -3062,7 +3032,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=6509dd65e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a451ae775&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3072,7 +3042,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=6509dd65e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=a451ae775&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3082,7 +3052,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=6509dd65e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=a451ae775&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3092,7 +3062,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=6509dd65e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=a451ae775&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -3102,7 +3072,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=6509dd65e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=a451ae775&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3242,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bjsm.bmj.com/cgi/content/short/bjsports-2026-111894v1?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100838.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3265,14 +3235,34 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/9"
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "df5070bf548e",
+      "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-21",
+      "deadline": "2026-09-21",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33173"
+    },
+    {
+      "id": "13c62c486c6c",
+      "title": "一場地震之後，風險並沒有結束：談整合式災害風險管理",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-09-21",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/09/blog-post_21.html"
     },
     {
       "id": "6c12a2120576",
