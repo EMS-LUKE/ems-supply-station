@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-22T13:57:09.533340+00:00",
+  "updated": "2026-09-22T18:34:19.038493+00:00",
   "count": 375,
-  "course_count": 216,
-  "news_count": 159,
+  "course_count": 217,
+  "news_count": 158,
   "items": [
     {
       "id": "ca1cc5bcf302",
@@ -2835,6 +2835,16 @@
       "url": "https://www.foamfrat.com/shop-merch"
     },
     {
+      "id": "37c0eeae5854",
+      "title": "C-TECC Hosts Workshop at ATMC 2026",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/index.php/news/atmc-2026"
+    },
+    {
       "id": "17fc455f2e13",
       "title": "Committee for TacticalEmergency Casualty Care C-TECC",
       "source": "C-TECC",
@@ -2873,16 +2883,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/index.php/news/save-the-date-dec-2026-meeting"
-    },
-    {
-      "id": "4b7d44582a37",
-      "title": "Membership Updates",
-      "source": "C-TECC",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.c-tecc.org/index.php/news/membership-updates-2026"
     },
     {
       "id": "fe9e49751244",
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b12c84251&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=66079ddc4&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3202,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=b12c84251&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=66079ddc4&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3212,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=b12c84251&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=66079ddc4&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3222,7 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=b12c84251&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=66079ddc4&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -3232,7 +3232,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=b12c84251&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=66079ddc4&_ss=r"
     },
     {
       "id": "715383a36e2a",
