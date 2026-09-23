@@ -1,19 +1,9 @@
 {
-  "updated": "2026-09-23T02:55:34.543724+00:00",
-  "count": 371,
-  "course_count": 216,
+  "updated": "2026-09-23T08:18:38.613798+00:00",
+  "count": 367,
+  "course_count": 212,
   "news_count": 155,
   "items": [
-    {
-      "id": "3dd8bd1c2120",
-      "title": "新生兒（含早產兒）診療及照護研討暨教學",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28369"
-    },
     {
       "id": "11c848220bb3",
       "title": "上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護",
@@ -265,16 +255,6 @@
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
     },
     {
-      "id": "d5a6df19fb8c",
-      "title": "2026/10/17-10/20 Bridge 四日野外急救橋接訓練（台北）",
-      "source": "羌虎跨域生活",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://mttigertw.com/lectureInfo/186/"
-    },
-    {
       "id": "e815a0a74ca9",
       "title": "2026/10/18(日)第八屆第二次會員大會暨學術研討會(精準與永續：智慧急重症鏈－從數據預警到社區永續照護的實踐與挑戰)",
       "source": "台灣老人急重症醫學會",
@@ -435,24 +415,24 @@
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
     },
     {
-      "id": "aafb7eba0189",
-      "title": "2026/10/31-11/03 WAFA 四日進階野外急救訓練（台北）",
-      "source": "羌虎跨域生活",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-10-31",
-      "deadline": null,
-      "url": "https://mttigertw.com/lectureInfo/188/"
-    },
-    {
-      "id": "e3c3aafbcaeb",
-      "title": "2026年臺灣國家公園馬拉松-陽明山",
+      "id": "c1bc229e2527",
+      "title": "2026年臺灣國家公園馬拉松『陽明山』-線上報名",
       "source": "中華民國大型活動緊急救護協會",
       "cat": "台灣協會",
       "type": "course",
       "date": "2026-11-01",
       "deadline": null,
       "url": "https://www.mgems.org/261101-yangminshan-marathron-checkin/"
+    },
+    {
+      "id": "c1adca525558",
+      "title": "2026/11/06-11/09 Bridge 四日野外急救橋接訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-11-06",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/186/"
     },
     {
       "id": "febb26d2b9cd",
@@ -605,16 +585,6 @@
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=99"
     },
     {
-      "id": "e535b61f91c2",
-      "title": "2026/11/28-11/29 WFA 二日初階野外急救訓練（台北）",
-      "source": "羌虎跨域生活",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-11-28",
-      "deadline": null,
-      "url": "https://mttigertw.com/lectureInfo/189/"
-    },
-    {
       "id": "a2814db719a3",
       "title": "115年住院醫師初階災難訓練課程(北區)【線上+實體】 社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -645,14 +615,14 @@
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
     },
     {
-      "id": "c8db9ca6272b",
-      "title": "2026/12/05-12/08 WAFA 四日進階野外急救訓練（台北）",
-      "source": "羌虎跨域生活",
-      "cat": "台灣急救社群",
+      "id": "08518396f20a",
+      "title": "中區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
       "type": "course",
-      "date": "2026-12-05",
+      "date": "2026-12-12",
       "deadline": null,
-      "url": "https://mttigertw.com/lectureInfo/188/"
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28132"
     },
     {
       "id": "91714c651008",
@@ -675,16 +645,6 @@
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
     },
     {
-      "id": "1c7ba2370870",
-      "title": "2026/12/12-12/15 WAFA 四日進階野外急救訓練（台北）",
-      "source": "羌虎跨域生活",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-12-12",
-      "deadline": null,
-      "url": "https://mttigertw.com/lectureInfo/188/"
-    },
-    {
       "id": "62570103abc2",
       "title": "JCMIT 2026 國際醫學資訊聯合研討會",
       "source": "台灣醫學資訊學會",
@@ -693,6 +653,16 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
+    },
+    {
+      "id": "c75ab53df448",
+      "title": "雲嘉區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-19",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28144"
     },
     {
       "id": "ad1d5f52d7a1",
@@ -3145,6 +3115,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "efccb4766388",
+      "title": "6\" Israeli Emergency Bandage® from Safeguard Medical",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=5e5143af6&_ss=r"
+    },
+    {
       "id": "34d97b943ff2",
       "title": "Public Access Bleeding Control Kit - Nylon",
       "source": "Tactical Medicine Training & Equipment",
@@ -3152,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=147625b2f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=5e5143af6&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3162,7 +3142,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=147625b2f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=3&_sid=5e5143af6&_ss=r"
+    },
+    {
+      "id": "40b63028b17c",
+      "title": "TacMed™ Field Blood Transfusion Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=4&_sid=5e5143af6&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3172,27 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=147625b2f&_ss=r"
-    },
-    {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=147625b2f&_ss=r"
-    },
-    {
-      "id": "1a9c336e65db",
-      "title": "RED - Ready Every Day - Personal Aid Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=147625b2f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=5e5143af6&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3493,16 +3463,6 @@
       "date": "2026-09-19",
       "deadline": null,
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
-    },
-    {
-      "id": "35e4a131dc6b",
-      "title": "2026/09/19-09/22 Bridge 四日野外急救橋接訓練（台北）",
-      "source": "羌虎跨域生活",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://mttigertw.com/lectureInfo/186/"
     },
     {
       "id": "032e497ba690",
