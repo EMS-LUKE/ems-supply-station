@@ -1,9 +1,19 @@
 {
-  "updated": "2026-09-23T08:18:38.613798+00:00",
-  "count": 367,
-  "course_count": 212,
+  "updated": "2026-09-23T14:07:39.488646+00:00",
+  "count": 375,
+  "course_count": 220,
   "news_count": 155,
   "items": [
+    {
+      "id": "d049bdf98987",
+      "title": "【ATLS報名】115年「再認證」課程報名資訊（含報名表）115.09.23更新...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-23",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
+    },
     {
       "id": "11c848220bb3",
       "title": "上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護",
@@ -425,16 +435,6 @@
       "url": "https://www.mgems.org/261101-yangminshan-marathron-checkin/"
     },
     {
-      "id": "c1adca525558",
-      "title": "2026/11/06-11/09 Bridge 四日野外急救橋接訓練（台北）",
-      "source": "羌虎跨域生活",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-11-06",
-      "deadline": null,
-      "url": "https://mttigertw.com/lectureInfo/186/"
-    },
-    {
       "id": "febb26d2b9cd",
       "title": "AHA BLS & ACLS Instructor Course【奇美】 台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -695,6 +695,16 @@
       "url": "https://miasan.com/event/wafa20270212/"
     },
     {
+      "id": "7709e81d9465",
+      "title": "2027/02/12-02/15 WAFA 四日進階野外急救訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-02-12",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/188/"
+    },
+    {
       "id": "95839510fcd4",
       "title": "2027/03/06-03/07 WFA兩天初階野外急救訓練(北部場)",
       "source": "米亞桑戶外中心",
@@ -703,6 +713,16 @@
       "date": "2027-03-06",
       "deadline": null,
       "url": "https://miasan.com/event/wfa20270306/"
+    },
+    {
+      "id": "1e77575eea73",
+      "title": "2027/03/06-03/07 WFA 二日初階野外急救訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-03-06",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/189/"
     },
     {
       "id": "c535533b6d48",
@@ -715,6 +735,16 @@
       "url": "https://miasan.com/event/wafa20270327/"
     },
     {
+      "id": "1e55ab8f72a2",
+      "title": "2027/03/27-03/30 WAFA 四日進階野外急救訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-03-27",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/188/"
+    },
+    {
       "id": "960e0b6cb693",
       "title": "2027/04/24-04/27 Bridge野外急救橋接急救訓練(北部場)",
       "source": "米亞桑戶外中心",
@@ -723,6 +753,16 @@
       "date": "2027-04-24",
       "deadline": null,
       "url": "https://miasan.com/event/bridge20270424/"
+    },
+    {
+      "id": "405111937428",
+      "title": "2027/04/24-04/27 Bridge 四日野外急救橋接訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-04-24",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/186/"
     },
     {
       "id": "bd42a8fa622b",
@@ -735,6 +775,16 @@
       "url": "https://miasan.com/event/wafa20270515/"
     },
     {
+      "id": "18cee9fb5261",
+      "title": "2027/05/15-05/18 WAFA 四日進階野外急救訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-05-15",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/188/"
+    },
+    {
       "id": "cfec9e803ff5",
       "title": "2027/06/05-06/08 Bridge野外急救橋接急救訓練(北部場)",
       "source": "米亞桑戶外中心",
@@ -743,6 +793,16 @@
       "date": "2027-06-05",
       "deadline": null,
       "url": "https://miasan.com/event/bridge20270605/"
+    },
+    {
+      "id": "7c4503218793",
+      "title": "2027/06/05-06/08 Bridge 四日野外急救橋接訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-06-05",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/186/"
     },
     {
       "id": "23fb11172ee3",
@@ -755,6 +815,16 @@
       "url": "https://miasan.com/event/wfa20270612/"
     },
     {
+      "id": "2e5490f647f3",
+      "title": "2027/06/12-06/13 WFA 二日初階野外急救訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-06-12",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/189/"
+    },
+    {
       "id": "b0200811c7ff",
       "title": "2027/06/19-06/22 WAFA野外進階急救訓練(北部場)",
       "source": "米亞桑戶外中心",
@@ -765,6 +835,16 @@
       "url": "https://miasan.com/event/wafa20270619/"
     },
     {
+      "id": "0dbee88165e4",
+      "title": "2027/06/19-06/22 WAFA 四日進階野外急救訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-06-19",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/188/"
+    },
+    {
       "id": "3d0e86e9c4c7",
       "title": "2027/11/06-11/09 Bridge野外急救橋接急救訓練(北部場)",
       "source": "米亞桑戶外中心",
@@ -773,6 +853,16 @@
       "date": "2027-11-06",
       "deadline": null,
       "url": "https://miasan.com/event/bridge20271106/"
+    },
+    {
+      "id": "bc600d644db0",
+      "title": "2027/11/06-11/09 Bridge 四日野外急救橋接訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-11-06",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/186/"
     },
     {
       "id": "390b53a617f8",
@@ -3122,7 +3212,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=5e5143af6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=fe3d3525b&_ss=r"
+    },
+    {
+      "id": "9bc553af2970",
+      "title": "Israeli T3 Bandage",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=fe3d3525b&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3132,7 +3232,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=5e5143af6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=fe3d3525b&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3142,7 +3242,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=3&_sid=5e5143af6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=4&_sid=fe3d3525b&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3152,17 +3252,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=4&_sid=5e5143af6&_ss=r"
-    },
-    {
-      "id": "4c7353f6cea7",
-      "title": "Curaplex Stop the Bleed Kit - Individual - Intermediate",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=5e5143af6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=fe3d3525b&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3593,16 +3683,6 @@
       "date": "2026-09-04",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/09/blog-post.html"
-    },
-    {
-      "id": "7b747f1a0af9",
-      "title": "【ATLS報名】115年「再認證」課程報名資訊（含報名表）115.09.02更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-02",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
     },
     {
       "id": "8b364a782480",
