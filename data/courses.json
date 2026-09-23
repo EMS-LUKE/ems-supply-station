@@ -1,49 +1,9 @@
 {
-  "updated": "2026-09-22T23:32:01.189566+00:00",
-  "count": 375,
-  "course_count": 217,
-  "news_count": 158,
+  "updated": "2026-09-23T02:55:34.543724+00:00",
+  "count": 371,
+  "course_count": 216,
+  "news_count": 155,
   "items": [
-    {
-      "id": "ca1cc5bcf302",
-      "title": "【1150829梯次】中區EMT-1課程 學術科合格名單(含應下梯次補考之不合格名單)",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-22",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260917102241"
-    },
-    {
-      "id": "ee00f900caae",
-      "title": "【1150829梯次】北區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-22",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260916145308"
-    },
-    {
-      "id": "5a4e9829b94d",
-      "title": "【協會主辦】武裝衝突醫療戰術緊急傷患救護實務課程(11/3)",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-22",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/09/113.html"
-    },
-    {
-      "id": "4c2ba21305ee",
-      "title": "早鳥即將截止！【協會主辦】2026年疾病照護風險管理與緊急應變規劃課程(10/22)",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-22",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/08/2026_01888831670.html"
-    },
     {
       "id": "3dd8bd1c2120",
       "title": "新生兒（含早產兒）診療及照護研討暨教學",
@@ -3192,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=5382f0de0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=147625b2f&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3202,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=5382f0de0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=147625b2f&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3212,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=5382f0de0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=147625b2f&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3222,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=5382f0de0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=147625b2f&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -3232,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=5382f0de0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=147625b2f&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3405,14 +3365,54 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "df5070bf548e",
-      "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
+      "id": "b873ce16f4e7",
+      "title": "115年醫院安全及緊急應變訓練通識課程 衛生福利部中區緊急醫療應變中心、光田醫療社團法人光田綜合醫院、臺中榮民總醫院",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-09-21",
-      "deadline": "2026-09-21",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33173"
+      "date": "2026-09-22",
+      "deadline": "2026-09-22",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33185"
+    },
+    {
+      "id": "ca1cc5bcf302",
+      "title": "【1150829梯次】中區EMT-1課程 學術科合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-22",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260917102241"
+    },
+    {
+      "id": "ee00f900caae",
+      "title": "【1150829梯次】北區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-22",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260916145308"
+    },
+    {
+      "id": "5a4e9829b94d",
+      "title": "【協會主辦】武裝衝突醫療戰術緊急傷患救護實務課程(11/3)",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-22",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/09/113.html"
+    },
+    {
+      "id": "4c2ba21305ee",
+      "title": "早鳥即將截止！【協會主辦】2026年疾病照護風險管理與緊急應變規劃課程(10/22)",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-22",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/08/2026_01888831670.html"
     },
     {
       "id": "13c62c486c6c",
@@ -3503,26 +3503,6 @@
       "date": "2026-09-19",
       "deadline": null,
       "url": "https://mttigertw.com/lectureInfo/186/"
-    },
-    {
-      "id": "a3739a0bc728",
-      "title": "函轉聯新國際醫療創新教育中心舉辦「健康產業會員大數據經營」沙龍論壇",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/5/Details/1655"
-    },
-    {
-      "id": "24acd38817e7",
-      "title": "еҮҪиҪүиҒҜж–°еңӢйҡӣйҶ«зҷӮеүөж–°ж•ҷиӮІдёӯеҝғиҲүиҫҰгҖҢеҒҘеә·з”ўжҘӯжңғе“ЎеӨ§ж•ёж“ҡз¶“зҮҹгҖҚжІҷйҫҚи«–еЈҮ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/5/Details/1655"
     },
     {
       "id": "032e497ba690",
@@ -3617,16 +3597,6 @@
     {
       "id": "5c699a656357",
       "title": "【ED Transforming！急診智慧轉型研討會】—台灣急診管理學會第六屆第一次會員大會暨學術研討會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-08",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1646"
-    },
-    {
-      "id": "f17b66c5c320",
-      "title": "гҖҗED TransformingпјҒжҖҘиЁәжҷәж…§иҪүеһӢз ”иЁҺжңғгҖ‘вҖ”еҸ°зҒЈжҖҘиЁәз®ЎзҗҶеӯёжңғз¬¬е…ӯеұҶз¬¬дёҖж¬Ўжңғе“ЎеӨ§жңғжҡЁеӯёиЎ“з ”иЁҺжңғ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3743,16 +3713,6 @@
       "date": "2026-08-24",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/72657b05d4b7445e8f500244a41df45b"
-    },
-    {
-      "id": "ee2ff74f6d62",
-      "title": "上課通知-115.8.23家醫工作坊-台北場",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-23",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0"
     }
   ]
 }
