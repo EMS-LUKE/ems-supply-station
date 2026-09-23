@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T14:07:39.488646+00:00",
+  "updated": "2026-09-23T18:53:12.845089+00:00",
   "count": 375,
   "course_count": 220,
   "news_count": 155,
@@ -1485,6 +1485,26 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "ce21f1163ac6",
+      "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-中國醫藥大學-專業教育-10/4場次",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/03661816242e43a3ba11033e69d7da41"
+    },
+    {
+      "id": "ad1f3df45c59",
+      "title": "【課前通知】115年家庭醫師整合性照護計畫-高醫-其他專科專業教育課程-10/04場次",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0975b095cfa04f31a053f6d32f5fea78"
+    },
+    {
       "id": "6168d6a924ae",
       "title": "轉知 衛福部疾管署-因應近日國內診所發生急性病毒性C型肝炎群聚事件，請各醫療機構加強落實安全注射感染管制措施",
       "source": "台灣家庭醫學醫學會",
@@ -1493,26 +1513,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/238fecbc0a7f4bf8ac22136cc884bc9d"
-    },
-    {
-      "id": "1aaa9f859717",
-      "title": "轉知-檢送衛福部疾管署修訂之「醫療機構因應伊波拉病毒感染及馬堡病毒出血熱之感染管制指引」，請轉知所轄醫療機構及所屬會員依循辦理。",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cab55632908e4e1b8a519fc8e639e241"
-    },
-    {
-      "id": "bc289d57e130",
-      "title": "家庭醫師診所 呼吸道融合病毒（RSV）及侵襲性腦膜炎雙球菌疾病（IMD）疫苗採購特別方案",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0981f9729fdc4bc599fda4bbe6826eaa"
     },
     {
       "id": "96c29d1bd3e6",
@@ -3212,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=fe3d3525b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=93a5ba2e7&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -3222,7 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=fe3d3525b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=93a5ba2e7&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3232,7 +3232,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=fe3d3525b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=93a5ba2e7&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -3242,7 +3242,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=4&_sid=fe3d3525b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=4&_sid=93a5ba2e7&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3252,7 +3252,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=fe3d3525b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=93a5ba2e7&_ss=r"
     },
     {
       "id": "715383a36e2a",
