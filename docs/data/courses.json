@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T02:45:58.350570+00:00",
+  "updated": "2026-09-24T08:09:32.990937+00:00",
   "count": 372,
   "course_count": 219,
   "news_count": 153,
@@ -3195,6 +3195,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "ac7abee6e285",
+      "title": "4\" Israeli Emergency Bandage® from Safeguard Medical",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=733c46977&_ss=r"
+    },
+    {
       "id": "efccb4766388",
       "title": "6\" Israeli Emergency Bandage® from Safeguard Medical",
       "source": "Tactical Medicine Training & Equipment",
@@ -3202,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=db6dac50c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=733c46977&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -3212,7 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=db6dac50c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=733c46977&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3222,27 +3232,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=db6dac50c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=733c46977&_ss=r"
     },
     {
-      "id": "10b151ad3422",
-      "title": "Curaplex Stop The Bleed Multi-Pack Kit - Basic",
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=4&_sid=db6dac50c&_ss=r"
-    },
-    {
-      "id": "40b63028b17c",
-      "title": "TacMed™ Field Blood Transfusion Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=db6dac50c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=733c46977&_ss=r"
     },
     {
       "id": "715383a36e2a",
