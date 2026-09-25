@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T19:11:51.560813+00:00",
+  "updated": "2026-09-25T23:51:53.980953+00:00",
   "count": 373,
   "course_count": 218,
   "news_count": 155,
@@ -3195,6 +3195,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "34d97b943ff2",
+      "title": "Public Access Bleeding Control Kit - Nylon",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=ccf22b478&_ss=r"
+    },
+    {
       "id": "ac7abee6e285",
       "title": "4\" Israeli Emergency Bandage® from Safeguard Medical",
       "source": "Tactical Medicine Training & Equipment",
@@ -3202,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=e78c6bf5e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=2&_sid=ccf22b478&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3212,7 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=e78c6bf5e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=ccf22b478&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -3222,27 +3232,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=e78c6bf5e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=4&_sid=ccf22b478&_ss=r"
     },
     {
-      "id": "ba12c7838487",
-      "title": "Mojo® Public Access Trauma Station",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/mojo-public-access-trauma-station?_pos=4&_sid=e78c6bf5e&_ss=r"
-    },
-    {
-      "id": "780879151377",
-      "title": "Mobilize Public Access Trauma Kit by ZOLL",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/mobilize-public-access-trauma-kit-by-zoll?_pos=5&_sid=e78c6bf5e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=ccf22b478&_ss=r"
     },
     {
       "id": "715383a36e2a",
