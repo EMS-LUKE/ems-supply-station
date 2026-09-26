@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T08:29:57.931981+00:00",
+  "updated": "2026-09-26T13:40:43.545139+00:00",
   "count": 373,
   "course_count": 218,
   "news_count": 155,
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=2fcb6bd92&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=47c76309e&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3202,17 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=2fcb6bd92&_ss=r"
-    },
-    {
-      "id": "9bc553af2970",
-      "title": "Israeli T3 Bandage",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=2fcb6bd92&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=47c76309e&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3222,7 +3212,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=2fcb6bd92&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=47c76309e&_ss=r"
+    },
+    {
+      "id": "9bc553af2970",
+      "title": "Israeli T3 Bandage",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=4&_sid=47c76309e&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3232,7 +3232,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=2fcb6bd92&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=47c76309e&_ss=r"
     },
     {
       "id": "715383a36e2a",
