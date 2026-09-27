@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-26T23:26:40.797071+00:00",
-  "count": 373,
-  "course_count": 218,
+  "updated": "2026-09-27T03:09:38.026039+00:00",
+  "count": 372,
+  "course_count": 217,
   "news_count": 155,
   "items": [
     {
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=76a0368a1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=653c9ac60&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3202,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=76a0368a1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=653c9ac60&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -3212,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=76a0368a1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=653c9ac60&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3222,7 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=76a0368a1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=653c9ac60&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3232,7 +3232,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=76a0368a1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=653c9ac60&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3395,14 +3395,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
+      "url": "https://emj.bmj.com/content/43/9"
     },
     {
       "id": "4bb01c7c73b4",
@@ -3723,16 +3723,6 @@
       "date": "2026-08-28",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/08/blog-post_28.html"
-    },
-    {
-      "id": "2164b1e70863",
-      "title": "【延期至115/8/27-28】115/7/27~28(一~二)急診創傷訓練課程ETTC",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-27",
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1727"
     }
   ]
 }
