@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T12:43:48.808794+00:00",
+  "updated": "2026-09-28T21:06:56.719873+00:00",
   "count": 370,
   "course_count": 217,
   "news_count": 153,
@@ -3185,6 +3185,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "9bc553af2970",
+      "title": "Israeli T3 Bandage",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=820d7ff73&_ss=r"
+    },
+    {
       "id": "34d97b943ff2",
       "title": "Public Access Bleeding Control Kit - Nylon",
       "source": "Tactical Medicine Training & Equipment",
@@ -3192,47 +3202,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=104f342f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=820d7ff73&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=2&_sid=104f342f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=820d7ff73&_ss=r"
     },
     {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "id": "ad37ec9e265d",
+      "title": "Low Titer O Whole Blood Kit - LTOWB",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=104f342f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=820d7ff73&_ss=r"
     },
     {
-      "id": "ba12c7838487",
-      "title": "Mojo® Public Access Trauma Station",
+      "id": "7f0bd426cd0d",
+      "title": "B-CON Bleeding Control Kit",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/mojo-public-access-trauma-station?_pos=4&_sid=104f342f3&_ss=r"
-    },
-    {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=104f342f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=820d7ff73&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3395,14 +3395,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/9"
+      "url": "https://emj.bmj.com/content/current"
     },
     {
       "id": "4bb01c7c73b4",
