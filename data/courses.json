@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-27T23:38:55.541344+00:00",
-  "count": 372,
+  "updated": "2026-09-28T03:07:41.578523+00:00",
+  "count": 370,
   "course_count": 217,
-  "news_count": 155,
+  "news_count": 153,
   "items": [
     {
       "id": "11c848220bb3",
@@ -3185,26 +3185,6 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
-      "id": "34d97b943ff2",
-      "title": "Public Access Bleeding Control Kit - Nylon",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c7f33a1f6&_ss=r"
-    },
-    {
-      "id": "ac7abee6e285",
-      "title": "4\" Israeli Emergency Bandage® from Safeguard Medical",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=2&_sid=c7f33a1f6&_ss=r"
-    },
-    {
       "id": "efccb4766388",
       "title": "6\" Israeli Emergency Bandage® from Safeguard Medical",
       "source": "Tactical Medicine Training & Equipment",
@@ -3212,7 +3192,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=c7f33a1f6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=8f21d67cc&_ss=r"
+    },
+    {
+      "id": "34d97b943ff2",
+      "title": "Public Access Bleeding Control Kit - Nylon",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=8f21d67cc&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -3222,17 +3212,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=4&_sid=c7f33a1f6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=8f21d67cc&_ss=r"
     },
     {
-      "id": "ba12c7838487",
-      "title": "Mojo® Public Access Trauma Station",
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/mojo-public-access-trauma-station?_pos=5&_sid=c7f33a1f6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=8f21d67cc&_ss=r"
+    },
+    {
+      "id": "ad37ec9e265d",
+      "title": "Low Titer O Whole Blood Kit - LTOWB",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=5&_sid=8f21d67cc&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3703,26 +3703,6 @@
       "date": "2026-08-29",
       "deadline": "2026-08-17",
       "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
-    },
-    {
-      "id": "3317ef8df1a3",
-      "title": "公告AILS Training Course通過名單 (115.08.23~115.08.24)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-28",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1645"
-    },
-    {
-      "id": "5db6a811a097",
-      "title": "系統不可能永遠不失效：從風險管理重新思考醫院的「容錯」",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-08-28",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/08/blog-post_28.html"
     }
   ]
 }
