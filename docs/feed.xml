@@ -5,8 +5,16 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Tue, 29 Sep 2026 01:01:21 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 09:29:28 +0000</lastBuildDate>
   <ttl>180</ttl>
+  <item>
+    <title>【消息】公告「2026年EMS金梧桐獎」獲獎人員/團體</title>
+    <link>https://www.sem.org.tw/News/10/Details/1659</link>
+    <guid>https://www.sem.org.tw/News/10/Details/1659</guid>
+    <pubDate>2026-09-29</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【消息】公告「2026年EMS金梧桐獎」獲獎人員/團體（來源：台灣急診醫學會）</description>
+  </item>
   <item>
     <title>【消息】上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護</title>
     <link>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849</link>
@@ -478,14 +486,6 @@
     <pubDate>2026-12-05</pubDate>
     <category>小島探險 - 台灣急救社群</category>
     <description>【課程】2026/12/05-12/08 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練（來源：小島探險）</description>
-  </item>
-  <item>
-    <title>【課程】中區聯合病例討論會</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28132</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28132</guid>
-    <pubDate>2026-12-12</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】中區聯合病例討論會（來源：台灣新生兒科醫學會）</description>
   </item>
 </channel>
 </rss>
