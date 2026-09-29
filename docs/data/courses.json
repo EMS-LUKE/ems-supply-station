@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-28T21:06:56.719873+00:00",
-  "count": 370,
-  "course_count": 217,
+  "updated": "2026-09-29T01:01:21.189873+00:00",
+  "count": 369,
+  "course_count": 216,
   "news_count": 153,
   "items": [
     {
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=820d7ff73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=3817ce6d3&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3202,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=820d7ff73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=3817ce6d3&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3212,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=820d7ff73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=3817ce6d3&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -3222,7 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=820d7ff73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=3817ce6d3&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3232,7 +3232,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=820d7ff73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=3817ce6d3&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3693,16 +3693,6 @@
       "date": "2026-08-30",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7f77a7c370524bf8951c61f2fc66fed4"
-    },
-    {
-      "id": "21cfe5098961",
-      "title": "2026外傷教育課程-南部地區(Ⅱ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-29",
-      "deadline": "2026-08-17",
-      "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
     }
   ]
 }
