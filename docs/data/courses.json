@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T03:34:27.226686+00:00",
+  "updated": "2026-09-30T11:51:01.965479+00:00",
   "count": 369,
   "course_count": 216,
   "news_count": 153,
@@ -15,14 +15,14 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
     },
     {
-      "id": "814cd1a68698",
-      "title": "胎兒小於妊娠年齡孩童之追蹤照護",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
+      "id": "743c8816a999",
+      "title": "【TEMTA 10/01-10/02 客服暫停公告】",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
       "type": "course",
       "date": "2026-09-30",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28372"
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260930132322"
     },
     {
       "id": "0456abb457a6",
@@ -115,16 +115,6 @@
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
     },
     {
-      "id": "cf5d4a9b3e2b",
-      "title": "NRP新生兒高級救命術認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-04",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28373"
-    },
-    {
       "id": "15dc37604498",
       "title": "義大大昌院新生兒高級急救救命術(NRP)課程(限院內)",
       "source": "台灣新生兒科醫學會",
@@ -133,6 +123,16 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28368"
+    },
+    {
+      "id": "cf5d4a9b3e2b",
+      "title": "NRP新生兒高級救命術認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-04",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28373"
     },
     {
       "id": "14742f761ce7",
@@ -185,13 +185,23 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28379"
     },
     {
+      "id": "e22b03c287f9",
+      "title": "新生兒高級救命術NRP認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-11",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28317"
+    },
+    {
       "id": "fc008de83eae",
       "title": "115年災難應變與醫療聯合討論會(北慈場) 社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-10-13",
-      "deadline": null,
+      "deadline": "2026-10-13",
       "url": "https://www.sem.org.tw/Activity/A/Details/33306"
     },
     {
@@ -3192,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=ab901e3ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c3ab50944&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -3202,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=2&_sid=ab901e3ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=2&_sid=c3ab50944&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3212,7 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=ab901e3ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=c3ab50944&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3222,7 +3232,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=ab901e3ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=c3ab50944&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3232,7 +3242,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=ab901e3ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=c3ab50944&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3453,16 +3463,6 @@
       "date": "2026-09-23",
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
-    },
-    {
-      "id": "ca1cc5bcf302",
-      "title": "【1150829梯次】中區EMT-1課程 學術科合格名單(含應下梯次補考之不合格名單)",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-22",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260917102241"
     },
     {
       "id": "5a4e9829b94d",
