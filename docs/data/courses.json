@@ -1,19 +1,9 @@
 {
-  "updated": "2026-09-29T21:51:57.056175+00:00",
-  "count": 370,
+  "updated": "2026-09-30T03:34:27.226686+00:00",
+  "count": 369,
   "course_count": 216,
-  "news_count": 154,
+  "news_count": 153,
   "items": [
-    {
-      "id": "e3ff6fa1a47f",
-      "title": "公告「2026年EMS金梧桐獎」獲獎人員/團體",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1659"
-    },
     {
       "id": "11c848220bb3",
       "title": "上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護",
@@ -1735,6 +1725,16 @@
       "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
     },
     {
+      "id": "1091d4943f3b",
+      "title": "【115年上半年度】麻醉專科護理師進階制度認證申請通過名單",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1092.html"
+    },
+    {
       "id": "058d7913052c",
       "title": "麻醉專科護理師證書換證需求調查",
       "source": "台灣麻醉專科護理學會",
@@ -1743,16 +1743,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/news_info.asp?/1091.html"
-    },
-    {
-      "id": "c2c71a5bc917",
-      "title": "「專科護理師分科及甄審辦法」第四條、第五條、第二十二條修正草案公告",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1086.html"
     },
     {
       "id": "b7d3ba88a411",
@@ -1765,14 +1755,14 @@
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
     },
     {
-      "id": "e0909b9c6b4d",
-      "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
+      "id": "c2c71a5bc917",
+      "title": "「專科護理師分科及甄審辦法」第四條、第五條、第二十二條修正草案公告",
       "source": "台灣麻醉專科護理學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1085.html"
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1086.html"
     },
     {
       "id": "51fb926a1999",
@@ -3202,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a19a5ff33&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=ab901e3ea&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -3212,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=2&_sid=a19a5ff33&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=2&_sid=ab901e3ea&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3222,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=a19a5ff33&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=ab901e3ea&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3232,7 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=a19a5ff33&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=ab901e3ea&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3242,7 +3232,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=a19a5ff33&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=ab901e3ea&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3413,6 +3403,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
+    },
+    {
+      "id": "e3ff6fa1a47f",
+      "title": "公告「2026年EMS金梧桐獎」獲獎人員/團體",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1659"
     },
     {
       "id": "4bb01c7c73b4",
@@ -3693,16 +3693,6 @@
       "date": "2026-09-04",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/09/blog-post.html"
-    },
-    {
-      "id": "8b364a782480",
-      "title": "上課通知-115.8.30(日)2026台東家庭醫學週末研討會",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-30",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7f77a7c370524bf8951c61f2fc66fed4"
     }
   ]
 }
