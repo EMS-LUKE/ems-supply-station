@@ -1,29 +1,9 @@
 {
-  "updated": "2026-09-30T21:52:31.203587+00:00",
-  "count": 369,
-  "course_count": 216,
-  "news_count": 153,
+  "updated": "2026-10-01T03:40:49.724929+00:00",
+  "count": 358,
+  "course_count": 204,
+  "news_count": 154,
   "items": [
-    {
-      "id": "11c848220bb3",
-      "title": "上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-30",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
-    },
-    {
-      "id": "743c8816a999",
-      "title": "【TEMTA 10/01-10/02 客服暫停公告】",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-30",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260930132322"
-    },
     {
       "id": "0456abb457a6",
       "title": "115年度臨床毒藥物專科醫師訓練 社團法人台灣急診醫學會",
@@ -35,14 +15,24 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33349"
     },
     {
-      "id": "5ea18ba7e4da",
-      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【台北區】 衛生福利部、社團法人台灣急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
+      "id": "743c8816a999",
+      "title": "【TEMTA 10/01-10/02 客服暫停公告】",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
       "type": "course",
-      "date": "2026-10-03",
-      "deadline": "2026-10-03",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33127"
+      "date": "2026-10-01",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260930132322"
+    },
+    {
+      "id": "a60e6b835e0a",
+      "title": "沒有腳本，災害來了怎麼辦？【湖口仁慈醫院複合式災害桌上模擬演習】",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-10-01",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/10/blog-post.html"
     },
     {
       "id": "11118864c273",
@@ -145,16 +135,6 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28380"
     },
     {
-      "id": "510b4cd01535",
-      "title": "SECC Congress 2026 Taipei 暨2026智慧急重症醫療國際會議",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-04",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28349"
-    },
-    {
       "id": "37b989f17538",
       "title": "【重症聯甄】復甦後照護及目標體溫照護國際研討會115.10.05輔大醫院",
       "source": "台灣急救加護醫學會",
@@ -175,26 +155,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/2e6b260cbd974be89d0e998d80d8dd90"
     },
     {
-      "id": "1beeb22791ec",
-      "title": "新生兒高級救命術(NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-07",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28379"
-    },
-    {
-      "id": "e22b03c287f9",
-      "title": "新生兒高級救命術NRP認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-11",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28317"
-    },
-    {
       "id": "fc008de83eae",
       "title": "115年災難應變與醫療聯合討論會(北慈場) 社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -205,16 +165,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33306"
     },
     {
-      "id": "443ce2f4ad1f",
-      "title": "115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-16",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28371"
-    },
-    {
       "id": "e49f2ca0c884",
       "title": "2026外傷教育課程-桃竹苗地區(Ⅱ)...",
       "source": "台灣外傷醫學會",
@@ -223,26 +173,6 @@
       "date": "2026-10-17",
       "deadline": "2026-10-05",
       "url": "http://www.trauma.org.tw/active/index.asp?/28.html"
-    },
-    {
-      "id": "b33371dcb580",
-      "title": "雲嘉區聯合病例討論會(取消)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28143"
-    },
-    {
-      "id": "4a927816cc75",
-      "title": "南區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
     },
     {
       "id": "8954820cb878",
@@ -285,26 +215,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/f9715ce06c6d492ebb253e16782f660e"
     },
     {
-      "id": "f2845441fe02",
-      "title": "中華急救教育推廣協會 新生兒高級救命術(NRP)課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28342"
-    },
-    {
-      "id": "2770f6998a0b",
-      "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-22",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28358"
-    },
-    {
       "id": "31731e3015c5",
       "title": "中級空中醫療救護專業人員訓練課程 社團法人台灣急診醫學會、衛生福利部空中轉診審核中心",
       "source": "台灣急診醫學會",
@@ -345,26 +255,6 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
     },
     {
-      "id": "80911dacdb16",
-      "title": "兒童抽搐",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-28",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28381"
-    },
-    {
-      "id": "f8a9622624b9",
-      "title": "北區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-28",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28127"
-    },
-    {
       "id": "44ea765c0725",
       "title": "2026外傷教育課程-南部地區(Ⅲ)...",
       "source": "台灣外傷醫學會",
@@ -373,26 +263,6 @@
       "date": "2026-10-31",
       "deadline": null,
       "url": "http://www.trauma.org.tw/active/index.asp?/29.html"
-    },
-    {
-      "id": "e57433088083",
-      "title": "新生兒急救(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-31",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28339"
-    },
-    {
-      "id": "61a061532ec1",
-      "title": "新生兒高級急救術(NRP)訓練課程(不對外開放)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-31",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28361"
     },
     {
       "id": "bc6a2d0111b8",
@@ -653,6 +523,16 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28144"
+    },
+    {
+      "id": "4a927816cc75",
+      "title": "南區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-19",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28138"
     },
     {
       "id": "ad1d5f52d7a1",
@@ -1455,16 +1335,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/07f49bf6210d4d8ca31e61a2a32ac628"
     },
     {
-      "id": "566ff4e59378",
-      "title": "本學會第17屆理監事選舉順利完成（理事長：黃振國 監事會召集人：施錦泉）",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/5c4946a2271f4260b5c2fff0187917d3"
-    },
-    {
       "id": "a850421e172e",
       "title": "【重要公告】轉知衛福部公告修正「家庭醫學科專科醫師甄審原則」，並自即日生效。",
       "source": "台灣家庭醫學醫學會",
@@ -1503,6 +1373,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0975b095cfa04f31a053f6d32f5fea78"
+    },
+    {
+      "id": "566ff4e59378",
+      "title": "本學會第17屆理監事選舉順利完成（理事長：黃振國 監事會召集人：施錦泉）",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/5c4946a2271f4260b5c2fff0187917d3"
     },
     {
       "id": "249cfc761773",
@@ -3202,7 +3082,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=acd59a14d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=89aafb1fe&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -3212,7 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=2&_sid=acd59a14d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=2&_sid=89aafb1fe&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3222,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=acd59a14d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=89aafb1fe&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3232,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=acd59a14d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=89aafb1fe&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3242,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=acd59a14d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=89aafb1fe&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3413,6 +3293,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
+    },
+    {
+      "id": "11c848220bb3",
+      "title": "上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-30",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
     },
     {
       "id": "e3ff6fa1a47f",
