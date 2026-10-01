@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T12:20:30.045351+00:00",
+  "updated": "2026-10-01T20:09:50.773009+00:00",
   "count": 353,
   "course_count": 199,
   "news_count": 154,
@@ -3025,6 +3025,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "9bc553af2970",
+      "title": "Israeli T3 Bandage",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=21b6ad226&_ss=r"
+    },
+    {
       "id": "34d97b943ff2",
       "title": "Public Access Bleeding Control Kit - Nylon",
       "source": "Tactical Medicine Training & Equipment",
@@ -3032,47 +3042,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=ecf0225d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=21b6ad226&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "ad37ec9e265d",
+      "title": "Low Titer O Whole Blood Kit - LTOWB",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=2&_sid=ecf0225d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=21b6ad226&_ss=r"
     },
     {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "id": "7f0bd426cd0d",
+      "title": "B-CON Bleeding Control Kit",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=ecf0225d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=21b6ad226&_ss=r"
     },
     {
-      "id": "ba12c7838487",
-      "title": "Mojo® Public Access Trauma Station",
+      "id": "4c7353f6cea7",
+      "title": "Curaplex Stop the Bleed Kit - Individual - Intermediate",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/mojo-public-access-trauma-station?_pos=4&_sid=ecf0225d3&_ss=r"
-    },
-    {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=ecf0225d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=21b6ad226&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3145,14 +3145,14 @@
       "url": "https://lms.trilogyems.com/buy-course/"
     },
     {
-      "id": "2eec27c4207b",
-      "title": "Browse Courses",
+      "id": "13cc750343fa",
+      "title": "Unified DMT/CHT Course",
       "source": "Trilogy EMS",
       "cat": "戰術救護",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://lms.trilogyems.com/buy-course/"
+      "url": "https://lms.trilogyems.com/unified-dmt-cht-course/"
     },
     {
       "id": "67b694b172c8",
