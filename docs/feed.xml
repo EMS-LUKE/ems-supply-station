@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Thu, 01 Oct 2026 03:40:49 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 12:20:30 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】115年度臨床毒藥物專科醫師訓練 社團法人台灣急診醫學會</title>
@@ -80,6 +80,14 @@
     <description>【課程】新生兒高級急救術(NRP)（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
+    <title>【課程】臺中榮民總醫院兒童醫學中心 新生兒科轉診討論會</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28384</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28384</guid>
+    <pubDate>2026-10-03</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】臺中榮民總醫院兒童醫學中心 新生兒科轉診討論會（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
     <title>【課程】2026台灣實證醫學學會種子師資培訓工作坊</title>
     <link>https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b</link>
     <guid>https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b</guid>
@@ -102,14 +110,6 @@
     <pubDate>2026-10-04</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】NRP新生兒高級救命術認證課程（來源：台灣新生兒科醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】2026長庚醫學週-周產期新生兒科醫學的新進展</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28380</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28380</guid>
-    <pubDate>2026-10-04</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】2026長庚醫學週-周產期新生兒科醫學的新進展（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】【重症聯甄】復甦後照護及目標體溫照護國際研討會115.10.05輔大醫院</title>
@@ -296,22 +296,6 @@
     <description>【課程】2026/11/14 台灣實證醫學學會學術年會（來源：台灣實證醫學學會）</description>
   </item>
   <item>
-    <title>【課程】新生兒急救加護訓練課程 (NRP)</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28365</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28365</guid>
-    <pubDate>2026-11-14</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】新生兒急救加護訓練課程 (NRP)（來源：台灣新生兒科醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】2026年新生兒高級救命術NRP訓練課程</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28360</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28360</guid>
-    <pubDate>2026-11-14</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】2026年新生兒高級救命術NRP訓練課程（來源：台灣新生兒科醫學會）</description>
-  </item>
-  <item>
     <title>【課程】2026/11/14-11/15+11/21-11/23 野外醫療救護 -WEMS</title>
     <link>https://miasan.com/event/wems20261114/</link>
     <guid>https://miasan.com/event/wems20261114/</guid>
@@ -384,14 +368,6 @@
     <description>【課程】2026/12/05-12/08 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練（來源：小島探險）</description>
   </item>
   <item>
-    <title>【課程】中區聯合病例討論會</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28132</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28132</guid>
-    <pubDate>2026-12-12</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】中區聯合病例討論會（來源：台灣新生兒科醫學會）</description>
-  </item>
-  <item>
     <title>【課程】2026/12/12-12/15 WAFA野外進階急救訓練(北部場)</title>
     <link>https://miasan.com/event/wafa20261212/</link>
     <guid>https://miasan.com/event/wafa20261212/</guid>
@@ -414,22 +390,6 @@
     <pubDate>2026-12-19</pubDate>
     <category>台灣醫學資訊學會 - 台灣學會</category>
     <description>【課程】JCMIT 2026 國際醫學資訊聯合研討會（來源：台灣醫學資訊學會）</description>
-  </item>
-  <item>
-    <title>【課程】雲嘉區聯合病例討論會</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28144</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28144</guid>
-    <pubDate>2026-12-19</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】雲嘉區聯合病例討論會（來源：台灣新生兒科醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】南區聯合病例討論會</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28138</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28138</guid>
-    <pubDate>2026-12-19</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】南區聯合病例討論會（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】2027/01/09-01/11 WFR野外第一線反應人員-複訓</title>
@@ -486,6 +446,46 @@
     <pubDate>2027-03-27</pubDate>
     <category>米亞桑戶外中心 - 台灣急救社群</category>
     <description>【課程】2027/03/27-03/30 WAFA野外進階急救訓練(北部場)（來源：米亞桑戶外中心）</description>
+  </item>
+  <item>
+    <title>【課程】2027/03/27-03/30 WAFA 四日進階野外急救訓練（台北）</title>
+    <link>https://mttigertw.com/lectureInfo/188/</link>
+    <guid>https://mttigertw.com/lectureInfo/188/</guid>
+    <pubDate>2027-03-27</pubDate>
+    <category>羌虎跨域生活 - 台灣急救社群</category>
+    <description>【課程】2027/03/27-03/30 WAFA 四日進階野外急救訓練（台北）（來源：羌虎跨域生活）</description>
+  </item>
+  <item>
+    <title>【課程】2027/04/24-04/27 Bridge野外急救橋接急救訓練(北部場)</title>
+    <link>https://miasan.com/event/bridge20270424/</link>
+    <guid>https://miasan.com/event/bridge20270424/</guid>
+    <pubDate>2027-04-24</pubDate>
+    <category>米亞桑戶外中心 - 台灣急救社群</category>
+    <description>【課程】2027/04/24-04/27 Bridge野外急救橋接急救訓練(北部場)（來源：米亞桑戶外中心）</description>
+  </item>
+  <item>
+    <title>【課程】2027/04/24-04/27 Bridge 四日野外急救橋接訓練（台北）</title>
+    <link>https://mttigertw.com/lectureInfo/186/</link>
+    <guid>https://mttigertw.com/lectureInfo/186/</guid>
+    <pubDate>2027-04-24</pubDate>
+    <category>羌虎跨域生活 - 台灣急救社群</category>
+    <description>【課程】2027/04/24-04/27 Bridge 四日野外急救橋接訓練（台北）（來源：羌虎跨域生活）</description>
+  </item>
+  <item>
+    <title>【課程】2027/05/15-05/18 WAFA野外進階急救訓練(北部場)</title>
+    <link>https://miasan.com/event/wafa20270515/</link>
+    <guid>https://miasan.com/event/wafa20270515/</guid>
+    <pubDate>2027-05-15</pubDate>
+    <category>米亞桑戶外中心 - 台灣急救社群</category>
+    <description>【課程】2027/05/15-05/18 WAFA野外進階急救訓練(北部場)（來源：米亞桑戶外中心）</description>
+  </item>
+  <item>
+    <title>【課程】2027/05/15-05/18 WAFA 四日進階野外急救訓練（台北）</title>
+    <link>https://mttigertw.com/lectureInfo/188/</link>
+    <guid>https://mttigertw.com/lectureInfo/188/</guid>
+    <pubDate>2027-05-15</pubDate>
+    <category>羌虎跨域生活 - 台灣急救社群</category>
+    <description>【課程】2027/05/15-05/18 WAFA 四日進階野外急救訓練（台北）（來源：羌虎跨域生活）</description>
   </item>
 </channel>
 </rss>

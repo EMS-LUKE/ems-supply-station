@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-01T03:40:49.724929+00:00",
-  "count": 358,
-  "course_count": 204,
+  "updated": "2026-10-01T12:20:30.045351+00:00",
+  "count": 353,
+  "course_count": 199,
   "news_count": 154,
   "items": [
     {
@@ -95,6 +95,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28195"
     },
     {
+      "id": "57ef35de5a4c",
+      "title": "臺中榮民總醫院兒童醫學中心 新生兒科轉診討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28384"
+    },
+    {
       "id": "009c255ace66",
       "title": "2026台灣實證醫學學會種子師資培訓工作坊",
       "source": "台灣實證醫學學會",
@@ -123,16 +133,6 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28373"
-    },
-    {
-      "id": "14742f761ce7",
-      "title": "2026長庚醫學週-周產期新生兒科醫學的新進展",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-04",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28380"
     },
     {
       "id": "37b989f17538",
@@ -365,26 +365,6 @@
       "url": "https://www.tebma.org.tw/event/list"
     },
     {
-      "id": "c7bfc459e1c7",
-      "title": "新生兒急救加護訓練課程 (NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
-    },
-    {
-      "id": "03f3d9a79297",
-      "title": "2026年新生兒高級救命術NRP訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28360"
-    },
-    {
       "id": "763ad854bfda",
       "title": "2026/11/14-11/15+11/21-11/23 野外醫療救護 -WEMS",
       "source": "米亞桑戶外中心",
@@ -475,16 +455,6 @@
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
     },
     {
-      "id": "08518396f20a",
-      "title": "中區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-12-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28132"
-    },
-    {
       "id": "91714c651008",
       "title": "2026/12/12-12/15 WAFA野外進階急救訓練(北部場)",
       "source": "米亞桑戶外中心",
@@ -513,26 +483,6 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
-    },
-    {
-      "id": "c75ab53df448",
-      "title": "雲嘉區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-12-19",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28144"
-    },
-    {
-      "id": "4a927816cc75",
-      "title": "南區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-12-19",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28138"
     },
     {
       "id": "ad1d5f52d7a1",
@@ -3082,37 +3032,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=89aafb1fe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=ecf0225d3&_ss=r"
     },
     {
-      "id": "ad37ec9e265d",
-      "title": "Low Titer O Whole Blood Kit - LTOWB",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=2&_sid=89aafb1fe&_ss=r"
-    },
-    {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=89aafb1fe&_ss=r"
-    },
-    {
-      "id": "4c7353f6cea7",
-      "title": "Curaplex Stop the Bleed Kit - Individual - Intermediate",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=89aafb1fe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=2&_sid=ecf0225d3&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3122,7 +3052,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=89aafb1fe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=ecf0225d3&_ss=r"
+    },
+    {
+      "id": "ba12c7838487",
+      "title": "Mojo® Public Access Trauma Station",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/mojo-public-access-trauma-station?_pos=4&_sid=ecf0225d3&_ss=r"
+    },
+    {
+      "id": "0d89877fc319",
+      "title": "Public Access Bleeding Control (PABC) Twin Pack",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=ecf0225d3&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3365,8 +3315,8 @@
       "url": "https://temataiwan.blogspot.com/2026/09/113.html"
     },
     {
-      "id": "4c2ba21305ee",
-      "title": "早鳥即將截止！【協會主辦】2026年疾病照護風險管理與緊急應變規劃課程(10/22)",
+      "id": "21021d51e307",
+      "title": "【協會主辦】2026年疾病照護風險管理與緊急應變規劃課程(10/22)",
       "source": "台灣緊急應變管理協會",
       "cat": "台灣協會",
       "type": "course",
