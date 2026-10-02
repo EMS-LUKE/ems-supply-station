@@ -1,9 +1,39 @@
 {
-  "updated": "2026-10-02T00:32:27.081754+00:00",
-  "count": 353,
-  "course_count": 199,
-  "news_count": 154,
+  "updated": "2026-10-02T09:21:34.490613+00:00",
+  "count": 356,
+  "course_count": 200,
+  "news_count": 156,
   "items": [
+    {
+      "id": "03c456e85bf0",
+      "title": "小小出生也要好好長大 醫學會籲兒童成長追蹤「一個都不落下」",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-02",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=570"
+    },
+    {
+      "id": "203b8932b653",
+      "title": "【學術公告】2026 國際肺高壓學術研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-02",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=571"
+    },
+    {
+      "id": "646383a13b12",
+      "title": "【1151010梯次】北區 初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-02",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260930111643"
+    },
     {
       "id": "11118864c273",
       "title": "【最後報名截止日9/20】 SECC Congress 2026 Taipei 暨2026智慧急重症醫療國際會議/第十屆亞太早期重症復健國際會議_115.10.3-4台大醫院國際會議中心",
@@ -195,6 +225,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33360"
     },
     {
+      "id": "8c140633bf76",
+      "title": "【課程取消】台灣野外救命術訓練課程(初階證照班) 社團法人台灣急診醫學會、羅東博愛醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-24",
+      "deadline": "2026-10-01",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33268"
+    },
+    {
       "id": "14dbcff89140",
       "title": "2026年長榮航空觀光馬拉松醫護志工線上報名",
       "source": "中華民國大型活動緊急救護協會",
@@ -213,16 +253,6 @@
       "date": "2026-10-27",
       "deadline": "2026-10-27",
       "url": "https://www.sem.org.tw/Activity/A/Details/33254"
-    },
-    {
-      "id": "3685f7be079e",
-      "title": "115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-28",
-      "deadline": "2026-10-28",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32907"
     },
     {
       "id": "44ea765c0725",
@@ -393,6 +423,16 @@
       "date": "2026-11-28",
       "deadline": null,
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=99"
+    },
+    {
+      "id": "047989c0a523",
+      "title": "臺北市政府衛生局自115年10月1日至115年11月30日辦理「左流右新健康抽好禮」抽獎活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-11-30",
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19408"
     },
     {
       "id": "a2814db719a3",
@@ -1495,16 +1535,6 @@
       "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
     },
     {
-      "id": "9d0e4f7fa7c4",
-      "title": "代登~~~2026 台灣呼吸道處理醫 學會年會暨國際學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1087.html"
-    },
-    {
       "id": "4a249f5358dd",
       "title": "115年冬季麻醉專科護理師學術研討會",
       "source": "台灣麻醉專科護理學會",
@@ -1523,6 +1553,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
+    },
+    {
+      "id": "41a38fc41bcd",
+      "title": "代登~ 2026 臺灣心臟胸腔暨血管麻醉醫學會 年會暨國際學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/797.html"
     },
     {
       "id": "7f4077aab8c4",
@@ -3002,7 +3042,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=2cbd75618&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=ecc46ea0e&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3012,7 +3052,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=2cbd75618&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=ecc46ea0e&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -3022,7 +3062,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=2cbd75618&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=ecc46ea0e&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3032,7 +3072,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=2cbd75618&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=ecc46ea0e&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3042,7 +3082,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=2cbd75618&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=ecc46ea0e&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3182,7 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339889v1?rss=1"
+      "url": "http://www.bmj.com/content/395/bmj-2026-101017.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3283,16 +3323,6 @@
       "date": "2026-09-24",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/5/Details/1658"
-    },
-    {
-      "id": "2f36569c6e58",
-      "title": "【1151003梯次】北區 初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-24",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260924162509"
     },
     {
       "id": "d049bdf98987",
