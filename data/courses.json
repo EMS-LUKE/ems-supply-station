@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T17:21:08.212329+00:00",
+  "updated": "2026-10-02T21:48:41.067390+00:00",
   "count": 356,
   "course_count": 200,
   "news_count": 156,
@@ -3042,7 +3042,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=5ff54438f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=533415c43&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3052,7 +3052,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=5ff54438f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=533415c43&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -3062,7 +3062,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=5ff54438f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=533415c43&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3072,7 +3072,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=5ff54438f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=533415c43&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3082,7 +3082,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=5ff54438f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=533415c43&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3245,14 +3245,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/9"
+      "url": "https://emj.bmj.com/content/current"
     },
     {
       "id": "0456abb457a6",
