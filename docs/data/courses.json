@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T03:25:35.055294+00:00",
+  "updated": "2026-10-03T11:04:19.459309+00:00",
   "count": 356,
   "course_count": 200,
   "news_count": 156,
@@ -2195,6 +2195,36 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
     },
     {
+      "id": "0e0f222b7821",
+      "title": "許晉福：「會急救沒有比較厲害，肯急救也沒有比較厲害」",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/guardian-faces/guardian-xu-jinfu/"
+    },
+    {
+      "id": "96a7fcb09995",
+      "title": "【同一台 AED，警報器讓它快了將近 2 分鐘到場】",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/?p=97615"
+    },
+    {
+      "id": "f1d72e818ace",
+      "title": "【只有 6.4% 的 AED，從建築物外面看得到指標】",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e3%80%90%e5%8f%aa%e6%9c%89-6-4-%e7%9a%84-aed%ef%bc%8c%e5%be%9e%e5%bb%ba%e7%af%89%e7%89%a9%e5%a4%96%e9%9d%a2%e7%9c%8b%e5%be%97%e5%88%b0%e6%8c%87%e6%a8%99%e3%80%91/"
+    },
+    {
       "id": "12681d8d321d",
       "title": "我去了一趟雲林麥寮，為了確認一件事｜台全牧場 × 聽見AED 中秋公益聯名",
       "source": "臺灣愛陌生安全推廣協會",
@@ -2213,36 +2243,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b48%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90%e3%80%91/"
-    },
-    {
-      "id": "a9e25c3d5076",
-      "title": "無人機空投 AED：如果附近沒有 AED，我們讓它飛過來｜總統盃黑客松 #214 需要你的 9 票",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/emson-advocacy/drone-aed-hackathon-214/"
-    },
-    {
-      "id": "38c215d8bf19",
-      "title": "聽見AED 臉書動態",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
-    },
-    {
-      "id": "77c5f8a9ced5",
-      "title": "救在當下・預熱短片8】遇到女性倒下，我可以做CPR嗎？AED該怎麼貼？🚨👩",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e6%95%91%e5%9c%a8%e7%95%b6%e4%b8%8b%e3%83%bb%e9%a0%90%e7%86%b1%e7%9f%ad%e7%89%878%e3%80%91%e9%81%87%e5%88%b0%e5%a5%b3%e6%80%a7%e5%80%92%e4%b8%8b%ef%bc%8c%e6%88%91%e5%8f%af%e4%bb%a5%e5%81%9acpr/"
     },
     {
       "id": "c302a6b91021",
@@ -3012,7 +3012,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=98b832e92&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=ea7c2013e&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3022,7 +3022,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=98b832e92&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=ea7c2013e&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -3032,7 +3032,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=98b832e92&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=ea7c2013e&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3042,7 +3042,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=98b832e92&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=ea7c2013e&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3052,7 +3052,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=98b832e92&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=ea7c2013e&_ss=r"
     },
     {
       "id": "715383a36e2a",
