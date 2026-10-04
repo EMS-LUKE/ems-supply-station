@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T11:45:10.112886+00:00",
+  "updated": "2026-10-04T16:23:58.189790+00:00",
   "count": 359,
   "course_count": 203,
   "news_count": 156,
@@ -1265,6 +1265,26 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/d88e0366112d48fb906632e152b80087"
     },
     {
+      "id": "6168d6a924ae",
+      "title": "轉知 衛福部疾管署-因應近日國內診所發生急性病毒性C型肝炎群聚事件，請各醫療機構加強落實安全注射感染管制措施",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/238fecbc0a7f4bf8ac22136cc884bc9d"
+    },
+    {
+      "id": "1aaa9f859717",
+      "title": "轉知-檢送衛福部疾管署修訂之「醫療機構因應伊波拉病毒感染及馬堡病毒出血熱之感染管制指引」，請轉知所轄醫療機構及所屬會員依循辦理。",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cab55632908e4e1b8a519fc8e639e241"
+    },
+    {
       "id": "ce21f1163ac6",
       "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-中國醫藥大學-專業教育-10/4場次",
       "source": "台灣家庭醫學醫學會",
@@ -1273,26 +1293,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/03661816242e43a3ba11033e69d7da41"
-    },
-    {
-      "id": "ad1f3df45c59",
-      "title": "【課前通知】115年家庭醫師整合性照護計畫-高醫-其他專科專業教育課程-10/04場次",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0975b095cfa04f31a053f6d32f5fea78"
-    },
-    {
-      "id": "566ff4e59378",
-      "title": "本學會第17屆理監事選舉順利完成（理事長：黃振國 監事會召集人：施錦泉）",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/5c4946a2271f4260b5c2fff0187917d3"
     },
     {
       "id": "249cfc761773",
@@ -2992,7 +2992,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c4ae53e5d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=26ccfaa28&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3002,7 +3002,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=c4ae53e5d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=26ccfaa28&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -3012,7 +3012,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=3&_sid=c4ae53e5d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=3&_sid=26ccfaa28&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3022,7 +3022,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=c4ae53e5d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=26ccfaa28&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3032,7 +3032,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=c4ae53e5d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=26ccfaa28&_ss=r"
     },
     {
       "id": "715383a36e2a",
