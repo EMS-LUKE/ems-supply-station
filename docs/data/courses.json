@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-05T03:37:58.058487+00:00",
-  "count": 360,
-  "course_count": 204,
+  "updated": "2026-10-05T13:24:04.344856+00:00",
+  "count": 369,
+  "course_count": 213,
   "news_count": 156,
   "items": [
     {
@@ -105,16 +105,6 @@
       "url": "https://miasan.com/event/bridge20261017/"
     },
     {
-      "id": "2747648451f7",
-      "title": "2026/10/17-10/20 Bridge(WAFA to WFR)橋接課程",
-      "source": "小島探險",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
-    },
-    {
       "id": "e815a0a74ca9",
       "title": "2026/10/18(日)第八屆第二次會員大會暨學術研討會(精準與永續：智慧急重症鏈－從數據預警到社區永續照護的實踐與挑戰)",
       "source": "台灣老人急重症醫學會",
@@ -183,16 +173,6 @@
       "date": "2026-10-31",
       "deadline": null,
       "url": "https://miasan.com/event/wafa20261031/"
-    },
-    {
-      "id": "90321f4838c3",
-      "title": "2026/10/31-11/03 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
-      "source": "小島探險",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-10-31",
-      "deadline": null,
-      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
     },
     {
       "id": "c5fe570ba2e7",
@@ -345,6 +325,26 @@
       "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/815.html#here"
     },
     {
+      "id": "8d8549fe22ae",
+      "title": "外傷登錄訓練課程－首次認證(中部場次)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-21",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/active/index.asp?/31.html"
+    },
+    {
+      "id": "27e62879c6ba",
+      "title": "外傷登錄訓練課程－再認證(中部場次)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-22",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/active/index.asp?/33.html"
+    },
+    {
       "id": "72a765ac53c9",
       "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
       "source": "台灣急診醫學會",
@@ -405,16 +405,6 @@
       "url": "https://miasan.com/event/wafa20261205/"
     },
     {
-      "id": "827ec5e8ced4",
-      "title": "2026/12/05-12/08 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
-      "source": "小島探險",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-12-05",
-      "deadline": null,
-      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
-    },
-    {
       "id": "91714c651008",
       "title": "2026/12/12-12/15 WAFA野外進階急救訓練(北部場)",
       "source": "米亞桑戶外中心",
@@ -423,16 +413,6 @@
       "date": "2026-12-12",
       "deadline": null,
       "url": "https://miasan.com/event/wafa20261212/"
-    },
-    {
-      "id": "720aa10f155f",
-      "title": "2026/12/12-12/15 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
-      "source": "小島探險",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-12-12",
-      "deadline": null,
-      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
     },
     {
       "id": "62570103abc2",
@@ -455,6 +435,16 @@
       "url": "https://miasan.com/event/recert20270109/"
     },
     {
+      "id": "7458b1237195",
+      "title": "2027/01/09-01/11 WFR Recert( WFR複訓課程)",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-01-09",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=127"
+    },
+    {
       "id": "aefb188b6d23",
       "title": "2027/01/30-02/01 WFR野外第一線反應人員-複訓",
       "source": "米亞桑戶外中心",
@@ -465,6 +455,16 @@
       "url": "https://miasan.com/event/recert20270130/"
     },
     {
+      "id": "9abcd05a3357",
+      "title": "2027/01/30-02/01 WFR Recert( WFR複訓課程)",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-01-30",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=127"
+    },
+    {
       "id": "5c9e323225b0",
       "title": "2027/02/12-02/15 WAFA野外進階急救訓練(北部場)",
       "source": "米亞桑戶外中心",
@@ -473,6 +473,16 @@
       "date": "2027-02-12",
       "deadline": null,
       "url": "https://miasan.com/event/wafa20270212/"
+    },
+    {
+      "id": "99eb8a52c6ec",
+      "title": "2027/02/12-02/15 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-02-12",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
     },
     {
       "id": "7709e81d9465",
@@ -495,6 +505,16 @@
       "url": "https://miasan.com/event/wfa20270306/"
     },
     {
+      "id": "778e4ef02e68",
+      "title": "2027/03/06-03/07 WFA(Wilderness First- Aid)初級野外急救訓練",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-03-06",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=99"
+    },
+    {
       "id": "1e77575eea73",
       "title": "2027/03/06-03/07 WFA 二日初階野外急救訓練（台北）",
       "source": "羌虎跨域生活",
@@ -513,6 +533,16 @@
       "date": "2027-03-27",
       "deadline": null,
       "url": "https://miasan.com/event/wafa20270327/"
+    },
+    {
+      "id": "3999cf82d7b8",
+      "title": "2027/03/27-03/30 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-03-27",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
     },
     {
       "id": "1e55ab8f72a2",
@@ -535,6 +565,16 @@
       "url": "https://miasan.com/event/bridge20270424/"
     },
     {
+      "id": "08bc8c141838",
+      "title": "2027/04/24-04/27 Bridge(WAFA to WFR)橋接課程",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-04-24",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
+    },
+    {
       "id": "405111937428",
       "title": "2027/04/24-04/27 Bridge 四日野外急救橋接訓練（台北）",
       "source": "羌虎跨域生活",
@@ -555,6 +595,16 @@
       "url": "https://miasan.com/event/wafa20270515/"
     },
     {
+      "id": "42a71c7a7c3a",
+      "title": "2027/05/15-05/18 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-05-15",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
+    },
+    {
       "id": "18cee9fb5261",
       "title": "2027/05/15-05/18 WAFA 四日進階野外急救訓練（台北）",
       "source": "羌虎跨域生活",
@@ -563,6 +613,16 @@
       "date": "2027-05-15",
       "deadline": null,
       "url": "https://mttigertw.com/lectureInfo/188/"
+    },
+    {
+      "id": "61589b0686c9",
+      "title": "2027/05/22-05/23 WFA(Wilderness First- Aid)初級野外急救訓練",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-05-22",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=99"
     },
     {
       "id": "a6fe19bbe31d",
@@ -583,6 +643,16 @@
       "date": "2027-06-05",
       "deadline": null,
       "url": "https://miasan.com/event/bridge20270605/"
+    },
+    {
+      "id": "e588253e7437",
+      "title": "2027/06/05-06/08 Bridge(WAFA to WFR)橋接課程",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-06-05",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
     },
     {
       "id": "7c4503218793",
@@ -615,6 +685,16 @@
       "url": "https://miasan.com/event/wafa20270619/"
     },
     {
+      "id": "94e6d38ce976",
+      "title": "2027/06/19-06/22 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-06-19",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
+    },
+    {
       "id": "0dbee88165e4",
       "title": "2027/06/19-06/22 WAFA 四日進階野外急救訓練（台北）",
       "source": "羌虎跨域生活",
@@ -635,6 +715,16 @@
       "url": "https://miasan.com/event/bridge20271106/"
     },
     {
+      "id": "62eb83bbd01d",
+      "title": "2027/11/06-11/09 Bridge(WAFA to WFR)橋接課程",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-11-06",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
+    },
+    {
       "id": "bc600d644db0",
       "title": "2027/11/06-11/09 Bridge 四日野外急救橋接訓練（台北）",
       "source": "羌虎跨域生活",
@@ -653,6 +743,16 @@
       "date": "2027-12-11",
       "deadline": null,
       "url": "https://miasan.com/event/recert20271211/"
+    },
+    {
+      "id": "9207b0075066",
+      "title": "2027/12/11-12/13 WFR Recert( WFR複訓課程)",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-12-11",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=127"
     },
     {
       "id": "60380fb22676",
@@ -2192,7 +2292,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/?p=97615"
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e3%80%90%e5%90%8c%e4%b8%80%e5%8f%b0-aed%ef%bc%8c%e8%ad%a6%e5%a0%b1%e5%99%a8%e8%ae%93%e5%ae%83%e5%bf%ab%e4%ba%86%e5%b0%87%e8%bf%91-2-%e5%88%86%e9%90%98%e5%88%b0%e5%a0%b4%e3%80%91/"
     },
     {
       "id": "f1d72e818ace",
@@ -2992,7 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f0d076676&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=cc86f01c4&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3002,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=f0d076676&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=cc86f01c4&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -3012,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=3&_sid=f0d076676&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=3&_sid=cc86f01c4&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3022,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=f0d076676&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=cc86f01c4&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3032,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=f0d076676&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=cc86f01c4&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3473,16 +3573,6 @@
       "date": "2026-09-19",
       "deadline": null,
       "url": "https://miasan.com/event/bridge20260919/"
-    },
-    {
-      "id": "705410b6f5cf",
-      "title": "2026/09/19-09/22 Bridge(WAFA to WFR)橋接課程",
-      "source": "小島探險",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://www.formosa-adventure.com/product_description.php?PNo=101"
     },
     {
       "id": "032e497ba690",
