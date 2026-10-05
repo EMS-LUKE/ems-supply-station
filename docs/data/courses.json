@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T13:24:04.344856+00:00",
+  "updated": "2026-10-05T21:53:03.496356+00:00",
   "count": 369,
   "course_count": 213,
   "news_count": 156,
@@ -3092,7 +3092,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=cc86f01c4&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c54a60540&_ss=r"
+    },
+    {
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=c54a60540&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3102,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=cc86f01c4&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=c54a60540&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -3112,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=3&_sid=cc86f01c4&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=c54a60540&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3122,17 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=cc86f01c4&_ss=r"
-    },
-    {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=cc86f01c4&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=c54a60540&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3272,7 +3272,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/395/bmj-2026-101017.short?rss=1"
+      "url": "http://www.bmj.com/content/395/bmj-2026-101003.short?rss=1"
     },
     {
       "id": "8d656ad77115",
