@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:41:40.154363+00:00",
+  "updated": "2026-10-06T20:03:50.526657+00:00",
   "count": 372,
   "course_count": 216,
   "news_count": 156,
@@ -3125,6 +3125,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "9bc553af2970",
+      "title": "Israeli T3 Bandage",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=5d6841507&_ss=r"
+    },
+    {
       "id": "ac7abee6e285",
       "title": "4\" Israeli Emergency Bandage® from Safeguard Medical",
       "source": "Tactical Medicine Training & Equipment",
@@ -3132,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=bffa8b389&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=2&_sid=5d6841507&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3142,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=bffa8b389&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=5d6841507&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3152,27 +3162,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=bffa8b389&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=5d6841507&_ss=r"
     },
     {
-      "id": "fe95ff73d75a",
-      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
+      "id": "dbc278539e4f",
+      "title": "Celox-A High Speed Applicator",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=bffa8b389&_ss=r"
-    },
-    {
-      "id": "4110ccb750ce",
-      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=bffa8b389&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/celox-a-high-speed-applicator?_pos=5&_sid=5d6841507&_ss=r"
     },
     {
       "id": "715383a36e2a",
