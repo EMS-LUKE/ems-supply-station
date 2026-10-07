@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Wed, 07 Oct 2026 00:25:15 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 09:45:22 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】新生兒高級救命術NRP認證課程</title>
@@ -256,6 +256,14 @@
     <description>【課程】2026/11/14-11/15+11/21-11/23 野外醫療救護 -WEMS（來源：米亞桑戶外中心）</description>
   </item>
   <item>
+    <title>【課程】115 年急診基礎超音波課程-中國附醫場 中國醫藥大學附設醫院</title>
+    <link>https://www.sem.org.tw/Activity/B/Details/33391</link>
+    <guid>https://www.sem.org.tw/Activity/B/Details/33391</guid>
+    <pubDate>2026-11-16</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】115 年急診基礎超音波課程-中國附醫場 中國醫藥大學附設醫院（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
     <title>【課程】急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會</title>
     <link>https://www.sem.org.tw/Activity/A/Details/33324</link>
     <guid>https://www.sem.org.tw/Activity/A/Details/33324</guid>
@@ -392,14 +400,6 @@
     <description>【課程】2027/02/12-02/15 WAFA野外進階急救訓練(北部場)（來源：米亞桑戶外中心）</description>
   </item>
   <item>
-    <title>【課程】2027/02/12-02/15 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練</title>
-    <link>https://www.formosa-adventure.com/product_description.php?PNo=100</link>
-    <guid>https://www.formosa-adventure.com/product_description.php?PNo=100</guid>
-    <pubDate>2027-02-12</pubDate>
-    <category>小島探險 - 台灣急救社群</category>
-    <description>【課程】2027/02/12-02/15 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練（來源：小島探險）</description>
-  </item>
-  <item>
     <title>【課程】2027/02/12-02/15 WAFA 四日進階野外急救訓練（台北）</title>
     <link>https://mttigertw.com/lectureInfo/188/</link>
     <guid>https://mttigertw.com/lectureInfo/188/</guid>
@@ -440,6 +440,14 @@
     <description>【課程】2027/03/20-03/23 WAFA野外進階急救訓練(北部場)（來源：米亞桑戶外中心）</description>
   </item>
   <item>
+    <title>【課程】2027/03/20-03/23 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練</title>
+    <link>https://www.formosa-adventure.com/product_description.php?PNo=100</link>
+    <guid>https://www.formosa-adventure.com/product_description.php?PNo=100</guid>
+    <pubDate>2027-03-20</pubDate>
+    <category>小島探險 - 台灣急救社群</category>
+    <description>【課程】2027/03/20-03/23 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練（來源：小島探險）</description>
+  </item>
+  <item>
     <title>【課程】2027/03/27-03/30 WAFA野外進階急救訓練(北部場)</title>
     <link>https://miasan.com/event/wafa20270327/</link>
     <guid>https://miasan.com/event/wafa20270327/</guid>
@@ -478,14 +486,6 @@
     <pubDate>2027-04-24</pubDate>
     <category>小島探險 - 台灣急救社群</category>
     <description>【課程】2027/04/24-04/27 Bridge(WAFA to WFR)橋接課程（來源：小島探險）</description>
-  </item>
-  <item>
-    <title>【課程】2027/04/24-04/27 Bridge 四日野外急救橋接訓練（台北）</title>
-    <link>https://mttigertw.com/lectureInfo/186/</link>
-    <guid>https://mttigertw.com/lectureInfo/186/</guid>
-    <pubDate>2027-04-24</pubDate>
-    <category>羌虎跨域生活 - 台灣急救社群</category>
-    <description>【課程】2027/04/24-04/27 Bridge 四日野外急救橋接訓練（台北）（來源：羌虎跨域生活）</description>
   </item>
 </channel>
 </rss>

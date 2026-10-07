@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-07T00:25:15.831796+00:00",
-  "count": 371,
-  "course_count": 216,
+  "updated": "2026-10-07T09:45:22.511001+00:00",
+  "count": 372,
+  "course_count": 217,
   "news_count": 155,
   "items": [
     {
@@ -315,6 +315,16 @@
       "url": "https://miasan.com/event/wems20261114/"
     },
     {
+      "id": "7293478584df",
+      "title": "115 年急診基礎超音波課程-中國附醫場 中國醫藥大學附設醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-16",
+      "deadline": "2026-11-16",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33391"
+    },
+    {
       "id": "e41ccd3144ef",
       "title": "急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -485,16 +495,6 @@
       "url": "https://miasan.com/event/wafa20270212/"
     },
     {
-      "id": "99eb8a52c6ec",
-      "title": "2027/02/12-02/15 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
-      "source": "小島探險",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2027-02-12",
-      "deadline": null,
-      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
-    },
-    {
       "id": "7709e81d9465",
       "title": "2027/02/12-02/15 WAFA 四日進階野外急救訓練（台北）",
       "source": "羌虎跨域生活",
@@ -543,6 +543,16 @@
       "date": "2027-03-20",
       "deadline": null,
       "url": "https://miasan.com/event/wafa20270320/"
+    },
+    {
+      "id": "d804dc081ce4",
+      "title": "2027/03/20-03/23 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練",
+      "source": "小島探險",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-03-20",
+      "deadline": null,
+      "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
     },
     {
       "id": "c535533b6d48",
@@ -3122,17 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=4ab5d86ca&_ss=r"
-    },
-    {
-      "id": "ac7abee6e285",
-      "title": "4\" Israeli Emergency Bandage® from Safeguard Medical",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=2&_sid=4ab5d86ca&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=366f1db37&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3142,7 +3142,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=4ab5d86ca&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=366f1db37&_ss=r"
+    },
+    {
+      "id": "ac7abee6e285",
+      "title": "4\" Israeli Emergency Bandage® from Safeguard Medical",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=366f1db37&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3152,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=4ab5d86ca&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=366f1db37&_ss=r"
     },
     {
       "id": "dbc278539e4f",
@@ -3162,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/celox-a-high-speed-applicator?_pos=5&_sid=4ab5d86ca&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/celox-a-high-speed-applicator?_pos=5&_sid=366f1db37&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3302,7 +3312,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/395/bmj-2026-101003.short?rss=1"
+      "url": "http://www.bmj.com/content/395/bmj-2026-100997.short?rss=1"
     },
     {
       "id": "8d656ad77115",
