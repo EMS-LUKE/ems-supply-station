@@ -1,39 +1,9 @@
 {
-  "updated": "2026-10-06T20:03:50.526657+00:00",
-  "count": 372,
+  "updated": "2026-10-07T00:25:15.831796+00:00",
+  "count": 371,
   "course_count": 216,
-  "news_count": 156,
+  "news_count": 155,
   "items": [
-    {
-      "id": "d304acd5f961",
-      "title": "上課通知-115.10.6成人呼吸道預防新策略與臨床應用-線上",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-06",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/2e6b260cbd974be89d0e998d80d8dd90"
-    },
-    {
-      "id": "5e1d129b011d",
-      "title": "【1150912梯次】北區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-06",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261005170338"
-    },
-    {
-      "id": "1beeb22791ec",
-      "title": "新生兒高級救命術(NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-07",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28379"
-    },
     {
       "id": "e22b03c287f9",
       "title": "新生兒高級救命術NRP認證課程",
@@ -103,6 +73,16 @@
       "date": "2026-10-17",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28143"
+    },
+    {
+      "id": "4a927816cc75",
+      "title": "南區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
     },
     {
       "id": "8954820cb878",
@@ -313,6 +293,16 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "c7bfc459e1c7",
+      "title": "新生兒急救加護訓練課程 (NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
     },
     {
       "id": "763ad854bfda",
@@ -3132,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=5d6841507&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=4ab5d86ca&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -3142,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=2&_sid=5d6841507&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=2&_sid=4ab5d86ca&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3152,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=5d6841507&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=4ab5d86ca&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3162,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=5d6841507&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=4ab5d86ca&_ss=r"
     },
     {
       "id": "dbc278539e4f",
@@ -3172,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/celox-a-high-speed-applicator?_pos=5&_sid=5d6841507&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/celox-a-high-speed-applicator?_pos=5&_sid=4ab5d86ca&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3343,6 +3333,26 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
+    },
+    {
+      "id": "d304acd5f961",
+      "title": "上課通知-115.10.6成人呼吸道預防新策略與臨床應用-線上",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-06",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/2e6b260cbd974be89d0e998d80d8dd90"
+    },
+    {
+      "id": "5e1d129b011d",
+      "title": "【1150912梯次】北區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-06",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261005170338"
     },
     {
       "id": "37b989f17538",
@@ -3703,26 +3713,6 @@
       "date": "2026-09-08",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/10/Details/1646"
-    },
-    {
-      "id": "65d75f3289a0",
-      "title": "2026.9.6【2026台灣呼吸道處理醫學會年會暨國際學術研討會】歡迎報名參加",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-06",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/992.html"
-    },
-    {
-      "id": "7d7870795b25",
-      "title": "上課通知-115.9.6(日)家醫工作坊－台中場",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-06",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/e401f108ca144e98ad1626c29af5dade"
     }
   ]
 }
