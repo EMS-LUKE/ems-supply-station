@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-07T18:23:08.224868+00:00",
+  "updated": "2026-10-08T00:46:30.910412+00:00",
   "count": 372,
   "course_count": 217,
   "news_count": 155,
   "items": [
-    {
-      "id": "6675b9bdedd7",
-      "title": "【1151013梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-07",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261007135801"
-    },
     {
       "id": "e22b03c287f9",
       "title": "新生兒高級救命術NRP認證課程",
@@ -3142,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=aa97b4bba&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=46f440384&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3152,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=aa97b4bba&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=46f440384&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -3162,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=aa97b4bba&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=46f440384&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3172,17 +3162,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=aa97b4bba&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=46f440384&_ss=r"
     },
     {
-      "id": "40b63028b17c",
-      "title": "TacMed™ Field Blood Transfusion Kit",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=aa97b4bba&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=46f440384&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3353,6 +3343,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
+    },
+    {
+      "id": "6675b9bdedd7",
+      "title": "【1151013梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-07",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261007135801"
     },
     {
       "id": "d304acd5f961",
