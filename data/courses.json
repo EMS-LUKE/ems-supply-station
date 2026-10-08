@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-08T00:46:30.910412+00:00",
-  "count": 372,
+  "updated": "2026-10-08T09:55:37.829593+00:00",
+  "count": 373,
   "course_count": 217,
-  "news_count": 155,
+  "news_count": 156,
   "items": [
+    {
+      "id": "02ecb59b1d4b",
+      "title": "每一部分都準備好了，醫院就準備好了嗎？ － 災害應變管理中的「合成謬誤」",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-10-08",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_08.html"
+    },
     {
       "id": "e22b03c287f9",
       "title": "新生兒高級救命術NRP認證課程",
@@ -75,16 +85,6 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28143"
     },
     {
-      "id": "4a927816cc75",
-      "title": "南區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
-    },
-    {
       "id": "8954820cb878",
       "title": "2026/10/17-10/20 Bridge野外急救橋接急救訓練(北部場)",
       "source": "米亞桑戶外中心",
@@ -113,6 +113,16 @@
       "date": "2026-10-18",
       "deadline": "2026-09-20",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/f9715ce06c6d492ebb253e16782f660e"
+    },
+    {
+      "id": "f2845441fe02",
+      "title": "中華急救教育推廣協會 新生兒高級救命術(NRP)課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-18",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28342"
     },
     {
       "id": "31731e3015c5",
@@ -495,16 +505,6 @@
       "url": "https://miasan.com/event/wafa20270212/"
     },
     {
-      "id": "7709e81d9465",
-      "title": "2027/02/12-02/15 WAFA 四日進階野外急救訓練（台北）",
-      "source": "羌虎跨域生活",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2027-02-12",
-      "deadline": null,
-      "url": "https://mttigertw.com/lectureInfo/188/"
-    },
-    {
       "id": "95839510fcd4",
       "title": "2027/03/06-03/07 WFA兩天初階野外急救訓練(北部場)",
       "source": "米亞桑戶外中心",
@@ -553,6 +553,16 @@
       "date": "2027-03-20",
       "deadline": null,
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=100"
+    },
+    {
+      "id": "a1a33e6dea7f",
+      "title": "2027/03/20-03/23 WAFA 四日進階野外急救訓練（台北）",
+      "source": "羌虎跨域生活",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2027-03-20",
+      "deadline": null,
+      "url": "https://mttigertw.com/lectureInfo/188/"
     },
     {
       "id": "c535533b6d48",
@@ -1665,6 +1675,16 @@
       "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
     },
     {
+      "id": "f1da05645193",
+      "title": "115上半年度進階相關報告及證書寄發公告",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1094.html"
+    },
+    {
       "id": "1091d4943f3b",
       "title": "【115年上半年度】麻醉專科護理師進階制度認證申請通過名單",
       "source": "台灣麻醉專科護理學會",
@@ -1693,16 +1713,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
-    },
-    {
-      "id": "c2c71a5bc917",
-      "title": "「專科護理師分科及甄審辦法」第四條、第五條、第二十二條修正草案公告",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1086.html"
     },
     {
       "id": "51fb926a1999",
@@ -3132,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=46f440384&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=ace6199a7&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3142,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=46f440384&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=ace6199a7&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -3152,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=46f440384&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=ace6199a7&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3162,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=46f440384&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=ace6199a7&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3172,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=46f440384&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=ace6199a7&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3545,8 +3555,8 @@
       "url": "https://temataiwan.blogspot.com/2026/09/113.html"
     },
     {
-      "id": "21021d51e307",
-      "title": "【協會主辦】2026年疾病照護風險管理與緊急應變規劃課程(10/22)",
+      "id": "009a900ba498",
+      "title": "(10/10報名截止)【協會主辦】2026年疾病照護風險管理與緊急應變規劃課程(10/22)",
       "source": "台灣緊急應變管理協會",
       "cat": "台灣協會",
       "type": "course",
