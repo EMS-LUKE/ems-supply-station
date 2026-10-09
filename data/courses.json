@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-08T18:24:42.439667+00:00",
-  "count": 373,
+  "updated": "2026-10-09T01:02:15.914382+00:00",
+  "count": 372,
   "course_count": 217,
-  "news_count": 156,
+  "news_count": 155,
   "items": [
-    {
-      "id": "02ecb59b1d4b",
-      "title": "每一部分都準備好了，醫院就準備好了嗎？ － 災害應變管理中的「合成謬誤」",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-10-08",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_08.html"
-    },
     {
       "id": "e22b03c287f9",
       "title": "新生兒高級救命術NRP認證課程",
@@ -3142,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=416a31491&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=e81b78f15&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3152,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=416a31491&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=e81b78f15&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -3162,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=416a31491&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=e81b78f15&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3172,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=416a31491&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=e81b78f15&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3182,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=416a31491&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=e81b78f15&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3353,6 +3343,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
+    },
+    {
+      "id": "02ecb59b1d4b",
+      "title": "每一部分都準備好了，醫院就準備好了嗎？ － 災害應變管理中的「合成謬誤」",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-10-08",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_08.html"
     },
     {
       "id": "6675b9bdedd7",
@@ -3723,16 +3723,6 @@
       "date": "2026-09-11",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/967"
-    },
-    {
-      "id": "5c699a656357",
-      "title": "【ED Transforming！急診智慧轉型研討會】—台灣急診管理學會第六屆第一次會員大會暨學術研討會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-08",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1646"
     }
   ]
 }
