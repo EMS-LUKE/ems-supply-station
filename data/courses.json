@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T10:00:18.295427+00:00",
+  "updated": "2026-10-09T17:57:25.780648+00:00",
   "count": 372,
   "course_count": 217,
   "news_count": 155,
@@ -1395,16 +1395,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
-      "id": "d1f861571149",
-      "title": "轉知 線上直播即時課程訊息（14:00-16:35）：EARLIER. LOWER. LONGER. Optimizing Lipid Management from Risk Detection to Cardiovascular Protection",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b64237a3823f4d20be48120f4ffaea3f"
-    },
-    {
       "id": "ee074741c59f",
       "title": "轉知 衛福部國健署-有關兒童發展篩檢服務方案之醫師申請資格修正事宜",
       "source": "台灣家庭醫學醫學會",
@@ -1423,6 +1413,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/238fecbc0a7f4bf8ac22136cc884bc9d"
+    },
+    {
+      "id": "d1f861571149",
+      "title": "轉知 線上直播即時課程訊息（14:00-16:35）：EARLIER. LOWER. LONGER. Optimizing Lipid Management from Risk Detection to Cardiovascular Protection",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b64237a3823f4d20be48120f4ffaea3f"
     },
     {
       "id": "1aaa9f859717",
@@ -3132,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=811b3f3c1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=080602aac&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -3142,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=811b3f3c1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=080602aac&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -3152,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=811b3f3c1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=080602aac&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3162,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=811b3f3c1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=080602aac&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=811b3f3c1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=080602aac&_ss=r"
     },
     {
       "id": "715383a36e2a",
