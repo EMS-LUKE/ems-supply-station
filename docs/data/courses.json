@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T01:02:15.914382+00:00",
+  "updated": "2026-10-09T10:00:18.295427+00:00",
   "count": 372,
   "course_count": 217,
   "news_count": 155,
@@ -1395,6 +1395,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "d1f861571149",
+      "title": "轉知 線上直播即時課程訊息（14:00-16:35）：EARLIER. LOWER. LONGER. Optimizing Lipid Management from Risk Detection to Cardiovascular Protection",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b64237a3823f4d20be48120f4ffaea3f"
+    },
+    {
       "id": "ee074741c59f",
       "title": "轉知 衛福部國健署-有關兒童發展篩檢服務方案之醫師申請資格修正事宜",
       "source": "台灣家庭醫學醫學會",
@@ -1423,16 +1433,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cab55632908e4e1b8a519fc8e639e241"
-    },
-    {
-      "id": "ce21f1163ac6",
-      "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-中國醫藥大學-專業教育-10/4場次",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/03661816242e43a3ba11033e69d7da41"
     },
     {
       "id": "249cfc761773",
@@ -3125,16 +3125,6 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
-      "id": "9bc553af2970",
-      "title": "Israeli T3 Bandage",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=e81b78f15&_ss=r"
-    },
-    {
       "id": "34d97b943ff2",
       "title": "Public Access Bleeding Control Kit - Nylon",
       "source": "Tactical Medicine Training & Equipment",
@@ -3142,7 +3132,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=e81b78f15&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=811b3f3c1&_ss=r"
+    },
+    {
+      "id": "9bc553af2970",
+      "title": "Israeli T3 Bandage",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=811b3f3c1&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -3152,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=e81b78f15&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=811b3f3c1&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3162,17 +3162,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=e81b78f15&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=811b3f3c1&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "40b63028b17c",
+      "title": "TacMed™ Field Blood Transfusion Kit",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=e81b78f15&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=811b3f3c1&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3312,7 +3312,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225710v1?rss=1"
+      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2025-224342v1?rss=1"
     },
     {
       "id": "8d656ad77115",
