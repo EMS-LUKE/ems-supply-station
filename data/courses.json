@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-09T22:13:39.299010+00:00",
-  "count": 372,
-  "course_count": 217,
+  "updated": "2026-10-10T03:55:08.093831+00:00",
+  "count": 373,
+  "course_count": 218,
   "news_count": 155,
   "items": [
     {
@@ -25,16 +25,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33306"
     },
     {
-      "id": "c064267cf552",
-      "title": "衛生福利部草屯療養院高級心臟救命術訓練課程 衛生福利部草屯療養院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-15",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33293"
-    },
-    {
       "id": "443ce2f4ad1f",
       "title": "115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議",
       "source": "台灣新生兒科醫學會",
@@ -43,6 +33,16 @@
       "date": "2026-10-16",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28371"
+    },
+    {
+      "id": "5d3f308c0193",
+      "title": "臺中榮民總醫院國際醫學研討會-急診醫學部智慧急診與韌性醫療的未來 臺中榮民總醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": "2026-10-17",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33224"
     },
     {
       "id": "e49f2ca0c884",
@@ -393,6 +393,16 @@
       "date": "2026-11-28",
       "deadline": null,
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=99"
+    },
+    {
+      "id": "85eff4d1e425",
+      "title": "2026年冬季學術討論會暨1119台灣急診日 社團法人台灣急診醫學會、中山醫學大學附設醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-29",
+      "deadline": "2026-11-29",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33128"
     },
     {
       "id": "047989c0a523",
@@ -3132,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a07efa2e6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9f7446fa9&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -3142,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=a07efa2e6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=9f7446fa9&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -3152,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=a07efa2e6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=9f7446fa9&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3162,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=a07efa2e6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=9f7446fa9&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3172,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=a07efa2e6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=9f7446fa9&_ss=r"
     },
     {
       "id": "715383a36e2a",

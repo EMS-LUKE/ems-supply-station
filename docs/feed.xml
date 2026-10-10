@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Fri, 09 Oct 2026 22:13:39 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 03:55:08 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】新生兒高級救命術NRP認證課程</title>
@@ -24,20 +24,20 @@
     <description>【課程】115年災難應變與醫療聯合討論會(北慈場) 社團法人台灣急診醫學會（來源：台灣急診醫學會）</description>
   </item>
   <item>
-    <title>【課程】衛生福利部草屯療養院高級心臟救命術訓練課程 衛生福利部草屯療養院</title>
-    <link>https://www.sem.org.tw/Activity/B/Details/33293</link>
-    <guid>https://www.sem.org.tw/Activity/B/Details/33293</guid>
-    <pubDate>2026-10-15</pubDate>
-    <category>台灣急診醫學會 - 台灣學會</category>
-    <description>【課程】衛生福利部草屯療養院高級心臟救命術訓練課程 衛生福利部草屯療養院（來源：台灣急診醫學會）</description>
-  </item>
-  <item>
     <title>【課程】115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議</title>
     <link>https://tsn-neonatology.com/event_content.aspx?id=28371</link>
     <guid>https://tsn-neonatology.com/event_content.aspx?id=28371</guid>
     <pubDate>2026-10-16</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】臺中榮民總醫院國際醫學研討會-急診醫學部智慧急診與韌性醫療的未來 臺中榮民總醫院急診部</title>
+    <link>https://www.sem.org.tw/Activity/B/Details/33224</link>
+    <guid>https://www.sem.org.tw/Activity/B/Details/33224</guid>
+    <pubDate>2026-10-17</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】臺中榮民總醫院國際醫學研討會-急診醫學部智慧急診與韌性醫療的未來 臺中榮民總醫院急診部（來源：台灣急診醫學會）</description>
   </item>
   <item>
     <title>【課程】2026外傷教育課程-桃竹苗地區(Ⅱ)...</title>
@@ -320,6 +320,14 @@
     <description>【課程】2026/11/28-11/29 WFA(Wilderness First- Aid)初級野外急救訓練（來源：小島探險）</description>
   </item>
   <item>
+    <title>【課程】2026年冬季學術討論會暨1119台灣急診日 社團法人台灣急診醫學會、中山醫學大學附設醫院急診部</title>
+    <link>https://www.sem.org.tw/Activity/A/Details/33128</link>
+    <guid>https://www.sem.org.tw/Activity/A/Details/33128</guid>
+    <pubDate>2026-11-29</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】2026年冬季學術討論會暨1119台灣急診日 社團法人台灣急診醫學會、中山醫學大學附設醫院急診部（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
     <title>【課程】臺北市政府衛生局自115年10月1日至115年11月30日辦理「左流右新健康抽好禮」抽獎活動</title>
     <link>https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19408</link>
     <guid>https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19408</guid>
@@ -478,14 +486,6 @@
     <pubDate>2027-04-24</pubDate>
     <category>米亞桑戶外中心 - 台灣急救社群</category>
     <description>【課程】2027/04/24-04/27 Bridge野外急救橋接急救訓練(北部場)（來源：米亞桑戶外中心）</description>
-  </item>
-  <item>
-    <title>【課程】2027/04/24-04/27 Bridge(WAFA to WFR)橋接課程</title>
-    <link>https://www.formosa-adventure.com/product_description.php?PNo=101</link>
-    <guid>https://www.formosa-adventure.com/product_description.php?PNo=101</guid>
-    <pubDate>2027-04-24</pubDate>
-    <category>小島探險 - 台灣急救社群</category>
-    <description>【課程】2027/04/24-04/27 Bridge(WAFA to WFR)橋接課程（來源：小島探險）</description>
   </item>
 </channel>
 </rss>
