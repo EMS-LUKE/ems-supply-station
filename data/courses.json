@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-11T21:28:05.630050+00:00",
-  "count": 374,
+  "updated": "2026-10-12T03:51:51.874238+00:00",
+  "count": 373,
   "course_count": 219,
-  "news_count": 155,
+  "news_count": 154,
   "items": [
     {
       "id": "fc008de83eae",
@@ -3152,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=4223c7c76&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=384888793&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -3162,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=4223c7c76&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=384888793&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=4223c7c76&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=384888793&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=4223c7c76&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=384888793&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=4223c7c76&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=384888793&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3575,8 +3575,8 @@
       "url": "https://temataiwan.blogspot.com/2026/09/113.html"
     },
     {
-      "id": "009a900ba498",
-      "title": "(10/10報名截止)【協會主辦】2026年疾病照護風險管理與緊急應變規劃課程(10/22)",
+      "id": "bbdbb7ae068c",
+      "title": "(報名已截止)【協會主辦】2026年疾病照護風險管理與緊急應變規劃課程(10/22)",
       "source": "台灣緊急應變管理協會",
       "cat": "台灣協會",
       "type": "course",
@@ -3733,16 +3733,6 @@
       "date": "2026-09-13",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/75bdd17e7c8440a4994ddb23f91248a1"
-    },
-    {
-      "id": "ac6ac8b858dd",
-      "title": "EMS news letter - 雙月刊",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-11",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/967"
     }
   ]
 }
