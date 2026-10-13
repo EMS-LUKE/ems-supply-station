@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-13T05:04:04.198239+00:00",
-  "count": 374,
-  "course_count": 218,
+  "updated": "2026-10-13T13:27:01.077829+00:00",
+  "count": 372,
+  "course_count": 216,
   "news_count": 156,
   "items": [
     {
@@ -175,6 +175,26 @@
       "url": "https://miasan.com/event/wafa20261031/"
     },
     {
+      "id": "7d3ddae0a687",
+      "title": "新生兒高級急救救命術(NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-01",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28397"
+    },
+    {
+      "id": "cf5d4a9b3e2b",
+      "title": "NRP新生兒高級救命術認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-01",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28386"
+    },
+    {
       "id": "c5fe570ba2e7",
       "title": "2026台灣慢性阻塞性肺病學會與台灣氣喘學會聯合年會",
       "source": "台灣新生兒科醫學會",
@@ -235,16 +255,6 @@
       "url": "https://miasan.com/event/wals20261107/?fbclid=IwY2xjawRuixxleHRuA2FlbQIxMABicmlkETFHbDJMVTZ0ZEF5aFFXR1N3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiNf2LUzOJweFDHmBDgvG9ogJyNIuWYsykxsKNd1nvYrgTGqQl1ZVN8WtHWO_aem_vHJ8ecQX3dwiLOp4TEq-jA&brid=YWdncwH-PTH6wTwISkL3dltxbfuo"
     },
     {
-      "id": "aabcdd9ff2c7",
-      "title": "2026亞洲母乳庫國際研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-07",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28396"
-    },
-    {
       "id": "3c7bfd35facc",
       "title": "2026/11/07-11/11 野外高級救命術 Wilderness Advanced Life Support – WALS",
       "source": "米亞桑戶外中心",
@@ -253,26 +263,6 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://miasan.com/event/wals20261107/"
-    },
-    {
-      "id": "4175738df8fd",
-      "title": "亞東醫院兒少保護醫療整合中心 成果發表暨實務研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-10",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28399"
-    },
-    {
-      "id": "bdbcea310120",
-      "title": "輔仁大學附設醫院婦幼聯合討論會(第二場)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28392"
     },
     {
       "id": "c1772c700f8e",
@@ -303,16 +293,6 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "c7bfc459e1c7",
-      "title": "新生兒急救加護訓練課程 (NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
     },
     {
       "id": "763ad854bfda",
@@ -1255,6 +1235,16 @@
       "url": "https://tamis.org.tw/activity/42"
     },
     {
+      "id": "3c8d70bf7496",
+      "title": "| 📣【TAMIS 超級心光大道－24首金曲】巡迴開唱：第十一首《另眼相看》📣 公告日期：2026 / 10 / 13",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1284"
+    },
+    {
       "id": "f1f303ad451a",
       "title": "| 📣 【TAMIS 超級心光大道－24首金曲】第十首重磅登場：《依靠》 📣 公告日期：2026 / 9 / 18",
       "source": "台灣心肌梗塞學會",
@@ -1273,16 +1263,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1278"
-    },
-    {
-      "id": "3500c5b33f25",
-      "title": "| 📣【TAMIS 超級心光大道】第八首《如果可以》線上開唱！📣 公告日期：2026 / 8 / 14",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1273"
     },
     {
       "id": "32dbb30467e3",
@@ -2335,6 +2315,36 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
     },
     {
+      "id": "7a87387bfb90",
+      "title": "聽見AED｜2026年9月到場成果出爐】",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b49%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90%e3%80%91/"
+    },
+    {
+      "id": "bb8fd7f9a518",
+      "title": "2026守護者專訪5】張宥安：急救不是一個人的事，是一群人的信念",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/2026%e5%ae%88%e8%ad%b7%e8%80%85%e5%b0%88%e8%a8%aa5%e3%80%91%e5%bc%b5%e5%ae%a5%e5%ae%89%ef%bc%9a%e6%80%a5%e6%95%91%e4%b8%8d%e6%98%af%e4%b8%80%e5%80%8b%e4%ba%ba%e7%9a%84%e4%ba%8b%ef%bc%8c%e6%98%af/"
+    },
+    {
+      "id": "38c215d8bf19",
+      "title": "聽見AED 臉書動態",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
+    },
+    {
       "id": "0e0f222b7821",
       "title": "許晉福：「會急救沒有比較厲害，肯急救也沒有比較厲害」",
       "source": "臺灣愛陌生安全推廣協會",
@@ -2353,36 +2363,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e3%80%90%e5%90%8c%e4%b8%80%e5%8f%b0-aed%ef%bc%8c%e8%ad%a6%e5%a0%b1%e5%99%a8%e8%ae%93%e5%ae%83%e5%bf%ab%e4%ba%86%e5%b0%87%e8%bf%91-2-%e5%88%86%e9%90%98%e5%88%b0%e5%a0%b4%e3%80%91/"
-    },
-    {
-      "id": "f1d72e818ace",
-      "title": "【只有 6.4% 的 AED，從建築物外面看得到指標】",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e3%80%90%e5%8f%aa%e6%9c%89-6-4-%e7%9a%84-aed%ef%bc%8c%e5%be%9e%e5%bb%ba%e7%af%89%e7%89%a9%e5%a4%96%e9%9d%a2%e7%9c%8b%e5%be%97%e5%88%b0%e6%8c%87%e6%a8%99%e3%80%91/"
-    },
-    {
-      "id": "12681d8d321d",
-      "title": "我去了一趟雲林麥寮，為了確認一件事｜台全牧場 × 聽見AED 中秋公益聯名",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/event-news/tqfarm-midautumn-2026/"
-    },
-    {
-      "id": "d397dbfefcee",
-      "title": "聽見AED｜2026年8月到場成果出爐】",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b48%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90%e3%80%91/"
     },
     {
       "id": "c302a6b91021",
@@ -3152,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=184ad2eb8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f3726e118&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -3162,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=184ad2eb8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=f3726e118&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -3172,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=184ad2eb8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=f3726e118&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3182,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=184ad2eb8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=f3726e118&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3192,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=184ad2eb8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=f3726e118&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3332,7 +3312,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225348v1?rss=1"
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/10/e124947?rss=1"
     },
     {
       "id": "8d656ad77115",
