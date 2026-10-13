@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-12T22:28:10.798850+00:00",
+  "updated": "2026-10-13T05:04:04.198239+00:00",
   "count": 374,
   "course_count": 218,
   "news_count": 156,
   "items": [
-    {
-      "id": "2e2da9738154",
-      "title": "【衛教】早產兒靜脈營養照護建議",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=575"
-    },
     {
       "id": "fc008de83eae",
       "title": "115年災難應變與醫療聯合討論會(北慈場) 社團法人台灣急診醫學會",
@@ -23,6 +13,16 @@
       "date": "2026-10-13",
       "deadline": "2026-10-13",
       "url": "https://www.sem.org.tw/Activity/A/Details/33306"
+    },
+    {
+      "id": "a85fd5c0e747",
+      "title": "轉知「第44屆台灣微整形美容醫學會研討會 (預計核發特管時數)」活動訊息",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-13",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1667"
     },
     {
       "id": "443ce2f4ad1f",
@@ -3152,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e236d3d13&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=184ad2eb8&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -3162,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=e236d3d13&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=184ad2eb8&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=e236d3d13&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=184ad2eb8&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=e236d3d13&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=184ad2eb8&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=e236d3d13&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=184ad2eb8&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3363,6 +3363,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
+    },
+    {
+      "id": "2e2da9738154",
+      "title": "【衛教】早產兒靜脈營養照護建議",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-12",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=575"
     },
     {
       "id": "02ecb59b1d4b",
@@ -3543,16 +3553,6 @@
       "date": "2026-09-30",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
-    },
-    {
-      "id": "e3ff6fa1a47f",
-      "title": "公告「2026年EMS金梧桐獎」獲獎人員/團體",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1659"
     },
     {
       "id": "4bb01c7c73b4",
