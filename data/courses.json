@@ -1,29 +1,9 @@
 {
-  "updated": "2026-10-13T20:36:41.878172+00:00",
+  "updated": "2026-10-14T00:11:04.214201+00:00",
   "count": 372,
   "course_count": 216,
   "news_count": 156,
   "items": [
-    {
-      "id": "fc008de83eae",
-      "title": "115年災難應變與醫療聯合討論會(北慈場) 社團法人台灣急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-13",
-      "deadline": "2026-10-13",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33306"
-    },
-    {
-      "id": "a85fd5c0e747",
-      "title": "轉知「第44屆台灣微整形美容醫學會研討會 (預計核發特管時數)」活動訊息",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-13",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1667"
-    },
     {
       "id": "443ce2f4ad1f",
       "title": "115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議",
@@ -143,6 +123,16 @@
       "date": "2026-10-24",
       "deadline": "2026-10-01",
       "url": "https://www.sem.org.tw/Activity/A/Details/33268"
+    },
+    {
+      "id": "4e6ab4f842cb",
+      "title": "高級心臟救命術（ACLS）初訓Provider Course 員榮醫療社團法人員榮醫院員生院區",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-24",
+      "deadline": "2026-09-01",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33335"
     },
     {
       "id": "d9371fb49f2a",
@@ -3132,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=4806a0768&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=78c046a1b&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -3142,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=4806a0768&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=78c046a1b&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -3152,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=4806a0768&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=78c046a1b&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -3162,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=4806a0768&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=78c046a1b&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3172,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=4806a0768&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=78c046a1b&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3312,7 +3302,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/10/e124947?rss=1"
+      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-339655v1?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3335,14 +3325,24 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/9"
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "a85fd5c0e747",
+      "title": "轉知「第44屆台灣微整形美容醫學會研討會 (預計核發特管時數)」活動訊息",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-13",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1667"
     },
     {
       "id": "2e2da9738154",
@@ -3535,6 +3535,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
     },
     {
+      "id": "e3ff6fa1a47f",
+      "title": "公告「2026年EMS金梧桐獎」獲獎人員/團體",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1659"
+    },
+    {
       "id": "4bb01c7c73b4",
       "title": "《當災害發生在醫院》 醫院降載之後，那些「不在院內」病人的醫療需求去了哪裡？",
       "source": "台灣緊急應變管理協會",
@@ -3713,16 +3723,6 @@
       "date": "2026-09-14",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/09/blog-post_14.html"
-    },
-    {
-      "id": "4f96f9fa013a",
-      "title": "上課通知-115.9.13(日)2026台南家庭醫學週末研討會",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-13",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/75bdd17e7c8440a4994ddb23f91248a1"
     }
   ]
 }

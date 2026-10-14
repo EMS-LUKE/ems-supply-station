@@ -5,24 +5,8 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Tue, 13 Oct 2026 20:36:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 00:11:04 +0000</lastBuildDate>
   <ttl>180</ttl>
-  <item>
-    <title>【課程】115年災難應變與醫療聯合討論會(北慈場) 社團法人台灣急診醫學會</title>
-    <link>https://www.sem.org.tw/Activity/A/Details/33306</link>
-    <guid>https://www.sem.org.tw/Activity/A/Details/33306</guid>
-    <pubDate>2026-10-13</pubDate>
-    <category>台灣急診醫學會 - 台灣學會</category>
-    <description>【課程】115年災難應變與醫療聯合討論會(北慈場) 社團法人台灣急診醫學會（來源：台灣急診醫學會）</description>
-  </item>
-  <item>
-    <title>【消息】轉知「第44屆台灣微整形美容醫學會研討會 (預計核發特管時數)」活動訊息</title>
-    <link>https://www.sem.org.tw/News/10/Details/1667</link>
-    <guid>https://www.sem.org.tw/News/10/Details/1667</guid>
-    <pubDate>2026-10-13</pubDate>
-    <category>台灣急診醫學會 - 台灣學會</category>
-    <description>【消息】轉知「第44屆台灣微整形美容醫學會研討會 (預計核發特管時數)」活動訊息（來源：台灣急診醫學會）</description>
-  </item>
   <item>
     <title>【課程】115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議</title>
     <link>https://tsn-neonatology.com/event_content.aspx?id=28371</link>
@@ -118,6 +102,14 @@
     <pubDate>2026-10-24</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】【課程取消】台灣野外救命術訓練課程(初階證照班) 社團法人台灣急診醫學會、羅東博愛醫院（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】高級心臟救命術（ACLS）初訓Provider Course 員榮醫療社團法人員榮醫院員生院區</title>
+    <link>https://www.sem.org.tw/Activity/B/Details/33335</link>
+    <guid>https://www.sem.org.tw/Activity/B/Details/33335</guid>
+    <pubDate>2026-10-24</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】高級心臟救命術（ACLS）初訓Provider Course 員榮醫療社團法人員榮醫院員生院區（來源：台灣急診醫學會）</description>
   </item>
   <item>
     <title>【課程】115年度中毒個案討論會–北區 社團法人台灣急診醫學會、三軍總醫院</title>
@@ -486,6 +478,14 @@
     <pubDate>2027-04-24</pubDate>
     <category>小島探險 - 台灣急救社群</category>
     <description>【課程】2027/04/24-04/27 Bridge(WAFA to WFR)橋接課程（來源：小島探險）</description>
+  </item>
+  <item>
+    <title>【課程】2027/04/24-04/27 Bridge 四日野外急救橋接訓練（台北）</title>
+    <link>https://mttigertw.com/lectureInfo/186/</link>
+    <guid>https://mttigertw.com/lectureInfo/186/</guid>
+    <pubDate>2027-04-24</pubDate>
+    <category>羌虎跨域生活 - 台灣急救社群</category>
+    <description>【課程】2027/04/24-04/27 Bridge 四日野外急救橋接訓練（台北）（來源：羌虎跨域生活）</description>
   </item>
 </channel>
 </rss>
