@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-14T00:11:04.214201+00:00",
-  "count": 372,
+  "updated": "2026-10-14T08:24:33.403709+00:00",
+  "count": 370,
   "course_count": 216,
-  "news_count": 156,
+  "news_count": 154,
   "items": [
     {
       "id": "443ce2f4ad1f",
@@ -15,14 +15,14 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28371"
     },
     {
-      "id": "5d3f308c0193",
-      "title": "臺中榮民總醫院國際醫學研討會-急診醫學部智慧急診與韌性醫療的未來 臺中榮民總醫院急診部",
+      "id": "7201d6fe54db",
+      "title": "急診創傷訓練課程(ETTC) 衛生福利部旗山醫院",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-10-17",
-      "deadline": "2026-10-17",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33224"
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33326"
     },
     {
       "id": "e49f2ca0c884",
@@ -125,16 +125,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33268"
     },
     {
-      "id": "4e6ab4f842cb",
-      "title": "高級心臟救命術（ACLS）初訓Provider Course 員榮醫療社團法人員榮醫院員生院區",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-24",
-      "deadline": "2026-09-01",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33335"
-    },
-    {
       "id": "d9371fb49f2a",
       "title": "115年度中毒個案討論會–北區 社團法人台灣急診醫學會、三軍總醫院",
       "source": "台灣急診醫學會",
@@ -231,7 +221,7 @@
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-11-07",
-      "deadline": null,
+      "deadline": "2026-10-27",
       "url": "http://www.trauma.org.tw/active/index.asp?/30.html"
     },
     {
@@ -1385,6 +1375,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "edae3ddae351",
+      "title": "115年家庭醫學科專科醫師甄審通過甄試資格審查名單",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e120313abf9c41d68228d5fba8281818"
+    },
+    {
       "id": "ee074741c59f",
       "title": "轉知 衛福部國健署-有關兒童發展篩檢服務方案之醫師申請資格修正事宜",
       "source": "台灣家庭醫學醫學會",
@@ -1413,16 +1413,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b64237a3823f4d20be48120f4ffaea3f"
-    },
-    {
-      "id": "1aaa9f859717",
-      "title": "轉知-檢送衛福部疾管署修訂之「醫療機構因應伊波拉病毒感染及馬堡病毒出血熱之感染管制指引」，請轉知所轄醫療機構及所屬會員依循辦理。",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/cab55632908e4e1b8a519fc8e639e241"
     },
     {
       "id": "249cfc761773",
@@ -3122,47 +3112,47 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=78c046a1b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=fda78f090&_ss=r"
     },
     {
-      "id": "9bc553af2970",
-      "title": "Israeli T3 Bandage",
+      "id": "7f0bd426cd0d",
+      "title": "B-CON Bleeding Control Kit",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=78c046a1b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=fda78f090&_ss=r"
     },
     {
-      "id": "ac7abee6e285",
-      "title": "4\" Israeli Emergency Bandage® from Safeguard Medical",
+      "id": "4c7353f6cea7",
+      "title": "Curaplex Stop the Bleed Kit - Individual - Intermediate",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=78c046a1b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=fda78f090&_ss=r"
     },
     {
-      "id": "efccb4766388",
-      "title": "6\" Israeli Emergency Bandage® from Safeguard Medical",
+      "id": "b19e6d367f80",
+      "title": "Saline Lock Kit",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=78c046a1b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=fda78f090&_ss=r"
     },
     {
-      "id": "40b63028b17c",
-      "title": "TacMed™ Field Blood Transfusion Kit",
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=78c046a1b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=fda78f090&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3335,14 +3325,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "a85fd5c0e747",
-      "title": "轉知「第44屆台灣微整形美容醫學會研討會 (預計核發特管時數)」活動訊息",
+      "id": "ab78ff703ffa",
+      "title": "急診外傷訓練課程(ETTC) 戴德森醫療財團法人嘉義基督教醫院臨床技能中心",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
-      "type": "news",
+      "type": "course",
       "date": "2026-10-13",
       "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1667"
+      "url": "https://www.sem.org.tw/Activity/B/Details/33351"
     },
     {
       "id": "2e2da9738154",
@@ -3533,16 +3523,6 @@
       "date": "2026-09-30",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
-    },
-    {
-      "id": "e3ff6fa1a47f",
-      "title": "公告「2026年EMS金梧桐獎」獲獎人員/團體",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1659"
     },
     {
       "id": "4bb01c7c73b4",
