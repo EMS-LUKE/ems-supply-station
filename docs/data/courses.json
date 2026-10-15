@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-15T08:01:43.544727+00:00",
-  "count": 370,
+  "updated": "2026-10-15T13:59:07.237147+00:00",
+  "count": 371,
   "course_count": 217,
-  "news_count": 153,
+  "news_count": 154,
   "items": [
+    {
+      "id": "d2c7d48c5c84",
+      "title": "公告「115年十大優秀急診護理師獲選名單」",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-15",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1668"
+    },
     {
       "id": "c2c695538b62",
       "title": "【2026第十二屆全國呼吸道插管暨心肺復甦術競賽】得獎名單",
@@ -3152,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=8b0fb1552&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=8f52a233f&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3162,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=8b0fb1552&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=8f52a233f&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -3172,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=8b0fb1552&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=8f52a233f&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3182,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=8b0fb1552&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=8f52a233f&_ss=r"
     },
     {
       "id": "b19e6d367f80",
@@ -3192,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=8b0fb1552&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=8f52a233f&_ss=r"
     },
     {
       "id": "715383a36e2a",
