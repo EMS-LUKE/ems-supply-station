@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-14T23:42:21.799461+00:00",
-  "count": 370,
+  "updated": "2026-10-15T02:50:57.620636+00:00",
+  "count": 368,
   "course_count": 216,
-  "news_count": 154,
+  "news_count": 152,
   "items": [
+    {
+      "id": "c2c695538b62",
+      "title": "【2026第十二屆全國呼吸道插管暨心肺復甦術競賽】得獎名單",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-10-15",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261015100255"
+    },
     {
       "id": "443ce2f4ad1f",
       "title": "115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議",
@@ -23,6 +33,16 @@
       "date": "2026-10-17",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/B/Details/33326"
+    },
+    {
+      "id": "5d3f308c0193",
+      "title": "臺中榮民總醫院國際醫學研討會-急診醫學部智慧急診與韌性醫療的未來 臺中榮民總醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": "2026-10-17",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33224"
     },
     {
       "id": "e49f2ca0c884",
@@ -3112,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=7ca4f92bb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=00f6ea523&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3122,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=7ca4f92bb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=00f6ea523&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -3132,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=7ca4f92bb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=00f6ea523&_ss=r"
     },
     {
       "id": "b19e6d367f80",
@@ -3142,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=7ca4f92bb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=00f6ea523&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3152,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=7ca4f92bb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=00f6ea523&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3323,16 +3343,6 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
-    },
-    {
-      "id": "ab78ff703ffa",
-      "title": "急診外傷訓練課程(ETTC) 戴德森醫療財團法人嘉義基督教醫院臨床技能中心",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-13",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33351"
     },
     {
       "id": "2e2da9738154",
@@ -3673,36 +3683,6 @@
       "date": "2026-09-15",
       "deadline": null,
       "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1075"
-    },
-    {
-      "id": "8c3a70547b40",
-      "title": "上課通知-115.9.14(一)StrokePrevention in AF : What do you need to know ?step4臨床實例",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-14",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/c54520aca1e343aaa478b9172705fb41"
-    },
-    {
-      "id": "629f7d6111cf",
-      "title": "【2026第十二屆全國呼吸道插管暨心肺復甦術競賽】選手手冊公告",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-09-14",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260914183544"
-    },
-    {
-      "id": "3c3ca3407316",
-      "title": "從資料到決策：災害應變中的決策資訊鏈",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-09-14",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/09/blog-post_14.html"
     }
   ]
 }
