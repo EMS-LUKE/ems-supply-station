@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-16T13:48:16.631829+00:00",
-  "count": 371,
-  "course_count": 217,
+  "updated": "2026-10-16T18:41:20.374567+00:00",
+  "count": 372,
+  "course_count": 218,
   "news_count": 154,
   "items": [
     {
@@ -253,6 +253,16 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28391"
+    },
+    {
+      "id": "aabcdd9ff2c7",
+      "title": "2026亞洲母乳庫國際研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28396"
     },
     {
       "id": "3c7bfd35facc",
@@ -2835,6 +2845,16 @@
       "url": "https://www.c-tecc.org/index.php/our-work/newsletters"
     },
     {
+      "id": "d523c6f5cb85",
+      "title": "C-TECC x BRITMA",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/index.php/news/ctecc-britma-partnership"
+    },
+    {
       "id": "6ee75f979861",
       "title": "Save-the-Date: December 2026 C-TECC Meeting",
       "source": "C-TECC",
@@ -3152,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=346d8e42c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=13d525d8c&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3162,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=346d8e42c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=13d525d8c&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3172,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=346d8e42c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=13d525d8c&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -3182,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=346d8e42c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=13d525d8c&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3192,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=346d8e42c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=13d525d8c&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3513,16 +3533,6 @@
       "date": "2026-10-02",
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
-    },
-    {
-      "id": "203b8932b653",
-      "title": "【學術公告】2026 國際肺高壓學術研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-02",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=571"
     },
     {
       "id": "03c456e85bf0",
