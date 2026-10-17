@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-16T23:18:46.777714+00:00",
+  "updated": "2026-10-17T02:38:09.889393+00:00",
   "count": 372,
   "course_count": 218,
   "news_count": 154,
   "items": [
-    {
-      "id": "7201d6fe54db",
-      "title": "急診創傷訓練課程(ETTC) 衛生福利部旗山醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33326"
-    },
     {
       "id": "31a53adb4813",
       "title": "PALS&APLS 訓練課程 亞東紀念醫院小兒部",
@@ -25,6 +15,16 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/33270"
     },
     {
+      "id": "5d3f308c0193",
+      "title": "臺中榮民總醫院國際醫學研討會-急診醫學部智慧急診與韌性醫療的未來 臺中榮民總醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": "2026-10-17",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33224"
+    },
+    {
       "id": "e49f2ca0c884",
       "title": "2026外傷教育課程-桃竹苗地區(Ⅱ)...",
       "source": "台灣外傷醫學會",
@@ -33,16 +33,6 @@
       "date": "2026-10-17",
       "deadline": "2026-10-05",
       "url": "http://www.trauma.org.tw/active/index.asp?/28.html"
-    },
-    {
-      "id": "ab2cc2ecdb00",
-      "title": "2026周產期及早產兒照護國際研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28385"
     },
     {
       "id": "b33371dcb580",
@@ -273,6 +263,16 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://miasan.com/event/wals20261107/"
+    },
+    {
+      "id": "4175738df8fd",
+      "title": "亞東醫院兒少保護醫療整合中心 成果發表暨實務研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-10",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28399"
     },
     {
       "id": "c1772c700f8e",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=704c1790c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=bcfb7f493&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=704c1790c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=bcfb7f493&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=704c1790c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=bcfb7f493&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -3202,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=704c1790c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=bcfb7f493&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3212,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=704c1790c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=bcfb7f493&_ss=r"
     },
     {
       "id": "715383a36e2a",
