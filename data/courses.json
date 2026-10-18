@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T07:47:15.470939+00:00",
+  "updated": "2026-10-18T13:02:15.765932+00:00",
   "count": 375,
   "course_count": 221,
   "news_count": 154,
@@ -1375,26 +1375,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/928bef7953b94372a03205a8654a5a6a"
     },
     {
-      "id": "a3012b3cb3da",
-      "title": "115年度秋季學術研討會",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/f9715ce06c6d492ebb253e16782f660e"
-    },
-    {
-      "id": "9ce8a33a70b6",
-      "title": "綠色家庭醫師認證課程-中山",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/60f2811a8a334e34a0a48b721403a86d"
-    },
-    {
       "id": "aa839bdac71c",
       "title": "113001-蛋白質與HMB對抗老化相關肌少醫學營養治療作用",
       "source": "台灣家庭醫學醫學會",
@@ -1413,6 +1393,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/07f49bf6210d4d8ca31e61a2a32ac628"
+    },
+    {
+      "id": "c25a97a075e1",
+      "title": "113003-ad-hoc及總結性信賴授權決定",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/15b36a474e794a27b77b012007814d71"
+    },
+    {
+      "id": "046b34419002",
+      "title": "113004-在CBME框架下重新檢視工作場所評估(WPBA)的角色",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/60cf8bf085d84a1d9307c2ead695acc0"
     },
     {
       "id": "a850421e172e",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a7ced6f41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=46cd4ad47&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=a7ced6f41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=46cd4ad47&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3192,27 +3192,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=a7ced6f41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=46cd4ad47&_ss=r"
     },
     {
-      "id": "4110ccb750ce",
-      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
+      "id": "0d89877fc319",
+      "title": "Public Access Bleeding Control (PABC) Twin Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=a7ced6f41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=46cd4ad47&_ss=r"
     },
     {
-      "id": "8d0ac32fa89d",
-      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=5&_sid=a7ced6f41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=46cd4ad47&_ss=r"
     },
     {
       "id": "715383a36e2a",
