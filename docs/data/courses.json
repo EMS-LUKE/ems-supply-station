@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T02:39:27.954203+00:00",
+  "updated": "2026-10-18T07:47:15.470939+00:00",
   "count": 375,
   "course_count": 221,
   "news_count": 154,
@@ -1255,6 +1255,16 @@
       "url": "https://tamis.org.tw/activity/42"
     },
     {
+      "id": "97cf3fd9afe8",
+      "title": "| 【悼 仁醫遠行】深切懷念本會傑出夥伴 朱志生醫師 公告日期：2026 / 10 / 18",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1285"
+    },
+    {
       "id": "3c8d70bf7496",
       "title": "| 📣【TAMIS 超級心光大道－24首金曲】巡迴開唱：第十一首《另眼相看》📣 公告日期：2026 / 10 / 13",
       "source": "台灣心肌梗塞學會",
@@ -1273,16 +1283,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1281"
-    },
-    {
-      "id": "18245bd315b9",
-      "title": "| 【TAMIS 超級心光大道－24首金曲】第九首熱血開唱：《逆光》 公告日期：2026 / 9 / 16",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1278"
     },
     {
       "id": "32dbb30467e3",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=46706071d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a7ced6f41&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=46706071d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=a7ced6f41&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3192,27 +3192,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=46706071d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=a7ced6f41&_ss=r"
     },
     {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=46706071d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=a7ced6f41&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "8d0ac32fa89d",
+      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=46706071d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=5&_sid=a7ced6f41&_ss=r"
     },
     {
       "id": "715383a36e2a",
