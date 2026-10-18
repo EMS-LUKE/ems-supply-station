@@ -1,48 +1,18 @@
 {
-  "updated": "2026-10-17T22:56:00.006723+00:00",
-  "count": 373,
-  "course_count": 219,
+  "updated": "2026-10-18T02:39:27.954203+00:00",
+  "count": 375,
+  "course_count": 221,
   "news_count": 154,
   "items": [
     {
-      "id": "31a53adb4813",
-      "title": "PALS&APLS 訓練課程 亞東紀念醫院小兒部",
+      "id": "c1de4193abe4",
+      "title": "精準與永續：智慧急重症鏈-從數據預警到社區永續照護的實踐與挑戰 社團法人台灣老人急重症醫學會",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33270"
-    },
-    {
-      "id": "5d3f308c0193",
-      "title": "臺中榮民總醫院國際醫學研討會-急診醫學部智慧急診與韌性醫療的未來 臺中榮民總醫院急診部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": "2026-10-17",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33224"
-    },
-    {
-      "id": "e49f2ca0c884",
-      "title": "2026外傷教育課程-桃竹苗地區(Ⅱ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": "2026-10-05",
-      "url": "http://www.trauma.org.tw/active/index.asp?/28.html"
-    },
-    {
-      "id": "8954820cb878",
-      "title": "2026/10/17-10/20 Bridge野外急救橋接急救訓練(北部場)",
-      "source": "米亞桑戶外中心",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://miasan.com/event/bridge20261017/"
+      "date": "2026-10-18",
+      "deadline": "2026-10-18",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33330"
     },
     {
       "id": "e815a0a74ca9",
@@ -63,26 +33,6 @@
       "date": "2026-10-18",
       "deadline": "2026-09-20",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/f9715ce06c6d492ebb253e16782f660e"
-    },
-    {
-      "id": "f2845441fe02",
-      "title": "中華急救教育推廣協會 新生兒高級救命術(NRP)課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28342"
-    },
-    {
-      "id": "35d3612d4452",
-      "title": "2026 國際肺高壓學術研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28395"
     },
     {
       "id": "2770f6998a0b",
@@ -123,6 +73,26 @@
       "date": "2026-10-24",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
+    },
+    {
+      "id": "09e9b812d466",
+      "title": "彰基總院130週年暨兒童醫院12週年院慶國際聯合學術討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-25",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28383"
+    },
+    {
+      "id": "a3ebe05ea776",
+      "title": "2026台灣新生兒醫療照護網絡系統 TNN年度研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-25",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28387"
     },
     {
       "id": "d9371fb49f2a",
@@ -313,6 +283,26 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "c7bfc459e1c7",
+      "title": "新生兒急救加護訓練課程 (NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
+    },
+    {
+      "id": "03f3d9a79297",
+      "title": "2026年新生兒高級救命術NRP訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28360"
     },
     {
       "id": "763ad854bfda",
@@ -3182,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9300d87a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=46706071d&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3192,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=9300d87a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=46706071d&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3202,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=9300d87a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=46706071d&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -3212,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=9300d87a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=46706071d&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3222,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=9300d87a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=46706071d&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3393,6 +3383,36 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
+    },
+    {
+      "id": "31a53adb4813",
+      "title": "PALS&APLS 訓練課程 亞東紀念醫院小兒部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33270"
+    },
+    {
+      "id": "e49f2ca0c884",
+      "title": "2026外傷教育課程-桃竹苗地區(Ⅱ)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": "2026-10-05",
+      "url": "http://www.trauma.org.tw/active/index.asp?/28.html"
+    },
+    {
+      "id": "8954820cb878",
+      "title": "2026/10/17-10/20 Bridge野外急救橋接急救訓練(北部場)",
+      "source": "米亞桑戶外中心",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://miasan.com/event/bridge20261017/"
     },
     {
       "id": "d2c7d48c5c84",
