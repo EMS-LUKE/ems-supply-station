@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-19T02:53:21.531782+00:00",
-  "count": 372,
+  "updated": "2026-10-19T08:29:09.046895+00:00",
+  "count": 373,
   "course_count": 220,
-  "news_count": 152,
+  "news_count": 153,
   "items": [
+    {
+      "id": "65fec62ae206",
+      "title": "醫院災害整備的「四個不知道」：做了這麼多，真的準備好了嗎？",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-10-19",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_19.html"
+    },
     {
       "id": "2770f6998a0b",
       "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
@@ -83,6 +93,16 @@
       "date": "2026-10-27",
       "deadline": "2026-10-27",
       "url": "https://www.sem.org.tw/Activity/A/Details/33254"
+    },
+    {
+      "id": "ec8bf62e3318",
+      "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿（投稿截止時間延至115年10月30日23:59:59截止）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-30",
+      "deadline": "2026-10-30",
+      "url": "http://www.trauma.org.tw/news/index.asp?/82.html"
     },
     {
       "id": "44ea765c0725",
@@ -923,16 +943,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/88.html"
-    },
-    {
-      "id": "3b7a9db31d43",
-      "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/82.html"
     },
     {
       "id": "57654c31c3ba",
@@ -3152,17 +3162,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=d21f47fda&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9e1634560&_ss=r"
     },
     {
-      "id": "fe95ff73d75a",
-      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
+      "id": "09ea6a5c0c26",
+      "title": "Bleeder Pouch – Blue Tide Innovations",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=d21f47fda&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bleeder-pouch-blue-tide-innovations?_pos=2&_sid=9e1634560&_ss=r"
+    },
+    {
+      "id": "7f0bd426cd0d",
+      "title": "B-CON Bleeding Control Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=9e1634560&_ss=r"
+    },
+    {
+      "id": "b19e6d367f80",
+      "title": "Saline Lock Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=9e1634560&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3172,27 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=d21f47fda&_ss=r"
-    },
-    {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=d21f47fda&_ss=r"
-    },
-    {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=d21f47fda&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=9e1634560&_ss=r"
     },
     {
       "id": "715383a36e2a",
