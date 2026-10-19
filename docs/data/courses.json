@@ -1,39 +1,9 @@
 {
-  "updated": "2026-10-18T22:49:02.932073+00:00",
-  "count": 375,
-  "course_count": 221,
-  "news_count": 154,
+  "updated": "2026-10-19T02:53:21.531782+00:00",
+  "count": 372,
+  "course_count": 220,
+  "news_count": 152,
   "items": [
-    {
-      "id": "c1de4193abe4",
-      "title": "精準與永續：智慧急重症鏈-從數據預警到社區永續照護的實踐與挑戰 社團法人台灣老人急重症醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": "2026-10-18",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33330"
-    },
-    {
-      "id": "e815a0a74ca9",
-      "title": "2026/10/18(日)第八屆第二次會員大會暨學術研討會(精準與永續：智慧急重症鏈－從數據預警到社區永續照護的實踐與挑戰)",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1724"
-    },
-    {
-      "id": "c822b11d6397",
-      "title": "115.10.18秋季學術研討會通知（早鳥優惠115年9月20日前）",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": "2026-09-20",
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/f9715ce06c6d492ebb253e16782f660e"
-    },
     {
       "id": "2770f6998a0b",
       "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
@@ -63,6 +33,16 @@
       "date": "2026-10-24",
       "deadline": "2026-10-01",
       "url": "https://www.sem.org.tw/Activity/A/Details/33268"
+    },
+    {
+      "id": "4e6ab4f842cb",
+      "title": "高級心臟救命術（ACLS）初訓Provider Course 員榮醫療社團法人員榮醫院員生院區",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-24",
+      "deadline": "2026-09-01",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33335"
     },
     {
       "id": "4a927816cc75",
@@ -3172,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f5371f0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=d21f47fda&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3182,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=f5371f0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=d21f47fda&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3192,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=f5371f0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=d21f47fda&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -3202,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=f5371f0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=d21f47fda&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3212,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=f5371f0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=d21f47fda&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3385,14 +3365,34 @@
       "url": "https://emj.bmj.com/content/43/9"
     },
     {
-      "id": "31a53adb4813",
-      "title": "PALS&APLS 訓練課程 亞東紀念醫院小兒部",
+      "id": "c1de4193abe4",
+      "title": "精準與永續：智慧急重症鏈-從數據預警到社區永續照護的實踐與挑戰 社團法人台灣老人急重症醫學會",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
+      "deadline": "2026-10-18",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33330"
+    },
+    {
+      "id": "e815a0a74ca9",
+      "title": "2026/10/18(日)第八屆第二次會員大會暨學術研討會(精準與永續：智慧急重症鏈－從數據預警到社區永續照護的實踐與挑戰)",
+      "source": "台灣老人急重症醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-18",
       "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33270"
+      "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1724"
+    },
+    {
+      "id": "c822b11d6397",
+      "title": "115.10.18秋季學術研討會通知（早鳥優惠115年9月20日前）",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-18",
+      "deadline": "2026-09-20",
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/f9715ce06c6d492ebb253e16782f660e"
     },
     {
       "id": "e49f2ca0c884",
@@ -3723,36 +3723,6 @@
       "date": "2026-09-19",
       "deadline": null,
       "url": "https://miasan.com/event/bridge20260919/"
-    },
-    {
-      "id": "032e497ba690",
-      "title": "【DHA 2026】2026 International Conference on Digital Health and Medical Analytics（DHA 2026）115.09.18-20高雄科技大學",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/783.html#here"
-    },
-    {
-      "id": "289ecb43dfc6",
-      "title": "重症會員早鳥報名優惠-2026.9.18~20 【第七屆亞太急性腎損傷與連續性腎替代療法大會】",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": "2026-09-18",
-      "url": "http://course.tsccm.org.tw/df_info.asp?/968.html"
-    },
-    {
-      "id": "83ad24e5b303",
-      "title": "徵稿中~~2026.9.18-20 International Conference on Digital Health and Medical Analytics（DHA 2026）",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
     }
   ]
 }
