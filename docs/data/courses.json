@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-20T03:04:28.421643+00:00",
-  "count": 369,
-  "course_count": 216,
+  "updated": "2026-10-20T08:18:20.179262+00:00",
+  "count": 368,
+  "course_count": 215,
   "news_count": 153,
   "items": [
+    {
+      "id": "9ac09b3af776",
+      "title": "外部資源明明很多，為什麼災害來了卻不一定用得上？ － 資源依賴理論重新思考醫院的外部應變資源評估",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-10-20",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_20.html"
+    },
     {
       "id": "2770f6998a0b",
       "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
@@ -163,16 +173,6 @@
       "date": "2026-11-01",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28404"
-    },
-    {
-      "id": "c1bc229e2527",
-      "title": "2026年臺灣國家公園馬拉松『陽明山』-線上報名",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-11-01",
-      "deadline": null,
-      "url": "https://www.mgems.org/261101-yangminshan-marathron-checkin/"
     },
     {
       "id": "febb26d2b9cd",
@@ -875,24 +875,24 @@
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/811.html#here"
     },
     {
-      "id": "3fe587589dc7",
-      "title": "【Call For ABSTRACT&Registration】SECC Congress 2026 Taipei OCT. 3-4 台大醫院國際會議中心",
+      "id": "3826b68f876d",
+      "title": "【公告】部定專科「重症醫學科」相關事宜",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/791.html#here"
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/796.html#here"
     },
     {
-      "id": "b82b0ec879e2",
-      "title": "【Call For ABSTRACT&Registration】The 10th Asia-Pacific Conference on ICU Early Rehabilitation Taipei 2026 -Oct. 3-4 台大醫院國際會議中心",
+      "id": "69f21043738c",
+      "title": "【新聞稿】重症醫學正式列為部定專科：醫療體系專業化的新願景",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/792.html#here"
+      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/790.html#here"
     },
     {
       "id": "5976222d7829",
@@ -3162,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a2b26272f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=91c01322b&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=a2b26272f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=91c01322b&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=a2b26272f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=91c01322b&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=a2b26272f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=91c01322b&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -3202,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=a2b26272f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=91c01322b&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3342,7 +3342,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/395/bmj-2026-101186.short?rss=1"
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/10/e116242?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3515,24 +3515,14 @@
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
     },
     {
-      "id": "11118864c273",
-      "title": "【最後報名截止日9/20】 SECC Congress 2026 Taipei 暨2026智慧急重症醫療國際會議/第十屆亞太早期重症復健國際會議_115.10.3-4台大醫院國際會議中心",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-03",
-      "deadline": "2026-10-03",
-      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/793.html#here"
-    },
-    {
       "id": "aca6f6ddeac8",
       "title": "【線上開放投票!】邀請您參與APEM 2026 首屆重症病人早期活動影片-最佳人氣王投票115.10.03-04",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
-      "type": "news",
+      "type": "course",
       "date": "2026-10-03",
       "deadline": null,
-      "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/818.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/818.html#here"
     },
     {
       "id": "31a3e058dad0",
