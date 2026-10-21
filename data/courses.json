@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-20T23:41:52.107919+00:00",
-  "count": 368,
-  "course_count": 215,
-  "news_count": 153,
+  "updated": "2026-10-21T02:58:36.930268+00:00",
+  "count": 366,
+  "course_count": 214,
+  "news_count": 152,
   "items": [
     {
-      "id": "9ac09b3af776",
-      "title": "外部資源明明很多，為什麼災害來了卻不一定用得上？ － 資源依賴理論重新思考醫院的外部應變資源評估",
-      "source": "台灣緊急應變管理協會",
+      "id": "e413e468e1f8",
+      "title": "【1151031梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
       "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-10-20",
+      "type": "course",
+      "date": "2026-10-21",
       "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_20.html"
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261020100854"
     },
     {
       "id": "2770f6998a0b",
@@ -865,8 +865,8 @@
       "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here"
     },
     {
-      "id": "3bd678241819",
-      "title": "【Call For Abstract】The APACCM 2026 congress November. 4-6, 2026 Mnaila",
+      "id": "853a11b5608b",
+      "title": "【Call For Abstract】The APACCM 2026 congress November. 4-6, 2026 Manila",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3162,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=de9e1b5a8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=dab20d7d3&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=de9e1b5a8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=dab20d7d3&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=de9e1b5a8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=dab20d7d3&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=de9e1b5a8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=dab20d7d3&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -3202,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=de9e1b5a8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=dab20d7d3&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3342,7 +3342,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/10/e116242?rss=1"
+      "url": "http://www.bmj.com/content/395/bmj-2026-101201.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3373,6 +3373,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
+    },
+    {
+      "id": "9ac09b3af776",
+      "title": "外部資源明明很多，為什麼災害來了卻不一定用得上？ － 資源依賴理論重新思考醫院的外部應變資源評估",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-10-20",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_20.html"
     },
     {
       "id": "65fec62ae206",
@@ -3483,16 +3493,6 @@
       "date": "2026-10-06",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/2e6b260cbd974be89d0e998d80d8dd90"
-    },
-    {
-      "id": "0b8487b68303",
-      "title": "【1150912梯次】北區EMT-1課程 學術科及補考合格名單",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-06",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261005170338"
     },
     {
       "id": "37b989f17538",
@@ -3663,26 +3663,6 @@
       "date": "2026-09-21",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/09/blog-post_21.html"
-    },
-    {
-      "id": "6c12a2120576",
-      "title": "2026系統性文獻回顧與統合分析工作坊(秋季班)",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
-    },
-    {
-      "id": "833242aed1ad",
-      "title": "上課通知-115.9.20(日)RSVPreF3 Indication Expansion &Total Protection Symposium",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9264d6d370e54ced8d3d1076cd78a701"
     }
   ]
 }
