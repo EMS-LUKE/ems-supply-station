@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-21T19:11:12.563208+00:00",
-  "count": 366,
-  "course_count": 214,
+  "updated": "2026-10-21T23:58:45.887097+00:00",
+  "count": 367,
+  "course_count": 215,
   "news_count": 152,
   "items": [
     {
@@ -13,16 +13,6 @@
       "date": "2026-10-21",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261020100854"
-    },
-    {
-      "id": "2770f6998a0b",
-      "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-22",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28358"
     },
     {
       "id": "31731e3015c5",
@@ -103,6 +93,16 @@
       "date": "2026-10-27",
       "deadline": "2026-10-27",
       "url": "https://www.sem.org.tw/Activity/A/Details/33254"
+    },
+    {
+      "id": "80911dacdb16",
+      "title": "兒童抽搐",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-28",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28381"
     },
     {
       "id": "ec8bf62e3318",
@@ -283,6 +283,16 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "52a7e37fae3a",
+      "title": "新生兒高級急救術(NRP)訓練",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28412"
     },
     {
       "id": "c7bfc459e1c7",
@@ -3162,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=afcc10d3b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b1ec6a9c8&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3172,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=afcc10d3b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=b1ec6a9c8&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3182,7 +3192,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=afcc10d3b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=b1ec6a9c8&_ss=r"
+    },
+    {
+      "id": "ad37ec9e265d",
+      "title": "Low Titer O Whole Blood Kit - LTOWB",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=b1ec6a9c8&_ss=r"
     },
     {
       "id": "b19e6d367f80",
@@ -3192,17 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=afcc10d3b&_ss=r"
-    },
-    {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=afcc10d3b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=b1ec6a9c8&_ss=r"
     },
     {
       "id": "715383a36e2a",
