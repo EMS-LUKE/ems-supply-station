@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-22T02:57:43.407969+00:00",
-  "count": 366,
+  "updated": "2026-10-22T08:19:47.885301+00:00",
+  "count": 367,
   "course_count": 215,
-  "news_count": 151,
+  "news_count": 152,
   "items": [
+    {
+      "id": "24c1f53121d8",
+      "title": "🚑1119台灣急診日｜急診韌性接力",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-22",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1673"
+    },
     {
       "id": "31731e3015c5",
       "title": "中級空中醫療救護專業人員訓練課程 社團法人台灣急診醫學會、衛生福利部空中轉診審核中心",
@@ -3162,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=de6c29e53&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a0d1f2a25&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3172,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=de6c29e53&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=a0d1f2a25&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3182,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=de6c29e53&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=a0d1f2a25&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -3192,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=de6c29e53&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=a0d1f2a25&_ss=r"
     },
     {
       "id": "b19e6d367f80",
@@ -3202,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=de6c29e53&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=a0d1f2a25&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3342,7 +3352,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-339185v1?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-340844v1?rss=1"
     },
     {
       "id": "8d656ad77115",
