@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-22T08:19:47.885301+00:00",
-  "count": 367,
-  "course_count": 215,
+  "updated": "2026-10-22T14:25:09.555070+00:00",
+  "count": 366,
+  "course_count": 214,
   "news_count": 152,
   "items": [
     {
@@ -13,6 +13,26 @@
       "date": "2026-10-22",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1673"
+    },
+    {
+      "id": "a87fbc28963a",
+      "title": "以完整醫學實證與醫界長期穩健同行",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-22",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=581"
+    },
+    {
+      "id": "ae866fed259f",
+      "title": "本會 EMT-1訓練課程 因應薔琵颱風停班停課說明：",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-22",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261022170023"
     },
     {
       "id": "31731e3015c5",
@@ -303,16 +323,6 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
-    },
-    {
-      "id": "03f3d9a79297",
-      "title": "2026年新生兒高級救命術NRP訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28360"
     },
     {
       "id": "763ad854bfda",
@@ -1435,6 +1445,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/971d77ae43d944aa9cda19c6bf53c14d"
     },
     {
+      "id": "503b75c6137c",
+      "title": "【重要公告】影音專區/雲端學習平台暫停服務通知",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9ba8250e907e46a69fc89e36124b3fdb"
+    },
+    {
       "id": "e7cf107d6f08",
       "title": "轉知 疾管署新聞稿「國內M痘Ib病毒株病例顯著增加，疾管署呼籲風險族群儘速完成接種2劑疫苗」",
       "source": "台灣家庭醫學醫學會",
@@ -1453,16 +1473,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ba49e5bc78bc4681adecb243034d51fa"
-    },
-    {
-      "id": "fd2bf268e79d",
-      "title": "轉知-全聯會修訂「特定美容醫學處置暨美容醫學手術之訓練及繼續教育課程課綱」，請符合資格之醫師依最新規定辦理。",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/5e59e439ea81450492279b1c841814c0"
     },
     {
       "id": "249cfc761773",
@@ -1725,14 +1735,14 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1092.html"
     },
     {
-      "id": "058d7913052c",
-      "title": "麻醉專科護理師證書換證需求調查",
+      "id": "b7d3ba88a411",
+      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
       "source": "台灣麻醉專科護理學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1091.html"
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
     },
     {
       "id": "51fb926a1999",
@@ -2303,16 +2313,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
-    },
-    {
-      "id": "c32df82d097f",
-      "title": "115年農曆春節假期特設「傳染病特別診」公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
       "id": "ceff0a7c937a",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a0d1f2a25&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=344a84fcb&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=a0d1f2a25&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=344a84fcb&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=a0d1f2a25&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=344a84fcb&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -3202,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=a0d1f2a25&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=344a84fcb&_ss=r"
     },
     {
       "id": "b19e6d367f80",
@@ -3212,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=a0d1f2a25&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=344a84fcb&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3493,16 +3493,6 @@
       "date": "2026-10-08",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/10/blog-post_08.html"
-    },
-    {
-      "id": "6675b9bdedd7",
-      "title": "【1151013梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-07",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261007135801"
     },
     {
       "id": "d304acd5f961",
