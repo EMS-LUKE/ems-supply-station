@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-23T03:01:56.639442+00:00",
+  "updated": "2026-10-23T08:17:59.691708+00:00",
   "count": 366,
-  "course_count": 214,
-  "news_count": 152,
+  "course_count": 213,
+  "news_count": 153,
   "items": [
     {
       "id": "31731e3015c5",
@@ -13,6 +13,16 @@
       "date": "2026-10-23",
       "deadline": "2026-09-24",
       "url": "https://www.sem.org.tw/Activity/A/Details/33360"
+    },
+    {
+      "id": "20cf6aec1a75",
+      "title": "【1151031梯次】北區 初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-23",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261021104523"
     },
     {
       "id": "8c140633bf76",
@@ -53,6 +63,16 @@
       "date": "2026-10-24",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
+    },
+    {
+      "id": "30cf3f28c489",
+      "title": "【最新消息】115年10月24日南區病例討論會辦理原則公告",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-24",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=582"
     },
     {
       "id": "09e9b812d466",
@@ -303,16 +323,6 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
-    },
-    {
-      "id": "03f3d9a79297",
-      "title": "2026年新生兒高級救命術NRP訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28360"
     },
     {
       "id": "763ad854bfda",
@@ -3162,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=72bb24625&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b8df611cc&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -3172,17 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=72bb24625&_ss=r"
-    },
-    {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=72bb24625&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=b8df611cc&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=4&_sid=72bb24625&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=b8df611cc&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -3202,7 +3202,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=5&_sid=72bb24625&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=b8df611cc&_ss=r"
+    },
+    {
+      "id": "b19e6d367f80",
+      "title": "Saline Lock Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=b8df611cc&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3403,16 +3413,6 @@
       "date": "2026-10-22",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261022170023"
-    },
-    {
-      "id": "e413e468e1f8",
-      "title": "【1151031梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-21",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261020100854"
     },
     {
       "id": "9ac09b3af776",
