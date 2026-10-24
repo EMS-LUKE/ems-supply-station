@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Sat, 24 Oct 2026 07:57:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 13:11:02 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】【課程取消】台灣野外救命術訓練課程(初階證照班) 社團法人台灣急診醫學會、羅東博愛醫院</title>
@@ -22,6 +22,14 @@
     <pubDate>2026-10-24</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】打造韌性災難醫療後勤體系 新光醫院急診醫學科（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【消息】恭賀 鄭宏熙醫師 榮獲 第36屆醫療奉獻獎之「個人奉獻獎」</title>
+    <link>https://www.sem.org.tw/News/11/Details/1674</link>
+    <guid>https://www.sem.org.tw/News/11/Details/1674</guid>
+    <pubDate>2026-10-24</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【消息】恭賀 鄭宏熙醫師 榮獲 第36屆醫療奉獻獎之「個人奉獻獎」（來源：台灣急診醫學會）</description>
   </item>
   <item>
     <title>【消息】【最新消息】115年10月24日南區病例討論會辦理原則公告</title>
@@ -478,14 +486,6 @@
     <pubDate>2027-03-27</pubDate>
     <category>米亞桑戶外中心 - 台灣急救社群</category>
     <description>【課程】2027/03/27-03/30 WAFA野外進階急救訓練(北部場)（來源：米亞桑戶外中心）</description>
-  </item>
-  <item>
-    <title>【課程】2027/03/27-03/30 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練</title>
-    <link>https://www.formosa-adventure.com/product_description.php?PNo=100</link>
-    <guid>https://www.formosa-adventure.com/product_description.php?PNo=100</guid>
-    <pubDate>2027-03-27</pubDate>
-    <category>小島探險 - 台灣急救社群</category>
-    <description>【課程】2027/03/27-03/30 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練（來源：小島探險）</description>
   </item>
 </channel>
 </rss>
