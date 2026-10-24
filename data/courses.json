@@ -1,29 +1,9 @@
 {
-  "updated": "2026-10-23T23:51:14.264850+00:00",
+  "updated": "2026-10-24T02:59:42.035690+00:00",
   "count": 366,
   "course_count": 213,
   "news_count": 153,
   "items": [
-    {
-      "id": "31731e3015c5",
-      "title": "中級空中醫療救護專業人員訓練課程 社團法人台灣急診醫學會、衛生福利部空中轉診審核中心",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-23",
-      "deadline": "2026-09-24",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33360"
-    },
-    {
-      "id": "20cf6aec1a75",
-      "title": "【1151031梯次】北區 初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-23",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261021104523"
-    },
     {
       "id": "8c140633bf76",
       "title": "【課程取消】台灣野外救命術訓練課程(初階證照班) 社團法人台灣急診醫學會、羅東博愛醫院",
@@ -33,16 +13,6 @@
       "date": "2026-10-24",
       "deadline": "2026-10-01",
       "url": "https://www.sem.org.tw/Activity/A/Details/33268"
-    },
-    {
-      "id": "4e6ab4f842cb",
-      "title": "高級心臟救命術（ACLS）初訓Provider Course 員榮醫療社團法人員榮醫院員生院區",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-24",
-      "deadline": "2026-09-01",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33335"
     },
     {
       "id": "e06c293aa7b7",
@@ -93,6 +63,16 @@
       "date": "2026-10-25",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28387"
+    },
+    {
+      "id": "95161b69f144",
+      "title": "化災事件緊急醫療應變人員教育訓練 臺北榮民總醫院職業醫學及臨床毒物部、 衛生福利部暨臺北榮總毒藥物防治諮詢中 心、 衛生福利部南區緊急醫療應變中心",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-26",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33364"
     },
     {
       "id": "d9371fb49f2a",
@@ -3172,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f59e20926&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a50bdb98a&_ss=r"
     },
     {
       "id": "f3b27fdbdee6",
@@ -3182,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=f59e20926&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=a50bdb98a&_ss=r"
     },
     {
       "id": "bc020bdc5218",
@@ -3192,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=f59e20926&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=a50bdb98a&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3202,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=f59e20926&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=a50bdb98a&_ss=r"
     },
     {
       "id": "8cc2252d45c1",
@@ -3212,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=5&_sid=f59e20926&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=5&_sid=a50bdb98a&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3383,6 +3363,26 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_3"
+    },
+    {
+      "id": "31731e3015c5",
+      "title": "中級空中醫療救護專業人員訓練課程 社團法人台灣急診醫學會、衛生福利部空中轉診審核中心",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-23",
+      "deadline": "2026-09-24",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33360"
+    },
+    {
+      "id": "20cf6aec1a75",
+      "title": "【1151031梯次】北區 初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-23",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261021104523"
     },
     {
       "id": "24c1f53121d8",
