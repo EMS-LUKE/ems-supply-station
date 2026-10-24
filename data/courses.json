@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T02:59:42.035690+00:00",
-  "count": 366,
-  "course_count": 213,
+  "updated": "2026-10-24T07:57:23.025664+00:00",
+  "count": 367,
+  "course_count": 214,
   "news_count": 153,
   "items": [
     {
@@ -23,16 +23,6 @@
       "date": "2026-10-24",
       "deadline": "2026-10-24",
       "url": "https://www.sem.org.tw/Activity/B/Details/33252"
-    },
-    {
-      "id": "4a927816cc75",
-      "title": "南區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-24",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28137"
     },
     {
       "id": "30cf3f28c489",
@@ -123,6 +113,16 @@
       "date": "2026-10-31",
       "deadline": null,
       "url": "http://www.trauma.org.tw/active/index.asp?/29.html"
+    },
+    {
+      "id": "e57433088083",
+      "title": "新生兒急救(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-31",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28339"
     },
     {
       "id": "bc6a2d0111b8",
@@ -285,16 +285,6 @@
       "url": "https://www.tebma.org.tw/event/list"
     },
     {
-      "id": "52a7e37fae3a",
-      "title": "新生兒高級急救術(NRP)訓練",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28412"
-    },
-    {
       "id": "c7bfc459e1c7",
       "title": "新生兒急救加護訓練課程 (NRP)",
       "source": "台灣新生兒科醫學會",
@@ -303,6 +293,26 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
+    },
+    {
+      "id": "03f3d9a79297",
+      "title": "2026年新生兒高級救命術NRP訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28360"
+    },
+    {
+      "id": "52a7e37fae3a",
+      "title": "新生兒高級急救術(NRP)訓練",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28412"
     },
     {
       "id": "763ad854bfda",
@@ -3152,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a50bdb98a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b97a1f149&_ss=r"
     },
     {
       "id": "f3b27fdbdee6",
@@ -3162,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=a50bdb98a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=b97a1f149&_ss=r"
     },
     {
       "id": "bc020bdc5218",
@@ -3172,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=a50bdb98a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=b97a1f149&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3182,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=a50bdb98a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=b97a1f149&_ss=r"
     },
     {
       "id": "8cc2252d45c1",
@@ -3192,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=5&_sid=a50bdb98a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=5&_sid=b97a1f149&_ss=r"
     },
     {
       "id": "715383a36e2a",
