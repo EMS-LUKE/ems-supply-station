@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T13:37:12.906424+00:00",
+  "updated": "2026-10-25T18:08:42.164697+00:00",
   "count": 368,
   "course_count": 215,
   "news_count": 153,
@@ -1425,6 +1425,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "169cec4e8c4c",
+      "title": "【課前通知】115年家庭醫師整合性照護計畫訓練課程-台大醫學院-其他專科專業教育課程-11/01場次",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/490e6f8941ad403fbca9d254d93feab0"
+    },
+    {
       "id": "da14b48888bd",
       "title": "【公告】本學會明(116)年 三場研討會 時間異動通知，敬請欲報名參加者提早規劃行程",
       "source": "台灣家庭醫學醫學會",
@@ -1443,16 +1453,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9ba8250e907e46a69fc89e36124b3fdb"
-    },
-    {
-      "id": "e7cf107d6f08",
-      "title": "轉知 疾管署新聞稿「國內M痘Ib病毒株病例顯著增加，疾管署呼籲風險族群儘速完成接種2劑疫苗」",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b025bef2ec624a5aabd685ead1d4b0cb"
     },
     {
       "id": "8dff92fc4507",
@@ -2645,6 +2645,16 @@
       "url": "https://wms.org/wms.org/winter27"
     },
     {
+      "id": "e8616fc19915",
+      "title": "2027 Medicine at Sea Pre-Conference (DiDMM Candidate",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org/27medatsea"
+    },
+    {
       "id": "a48a802d78f5",
       "title": "Events",
       "source": "Wilderness Medical Society",
@@ -2663,16 +2673,6 @@
       "date": null,
       "deadline": null,
       "url": "https://wms.org"
-    },
-    {
-      "id": "f54a091f6a36",
-      "title": "2026 WMS Summer Conference In-Person",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org/WMS/WMS/Attend/Conferences/SC26/Master_Summer_2026.aspx"
     },
     {
       "id": "d7c182893afb",
@@ -3162,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f3f17dd68&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=d9a931351&_ss=r"
     },
     {
       "id": "f3b27fdbdee6",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=f3f17dd68&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=d9a931351&_ss=r"
     },
     {
       "id": "bc020bdc5218",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=f3f17dd68&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=d9a931351&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=f3f17dd68&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=d9a931351&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3202,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=f3f17dd68&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=d9a931351&_ss=r"
     },
     {
       "id": "715383a36e2a",
