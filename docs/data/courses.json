@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-25T02:50:32.786871+00:00",
+  "updated": "2026-10-25T08:08:03.161281+00:00",
   "count": 368,
   "course_count": 215,
   "news_count": 153,
   "items": [
-    {
-      "id": "a3ebe05ea776",
-      "title": "2026台灣新生兒醫療照護網絡系統 TNN年度研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-25",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28387"
-    },
     {
       "id": "95161b69f144",
       "title": "化災事件緊急醫療應變人員教育訓練 臺北榮民總醫院職業醫學及臨床毒物部、 衛生福利部暨臺北榮總毒藥物防治諮詢中 心、 衛生福利部南區緊急醫療應變中心",
@@ -113,6 +103,16 @@
       "date": "2026-10-31",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28361"
+    },
+    {
+      "id": "9b9063ddab45",
+      "title": "新生兒急救訓練(NRP)課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-31",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28390"
     },
     {
       "id": "bc6a2d0111b8",
@@ -3162,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=60a287a3d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=5f918dc8c&_ss=r"
     },
     {
       "id": "f3b27fdbdee6",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=60a287a3d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=5f918dc8c&_ss=r"
     },
     {
       "id": "bc020bdc5218",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=60a287a3d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=5f918dc8c&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3192,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=60a287a3d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=5f918dc8c&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3202,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=60a287a3d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=5f918dc8c&_ss=r"
     },
     {
       "id": "715383a36e2a",
