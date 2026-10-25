@@ -1,59 +1,9 @@
 {
-  "updated": "2026-10-24T22:56:33.735152+00:00",
+  "updated": "2026-10-25T02:50:32.786871+00:00",
   "count": 368,
-  "course_count": 214,
-  "news_count": 154,
+  "course_count": 215,
+  "news_count": 153,
   "items": [
-    {
-      "id": "8c140633bf76",
-      "title": "【課程取消】台灣野外救命術訓練課程(初階證照班) 社團法人台灣急診醫學會、羅東博愛醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-24",
-      "deadline": "2026-10-01",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33268"
-    },
-    {
-      "id": "e06c293aa7b7",
-      "title": "打造韌性災難醫療後勤體系 新光醫院急診醫學科",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-24",
-      "deadline": "2026-10-24",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33252"
-    },
-    {
-      "id": "907f397df2c4",
-      "title": "恭賀 鄭宏熙醫師 榮獲 第36屆醫療奉獻獎之「個人奉獻獎」",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-24",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1674"
-    },
-    {
-      "id": "30cf3f28c489",
-      "title": "【最新消息】115年10月24日南區病例討論會辦理原則公告",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-24",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=582"
-    },
-    {
-      "id": "09e9b812d466",
-      "title": "彰基總院130週年暨兒童醫院12週年院慶國際聯合學術討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-25",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28383"
-    },
     {
       "id": "a3ebe05ea776",
       "title": "2026台灣新生兒醫療照護網絡系統 TNN年度研討會",
@@ -83,6 +33,26 @@
       "date": "2026-10-27",
       "deadline": "2026-10-27",
       "url": "https://www.sem.org.tw/Activity/A/Details/33254"
+    },
+    {
+      "id": "c8625d711164",
+      "title": "北區中毒急救教育訓練（初階）臺北市立聯合醫院中興院區 臺北市立聯合醫院中興院區急診醫學科、臺北榮民總醫院職業醫學及臨床毒物部、衛生福利部暨臺北榮總毒藥物防治諮詢中心",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-27",
+      "deadline": "2026-10-27",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33382"
+    },
+    {
+      "id": "3685f7be079e",
+      "title": "115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-28",
+      "deadline": "2026-10-28",
+      "url": "https://www.sem.org.tw/Activity/B/Details/32907"
     },
     {
       "id": "80911dacdb16",
@@ -133,6 +103,16 @@
       "date": "2026-10-31",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28339"
+    },
+    {
+      "id": "61a061532ec1",
+      "title": "新生兒高級急救術(NRP)訓練課程(不對外開放)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-31",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28361"
     },
     {
       "id": "bc6a2d0111b8",
@@ -333,6 +313,16 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://miasan.com/event/wems20261114/"
+    },
+    {
+      "id": "ca127d4bd7b1",
+      "title": "國泰綜合醫院新生兒高級急救術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28410"
     },
     {
       "id": "7293478584df",
@@ -3172,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=013ef8b89&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=60a287a3d&_ss=r"
     },
     {
       "id": "f3b27fdbdee6",
@@ -3182,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=013ef8b89&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=60a287a3d&_ss=r"
     },
     {
       "id": "bc020bdc5218",
@@ -3192,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=013ef8b89&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=60a287a3d&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3202,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=013ef8b89&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=60a287a3d&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3212,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=013ef8b89&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=60a287a3d&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3385,14 +3375,34 @@
       "url": "https://emj.bmj.com/content/43/Suppl_3"
     },
     {
-      "id": "31731e3015c5",
-      "title": "中級空中醫療救護專業人員訓練課程 社團法人台灣急診醫學會、衛生福利部空中轉診審核中心",
+      "id": "e06c293aa7b7",
+      "title": "打造韌性災難醫療後勤體系 新光醫院急診醫學科",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-10-23",
-      "deadline": "2026-09-24",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33360"
+      "date": "2026-10-24",
+      "deadline": "2026-10-24",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33252"
+    },
+    {
+      "id": "907f397df2c4",
+      "title": "恭賀 鄭宏熙醫師 榮獲 第36屆醫療奉獻獎之「個人奉獻獎」",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-24",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1674"
+    },
+    {
+      "id": "30cf3f28c489",
+      "title": "【最新消息】115年10月24日南區病例討論會辦理原則公告",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-24",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=582"
     },
     {
       "id": "20cf6aec1a75",
@@ -3673,16 +3683,6 @@
       "date": "2026-09-25",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/09/blog-post_25.html"
-    },
-    {
-      "id": "afb12390577b",
-      "title": "申請「特定美容醫學處置曁（一般）美容醫學手術之訓練課程時數」抵免",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-24",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/5/Details/1658"
     }
   ]
 }
