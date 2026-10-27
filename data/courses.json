@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T17:19:46.930261+00:00",
+  "updated": "2026-10-27T21:49:06.414038+00:00",
   "count": 371,
   "course_count": 216,
   "news_count": 155,
@@ -3212,17 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=6aefbe6e8&_ss=r"
-    },
-    {
-      "id": "f3b27fdbdee6",
-      "title": "The Emergency Bandage® T3™ Tactical Trauma Treatment Bandage",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=6aefbe6e8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c81acd7f0&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3232,17 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=6aefbe6e8&_ss=r"
-    },
-    {
-      "id": "bc020bdc5218",
-      "title": "The Emergency Bandage® 6 in. (Israeli Bandage)",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=6aefbe6e8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=c81acd7f0&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3252,7 +3232,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=6aefbe6e8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=c81acd7f0&_ss=r"
+    },
+    {
+      "id": "7f0bd426cd0d",
+      "title": "B-CON Bleeding Control Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=c81acd7f0&_ss=r"
+    },
+    {
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=c81acd7f0&_ss=r"
     },
     {
       "id": "715383a36e2a",
