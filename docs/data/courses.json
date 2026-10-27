@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-27T11:31:06.766754+00:00",
-  "count": 370,
+  "updated": "2026-10-27T17:19:46.930261+00:00",
+  "count": 371,
   "course_count": 216,
-  "news_count": 154,
+  "news_count": 155,
   "items": [
     {
       "id": "d9371fb49f2a",
@@ -253,6 +253,16 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://miasan.com/event/wals20261107/"
+    },
+    {
+      "id": "0eaf0ada9458",
+      "title": "上課通知-115.11.8(日)2026 全方位心血管照護： 從血脂、血壓、到中風預防 Comprehensive Cardiovascular Care : From Lipids and Hypertension to Stroke Prevention in AF (Online)",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-08",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6fee194c5f14a8b94262b6d5ce0ead8"
     },
     {
       "id": "4175738df8fd",
@@ -3202,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c14ca0d7f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=6aefbe6e8&_ss=r"
     },
     {
       "id": "f3b27fdbdee6",
@@ -3212,17 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=c14ca0d7f&_ss=r"
-    },
-    {
-      "id": "bc020bdc5218",
-      "title": "The Emergency Bandage® 6 in. (Israeli Bandage)",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=c14ca0d7f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=6aefbe6e8&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3232,7 +3232,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=c14ca0d7f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=6aefbe6e8&_ss=r"
+    },
+    {
+      "id": "bc020bdc5218",
+      "title": "The Emergency Bandage® 6 in. (Israeli Bandage)",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=6aefbe6e8&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3242,7 +3252,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=c14ca0d7f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=6aefbe6e8&_ss=r"
     },
     {
       "id": "715383a36e2a",
