@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-26T22:17:16.647745+00:00",
+  "updated": "2026-10-27T03:23:14.243701+00:00",
   "count": 369,
-  "course_count": 216,
-  "news_count": 153,
+  "course_count": 215,
+  "news_count": 154,
   "items": [
     {
       "id": "d9371fb49f2a",
@@ -13,16 +13,6 @@
       "date": "2026-10-27",
       "deadline": "2026-10-27",
       "url": "https://www.sem.org.tw/Activity/A/Details/33254"
-    },
-    {
-      "id": "c8625d711164",
-      "title": "北區中毒急救教育訓練（初階）臺北市立聯合醫院中興院區 臺北市立聯合醫院中興院區急診醫學科、臺北榮民總醫院職業醫學及臨床毒物部、衛生福利部暨臺北榮總毒藥物防治諮詢中心",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-27",
-      "deadline": "2026-10-27",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33382"
     },
     {
       "id": "3685f7be079e",
@@ -3182,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=01e4fe081&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=542ab1349&_ss=r"
     },
     {
       "id": "f3b27fdbdee6",
@@ -3192,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=01e4fe081&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=542ab1349&_ss=r"
     },
     {
       "id": "bc020bdc5218",
@@ -3202,7 +3192,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=01e4fe081&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=542ab1349&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3212,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=01e4fe081&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=542ab1349&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3222,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=01e4fe081&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=542ab1349&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3362,7 +3352,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/10/e121855?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2025-337477v2?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3693,6 +3683,16 @@
       "date": "2026-09-30",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
+    },
+    {
+      "id": "e3ff6fa1a47f",
+      "title": "公告「2026年EMS金梧桐獎」獲獎人員/團體",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1659"
     }
   ]
 }
