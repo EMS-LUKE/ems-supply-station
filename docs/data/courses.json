@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-28T12:03:50.290249+00:00",
-  "count": 373,
-  "course_count": 218,
+  "updated": "2026-10-28T17:58:00.319996+00:00",
+  "count": 374,
+  "course_count": 219,
   "news_count": 155,
   "items": [
     {
@@ -253,6 +253,16 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://miasan.com/event/wals20261107/"
+    },
+    {
+      "id": "b57afeceb8c7",
+      "title": "上課通知-115.11.8(日)家醫工作坊－高雄場",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-08",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/40a545dd1d2844378235748be70bd24a"
     },
     {
       "id": "0eaf0ada9458",
@@ -1455,6 +1465,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/8b4e11e99d554edea1f0f1a47d5a2707"
     },
     {
+      "id": "1470feb15c21",
+      "title": "家醫工作坊－高雄場",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/40a545dd1d2844378235748be70bd24a"
+    },
+    {
       "id": "aa839bdac71c",
       "title": "113001-蛋白質與HMB對抗老化相關肌少醫學營養治療作用",
       "source": "台灣家庭醫學醫學會",
@@ -1473,16 +1493,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/07f49bf6210d4d8ca31e61a2a32ac628"
-    },
-    {
-      "id": "c25a97a075e1",
-      "title": "113003-ad-hoc及總結性信賴授權決定",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/15b36a474e794a27b77b012007814d71"
     },
     {
       "id": "a850421e172e",
@@ -3232,7 +3242,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=cfb7fb09d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a7e064a42&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3242,7 +3252,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=cfb7fb09d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=a7e064a42&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3252,7 +3262,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=cfb7fb09d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=a7e064a42&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -3262,7 +3272,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=cfb7fb09d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=a7e064a42&_ss=r"
     },
     {
       "id": "e3d1f06c9a38",
@@ -3272,7 +3282,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=cfb7fb09d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=a7e064a42&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3435,14 +3445,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/Suppl_3"
+      "url": "https://emj.bmj.com/content/current"
     },
     {
       "id": "d9371fb49f2a",
