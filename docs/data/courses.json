@@ -1,39 +1,9 @@
 {
-  "updated": "2026-10-28T22:12:31.507904+00:00",
-  "count": 374,
-  "course_count": 219,
-  "news_count": 155,
+  "updated": "2026-10-29T03:59:24.594716+00:00",
+  "count": 372,
+  "course_count": 216,
+  "news_count": 156,
   "items": [
-    {
-      "id": "3685f7be079e",
-      "title": "115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-28",
-      "deadline": "2026-10-28",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32907"
-    },
-    {
-      "id": "08ca5236d599",
-      "title": "【1151031梯次】南區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-28",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261028173948"
-    },
-    {
-      "id": "e413e468e1f8",
-      "title": "【1151031梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-28",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261020100854"
-    },
     {
       "id": "ec8bf62e3318",
       "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿（投稿截止時間延至115年10月30日23:59:59截止）...",
@@ -43,16 +13,6 @@
       "date": "2026-10-30",
       "deadline": "2026-10-30",
       "url": "http://www.trauma.org.tw/news/index.asp?/82.html"
-    },
-    {
-      "id": "c0d23ac685f1",
-      "title": "急診外傷訓練(ETTC)課程 長庚科技大學",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-31",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33346"
     },
     {
       "id": "625c98829660",
@@ -3242,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=3a7eed437&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=0f235c051&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3252,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=3a7eed437&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=0f235c051&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3262,7 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=3a7eed437&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=0f235c051&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -3272,7 +3232,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=3a7eed437&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=0f235c051&_ss=r"
     },
     {
       "id": "e3d1f06c9a38",
@@ -3282,7 +3242,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=3a7eed437&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=0f235c051&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3455,14 +3415,24 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "d9371fb49f2a",
-      "title": "115年度中毒個案討論會–北區 社團法人台灣急診醫學會、三軍總醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
+      "id": "08ca5236d599",
+      "title": "【1151031梯次】南區初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
       "type": "course",
-      "date": "2026-10-27",
-      "deadline": "2026-10-27",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33254"
+      "date": "2026-10-28",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261028173948"
+    },
+    {
+      "id": "e413e468e1f8",
+      "title": "【1151031梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-28",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261020100854"
     },
     {
       "id": "907f397df2c4",
@@ -3743,6 +3713,16 @@
       "date": "2026-09-30",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
+    },
+    {
+      "id": "e3ff6fa1a47f",
+      "title": "公告「2026年EMS金梧桐獎」獲獎人員/團體",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1659"
     }
   ]
 }
