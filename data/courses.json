@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-29T20:07:36.450794+00:00",
-  "count": 373,
+  "updated": "2026-10-30T00:39:23.591981+00:00",
+  "count": 372,
   "course_count": 217,
-  "news_count": 156,
+  "news_count": 155,
   "items": [
-    {
-      "id": "17ea83fa3158",
-      "title": "從醫院到疾病照護網絡：TEMA 推動疾病照護風險管理與緊急應變規劃實務課程",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-29",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/10/tema.html"
-    },
     {
       "id": "ec8bf62e3318",
       "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿（投稿截止時間延至115年10月30日23:59:59截止）...",
@@ -3212,7 +3202,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=71e1e937e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a9d95b37c&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3222,7 +3212,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=71e1e937e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=a9d95b37c&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3232,7 +3222,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=71e1e937e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=a9d95b37c&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -3242,7 +3232,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=71e1e937e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=a9d95b37c&_ss=r"
     },
     {
       "id": "e3d1f06c9a38",
@@ -3252,7 +3242,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=71e1e937e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=a9d95b37c&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3423,6 +3413,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_3"
+    },
+    {
+      "id": "17ea83fa3158",
+      "title": "從醫院到疾病照護網絡：TEMA 推動疾病照護風險管理與緊急應變規劃實務課程",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-29",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/10/tema.html"
     },
     {
       "id": "08ca5236d599",
@@ -3723,16 +3723,6 @@
       "date": "2026-09-30",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/4eccae36067e4394a481ef0c35403849"
-    },
-    {
-      "id": "e3ff6fa1a47f",
-      "title": "公告「2026年EMS金梧桐獎」獲獎人員/團體",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1659"
     }
   ]
 }
