@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Sat, 31 Oct 2026 11:39:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 16:46:16 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】2026外傷教育課程-南部地區(Ⅲ)...</title>
@@ -14,6 +14,14 @@
     <pubDate>2026-10-31</pubDate>
     <category>台灣外傷醫學會 - 台灣學會</category>
     <description>【課程】2026外傷教育課程-南部地區(Ⅲ)...（來源：台灣外傷醫學會）</description>
+  </item>
+  <item>
+    <title>【消息】完成了任務，卻沒有達成目的？ - 從拿破崙的滑鐵盧戰役，重新思考災難應變中的服從命令與自主決策</title>
+    <link>https://temataiwan.blogspot.com/2026/10/blog-post_31.html</link>
+    <guid>https://temataiwan.blogspot.com/2026/10/blog-post_31.html</guid>
+    <pubDate>2026-10-31</pubDate>
+    <category>台灣緊急應變管理協會 - 台灣協會</category>
+    <description>【消息】完成了任務，卻沒有達成目的？ - 從拿破崙的滑鐵盧戰役，重新思考災難應變中的服從命令與自主決策（來源：台灣緊急應變管理協會）</description>
   </item>
   <item>
     <title>【課程】2026/10/31-11/03 WAFA野外進階急救訓練(北部場)</title>
@@ -478,14 +486,6 @@
     <pubDate>2027-03-20</pubDate>
     <category>小島探險 - 台灣急救社群</category>
     <description>【課程】2027/03/20-03/23 WAFA(Wilderness Advanced First- Aid)進階野外急救訓練（來源：小島探險）</description>
-  </item>
-  <item>
-    <title>【課程】2027/03/20-03/23 WAFA 四日進階野外急救訓練（台北）</title>
-    <link>https://mttigertw.com/lectureInfo/188/</link>
-    <guid>https://mttigertw.com/lectureInfo/188/</guid>
-    <pubDate>2027-03-20</pubDate>
-    <category>羌虎跨域生活 - 台灣急救社群</category>
-    <description>【課程】2027/03/20-03/23 WAFA 四日進階野外急救訓練（台北）（來源：羌虎跨域生活）</description>
   </item>
 </channel>
 </rss>
