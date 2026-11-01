@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T03:51:34.107236+00:00",
+  "updated": "2026-11-01T12:36:27.833886+00:00",
   "count": 360,
   "course_count": 207,
   "news_count": 153,
@@ -3082,7 +3082,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=2bcf7e1ed&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=d6dc4ec1a&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3092,37 +3092,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=2bcf7e1ed&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=d6dc4ec1a&_ss=r"
     },
     {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "id": "8d0ac32fa89d",
+      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=2bcf7e1ed&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=d6dc4ec1a&_ss=r"
     },
     {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=2bcf7e1ed&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=d6dc4ec1a&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "e3d1f06c9a38",
+      "title": "SWAT-T™ Stretch, Wrap and Tuck Tourniquet",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=2bcf7e1ed&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=d6dc4ec1a&_ss=r"
     },
     {
       "id": "715383a36e2a",
