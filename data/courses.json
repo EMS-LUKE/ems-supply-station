@@ -1,49 +1,9 @@
 {
-  "updated": "2026-11-01T00:00:23.326498+00:00",
-  "count": 368,
-  "course_count": 215,
+  "updated": "2026-11-01T03:51:34.107236+00:00",
+  "count": 360,
+  "course_count": 207,
   "news_count": 153,
   "items": [
-    {
-      "id": "cf5d4a9b3e2b",
-      "title": "NRP新生兒高級救命術認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-01",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28386"
-    },
-    {
-      "id": "7d3ddae0a687",
-      "title": "新生兒高級急救救命術(NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-01",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28397"
-    },
-    {
-      "id": "c5fe570ba2e7",
-      "title": "2026台灣慢性阻塞性肺病學會與台灣氣喘學會聯合年會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-01",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28400"
-    },
-    {
-      "id": "6e87c93326c0",
-      "title": "產後護理之家新生兒感染防治與照護溝通持續教育課程(實體+線上)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-01",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28404"
-    },
     {
       "id": "b35a8a34e2c3",
       "title": "2026外傷教育課程-東部地區(Ⅰ)...",
@@ -195,26 +155,6 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28360"
     },
     {
-      "id": "c7bfc459e1c7",
-      "title": "新生兒急救加護訓練課程 (NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
-    },
-    {
-      "id": "52a7e37fae3a",
-      "title": "新生兒高級急救術(NRP)訓練",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28412"
-    },
-    {
       "id": "763ad854bfda",
       "title": "2026/11/14-11/15+11/21-11/23 野外醫療救護 -WEMS",
       "source": "米亞桑戶外中心",
@@ -233,16 +173,6 @@
       "date": "2026-11-15",
       "deadline": "2026-11-15",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6146e0283544650b14a8c73d6a07840"
-    },
-    {
-      "id": "ca127d4bd7b1",
-      "title": "國泰綜合醫院新生兒高級急救術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-15",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28410"
     },
     {
       "id": "7293478584df",
@@ -303,26 +233,6 @@
       "date": "2026-11-25",
       "deadline": "2026-11-06",
       "url": "https://www.sem.org.tw/Activity/A/Details/33319"
-    },
-    {
-      "id": "167fd29dc285",
-      "title": "新生兒急救課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-27",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28393"
-    },
-    {
-      "id": "a70a1689491b",
-      "title": "早產兒營養與健康國際研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-28",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28421"
     },
     {
       "id": "c88c1e48ee93",
@@ -493,6 +403,16 @@
       "date": "2027-01-09",
       "deadline": null,
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=127"
+    },
+    {
+      "id": "cf5d4a9b3e2b",
+      "title": "NRP新生兒高級救命術認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2027-01-17",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28382"
     },
     {
       "id": "aefb188b6d23",
@@ -3162,17 +3082,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=84133017e&_ss=r"
-    },
-    {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=84133017e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=2bcf7e1ed&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3182,7 +3092,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=84133017e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=2bcf7e1ed&_ss=r"
+    },
+    {
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=2bcf7e1ed&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -3192,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=84133017e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=2bcf7e1ed&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3202,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=84133017e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=2bcf7e1ed&_ss=r"
     },
     {
       "id": "715383a36e2a",
