@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-01T12:36:27.833886+00:00",
-  "count": 360,
-  "course_count": 207,
+  "updated": "2026-11-01T19:25:51.331568+00:00",
+  "count": 362,
+  "course_count": 209,
   "news_count": 153,
   "items": [
     {
@@ -443,6 +443,26 @@
       "date": "2027-02-12",
       "deadline": null,
       "url": "https://miasan.com/event/wafa20270212/"
+    },
+    {
+      "id": "ebc0b5bb46b1",
+      "title": "2027系統性回顧高階搜尋工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2027-02-20",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/dec58d62955c9fa4730696eabf9ef1bd"
+    },
+    {
+      "id": "a24f00dda2a6",
+      "title": "2027/02/20(六)系統性回顧高階搜尋工作坊2026-11-01",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2027-02-20",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
     },
     {
       "id": "95839510fcd4",
@@ -1355,6 +1375,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "5f91e81892cf",
+      "title": "【課前通知】115年家庭醫師整合性照護計畫訓練課程-中國醫藥大學-其他專科專業教育-11/8場次",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b4e9e88f352045ac89ef57f5afdb3746"
+    },
+    {
       "id": "169cec4e8c4c",
       "title": "【課前通知】115年家庭醫師整合性照護計畫訓練課程-台大醫學院-其他專科專業教育課程-11/01場次",
       "source": "台灣家庭醫學醫學會",
@@ -1373,16 +1403,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/971d77ae43d944aa9cda19c6bf53c14d"
-    },
-    {
-      "id": "8dff92fc4507",
-      "title": "轉知 全聯會「美容醫學案例審查認定」",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ba49e5bc78bc4681adecb243034d51fa"
     },
     {
       "id": "249cfc761773",
@@ -3082,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=d6dc4ec1a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=0e3d7aabe&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3092,37 +3112,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=d6dc4ec1a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=0e3d7aabe&_ss=r"
     },
     {
-      "id": "8d0ac32fa89d",
-      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=d6dc4ec1a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=0e3d7aabe&_ss=r"
     },
     {
-      "id": "4110ccb750ce",
-      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
+      "id": "0d89877fc319",
+      "title": "Public Access Bleeding Control (PABC) Twin Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=d6dc4ec1a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=0e3d7aabe&_ss=r"
     },
     {
-      "id": "e3d1f06c9a38",
-      "title": "SWAT-T™ Stretch, Wrap and Tuck Tourniquet",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=d6dc4ec1a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=0e3d7aabe&_ss=r"
     },
     {
       "id": "715383a36e2a",
