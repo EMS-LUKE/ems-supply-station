@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-01T19:25:51.331568+00:00",
-  "count": 362,
-  "course_count": 209,
-  "news_count": 153,
+  "updated": "2026-11-02T00:13:35.557452+00:00",
+  "count": 360,
+  "course_count": 208,
+  "news_count": 152,
   "items": [
     {
       "id": "b35a8a34e2c3",
@@ -3102,17 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=0e3d7aabe&_ss=r"
-    },
-    {
-      "id": "fe95ff73d75a",
-      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=0e3d7aabe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a566184ac&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3122,7 +3112,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=0e3d7aabe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=a566184ac&_ss=r"
+    },
+    {
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=a566184ac&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -3132,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=0e3d7aabe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=a566184ac&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3142,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=0e3d7aabe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=a566184ac&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3603,26 +3603,6 @@
       "date": "2026-10-03",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "350e1f9042d2",
-      "title": "【ATLS報名】115年「再認證」課程報名資訊（含報名表）115.10.02更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-02",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
-    },
-    {
-      "id": "03c456e85bf0",
-      "title": "小小出生也要好好長大 醫學會籲兒童成長追蹤「一個都不落下」",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-02",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=570"
     }
   ]
 }
