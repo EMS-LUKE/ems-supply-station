@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-02T00:13:35.557452+00:00",
+  "updated": "2026-11-02T10:32:33.366969+00:00",
   "count": 360,
   "course_count": 208,
   "news_count": 152,
   "items": [
+    {
+      "id": "c9681c6e4f4e",
+      "title": "【1151107梯次】中區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-11-02",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261102142416"
+    },
     {
       "id": "b35a8a34e2c3",
       "title": "2026外傷教育課程-東部地區(Ⅰ)...",
@@ -3102,17 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a566184ac&_ss=r"
-    },
-    {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=a566184ac&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=580ff285d&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3122,27 +3122,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=a566184ac&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=580ff285d&_ss=r"
     },
     {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
+      "id": "8d0ac32fa89d",
+      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=a566184ac&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=580ff285d&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=a566184ac&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=4&_sid=580ff285d&_ss=r"
+    },
+    {
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=580ff285d&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3282,7 +3292,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/10/e106101?rss=1"
+      "url": "http://www.bmj.com/content/395/bmj-2026-101301.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3383,16 +3393,6 @@
       "date": "2026-10-28",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261028173948"
-    },
-    {
-      "id": "e413e468e1f8",
-      "title": "【1151031梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-28",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261020100854"
     },
     {
       "id": "907f397df2c4",
