@@ -1,9 +1,29 @@
 {
-  "updated": "2026-11-03T05:01:11.112775+00:00",
-  "count": 358,
-  "course_count": 205,
+  "updated": "2026-11-03T13:34:03.047428+00:00",
+  "count": 359,
+  "course_count": 206,
   "news_count": 153,
   "items": [
+    {
+      "id": "050c372a367e",
+      "title": "醫療韌性與災難醫療教育訓練 臺北市立聯合醫院 中興院區 急診科",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-03",
+      "deadline": "2026-11-03",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33404"
+    },
+    {
+      "id": "101e3e341349",
+      "title": "116年度急診醫學科專科醫師甄審初審簡章公告",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-03",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/7/Details/1677"
+    },
     {
       "id": "429d812920ce",
       "title": "【衛教】腸病毒71型重症風險不容忽視 呼籲滿2個月至未滿6歲幼兒及早接種疫苗",
@@ -13,6 +33,16 @@
       "date": "2026-11-03",
       "deadline": null,
       "url": "https://tsn-neonatology.com/news_content.aspx?id=583"
+    },
+    {
+      "id": "6c4de394815d",
+      "title": "2026 精進外科系醫師醫療韌性賦能工作坊Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": "2026-11-07",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33434"
     },
     {
       "id": "b35a8a34e2c3",
@@ -183,16 +213,6 @@
       "date": "2026-11-15",
       "deadline": "2026-11-15",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6146e0283544650b14a8c73d6a07840"
-    },
-    {
-      "id": "7293478584df",
-      "title": "115 年急診基礎超音波課程-中國附醫場 中國醫藥大學附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-16",
-      "deadline": "2026-11-16",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33391"
     },
     {
       "id": "e41ccd3144ef",
@@ -875,14 +895,14 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
-      "id": "9f506846d138",
-      "title": "【ATLS課表公告】115年第12及13梯次ATLS再認證課程（亞東紀念醫院）...",
+      "id": "ac1f06148f8a",
+      "title": "【ATLS課表公告】115年度第9梯次ATLS課程（林口長庚醫院）...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/89.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/90.html"
     },
     {
       "id": "309f6bccc52a",
@@ -3122,27 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=7862c5036&_ss=r"
-    },
-    {
-      "id": "fe95ff73d75a",
-      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=7862c5036&_ss=r"
-    },
-    {
-      "id": "8d0ac32fa89d",
-      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=7862c5036&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=8692ccf4f&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3152,17 +3152,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=4&_sid=7862c5036&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=8692ccf4f&_ss=r"
     },
     {
-      "id": "4110ccb750ce",
-      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=7862c5036&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=8692ccf4f&_ss=r"
+    },
+    {
+      "id": "0d89877fc319",
+      "title": "Public Access Bleeding Control (PABC) Twin Pack",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=8692ccf4f&_ss=r"
+    },
+    {
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=8692ccf4f&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3302,7 +3322,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/395/bmj-2026-101301.short?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339410v1?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3523,16 +3543,6 @@
       "date": "2026-10-15",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261015100255"
-    },
-    {
-      "id": "a85fd5c0e747",
-      "title": "轉知「第44屆台灣微整形美容醫學會研討會 (預計核發特管時數)」活動訊息",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-13",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1667"
     },
     {
       "id": "2e2da9738154",
