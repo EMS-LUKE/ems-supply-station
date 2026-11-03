@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-02T21:22:58.849861+00:00",
-  "count": 360,
-  "course_count": 208,
-  "news_count": 152,
+  "updated": "2026-11-03T05:01:11.112775+00:00",
+  "count": 358,
+  "course_count": 205,
+  "news_count": 153,
   "items": [
     {
-      "id": "c9681c6e4f4e",
-      "title": "【1151107梯次】中區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-11-02",
+      "id": "429d812920ce",
+      "title": "【衛教】腸病毒71型重症風險不容忽視 呼籲滿2個月至未滿6歲幼兒及早接種疫苗",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-03",
       "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261102142416"
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=583"
     },
     {
       "id": "b35a8a34e2c3",
@@ -313,6 +313,16 @@
       "date": "2026-12-05",
       "deadline": null,
       "url": "https://miasan.com/event/wafa20261205/"
+    },
+    {
+      "id": "00774be8e9e7",
+      "title": "2026外傷教育課程-桃竹苗地區(Ⅲ)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-12",
+      "deadline": "2026-11-30",
+      "url": "http://www.trauma.org.tw/active/index.asp?/34.html"
     },
     {
       "id": "08518396f20a",
@@ -1605,6 +1615,16 @@
       "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
     },
     {
+      "id": "c0ae0ce79635",
+      "title": "11/8 冬季研討會報到須知與時間提醒",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1097.html"
+    },
+    {
       "id": "4a249f5358dd",
       "title": "115年冬季麻醉專科護理師學術研討會",
       "source": "台灣麻醉專科護理學會",
@@ -1623,16 +1643,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
-    },
-    {
-      "id": "41a38fc41bcd",
-      "title": "代登~ 2026 臺灣心臟胸腔暨血管麻醉醫學會 年會暨國際學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/797.html"
     },
     {
       "id": "7f4077aab8c4",
@@ -1665,16 +1675,6 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1094.html"
     },
     {
-      "id": "1091d4943f3b",
-      "title": "【115年上半年度】麻醉專科護理師進階制度認證申請通過名單",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1092.html"
-    },
-    {
       "id": "b7d3ba88a411",
       "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
       "source": "台灣麻醉專科護理學會",
@@ -1683,6 +1683,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
+    },
+    {
+      "id": "1091d4943f3b",
+      "title": "【115年上半年度】麻醉專科護理師進階制度認證申請通過名單",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1092.html"
     },
     {
       "id": "51fb926a1999",
@@ -3112,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=3feac4504&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=7862c5036&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3122,17 +3132,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=3feac4504&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=7862c5036&_ss=r"
     },
     {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
+      "id": "8d0ac32fa89d",
+      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=3&_sid=3feac4504&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=7862c5036&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3142,17 +3152,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=4&_sid=3feac4504&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=4&_sid=7862c5036&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=3feac4504&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=7862c5036&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3323,6 +3333,16 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_3"
+    },
+    {
+      "id": "c9681c6e4f4e",
+      "title": "【1151107梯次】中區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-11-02",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261102142416"
     },
     {
       "id": "44ea765c0725",
@@ -3563,46 +3583,6 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
-    },
-    {
-      "id": "aca6f6ddeac8",
-      "title": "【線上開放投票!】邀請您參與APEM 2026 首屆重症病人早期活動影片-最佳人氣王投票115.10.03-04",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-03",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/818.html#here"
-    },
-    {
-      "id": "31a3e058dad0",
-      "title": "115年秋季學術研討會...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-03",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/index.asp?/26.html"
-    },
-    {
-      "id": "b17460e903a3",
-      "title": "2026/10/03-04(六、日)台灣實證醫學學會種子師資培訓工作坊2026-03-22",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-03",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "38e10c16027c",
-      "title": "2026/10/03-04台灣實證醫學學會種子師資培訓工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-03",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
     }
   ]
 }
