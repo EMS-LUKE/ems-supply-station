@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-04T01:07:14.753766+00:00",
-  "count": 358,
-  "course_count": 205,
-  "news_count": 153,
+  "updated": "2026-11-04T10:23:34.551921+00:00",
+  "count": 360,
+  "course_count": 206,
+  "news_count": 154,
   "items": [
+    {
+      "id": "093deab130c9",
+      "title": "【公告】第三十三屆新生兒科專科醫師考試甄審通過名單",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-04",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=585"
+    },
     {
       "id": "6c4de394815d",
       "title": "2026 精進外科系醫師醫療韌性賦能工作坊Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院",
@@ -105,6 +115,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6fee194c5f14a8b94262b6d5ce0ead8"
     },
     {
+      "id": "5c5045d72f02",
+      "title": "第二屆第二次會員大會暨學術研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-08",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28406"
+    },
+    {
       "id": "309399815d0e",
       "title": "上課通知-115.11.10(二)StrokePrevention in AF : What do you need to know ?",
       "source": "台灣家庭醫學醫學會",
@@ -163,16 +183,6 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "03f3d9a79297",
-      "title": "2026年新生兒高級救命術NRP訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28360"
     },
     {
       "id": "763ad854bfda",
@@ -373,6 +383,16 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28138"
+    },
+    {
+      "id": "6065c8e147d7",
+      "title": "2026.12.19 台灣運動醫學學會年度工作坊",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-19",
+      "deadline": null,
+      "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
     },
     {
       "id": "1f639e45cea8",
@@ -1355,24 +1375,24 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/40a545dd1d2844378235748be70bd24a"
     },
     {
-      "id": "aa839bdac71c",
-      "title": "113001-蛋白質與HMB對抗老化相關肌少醫學營養治療作用",
+      "id": "97988044ef8d",
+      "title": "家庭醫學與基層醫療（月刊）通訊積分11510",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/baba4ad1610e4125a61bf6b840f93fe5"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/7c99633deb884d808be43f70fa3130ee"
     },
     {
-      "id": "95e0269bc88e",
-      "title": "113002-網路遊戲成癮之診斷、治療、與演變",
+      "id": "aa7fdbf6d622",
+      "title": "115年繼續教育-下",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/07f49bf6210d4d8ca31e61a2a32ac628"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/3dfe4bddd45c42c5b5caea61b520701e"
     },
     {
       "id": "503b75c6137c",
@@ -1695,14 +1715,14 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1092.html"
     },
     {
-      "id": "51fb926a1999",
-      "title": "點此填寫報名單",
+      "id": "a4e86635097c",
+      "title": "歡迎點此填寫報名！",
       "source": "台灣運動醫學學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeupCRtPCLIMcesW8H-yD2HpM8X4rnXIaEcKl1-qgSIoKjEUQ/viewform?usp=header"
     },
     {
       "id": "5bfcff8d3c72",
@@ -3122,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e6ace7b77&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=bb8344074&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3132,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=e6ace7b77&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=bb8344074&_ss=r"
     },
     {
       "id": "8d0ac32fa89d",
@@ -3142,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=e6ace7b77&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=bb8344074&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -3152,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=e6ace7b77&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=bb8344074&_ss=r"
     },
     {
       "id": "b0a726b27ffa",
@@ -3162,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/medic-leg-rig-kit-bag?_pos=5&_sid=e6ace7b77&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/medic-leg-rig-kit-bag?_pos=5&_sid=bb8344074&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3302,7 +3322,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339410v1?rss=1"
+      "url": "http://www.bmj.com/content/395/bmj-2026-101337.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3325,14 +3345,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/Suppl_3"
+      "url": "https://emj.bmj.com/content/current"
     },
     {
       "id": "101e3e341349",
