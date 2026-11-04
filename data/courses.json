@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T10:23:34.551921+00:00",
+  "updated": "2026-11-04T19:19:54.089231+00:00",
   "count": 360,
   "course_count": 206,
   "news_count": 154,
@@ -2612,7 +2612,7 @@
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://wms.org/WMS/Attend/Conferences/27-Winter-Conference/Master_Winter_2027.aspx"
+      "url": "https://wms.org/wms.org/winter27"
     },
     {
       "id": "155c5c25135c",
@@ -3142,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=bb8344074&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a889f1f85&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3152,7 +3152,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=bb8344074&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=a889f1f85&_ss=r"
+    },
+    {
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=a889f1f85&_ss=r"
     },
     {
       "id": "8d0ac32fa89d",
@@ -3162,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=bb8344074&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=4&_sid=a889f1f85&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -3172,17 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=bb8344074&_ss=r"
-    },
-    {
-      "id": "b0a726b27ffa",
-      "title": "Medic/Leg Rig Kit Bag",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/medic-leg-rig-kit-bag?_pos=5&_sid=bb8344074&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=a889f1f85&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3345,14 +3345,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
+      "url": "https://emj.bmj.com/content/43/Suppl_3"
     },
     {
       "id": "101e3e341349",
