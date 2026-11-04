@@ -1,39 +1,9 @@
 {
-  "updated": "2026-11-03T20:51:36.418198+00:00",
-  "count": 359,
-  "course_count": 206,
+  "updated": "2026-11-04T01:07:14.753766+00:00",
+  "count": 358,
+  "course_count": 205,
   "news_count": 153,
   "items": [
-    {
-      "id": "050c372a367e",
-      "title": "醫療韌性與災難醫療教育訓練 臺北市立聯合醫院 中興院區 急診科",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-03",
-      "deadline": "2026-11-03",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33404"
-    },
-    {
-      "id": "101e3e341349",
-      "title": "116年度急診醫學科專科醫師甄審初審簡章公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-11-03",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/7/Details/1677"
-    },
-    {
-      "id": "429d812920ce",
-      "title": "【衛教】腸病毒71型重症風險不容忽視 呼籲滿2個月至未滿6歲幼兒及早接種疫苗",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-11-03",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=583"
-    },
     {
       "id": "6c4de394815d",
       "title": "2026 精進外科系醫師醫療韌性賦能工作坊Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院",
@@ -43,6 +13,16 @@
       "date": "2026-11-07",
       "deadline": "2026-11-07",
       "url": "https://www.sem.org.tw/Activity/B/Details/33434"
+    },
+    {
+      "id": "c163111d80ef",
+      "title": "2026 精進外科系醫師醫療韌性國際研討會Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": "2026-11-07",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33433"
     },
     {
       "id": "b35a8a34e2c3",
@@ -3142,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f2fedd849&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e6ace7b77&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3152,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=f2fedd849&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=e6ace7b77&_ss=r"
     },
     {
       "id": "8d0ac32fa89d",
@@ -3162,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=f2fedd849&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=e6ace7b77&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -3172,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=f2fedd849&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=e6ace7b77&_ss=r"
     },
     {
       "id": "b0a726b27ffa",
@@ -3182,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/medic-leg-rig-kit-bag?_pos=5&_sid=f2fedd849&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/medic-leg-rig-kit-bag?_pos=5&_sid=e6ace7b77&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3353,6 +3333,26 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_3"
+    },
+    {
+      "id": "101e3e341349",
+      "title": "116年度急診醫學科專科醫師甄審初審簡章公告",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-03",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/7/Details/1677"
+    },
+    {
+      "id": "429d812920ce",
+      "title": "【衛教】腸病毒71型重症風險不容忽視 呼籲滿2個月至未滿6歲幼兒及早接種疫苗",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-03",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=583"
     },
     {
       "id": "c9681c6e4f4e",
@@ -3583,16 +3583,6 @@
       "date": "2026-10-05",
       "deadline": null,
       "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/816.html#here"
-    },
-    {
-      "id": "009c255ace66",
-      "title": "2026台灣實證醫學學會種子師資培訓工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-04",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
     }
   ]
 }
