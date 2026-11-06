@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-06T01:25:36.870654+00:00",
-  "count": 356,
-  "course_count": 201,
-  "news_count": 155,
+  "updated": "2026-11-06T10:20:35.162581+00:00",
+  "count": 357,
+  "course_count": 200,
+  "news_count": 157,
   "items": [
     {
       "id": "6c4de394815d",
@@ -865,14 +865,14 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/83.html"
     },
     {
-      "id": "2312ed696d10",
-      "title": "115年秋季學術研會，歡迎踴躍報名...",
+      "id": "779cfcbc6967",
+      "title": "2026 精進外科系醫師醫療韌性系列活動（11月7日實體/線上同步登場）...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/77.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/91.html"
     },
     {
       "id": "5132f2172238",
@@ -2215,6 +2215,16 @@
       "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
     },
     {
+      "id": "5fe5f71089fa",
+      "title": "【家庭資源中心開館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1080"
+    },
+    {
       "id": "ed1866c01f90",
       "title": "【家庭資源中心閉館公告】",
       "source": "臺大兒童醫院",
@@ -2265,6 +2275,36 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
     },
     {
+      "id": "fcd778a08898",
+      "title": "黃泰霖醫師：「對的人、對的時間、對的急救措施」",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/guardian-faces/guardian-huang-tailin/"
+    },
+    {
+      "id": "3667f3eb5683",
+      "title": "張宥安：「急救不是一個人的事，是一群人的信念」",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/guardian-faces/guardian-zhang-youan/"
+    },
+    {
+      "id": "38c215d8bf19",
+      "title": "聽見AED 臉書動態",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
+    },
+    {
       "id": "db9a1fd754eb",
       "title": "聽見 AED，不再是孤零零的了。",
       "source": "臺灣愛陌生安全推廣協會",
@@ -2283,36 +2323,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b49%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90%e3%80%91/"
-    },
-    {
-      "id": "38c215d8bf19",
-      "title": "聽見AED 臉書動態",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
-    },
-    {
-      "id": "bb8fd7f9a518",
-      "title": "2026守護者專訪5】張宥安：急救不是一個人的事，是一群人的信念",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/2026%e5%ae%88%e8%ad%b7%e8%80%85%e5%b0%88%e8%a8%aa5%e3%80%91%e5%bc%b5%e5%ae%a5%e5%ae%89%ef%bc%9a%e6%80%a5%e6%95%91%e4%b8%8d%e6%98%af%e4%b8%80%e5%80%8b%e4%ba%ba%e7%9a%84%e4%ba%8b%ef%bc%8c%e6%98%af/"
-    },
-    {
-      "id": "0e0f222b7821",
-      "title": "許晉福：「會急救沒有比較厲害，肯急救也沒有比較厲害」",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/guardian-faces/guardian-xu-jinfu/"
     },
     {
       "id": "c302a6b91021",
@@ -3092,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=3b9fe20dd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=ef228a9f1&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3102,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=3b9fe20dd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=ef228a9f1&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3112,17 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=3b9fe20dd&_ss=r"
-    },
-    {
-      "id": "e3d1f06c9a38",
-      "title": "SWAT-T™ Stretch, Wrap and Tuck Tourniquet",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=4&_sid=3b9fe20dd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=ef228a9f1&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3132,7 +3132,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=3b9fe20dd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=ef228a9f1&_ss=r"
+    },
+    {
+      "id": "0d89877fc319",
+      "title": "Public Access Bleeding Control (PABC) Twin Pack",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=ef228a9f1&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3272,7 +3282,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bjsm.bmj.com/cgi/content/short/bjsports-2026-112206v1?rss=1"
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/11/e118265?rss=1"
     },
     {
       "id": "8d656ad77115",
