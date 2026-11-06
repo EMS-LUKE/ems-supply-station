@@ -1,29 +1,9 @@
 {
-  "updated": "2026-11-05T19:26:03.561204+00:00",
+  "updated": "2026-11-06T01:25:36.870654+00:00",
   "count": 356,
-  "course_count": 200,
-  "news_count": 156,
+  "course_count": 201,
+  "news_count": 155,
   "items": [
-    {
-      "id": "637ae7c92aa5",
-      "title": "115年度急診醫學專科醫師執業狀況調查報告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-11-05",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1681"
-    },
-    {
-      "id": "7b17adc46497",
-      "title": "【課程轉知】台灣美容外科醫學會：美容醫學手術學分認證課程",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-11-05",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/5/Details/1679"
-    },
     {
       "id": "6c4de394815d",
       "title": "2026 精進外科系醫師醫療韌性賦能工作坊Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院",
@@ -883,6 +863,16 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/83.html"
+    },
+    {
+      "id": "2312ed696d10",
+      "title": "115年秋季學術研會，歡迎踴躍報名...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/77.html"
     },
     {
       "id": "5132f2172238",
@@ -3102,7 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=1e119e43e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=3b9fe20dd&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3112,17 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=1e119e43e&_ss=r"
-    },
-    {
-      "id": "e3d1f06c9a38",
-      "title": "SWAT-T™ Stretch, Wrap and Tuck Tourniquet",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=3&_sid=1e119e43e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=3b9fe20dd&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3132,7 +3112,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=4&_sid=1e119e43e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=3b9fe20dd&_ss=r"
+    },
+    {
+      "id": "e3d1f06c9a38",
+      "title": "SWAT-T™ Stretch, Wrap and Tuck Tourniquet",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=4&_sid=3b9fe20dd&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3142,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=1e119e43e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=3b9fe20dd&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3282,7 +3272,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-338987v1?rss=1"
+      "url": "http://bjsm.bmj.com/cgi/content/short/bjsports-2026-112206v1?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3313,6 +3303,26 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_3"
+    },
+    {
+      "id": "637ae7c92aa5",
+      "title": "115年度急診醫學專科醫師執業狀況調查報告",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-05",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1681"
+    },
+    {
+      "id": "7b17adc46497",
+      "title": "【課程轉知】台灣美容外科醫學會：美容醫學手術學分認證課程",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-05",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/5/Details/1679"
     },
     {
       "id": "093deab130c9",
@@ -3553,16 +3563,6 @@
       "date": "2026-10-08",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/10/blog-post_08.html"
-    },
-    {
-      "id": "d304acd5f961",
-      "title": "上課通知-115.10.6成人呼吸道預防新策略與臨床應用-線上",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-06",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/2e6b260cbd974be89d0e998d80d8dd90"
     }
   ]
 }
