@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-06T18:51:57.724111+00:00",
-  "count": 357,
-  "course_count": 200,
+  "updated": "2026-11-07T00:40:00.790644+00:00",
+  "count": 358,
+  "course_count": 201,
   "news_count": 157,
   "items": [
     {
@@ -53,16 +53,6 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/8b4e11e99d554edea1f0f1a47d5a2707"
-    },
-    {
-      "id": "8977206603ef",
-      "title": "新生兒高級急救救命術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-07",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28391"
     },
     {
       "id": "aabcdd9ff2c7",
@@ -143,6 +133,16 @@
       "date": "2026-11-10",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28399"
+    },
+    {
+      "id": "bdbcea310120",
+      "title": "輔仁大學附設醫院婦幼聯合討論會(第二場)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-12",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28392"
     },
     {
       "id": "c1772c700f8e",
@@ -313,6 +313,16 @@
       "date": "2026-12-05",
       "deadline": null,
       "url": "https://miasan.com/event/wafa20261205/"
+    },
+    {
+      "id": "eb8b35146c38",
+      "title": "115年會暨學術研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-06",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28402"
     },
     {
       "id": "00774be8e9e7",
@@ -3102,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=614a0d0f9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=5c2d20042&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3112,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=614a0d0f9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=5c2d20042&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3122,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=614a0d0f9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=5c2d20042&_ss=r"
     },
     {
       "id": "8d0ac32fa89d",
@@ -3132,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=4&_sid=614a0d0f9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=4&_sid=5c2d20042&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -3142,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=614a0d0f9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=5c2d20042&_ss=r"
     },
     {
       "id": "715383a36e2a",
