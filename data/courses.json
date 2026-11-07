@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-07T09:36:53.507358+00:00",
-  "count": 360,
+  "updated": "2026-11-07T17:22:51.980523+00:00",
+  "count": 365,
   "course_count": 203,
-  "news_count": 157,
+  "news_count": 162,
   "items": [
     {
       "id": "6c4de394815d",
@@ -3132,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=04069c9ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c7178ad30&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3142,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=04069c9ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=c7178ad30&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3152,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=04069c9ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=c7178ad30&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3162,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=04069c9ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=c7178ad30&_ss=r"
     },
     {
       "id": "e3d1f06c9a38",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=04069c9ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=c7178ad30&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3343,6 +3343,56 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/Suppl_3"
+    },
+    {
+      "id": "44c61c5c5785",
+      "title": "Prolonged tourniquet use in extremity trauma: What you need to know",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005108~prolonged-tourniquet-use-in-extremity-trauma-what-you-need"
+    },
+    {
+      "id": "9b211a9c729f",
+      "title": "Management of carotid artery injuries: What you need to know",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005122~management-of-carotid-artery-injuries-what-you-need-to-know"
+    },
+    {
+      "id": "c952c3038fc5",
+      "title": "American Association for the Surgery of Trauma/American College of Surgeons Committee on Trauma clinical protocol for nutrition support in adult trauma",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005160~american-association-for-the-surgery-of-traumaamerican"
+    },
+    {
+      "id": "7a0a1673df0c",
+      "title": "The provision of palliative care: A Western Trauma Association critical decisions algorithm",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005112~the-provision-of-palliative-care-a-western-trauma"
+    },
+    {
+      "id": "e3e8e9a587eb",
+      "title": "Western Trauma Association critical decisions in trauma: Lung injury",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
     },
     {
       "id": "637ae7c92aa5",
