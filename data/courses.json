@@ -1,69 +1,9 @@
 {
-  "updated": "2026-11-07T21:25:17.230153+00:00",
+  "updated": "2026-11-08T03:56:10.139361+00:00",
   "count": 365,
-  "course_count": 203,
-  "news_count": 162,
+  "course_count": 204,
+  "news_count": 161,
   "items": [
-    {
-      "id": "6c4de394815d",
-      "title": "2026 精進外科系醫師醫療韌性賦能工作坊Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-07",
-      "deadline": "2026-11-07",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33434"
-    },
-    {
-      "id": "c163111d80ef",
-      "title": "2026 精進外科系醫師醫療韌性國際研討會Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-07",
-      "deadline": "2026-11-07",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33433"
-    },
-    {
-      "id": "b35a8a34e2c3",
-      "title": "2026外傷教育課程-東部地區(Ⅰ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-07",
-      "deadline": "2026-10-27",
-      "url": "http://www.trauma.org.tw/active/index.asp?/30.html"
-    },
-    {
-      "id": "610ba8878908",
-      "title": "2026/11/07-11/11 野外高級救命術",
-      "source": "台灣醫療救護學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-07",
-      "deadline": null,
-      "url": "https://miasan.com/event/wals20261107/?fbclid=IwY2xjawRuixxleHRuA2FlbQIxMABicmlkETFHbDJMVTZ0ZEF5aFFXR1N3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiNf2LUzOJweFDHmBDgvG9ogJyNIuWYsykxsKNd1nvYrgTGqQl1ZVN8WtHWO_aem_vHJ8ecQX3dwiLOp4TEq-jA&brid=YWdncwH-PTH6wTwISkL3dltxbfuo"
-    },
-    {
-      "id": "43db27d2a405",
-      "title": "上課通知-115.11.7 T2D Forward 糖進羅浮 台南區",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-07",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/8b4e11e99d554edea1f0f1a47d5a2707"
-    },
-    {
-      "id": "3c7bfd35facc",
-      "title": "2026/11/07-11/11 野外高級救命術 Wilderness Advanced Life Support – WALS",
-      "source": "米亞桑戶外中心",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-11-07",
-      "deadline": null,
-      "url": "https://miasan.com/event/wals20261107/"
-    },
     {
       "id": "b57afeceb8c7",
       "title": "上課通知-115.11.8(日)家醫工作坊－高雄場",
@@ -83,16 +23,6 @@
       "date": "2026-11-08",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6fee194c5f14a8b94262b6d5ce0ead8"
-    },
-    {
-      "id": "5c5045d72f02",
-      "title": "第二屆第二次會員大會暨學術研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-08",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28406"
     },
     {
       "id": "309399815d0e",
@@ -123,6 +53,16 @@
       "date": "2026-11-12",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28392"
+    },
+    {
+      "id": "3ecafedc2376",
+      "title": "泌尿系統外傷處置 埔基醫療財團法人埔里基督教醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-13",
+      "deadline": "2026-11-13",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33440"
     },
     {
       "id": "cef05a230d1a",
@@ -173,6 +113,16 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28412"
+    },
+    {
+      "id": "03f3d9a79297",
+      "title": "2026年新生兒高級救命術NRP訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28360"
     },
     {
       "id": "763ad854bfda",
@@ -373,6 +323,16 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28144"
+    },
+    {
+      "id": "4a927816cc75",
+      "title": "南區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-19",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28138"
     },
     {
       "id": "6065c8e147d7",
@@ -3132,7 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=323a0cf41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e72135178&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3142,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=323a0cf41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=e72135178&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3152,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=323a0cf41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=e72135178&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3162,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=323a0cf41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=e72135178&_ss=r"
     },
     {
       "id": "e3d1f06c9a38",
@@ -3172,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=323a0cf41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=e72135178&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3393,6 +3353,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
+    },
+    {
+      "id": "255a98410056",
+      "title": "高級心臟救命術（ACLS）初訓Provider Course 彰化基督教醫院急診醫學部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": "2026-10-05",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33416"
+    },
+    {
+      "id": "b35a8a34e2c3",
+      "title": "2026外傷教育課程-東部地區(Ⅰ)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": "2026-10-27",
+      "url": "http://www.trauma.org.tw/active/index.asp?/30.html"
+    },
+    {
+      "id": "610ba8878908",
+      "title": "2026/11/07-11/11 野外高級救命術",
+      "source": "台灣醫療救護學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": null,
+      "url": "https://miasan.com/event/wals20261107/?fbclid=IwY2xjawRuixxleHRuA2FlbQIxMABicmlkETFHbDJMVTZ0ZEF5aFFXR1N3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiNf2LUzOJweFDHmBDgvG9ogJyNIuWYsykxsKNd1nvYrgTGqQl1ZVN8WtHWO_aem_vHJ8ecQX3dwiLOp4TEq-jA&brid=YWdncwH-PTH6wTwISkL3dltxbfuo"
+    },
+    {
+      "id": "43db27d2a405",
+      "title": "上課通知-115.11.7 T2D Forward 糖進羅浮 台南區",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/8b4e11e99d554edea1f0f1a47d5a2707"
+    },
+    {
+      "id": "3c7bfd35facc",
+      "title": "2026/11/07-11/11 野外高級救命術 Wilderness Advanced Life Support – WALS",
+      "source": "米亞桑戶外中心",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": null,
+      "url": "https://miasan.com/event/wals20261107/"
     },
     {
       "id": "637ae7c92aa5",
@@ -3643,16 +3653,6 @@
       "date": "2026-10-12",
       "deadline": null,
       "url": "https://tsn-neonatology.com/news_content.aspx?id=575"
-    },
-    {
-      "id": "02ecb59b1d4b",
-      "title": "每一部分都準備好了，醫院就準備好了嗎？ － 災害應變管理中的「合成謬誤」",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-10-08",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_08.html"
     }
   ]
 }
