@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T03:56:10.139361+00:00",
+  "updated": "2026-11-08T12:42:02.371077+00:00",
   "count": 365,
   "course_count": 204,
   "news_count": 161,
@@ -1295,16 +1295,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/928bef7953b94372a03205a8654a5a6a"
     },
     {
-      "id": "1470feb15c21",
-      "title": "家醫工作坊－高雄場",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/40a545dd1d2844378235748be70bd24a"
-    },
-    {
       "id": "97988044ef8d",
       "title": "家庭醫學與基層醫療（月刊）通訊積分11510",
       "source": "台灣家庭醫學醫學會",
@@ -1325,14 +1315,24 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/3dfe4bddd45c42c5b5caea61b520701e"
     },
     {
-      "id": "d322d0c48f67",
-      "title": "臺灣兒科醫學會第268屆學術演講會",
+      "id": "95b9bd7dd6b8",
+      "title": "台灣內科醫學會「115年會員大會暨學術演講會暨第38屆世界內科醫學會」",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/71187c94c38d480fae8c28e2d043ff34"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/7e68f050c71c4b66853ed7dc58ae5968"
+    },
+    {
+      "id": "8d453828d83a",
+      "title": "2026台灣醫學週台灣聯合醫學會學術演講會暨臺灣醫學會第119屆總會學術演講會",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/6f44b92f5c3e4f59914760b168a84ee4"
     },
     {
       "id": "503b75c6137c",
@@ -3092,7 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e72135178&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=4f233f470&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3102,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=e72135178&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=4f233f470&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3112,7 +3112,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=e72135178&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=4f233f470&_ss=r"
+    },
+    {
+      "id": "cfd2aa6fced7",
+      "title": "TacMed™ SOF® Tourniquet (Gen 5)",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=4f233f470&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3122,17 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=e72135178&_ss=r"
-    },
-    {
-      "id": "e3d1f06c9a38",
-      "title": "SWAT-T™ Stretch, Wrap and Tuck Tourniquet",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=e72135178&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=4f233f470&_ss=r"
     },
     {
       "id": "715383a36e2a",
