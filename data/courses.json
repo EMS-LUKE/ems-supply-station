@@ -1,28 +1,18 @@
 {
-  "updated": "2026-11-08T19:23:27.527500+00:00",
-  "count": 366,
+  "updated": "2026-11-09T00:32:48.991222+00:00",
+  "count": 367,
   "course_count": 204,
-  "news_count": 162,
+  "news_count": 163,
   "items": [
     {
-      "id": "b57afeceb8c7",
-      "title": "上課通知-115.11.8(日)家醫工作坊－高雄場",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-08",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/40a545dd1d2844378235748be70bd24a"
-    },
-    {
-      "id": "0eaf0ada9458",
-      "title": "上課通知-115.11.8(日)2026 全方位心血管照護： 從血脂、血壓、到中風預防 Comprehensive Cardiovascular Care : From Lipids and Hypertension to Stroke Prevention in AF (Online)",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
+      "id": "018d3ce8a6d0",
+      "title": "你的觀察，可能比你想像的更重要 － 從風險通報談風險管理",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
       "type": "news",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6fee194c5f14a8b94262b6d5ce0ead8"
+      "url": "https://temataiwan.blogspot.com/2026/11/blog-post.html"
     },
     {
       "id": "309399815d0e",
@@ -343,16 +333,6 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
-    },
-    {
-      "id": "1f639e45cea8",
-      "title": "2026年臺北馬拉松醫護志工線上報名",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-12-20",
-      "deadline": null,
-      "url": "https://www.mgems.org/261220_taipei_marathron/"
     },
     {
       "id": "6db925e8affe",
@@ -1775,6 +1755,16 @@
       "url": "https://www.pediatr.org.tw/content.php?id=21032"
     },
     {
+      "id": "26eb3bb8e0c5",
+      "title": "2026年玉山管理處初級救護技術員繼續教育訓練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260514_yushan_t1f/"
+    },
+    {
       "id": "140fdaafeed9",
       "title": "2026年臺北101公益垂直馬拉松",
       "source": "中華民國大型活動緊急救護協會",
@@ -3102,17 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=01d98370b&_ss=r"
-    },
-    {
-      "id": "f3b27fdbdee6",
-      "title": "The Emergency Bandage® T3™ Tactical Trauma Treatment Bandage",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=01d98370b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e842ca562&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3122,27 +3102,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=01d98370b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=e842ca562&_ss=r"
     },
     {
-      "id": "32f8e7d8244d",
-      "title": "Vanquest FATPack Medical Pouch - 5\" x 8\"",
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/vanquest-fatpack-medical-pouch-5-x-8?_pos=4&_sid=01d98370b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=e842ca562&_ss=r"
     },
     {
-      "id": "bc020bdc5218",
-      "title": "The Emergency Bandage® 6 in. (Israeli Bandage)",
+      "id": "cfd2aa6fced7",
+      "title": "TacMed™ SOF® Tourniquet (Gen 5)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=5&_sid=01d98370b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=e842ca562&_ss=r"
+    },
+    {
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=e842ca562&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3363,6 +3353,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
+    },
+    {
+      "id": "b57afeceb8c7",
+      "title": "上課通知-115.11.8(日)家醫工作坊－高雄場",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-08",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/40a545dd1d2844378235748be70bd24a"
+    },
+    {
+      "id": "0eaf0ada9458",
+      "title": "上課通知-115.11.8(日)2026 全方位心血管照護： 從血脂、血壓、到中風預防 Comprehensive Cardiovascular Care : From Lipids and Hypertension to Stroke Prevention in AF (Online)",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-08",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6fee194c5f14a8b94262b6d5ce0ead8"
     },
     {
       "id": "255a98410056",
