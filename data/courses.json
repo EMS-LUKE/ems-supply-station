@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-09T10:52:34.987263+00:00",
-  "count": 367,
-  "course_count": 203,
+  "updated": "2026-11-09T21:56:32.071713+00:00",
+  "count": 368,
+  "course_count": 204,
   "news_count": 164,
   "items": [
     {
@@ -1355,6 +1355,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "7744f4094639",
+      "title": "115年家庭醫學科專科醫師甄審筆試成績開放查榜",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/6128f82278ce428a940e4ce28778d5cc"
+    },
+    {
       "id": "e5f5bf7b6111",
       "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-中國醫藥大學-行政管理-11/15場次",
       "source": "台灣家庭醫學醫學會",
@@ -1373,16 +1383,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b4e9e88f352045ac89ef57f5afdb3746"
-    },
-    {
-      "id": "169cec4e8c4c",
-      "title": "【課前通知】115年家庭醫師整合性照護計畫訓練課程-台大醫學院-其他專科專業教育課程-11/01場次",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/490e6f8941ad403fbca9d254d93feab0"
     },
     {
       "id": "e4aa49328311",
@@ -2233,6 +2233,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
+      "id": "80ce9c7cdf7e",
+      "title": "聽見AED｜11月活動時程：初冬將至，守護加溫 】🍁🚑",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c11%e6%9c%88%e6%b4%bb%e5%8b%95%e6%99%82%e7%a8%8b%ef%bc%9a%e5%88%9d%e5%86%ac%e5%b0%87%e8%87%b3%ef%bc%8c%e5%ae%88%e8%ad%b7%e5%8a%a0%e6%ba%ab-%e3%80%91%f0%9f%8d%81/"
     },
     {
       "id": "ceff0a7c937a",
@@ -3092,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=602c38a25&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=0ec4f4e6e&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3102,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=602c38a25&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=0ec4f4e6e&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3112,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=602c38a25&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=0ec4f4e6e&_ss=r"
     },
     {
       "id": "8d0ac32fa89d",
@@ -3122,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=4&_sid=602c38a25&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=4&_sid=0ec4f4e6e&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -3132,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=602c38a25&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=0ec4f4e6e&_ss=r"
     },
     {
       "id": "715383a36e2a",
