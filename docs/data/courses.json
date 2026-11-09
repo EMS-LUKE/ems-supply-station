@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-09T00:32:48.991222+00:00",
+  "updated": "2026-11-09T10:52:34.987263+00:00",
   "count": 367,
-  "course_count": 204,
-  "news_count": 163,
+  "course_count": 203,
+  "news_count": 164,
   "items": [
     {
       "id": "018d3ce8a6d0",
@@ -65,8 +65,8 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28416"
     },
     {
-      "id": "c1772c700f8e",
-      "title": "2026 台灣實證醫學學會學術年會",
+      "id": "ea308325940d",
+      "title": "2026台灣實證醫學學會學術年會",
       "source": "台灣實證醫學學會",
       "cat": "台灣學會",
       "type": "course",
@@ -215,16 +215,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33128"
     },
     {
-      "id": "047989c0a523",
-      "title": "臺北市政府衛生局自115年10月1日至115年11月30日辦理「左流右新健康抽好禮」抽獎活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-11-30",
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19408"
-    },
-    {
       "id": "a2814db719a3",
       "title": "115年住院醫師初階災難訓練課程(北區)【線上+實體】 社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -333,6 +323,26 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
+    },
+    {
+      "id": "1f639e45cea8",
+      "title": "2026年臺北馬拉松醫護志工線上報名",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-12-20",
+      "deadline": null,
+      "url": "https://www.mgems.org/261220_taipei_marathron/"
+    },
+    {
+      "id": "3e2261db046e",
+      "title": "轉知 衛福部-修訂之「代謝症候群防治計畫」，並自116年1月1日起實施",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2027-01-01",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b03dfcc7437c4d6486dd75ca8ee5a8c8"
     },
     {
       "id": "6db925e8affe",
@@ -1375,6 +1385,26 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/490e6f8941ad403fbca9d254d93feab0"
     },
     {
+      "id": "e4aa49328311",
+      "title": "TSBIWH®_第十一屆專業傷口照護訓練課程簡章(招生附件)_20261104.pdf",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/attachments/article/307/TSBIWH®_第十一屆專業傷口照護訓練課程簡章(招生附件)_20261104.pdf"
+    },
+    {
+      "id": "fb38c785d1dd",
+      "title": "【課程訊息】2026年Woundexpert ICW國際傷口師認證課程：台中場(中山醫)",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/index.php/news/25-the-project/306-2026woundexpert-icw-"
+    },
+    {
       "id": "249cfc761773",
       "title": "Woundexpert ICW 國際傷口師認證課程 台中場(中山醫)招生簡章_修.pdf",
       "source": "臺灣燒傷暨傷口照護學會",
@@ -1397,26 +1427,6 @@
     {
       "id": "84fb617b4961",
       "title": "【大會議程公告｜延長報名】2026年會暨國際學術研討會",
-      "source": "臺灣燒傷暨傷口照護學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
-    },
-    {
-      "id": "223552563fec",
-      "title": "與實務對話｜【報名中】2026秋季研討會：傷口衛生工作坊",
-      "source": "臺灣燒傷暨傷口照護學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.burn.org.tw/index.php/news/25-the-project/303-2026"
-    },
-    {
-      "id": "df0c647597b6",
-      "title": "實踐韌性深耕再生｜【延長報名】2026年會暨國際學術研討會",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
       "type": "course",
@@ -1753,16 +1763,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.pediatr.org.tw/content.php?id=21032"
-    },
-    {
-      "id": "26eb3bb8e0c5",
-      "title": "2026年玉山管理處初級救護技術員繼續教育訓練",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/260514_yushan_t1f/"
     },
     {
       "id": "140fdaafeed9",
@@ -3092,7 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e842ca562&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=602c38a25&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3102,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=e842ca562&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=602c38a25&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3112,27 +3112,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=e842ca562&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=602c38a25&_ss=r"
     },
     {
-      "id": "cfd2aa6fced7",
-      "title": "TacMed™ SOF® Tourniquet (Gen 5)",
+      "id": "8d0ac32fa89d",
+      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=e842ca562&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=4&_sid=602c38a25&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=e842ca562&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=602c38a25&_ss=r"
     },
     {
       "id": "715383a36e2a",
