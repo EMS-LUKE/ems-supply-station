@@ -1,19 +1,9 @@
 {
-  "updated": "2026-11-09T21:56:32.071713+00:00",
+  "updated": "2026-11-10T05:41:22.713552+00:00",
   "count": 368,
   "course_count": 204,
   "news_count": 164,
   "items": [
-    {
-      "id": "018d3ce8a6d0",
-      "title": "你的觀察，可能比你想像的更重要 － 從風險通報談風險管理",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-11-09",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/11/blog-post.html"
-    },
     {
       "id": "309399815d0e",
       "title": "上課通知-115.11.10(二)StrokePrevention in AF : What do you need to know ?",
@@ -25,14 +15,14 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/82a3999d5c934b6ca43dce4c6f1aebe1"
     },
     {
-      "id": "4175738df8fd",
-      "title": "亞東醫院兒少保護醫療整合中心 成果發表暨實務研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
+      "id": "8182edc7cc1b",
+      "title": "【1151010梯次】北區EMT-1課程 學術科合格名單",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
       "type": "course",
       "date": "2026-11-10",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28399"
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261106144846"
     },
     {
       "id": "bdbcea310120",
@@ -113,6 +103,16 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28360"
+    },
+    {
+      "id": "c7bfc459e1c7",
+      "title": "新生兒急救加護訓練課程 (NRP)",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
     },
     {
       "id": "763ad854bfda",
@@ -333,6 +333,16 @@
       "date": "2026-12-20",
       "deadline": null,
       "url": "https://www.mgems.org/261220_taipei_marathron/"
+    },
+    {
+      "id": "5bdffcab215a",
+      "title": "新生兒(含早產兒)診療及照護研討暨教學",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28423"
     },
     {
       "id": "3e2261db046e",
@@ -825,34 +835,14 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/90.html"
     },
     {
-      "id": "309f6bccc52a",
-      "title": "115年精進外科系醫師醫療韌性訓練計畫，將辦理DSTC/DATC/DPNTC課程...",
+      "id": "0236e4bc4186",
+      "title": "115年精進外科系醫師醫療韌性訓練計畫，將於9月~12月辦理六場課程...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/84.html"
-    },
-    {
-      "id": "e85ef2684575",
-      "title": "2026精進外科系醫師醫療韌性國際研討會，歡迎踴躍報名...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/83.html"
-    },
-    {
-      "id": "779cfcbc6967",
-      "title": "2026 精進外科系醫師醫療韌性系列活動（11月7日實體/線上同步登場）...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/91.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
     },
     {
       "id": "5132f2172238",
@@ -873,6 +863,16 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
+    },
+    {
+      "id": "1cfee8fade00",
+      "title": "誠徵醫學會秘書...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
     },
     {
       "id": "86005a8326cc",
@@ -3102,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=0ec4f4e6e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c7d6bca95&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3112,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=0ec4f4e6e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=c7d6bca95&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3122,27 +3122,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=0ec4f4e6e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=c7d6bca95&_ss=r"
     },
     {
-      "id": "8d0ac32fa89d",
-      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=4&_sid=0ec4f4e6e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=c7d6bca95&_ss=r"
     },
     {
-      "id": "4110ccb750ce",
-      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
+      "id": "caf15fd242f7",
+      "title": "Public Access Clear Wall Case",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=0ec4f4e6e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-clear-wall-case?_pos=5&_sid=c7d6bca95&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3365,6 +3365,16 @@
       "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
     },
     {
+      "id": "018d3ce8a6d0",
+      "title": "你的觀察，可能比你想像的更重要 － 從風險通報談風險管理",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-11-09",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/11/blog-post.html"
+    },
+    {
       "id": "b57afeceb8c7",
       "title": "上課通知-115.11.8(日)家醫工作坊－高雄場",
       "source": "台灣家庭醫學醫學會",
@@ -3553,16 +3563,6 @@
       "date": "2026-10-29",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/10/tema.html"
-    },
-    {
-      "id": "08ca5236d599",
-      "title": "【1151031梯次】南區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-28",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261028173948"
     },
     {
       "id": "907f397df2c4",
