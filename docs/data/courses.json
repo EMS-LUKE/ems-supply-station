@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-10T05:41:22.713552+00:00",
-  "count": 368,
-  "course_count": 204,
+  "updated": "2026-11-10T14:12:31.773919+00:00",
+  "count": 370,
+  "course_count": 206,
   "news_count": 164,
   "items": [
     {
@@ -843,6 +843,16 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
+    },
+    {
+      "id": "63739d2f9c2b",
+      "title": "高級手術創傷治療(Advanced Surgical Trauma Care, ASTC)訓練課程，歡迎報名參加...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/92.html"
     },
     {
       "id": "5132f2172238",
@@ -3102,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c7d6bca95&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=44801c88f&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3112,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=c7d6bca95&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=44801c88f&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3122,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=c7d6bca95&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=44801c88f&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3132,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=c7d6bca95&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=44801c88f&_ss=r"
     },
     {
       "id": "caf15fd242f7",
@@ -3142,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-clear-wall-case?_pos=5&_sid=c7d6bca95&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-clear-wall-case?_pos=5&_sid=44801c88f&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3563,6 +3573,16 @@
       "date": "2026-10-29",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/10/tema.html"
+    },
+    {
+      "id": "e02371258470",
+      "title": "2027年渣打臺北公益馬拉醫護志工線上報名",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-27",
+      "deadline": null,
+      "url": "https://www.mgems.org/260111_charter_checkin/"
     },
     {
       "id": "907f397df2c4",
