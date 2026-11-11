@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Wed, 11 Nov 2026 04:13:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 13:29:34 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】輔仁大學附設醫院婦幼聯合討論會(第二場)</title>
@@ -264,6 +264,14 @@
     <description>【課程】新生兒(含早產兒)診療及照護研討暨教學（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
+    <title>【消息】轉知 國健署-為配合早產兒兒童預防保健服務矯正年齡檢核機制調整，請各醫療院所及醫療資訊系統廠商配合更新系統設定，並自116年1月1日起實施</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/284243e323704e60adc9c9aac711adf6</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/284243e323704e60adc9c9aac711adf6</guid>
+    <pubDate>2027-01-01</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【消息】轉知 國健署-為配合早產兒兒童預防保健服務矯正年齡檢核機制調整，請各醫療院所及醫療資訊系統廠商配合更新系統設定，並自116年1月1日起實施（來源：台灣家庭醫學醫學會）</description>
+  </item>
+  <item>
     <title>【消息】轉知 衛福部-修訂之「代謝症候群防治計畫」，並自116年1月1日起實施</title>
     <link>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b03dfcc7437c4d6486dd75ca8ee5a8c8</link>
     <guid>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b03dfcc7437c4d6486dd75ca8ee5a8c8</guid>
@@ -478,14 +486,6 @@
     <pubDate>2027-05-22</pubDate>
     <category>羌虎跨域生活 - 台灣急救社群</category>
     <description>【課程】2027/05/22-05/23 WFA 二日初階野外急救訓練（台北）（來源：羌虎跨域生活）</description>
-  </item>
-  <item>
-    <title>【課程】2027/06/05-06/08 Bridge野外急救橋接急救訓練(北部場)</title>
-    <link>https://miasan.com/event/bridge20270605/</link>
-    <guid>https://miasan.com/event/bridge20270605/</guid>
-    <pubDate>2027-06-05</pubDate>
-    <category>米亞桑戶外中心 - 台灣急救社群</category>
-    <description>【課程】2027/06/05-06/08 Bridge野外急救橋接急救訓練(北部場)（來源：米亞桑戶外中心）</description>
   </item>
 </channel>
 </rss>

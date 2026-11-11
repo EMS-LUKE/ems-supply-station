@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-11T04:13:19.863381+00:00",
-  "count": 370,
+  "updated": "2026-11-11T13:29:34.963602+00:00",
+  "count": 371,
   "course_count": 206,
-  "news_count": 164,
+  "news_count": 165,
   "items": [
     {
       "id": "bdbcea310120",
@@ -323,6 +323,16 @@
       "date": "2026-12-23",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28423"
+    },
+    {
+      "id": "5bc34b89c87b",
+      "title": "轉知 國健署-為配合早產兒兒童預防保健服務矯正年齡檢核機制調整，請各醫療院所及醫療資訊系統廠商配合更新系統設定，並自116年1月1日起實施",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2027-01-01",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/284243e323704e60adc9c9aac711adf6"
     },
     {
       "id": "3e2261db046e",
@@ -1155,6 +1165,16 @@
       "url": "https://tamis.org.tw/activity/42"
     },
     {
+      "id": "c5327a6d0a2a",
+      "title": "| 🌟 【TAMIS 超級心光大道－24首金曲】第十二首重磅登場：《你是我的眼》 🌟 公告日期：2026 / 11 / 11",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1287"
+    },
+    {
       "id": "97cf3fd9afe8",
       "title": "| 【悼 仁醫遠行】深切懷念本會傑出夥伴 朱志生醫師 公告日期：2026 / 10 / 18",
       "source": "台灣心肌梗塞學會",
@@ -1173,16 +1193,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1284"
-    },
-    {
-      "id": "f1f303ad451a",
-      "title": "| 📣 【TAMIS 超級心光大道－24首金曲】第十首重磅登場：《依靠》 📣 公告日期：2026 / 9 / 18",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1281"
     },
     {
       "id": "32dbb30467e3",
@@ -2765,6 +2775,16 @@
       "url": "https://www.c-tecc.org/index.php/our-work/newsletters"
     },
     {
+      "id": "f6e4526fa6bc",
+      "title": "TECC Guidelines Amendment Requests",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/index.php/news/tecc-guidelines-amendments-dec2026"
+    },
+    {
       "id": "d523c6f5cb85",
       "title": "C-TECC x BRITMA",
       "source": "C-TECC",
@@ -2773,16 +2793,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/index.php/news/ctecc-britma-partnership"
-    },
-    {
-      "id": "6ee75f979861",
-      "title": "Save-the-Date: December 2026 C-TECC Meeting",
-      "source": "C-TECC",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.c-tecc.org/index.php/news/save-the-date-dec-2026-meeting"
     },
     {
       "id": "fe9e49751244",
@@ -3092,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a37cac37a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=66d860e3b&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3102,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=a37cac37a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=66d860e3b&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3112,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=a37cac37a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=66d860e3b&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3122,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=a37cac37a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=66d860e3b&_ss=r"
     },
     {
       "id": "caf15fd242f7",
@@ -3132,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-clear-wall-case?_pos=5&_sid=a37cac37a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-clear-wall-case?_pos=5&_sid=66d860e3b&_ss=r"
     },
     {
       "id": "715383a36e2a",
