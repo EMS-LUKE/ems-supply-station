@@ -1,19 +1,9 @@
 {
-  "updated": "2026-11-11T21:48:40.869958+00:00",
+  "updated": "2026-11-12T05:25:22.625694+00:00",
   "count": 371,
-  "course_count": 206,
-  "news_count": 165,
+  "course_count": 207,
+  "news_count": 164,
   "items": [
-    {
-      "id": "bdbcea310120",
-      "title": "輔仁大學附設醫院婦幼聯合討論會(第二場)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28392"
-    },
     {
       "id": "3ecafedc2376",
       "title": "泌尿系統外傷處置 埔基醫療財團法人埔里基督教醫院",
@@ -113,6 +103,16 @@
       "date": "2026-11-15",
       "deadline": "2026-11-15",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6146e0283544650b14a8c73d6a07840"
+    },
+    {
+      "id": "1c2760bb80e3",
+      "title": "兒童進階急救術學員訓練課程（PALS Provider Course）",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28407"
     },
     {
       "id": "e41ccd3144ef",
@@ -323,6 +323,16 @@
       "date": "2026-12-23",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28423"
+    },
+    {
+      "id": "f8a9622624b9",
+      "title": "北區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28128"
     },
     {
       "id": "5bc34b89c87b",
@@ -3102,17 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=fa67bfe5c&_ss=r"
-    },
-    {
-      "id": "fe95ff73d75a",
-      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=fa67bfe5c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=53d27f8f3&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3122,7 +3122,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=fa67bfe5c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=53d27f8f3&_ss=r"
+    },
+    {
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=53d27f8f3&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -3132,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=fa67bfe5c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=53d27f8f3&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -3142,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=fa67bfe5c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=53d27f8f3&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3703,16 +3713,6 @@
       "date": "2026-10-15",
       "deadline": null,
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261015100255"
-    },
-    {
-      "id": "2e2da9738154",
-      "title": "【衛教】早產兒靜脈營養照護建議",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=575"
     }
   ]
 }

@@ -5,16 +5,8 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Wed, 11 Nov 2026 21:48:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 05:25:22 +0000</lastBuildDate>
   <ttl>180</ttl>
-  <item>
-    <title>【課程】輔仁大學附設醫院婦幼聯合討論會(第二場)</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28392</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28392</guid>
-    <pubDate>2026-11-12</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】輔仁大學附設醫院婦幼聯合討論會(第二場)（來源：台灣新生兒科醫學會）</description>
-  </item>
   <item>
     <title>【課程】泌尿系統外傷處置 埔基醫療財團法人埔里基督教醫院</title>
     <link>https://www.sem.org.tw/Activity/B/Details/33440</link>
@@ -94,6 +86,14 @@
     <pubDate>2026-11-15</pubDate>
     <category>台灣家庭醫學醫學會 - 台灣學會</category>
     <description>【消息】轉知 衛福部疾管署-公費流感抗病毒藥劑擴大使用條件適用期限延長至115年11月15日止（來源：台灣家庭醫學醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】兒童進階急救術學員訓練課程（PALS Provider Course）</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28407</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28407</guid>
+    <pubDate>2026-11-15</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】兒童進階急救術學員訓練課程（PALS Provider Course）（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會</title>
@@ -262,6 +262,14 @@
     <pubDate>2026-12-23</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】新生兒(含早產兒)診療及照護研討暨教學（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】北區聯合病例討論會</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28128</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28128</guid>
+    <pubDate>2026-12-23</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】北區聯合病例討論會（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【消息】轉知 國健署-為配合早產兒兒童預防保健服務矯正年齡檢核機制調整，請各醫療院所及醫療資訊系統廠商配合更新系統設定，並自116年1月1日起實施</title>
@@ -478,14 +486,6 @@
     <pubDate>2027-05-22</pubDate>
     <category>小島探險 - 台灣急救社群</category>
     <description>【課程】2027/05/22-05/23 WFA(Wilderness First- Aid)初級野外急救訓練（來源：小島探險）</description>
-  </item>
-  <item>
-    <title>【課程】2027/05/22-05/23 WFA 二日初階野外急救訓練（台北）</title>
-    <link>https://mttigertw.com/lectureInfo/189/</link>
-    <guid>https://mttigertw.com/lectureInfo/189/</guid>
-    <pubDate>2027-05-22</pubDate>
-    <category>羌虎跨域生活 - 台灣急救社群</category>
-    <description>【課程】2027/05/22-05/23 WFA 二日初階野外急救訓練（台北）（來源：羌虎跨域生活）</description>
   </item>
 </channel>
 </rss>
