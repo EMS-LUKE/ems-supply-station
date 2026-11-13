@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Fri, 13 Nov 2026 04:40:21 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 13:51:58 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】泌尿系統外傷處置 埔基醫療財團法人埔里基督教醫院</title>
@@ -14,14 +14,6 @@
     <pubDate>2026-11-13</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】泌尿系統外傷處置 埔基醫療財團法人埔里基督教醫院（來源：台灣急診醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】成立母乳庫捐乳小型發送站研討會</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28416</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28416</guid>
-    <pubDate>2026-11-13</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】成立母乳庫捐乳小型發送站研討會（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】2026台灣實證醫學學會學術年會</title>
@@ -48,14 +40,6 @@
     <description>【課程】2026/11/14 台灣實證醫學學會學術年會（來源：台灣實證醫學學會）</description>
   </item>
   <item>
-    <title>【課程】新生兒高級急救術(NRP)訓練</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28412</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28412</guid>
-    <pubDate>2026-11-14</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】新生兒高級急救術(NRP)訓練（來源：台灣新生兒科醫學會）</description>
-  </item>
-  <item>
     <title>【課程】2026年新生兒高級救命術NRP訓練課程</title>
     <link>https://tsn-neonatology.com/event_content.aspx?id=28360</link>
     <guid>https://tsn-neonatology.com/event_content.aspx?id=28360</guid>
@@ -70,6 +54,14 @@
     <pubDate>2026-11-14</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】新生兒急救加護訓練課程 (NRP)（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】新生兒高級急救術(NRP)訓練</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28412</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28412</guid>
+    <pubDate>2026-11-14</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】新生兒高級急救術(NRP)訓練（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】2026/11/14-11/15+11/21-11/23 野外醫療救護 -WEMS</title>
@@ -94,6 +86,14 @@
     <pubDate>2026-11-15</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】兒童進階急救術學員訓練課程（PALS Provider Course）（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】國泰綜合醫院新生兒高級急救術(NRP)訓練課程</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28410</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28410</guid>
+    <pubDate>2026-11-15</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】國泰綜合醫院新生兒高級急救術(NRP)訓練課程（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會</title>
@@ -304,6 +304,14 @@
     <description>【課程】2027/01/09-01/11 WFR Recert( WFR複訓課程)（來源：小島探險）</description>
   </item>
   <item>
+    <title>【課程】NRP新生兒高級救命術認證課程</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28382</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28382</guid>
+    <pubDate>2027-01-17</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】NRP新生兒高級救命術認證課程（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
     <title>【課程】2027/01/30-02/01 WFR野外第一線反應人員-複訓</title>
     <link>https://miasan.com/event/recert20270130/</link>
     <guid>https://miasan.com/event/recert20270130/</guid>
@@ -478,14 +486,6 @@
     <pubDate>2027-05-22</pubDate>
     <category>小島探險 - 台灣急救社群</category>
     <description>【課程】2027/05/22-05/23 WFA(Wilderness First- Aid)初級野外急救訓練（來源：小島探險）</description>
-  </item>
-  <item>
-    <title>【課程】2027/05/22-05/23 WFA 二日初階野外急救訓練（台北）</title>
-    <link>https://mttigertw.com/lectureInfo/189/</link>
-    <guid>https://mttigertw.com/lectureInfo/189/</guid>
-    <pubDate>2027-05-22</pubDate>
-    <category>羌虎跨域生活 - 台灣急救社群</category>
-    <description>【課程】2027/05/22-05/23 WFA 二日初階野外急救訓練（台北）（來源：羌虎跨域生活）</description>
   </item>
 </channel>
 </rss>
