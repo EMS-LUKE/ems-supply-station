@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-15T00:42:47.402267+00:00",
-  "count": 368,
+  "updated": "2026-11-15T10:22:50.484374+00:00",
+  "count": 372,
   "course_count": 206,
-  "news_count": 162,
+  "news_count": 166,
   "items": [
     {
       "id": "24e1fe585edd",
@@ -1265,24 +1265,24 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/3dfe4bddd45c42c5b5caea61b520701e"
     },
     {
-      "id": "95b9bd7dd6b8",
-      "title": "台灣內科醫學會「115年會員大會暨學術演講會暨第38屆世界內科醫學會」",
+      "id": "0b0a87b1a333",
+      "title": "115年度老人及癌症醫療照護研討會(11)",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/7e68f050c71c4b66853ed7dc58ae5968"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/0837ec6c501b4a9697954d616264470e"
     },
     {
-      "id": "8d453828d83a",
-      "title": "2026台灣醫學週台灣聯合醫學會學術演講會暨臺灣醫學會第119屆總會學術演講會",
+      "id": "7f461edd6213",
+      "title": "基層醫療常見感染症診斷及處置迷思",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/6f44b92f5c3e4f59914760b168a84ee4"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/59178fb922934613b57bfeee23e95516"
     },
     {
       "id": "503b75c6137c",
@@ -2685,6 +2685,46 @@
       "url": "https://www.foamfrat.com/shop-merch"
     },
     {
+      "id": "70d34a5fccd1",
+      "title": "JOIN TODAY",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
+      "id": "0698483439b7",
+      "title": "Enroll for free",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/enroll/3262146"
+    },
+    {
+      "id": "a56497f44850",
+      "title": "View more courses",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/collections"
+    },
+    {
+      "id": "222cb12ad6aa",
+      "title": "Join Today!",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
       "id": "37c0eeae5854",
       "title": "C-TECC Hosts Workshop at ATMC 2026",
       "source": "C-TECC",
@@ -3052,7 +3092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=ccf8fa9ab&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=fdeba56a9&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3062,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=ccf8fa9ab&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=fdeba56a9&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3072,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=ccf8fa9ab&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=fdeba56a9&_ss=r"
     },
     {
       "id": "2acb86d87652",
@@ -3082,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=ccf8fa9ab&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=fdeba56a9&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -3092,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=ccf8fa9ab&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=fdeba56a9&_ss=r"
     },
     {
       "id": "715383a36e2a",
