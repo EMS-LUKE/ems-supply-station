@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-16T00:43:20.909139+00:00",
-  "count": 372,
-  "course_count": 206,
-  "news_count": 166,
+  "updated": "2026-11-16T10:36:01.960881+00:00",
+  "count": 373,
+  "course_count": 205,
+  "news_count": 168,
   "items": [
     {
       "id": "ea047e2213ca",
@@ -23,6 +23,36 @@
       "date": "2026-11-16",
       "deadline": "2026-11-16",
       "url": "https://www.sem.org.tw/Activity/B/Details/33391"
+    },
+    {
+      "id": "7e863ed80fd5",
+      "title": "【重要公告】提醒慎防冒用本會名義發送電子郵件之詐騙",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-16",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=586"
+    },
+    {
+      "id": "e25d19e67051",
+      "title": "【1151121梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-11-16",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261116141322"
+    },
+    {
+      "id": "02a565f6a535",
+      "title": "從災難醫療三大特性看醫院災難後勤管理",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-11-16",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/11/blog-post_16.html"
     },
     {
       "id": "e41ccd3144ef",
@@ -2145,6 +2175,16 @@
       "url": "https://www.ntuh.gov.tw"
     },
     {
+      "id": "30e2beca363b",
+      "title": "「2026年世界抗生素週」活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19575"
+    },
+    {
       "id": "ed2ee3e5b76a",
       "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
       "source": "臺大兒童醫院",
@@ -2153,16 +2193,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "5bb633d2fb9b",
-      "title": "臺大醫院115年度母親節節慶關懷活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
     },
     {
       "id": "5fe5f71089fa",
@@ -2235,6 +2265,16 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
     },
     {
+      "id": "ad9a66f2a374",
+      "title": "214｜隨機應電 Lightning Drone AED，獲選2026總統盃黑客松國內松卓越團隊！",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/214%ef%bd%9c%e9%9a%a8%e6%a9%9f%e6%87%89%e9%9b%bb-lightning-drone-aed%ef%bc%8c%e7%8d%b2%e9%81%b82026%e7%b8%bd%e7%b5%b1%e7%9b%83%e9%bb%91%e5%ae%a2%e6%9d%be%e5%9c%8b%e5%85%a7%e6%9d%be%e5%8d%93%e8%b6%8a/"
+    },
+    {
       "id": "fcd778a08898",
       "title": "黃泰霖醫師：「對的人、對的時間、對的急救措施」",
       "source": "臺灣愛陌生安全推廣協會",
@@ -2273,16 +2313,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8b-aed%ef%bc%8c%e4%b8%8d%e5%86%8d%e6%98%af%e5%ad%a4%e9%9b%b6%e9%9b%b6%e7%9a%84%e4%ba%86%e3%80%82/"
-    },
-    {
-      "id": "7a87387bfb90",
-      "title": "聽見AED｜2026年9月到場成果出爐】",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b49%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90%e3%80%91/"
     },
     {
       "id": "c302a6b91021",
@@ -3102,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c01e543c3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9fbb308fa&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3112,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=c01e543c3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=9fbb308fa&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3122,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=c01e543c3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=9fbb308fa&_ss=r"
     },
     {
       "id": "2acb86d87652",
@@ -3132,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=c01e543c3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=9fbb308fa&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -3142,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=c01e543c3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=9fbb308fa&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3425,16 +3455,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/82a3999d5c934b6ca43dce4c6f1aebe1"
     },
     {
-      "id": "8182edc7cc1b",
-      "title": "【1151010梯次】北區EMT-1課程 學術科合格名單",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-11-10",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261106144846"
-    },
-    {
       "id": "018d3ce8a6d0",
       "title": "你的觀察，可能比你想像的更重要 － 從風險通報談風險管理",
       "source": "台灣緊急應變管理協會",
@@ -3553,16 +3573,6 @@
       "date": "2026-11-03",
       "deadline": null,
       "url": "https://tsn-neonatology.com/news_content.aspx?id=583"
-    },
-    {
-      "id": "c9681c6e4f4e",
-      "title": "【1151107梯次】中區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-11-02",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261102142416"
     },
     {
       "id": "44ea765c0725",
