@@ -1,18 +1,28 @@
 {
-  "updated": "2026-11-15T18:27:59.310866+00:00",
+  "updated": "2026-11-16T00:43:20.909139+00:00",
   "count": 372,
   "course_count": 206,
   "news_count": 166,
   "items": [
     {
-      "id": "24e1fe585edd",
-      "title": "轉知 衛福部疾管署-公費流感抗病毒藥劑擴大使用條件適用期限延長至115年11月15日止",
-      "source": "台灣家庭醫學醫學會",
+      "id": "ea047e2213ca",
+      "title": "The Next Move in Resuscitation 從實證指引到現場行動｜From Evidence to Action in EMS 佛就慈濟醫療財團法人花蓮慈濟醫院、花蓮縣消防局、ZOLL",
+      "source": "台灣急診醫學會",
       "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-11-15",
-      "deadline": "2026-11-15",
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6146e0283544650b14a8c73d6a07840"
+      "type": "course",
+      "date": "2026-11-16",
+      "deadline": "2026-11-16",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33436"
+    },
+    {
+      "id": "7293478584df",
+      "title": "115 年急診基礎超音波課程-中國附醫場 中國醫藥大學附設醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-16",
+      "deadline": "2026-11-16",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33391"
     },
     {
       "id": "e41ccd3144ef",
@@ -3092,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=03c58fabe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c01e543c3&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3102,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=03c58fabe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=c01e543c3&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3112,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=03c58fabe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=c01e543c3&_ss=r"
     },
     {
       "id": "2acb86d87652",
@@ -3122,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=03c58fabe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=c01e543c3&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -3132,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=03c58fabe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=c01e543c3&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3355,14 +3365,14 @@
       "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
     },
     {
-      "id": "ff0659010883",
-      "title": "外傷繼續教育訓練課程 台北市立聯合醫院和平婦幼院區外科部",
-      "source": "台灣急診醫學會",
+      "id": "24e1fe585edd",
+      "title": "轉知 衛福部疾管署-公費流感抗病毒藥劑擴大使用條件適用期限延長至115年11月15日止",
+      "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": "2026-11-14",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33431"
+      "type": "news",
+      "date": "2026-11-15",
+      "deadline": "2026-11-15",
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6146e0283544650b14a8c73d6a07840"
     },
     {
       "id": "ea308325940d",
@@ -3453,16 +3463,6 @@
       "date": "2026-11-08",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6fee194c5f14a8b94262b6d5ce0ead8"
-    },
-    {
-      "id": "255a98410056",
-      "title": "高級心臟救命術（ACLS）初訓Provider Course 彰化基督教醫院急診醫學部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-07",
-      "deadline": "2026-10-05",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33416"
     },
     {
       "id": "b35a8a34e2c3",
