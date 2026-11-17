@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:06:52.869459+00:00",
+  "updated": "2026-11-17T15:55:05.380117+00:00",
   "count": 371,
   "course_count": 203,
   "news_count": 168,
@@ -765,6 +765,26 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
+      "id": "756917ce00ef",
+      "title": "【ATLS報名】116年度「再認證」課程報名資訊（含報名表）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/95.html"
+    },
+    {
+      "id": "ca6489cb18c5",
+      "title": "【ATLS報名】116年度「一般課程」課程報名資訊（含報名表）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/94.html"
+    },
+    {
       "id": "4bc9cbe8a0fb",
       "title": "【ATLS課表公告】115年第14及15梯次ATLS再認證課程（彰化基督教醫院）...",
       "source": "台灣外傷醫學會",
@@ -773,26 +793,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/93.html"
-    },
-    {
-      "id": "ac1f06148f8a",
-      "title": "【ATLS課表公告】115年度第9梯次ATLS課程（林口長庚醫院）...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/90.html"
-    },
-    {
-      "id": "0236e4bc4186",
-      "title": "115年精進外科系醫師醫療韌性訓練計畫，將於9月~12月辦理六場課程...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
     },
     {
       "id": "63739d2f9c2b",
@@ -3102,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e2580da9a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=be234913b&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3112,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=e2580da9a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=be234913b&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3122,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=e2580da9a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=be234913b&_ss=r"
     },
     {
       "id": "2acb86d87652",
@@ -3132,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=e2580da9a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=be234913b&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -3142,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=e2580da9a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=be234913b&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3642,7 +3642,7 @@
       "type": "course",
       "date": "2026-10-27",
       "deadline": null,
-      "url": "https://www.mgems.org/260111_charter_checkin/"
+      "url": "https://www.mgems.org/270110_charter_checkin/"
     },
     {
       "id": "907f397df2c4",
