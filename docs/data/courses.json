@@ -1,58 +1,18 @@
 {
-  "updated": "2026-11-16T21:36:50.468080+00:00",
-  "count": 373,
-  "course_count": 205,
+  "updated": "2026-11-17T06:06:52.869459+00:00",
+  "count": 371,
+  "course_count": 203,
   "news_count": 168,
   "items": [
     {
-      "id": "ea047e2213ca",
-      "title": "The Next Move in Resuscitation 從實證指引到現場行動｜From Evidence to Action in EMS 佛就慈濟醫療財團法人花蓮慈濟醫院、花蓮縣消防局、ZOLL",
+      "id": "328566ad7f0e",
+      "title": "20261119ACLS Provider hybrid課程 台北馬偕紀念醫院",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-11-16",
-      "deadline": "2026-11-16",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33436"
-    },
-    {
-      "id": "7293478584df",
-      "title": "115 年急診基礎超音波課程-中國附醫場 中國醫藥大學附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-16",
-      "deadline": "2026-11-16",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33391"
-    },
-    {
-      "id": "7e863ed80fd5",
-      "title": "【重要公告】提醒慎防冒用本會名義發送電子郵件之詐騙",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-11-16",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=586"
-    },
-    {
-      "id": "e25d19e67051",
-      "title": "【1151121梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-11-16",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261116141322"
-    },
-    {
-      "id": "02a565f6a535",
-      "title": "從災難醫療三大特性看醫院災難後勤管理",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-11-16",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/11/blog-post_16.html"
+      "date": "2026-11-19",
+      "deadline": "2026-11-19",
+      "url": "https://www.sem.org.tw/Activity/B/Details/32300"
     },
     {
       "id": "e41ccd3144ef",
@@ -63,6 +23,16 @@
       "date": "2026-11-20",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/A/Details/33324"
+    },
+    {
+      "id": "8aa521f32828",
+      "title": "115年度高級心臟救命術(ACLS)訓練課程_第四梯次 國立臺灣大學醫學院附設醫院雲林分院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-20",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33423"
     },
     {
       "id": "fd39384774fc",
@@ -1305,16 +1275,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/3dfe4bddd45c42c5b5caea61b520701e"
     },
     {
-      "id": "0b0a87b1a333",
-      "title": "115年度老人及癌症醫療照護研討會(11)",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/0837ec6c501b4a9697954d616264470e"
-    },
-    {
       "id": "7f461edd6213",
       "title": "基層醫療常見感染症診斷及處置迷思",
       "source": "台灣家庭醫學醫學會",
@@ -1323,6 +1283,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/59178fb922934613b57bfeee23e95516"
+    },
+    {
+      "id": "d4e037b5b667",
+      "title": "2026花東高血脂會議",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/0c9aa64869064a83ab7dee5f6dd2686b"
     },
     {
       "id": "503b75c6137c",
@@ -3132,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=45b8d1d73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e2580da9a&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3142,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=45b8d1d73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=e2580da9a&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3152,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=45b8d1d73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=e2580da9a&_ss=r"
     },
     {
       "id": "2acb86d87652",
@@ -3162,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=45b8d1d73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=e2580da9a&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -3172,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=45b8d1d73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=e2580da9a&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3393,6 +3363,36 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
+    },
+    {
+      "id": "7e863ed80fd5",
+      "title": "【重要公告】提醒慎防冒用本會名義發送電子郵件之詐騙",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-16",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=586"
+    },
+    {
+      "id": "e25d19e67051",
+      "title": "【1151121梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-11-16",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261116141322"
+    },
+    {
+      "id": "02a565f6a535",
+      "title": "從災難醫療三大特性看醫院災難後勤管理",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-11-16",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/11/blog-post_16.html"
     },
     {
       "id": "24e1fe585edd",
@@ -3713,26 +3713,6 @@
       "date": "2026-10-18",
       "deadline": "2026-09-20",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/f9715ce06c6d492ebb253e16782f660e"
-    },
-    {
-      "id": "e49f2ca0c884",
-      "title": "2026外傷教育課程-桃竹苗地區(Ⅱ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": "2026-10-05",
-      "url": "http://www.trauma.org.tw/active/index.asp?/28.html"
-    },
-    {
-      "id": "8954820cb878",
-      "title": "2026/10/17-10/20 Bridge野外急救橋接急救訓練(北部場)",
-      "source": "米亞桑戶外中心",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://miasan.com/event/bridge20261017/"
     }
   ]
 }
