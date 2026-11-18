@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T15:55:05.380117+00:00",
-  "count": 371,
-  "course_count": 203,
+  "updated": "2026-11-18T00:27:54.160288+00:00",
+  "count": 369,
+  "course_count": 201,
   "news_count": 168,
   "items": [
     {
@@ -3102,7 +3102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=be234913b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=956a2e868&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3112,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=be234913b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=956a2e868&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3122,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=be234913b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=956a2e868&_ss=r"
     },
     {
       "id": "2acb86d87652",
@@ -3132,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=be234913b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=956a2e868&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -3142,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=be234913b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=956a2e868&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3693,26 +3693,6 @@
       "date": "2026-10-19",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/10/blog-post_19.html"
-    },
-    {
-      "id": "e815a0a74ca9",
-      "title": "2026/10/18(日)第八屆第二次會員大會暨學術研討會(精準與永續：智慧急重症鏈－從數據預警到社區永續照護的實踐與挑戰)",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1724"
-    },
-    {
-      "id": "c822b11d6397",
-      "title": "115.10.18秋季學術研討會通知（早鳥優惠115年9月20日前）",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": "2026-09-20",
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/f9715ce06c6d492ebb253e16782f660e"
     }
   ]
 }
