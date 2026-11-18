@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T11:04:17.769173+00:00",
+  "updated": "2026-11-18T19:57:13.791884+00:00",
   "count": 371,
   "course_count": 203,
   "news_count": 168,
@@ -3122,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=26ea856c5&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=0efe52346&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -3132,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=26ea856c5&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=0efe52346&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -3142,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=26ea856c5&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=0efe52346&_ss=r"
     },
     {
       "id": "589abed348db",
@@ -3152,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-ifak-pouch-small?_pos=4&_sid=26ea856c5&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-ifak-pouch-small?_pos=4&_sid=0efe52346&_ss=r"
     },
     {
       "id": "8d0ac32fa89d",
@@ -3162,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=5&_sid=26ea856c5&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=5&_sid=0efe52346&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3335,54 +3335,54 @@
       "url": "https://emj.bmj.com/content/43/Suppl_3"
     },
     {
-      "id": "44c61c5c5785",
-      "title": "Prolonged tourniquet use in extremity trauma: What you need to know",
+      "id": "a9fa21e4e2bc",
+      "title": "Geriatric trauma care: What you need to know",
       "source": "JTACS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005108~prolonged-tourniquet-use-in-extremity-trauma-what-you-need"
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005135~geriatric-trauma-care-what-you-need-to-know"
     },
     {
-      "id": "9b211a9c729f",
-      "title": "Management of carotid artery injuries: What you need to know",
+      "id": "85776a5d499b",
+      "title": "Complications of angioembolization in trauma: What you need to know",
       "source": "JTACS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005122~management-of-carotid-artery-injuries-what-you-need-to-know"
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005145~complications-of-angioembolization-in-trauma-what-you-need"
     },
     {
-      "id": "c952c3038fc5",
-      "title": "American Association for the Surgery of Trauma/American College of Surgeons Committee on Trauma clinical protocol for nutrition support in adult trauma",
+      "id": "127c86dffe5c",
+      "title": "Health care costs after operative versus nonoperative appendicitis management utilizing an administrative claims database",
       "source": "JTACS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005160~american-association-for-the-surgery-of-traumaamerican"
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005082~health-care-costs-after-operative-versus-nonoperative"
     },
     {
-      "id": "7a0a1673df0c",
-      "title": "The provision of palliative care: A Western Trauma Association critical decisions algorithm",
+      "id": "62683cfe9b0c",
+      "title": "Impact of utilization of temporary vascular shunts on outcomes in traumatic peripheral artery repairs: An 11-year review of the PROOVIT registry",
       "source": "JTACS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005112~the-provision-of-palliative-care-a-western-trauma"
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005116~impact-of-utilization-of-temporary-vascular-shunts-on"
     },
     {
-      "id": "e3e8e9a587eb",
-      "title": "Western Trauma Association critical decisions in trauma: Lung injury",
+      "id": "bd7b86482235",
+      "title": "Trends in length-of-stay per total body surface area burn in pediatric patients: A report from the pediatric injury and quality improvement collaborative",
       "source": "JTACS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005043~trends-in-length-of-stay-per-total-body-surface-area-burn-in"
     },
     {
       "id": "7e863ed80fd5",
