@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-19T02:17:34.884920+00:00",
-  "count": 370,
-  "course_count": 203,
+  "updated": "2026-11-19T11:06:34.679781+00:00",
+  "count": 372,
+  "course_count": 205,
   "news_count": 167,
   "items": [
     {
@@ -1335,6 +1335,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "b99d32a557d1",
+      "title": "轉知-全聯會與多家美容醫學開課單位合作開設網路課程，請有需求之醫師取得課程資訊並參與學習",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/d37306aa55b041888365e5bae9f1b8fa"
+    },
+    {
       "id": "3a9d2f651f17",
       "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-台大醫學院(第1梯)-專業教育-11/22場次",
       "source": "台灣家庭醫學醫學會",
@@ -1353,16 +1363,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/eaa2d594a2c743eabe981ebb192da496"
-    },
-    {
-      "id": "7744f4094639",
-      "title": "115年家庭醫學科專科醫師甄審筆試成績開放查榜",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/6128f82278ce428a940e4ce28778d5cc"
     },
     {
       "id": "540bf270fed2",
@@ -3122,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=e10509bd5&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=32b99a2e2&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -3132,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=e10509bd5&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=32b99a2e2&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3142,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=e10509bd5&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=32b99a2e2&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3152,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=e10509bd5&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=32b99a2e2&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3423,6 +3423,26 @@
       "date": "2026-11-15",
       "deadline": "2026-11-15",
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e6146e0283544650b14a8c73d6a07840"
+    },
+    {
+      "id": "57b44bc36079",
+      "title": "2026/11/14 學術年會口頭發表得獎名單",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392"
+    },
+    {
+      "id": "bdcbf2f9a3af",
+      "title": "2026/11/14 學術年會優秀論文得獎名單",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392"
     },
     {
       "id": "ea308325940d",
