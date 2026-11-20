@@ -1,19 +1,9 @@
 {
-  "updated": "2026-11-19T19:57:10.651243+00:00",
-  "count": 372,
+  "updated": "2026-11-20T02:05:33.818625+00:00",
+  "count": 371,
   "course_count": 205,
-  "news_count": 167,
+  "news_count": 166,
   "items": [
-    {
-      "id": "328566ad7f0e",
-      "title": "20261119ACLS Provider hybrid課程 台北馬偕紀念醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-19",
-      "deadline": "2026-11-19",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32300"
-    },
     {
       "id": "e41ccd3144ef",
       "title": "急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會",
@@ -25,14 +15,24 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33324"
     },
     {
-      "id": "8aa521f32828",
-      "title": "115年度高級心臟救命術(ACLS)訓練課程_第四梯次 國立臺灣大學醫學院附設醫院雲林分院",
+      "id": "f40e310127a9",
+      "title": "急診外傷訓練(ETTC) 員榮醫療社團法人員榮醫院員生院區",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33423"
+      "url": "https://www.sem.org.tw/Activity/B/Details/33461"
+    },
+    {
+      "id": "83e800719f41",
+      "title": "烏日林新醫院_2026.11.21-22「高級兒童救命術（APLS）訓練課程」 烏日林新醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33422"
     },
     {
       "id": "fd39384774fc",
@@ -1295,16 +1295,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/3dfe4bddd45c42c5b5caea61b520701e"
     },
     {
-      "id": "7f461edd6213",
-      "title": "基層醫療常見感染症診斷及處置迷思",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/59178fb922934613b57bfeee23e95516"
-    },
-    {
       "id": "cb4f160baa11",
       "title": "心臟血管循環系超音波講習課程",
       "source": "台灣家庭醫學醫學會",
@@ -1313,6 +1303,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/0e3941e262e446f4a4222068e914db9a"
+    },
+    {
+      "id": "d4e037b5b667",
+      "title": "2026花東高血脂會議",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/0c9aa64869064a83ab7dee5f6dd2686b"
     },
     {
       "id": "503b75c6137c",
@@ -3122,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=e97f9cbbd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=8cefa5fda&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -3132,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=e97f9cbbd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=8cefa5fda&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3142,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=e97f9cbbd&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=8cefa5fda&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3152,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=e97f9cbbd&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=8cefa5fda&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -3713,16 +3713,6 @@
       "date": "2026-10-22",
       "deadline": null,
       "url": "https://tsn-neonatology.com/news_content.aspx?id=581"
-    },
-    {
-      "id": "9ac09b3af776",
-      "title": "外部資源明明很多，為什麼災害來了卻不一定用得上？ － 資源依賴理論重新思考醫院的外部應變資源評估",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-10-20",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_20.html"
     }
   ]
 }
