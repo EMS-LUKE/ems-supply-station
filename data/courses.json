@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-20T02:05:33.818625+00:00",
-  "count": 371,
-  "course_count": 205,
+  "updated": "2026-11-20T10:55:25.283717+00:00",
+  "count": 372,
+  "course_count": 206,
   "news_count": 166,
   "items": [
     {
@@ -183,6 +183,16 @@
       "date": "2026-12-08",
       "deadline": "2026-12-08",
       "url": "https://www.sem.org.tw/Activity/A/Details/33533"
+    },
+    {
+      "id": "10bb1eb52411",
+      "title": "急診創傷訓練課程ETTC 高雄榮總",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-10",
+      "deadline": "2026-10-31",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33402"
     },
     {
       "id": "00774be8e9e7",
@@ -3122,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=8cefa5fda&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=aa927d0ab&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -3132,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=8cefa5fda&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=aa927d0ab&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3142,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=8cefa5fda&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=aa927d0ab&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3152,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=8cefa5fda&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=aa927d0ab&_ss=r"
     },
     {
       "id": "34d97b943ff2",
