@@ -1,29 +1,9 @@
 {
-  "updated": "2026-11-20T19:36:46.036877+00:00",
+  "updated": "2026-11-21T02:01:54.962524+00:00",
   "count": 372,
   "course_count": 206,
   "news_count": 166,
   "items": [
-    {
-      "id": "e41ccd3144ef",
-      "title": "急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-20",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/A/Details/33324"
-    },
-    {
-      "id": "f40e310127a9",
-      "title": "急診外傷訓練(ETTC) 員榮醫療社團法人員榮醫院員生院區",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-21",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33461"
-    },
     {
       "id": "83e800719f41",
       "title": "烏日林新醫院_2026.11.21-22「高級兒童救命術（APLS）訓練課程」 烏日林新醫院",
@@ -55,16 +35,6 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/31.html"
     },
     {
-      "id": "214c59cf5b62",
-      "title": "新生兒高級急救術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-21",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28413"
-    },
-    {
       "id": "72a765ac53c9",
       "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
       "source": "台灣急診醫學會",
@@ -83,6 +53,16 @@
       "date": "2026-11-25",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28420"
+    },
+    {
+      "id": "05ccae8c22e1",
+      "title": "115年度家庭暴力暨性侵害防治 醫事及專業人員繼續教育訓練 衛生福利部臺北醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-26",
+      "deadline": "2026-11-26",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33487"
     },
     {
       "id": "167fd29dc285",
@@ -293,6 +273,16 @@
       "date": "2026-12-20",
       "deadline": null,
       "url": "https://www.mgems.org/261220_taipei_marathron/"
+    },
+    {
+      "id": "5bdffcab215a",
+      "title": "新生兒(含早產兒)診療及照護研討暨教學",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28423"
     },
     {
       "id": "5bc34b89c87b",
@@ -3132,7 +3122,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=d11e13f2e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=ba1faee52&_ss=r"
+    },
+    {
+      "id": "e98a59a12ad9",
+      "title": "BloodBoxx™ EMS",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/bloodboxx%E2%84%A2-ems?_pos=2&_sid=ba1faee52&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -3142,37 +3142,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=d11e13f2e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=3&_sid=ba1faee52&_ss=r"
     },
     {
-      "id": "5224942b5b77",
-      "title": "html sitemap blogs",
+      "id": "0b8855dcfded",
+      "title": "StatPacks G3+ MEDSLINGER",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=d11e13f2e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/statpacks-g3-medslinger?_pos=4&_sid=ba1faee52&_ss=r"
     },
     {
-      "id": "ca8d21614ded",
-      "title": "html sitemap",
+      "id": "a98989cd941e",
+      "title": "StatPacks G3 LOAD-N-GO Backpack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=d11e13f2e&_ss=r"
-    },
-    {
-      "id": "34d97b943ff2",
-      "title": "Public Access Bleeding Control Kit - Nylon",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=0efe52346&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/statpacks-g3-load-n-go-backpack?_pos=5&_sid=ba1faee52&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3393,6 +3383,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005043~trends-in-length-of-stay-per-total-body-surface-area-burn-in"
+    },
+    {
+      "id": "e41ccd3144ef",
+      "title": "急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-20",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/A/Details/33324"
     },
     {
       "id": "7e863ed80fd5",
