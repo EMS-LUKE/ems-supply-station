@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T02:01:54.962524+00:00",
+  "updated": "2026-11-21T10:38:33.892305+00:00",
   "count": 372,
   "course_count": 206,
   "news_count": 166,
@@ -1295,24 +1295,24 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/3dfe4bddd45c42c5b5caea61b520701e"
     },
     {
-      "id": "cb4f160baa11",
-      "title": "心臟血管循環系超音波講習課程",
+      "id": "86a42105522e",
+      "title": "THS Local Symposium",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/0e3941e262e446f4a4222068e914db9a"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/b6827d2806e9439cac5630534a73cfaa"
     },
     {
-      "id": "d4e037b5b667",
-      "title": "2026花東高血脂會議",
+      "id": "4c6bd02af124",
+      "title": "115年11月高雄地區兒科聯合病例討論會",
       "source": "台灣家庭醫學醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/0c9aa64869064a83ab7dee5f6dd2686b"
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/d689db0dbbdf4e1b806f8a909fdb81e1"
     },
     {
       "id": "503b75c6137c",
@@ -3122,7 +3122,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=ba1faee52&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=9c334db07&_ss=r"
+    },
+    {
+      "id": "ff8c1aa2d07d",
+      "title": "TrueClot Inguinal Packing Trainer (IPT)",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=9c334db07&_ss=r"
+    },
+    {
+      "id": "5224942b5b77",
+      "title": "html sitemap blogs",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=9c334db07&_ss=r"
+    },
+    {
+      "id": "ca8d21614ded",
+      "title": "html sitemap",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=9c334db07&_ss=r"
     },
     {
       "id": "e98a59a12ad9",
@@ -3133,36 +3163,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tactical-medicine.com/products/bloodboxx%E2%84%A2-ems?_pos=2&_sid=ba1faee52&_ss=r"
-    },
-    {
-      "id": "ff8c1aa2d07d",
-      "title": "TrueClot Inguinal Packing Trainer (IPT)",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=3&_sid=ba1faee52&_ss=r"
-    },
-    {
-      "id": "0b8855dcfded",
-      "title": "StatPacks G3+ MEDSLINGER",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/statpacks-g3-medslinger?_pos=4&_sid=ba1faee52&_ss=r"
-    },
-    {
-      "id": "a98989cd941e",
-      "title": "StatPacks G3 LOAD-N-GO Backpack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/statpacks-g3-load-n-go-backpack?_pos=5&_sid=ba1faee52&_ss=r"
     },
     {
       "id": "715383a36e2a",
