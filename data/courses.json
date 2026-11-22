@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T10:43:43.909908+00:00",
+  "updated": "2026-11-22T19:02:03.890400+00:00",
   "count": 372,
   "course_count": 208,
   "news_count": 164,
@@ -1325,6 +1325,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "fc734c3dfe71",
+      "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-台大醫學院(第2梯)-專業教育-11/29場次",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/625bd61dbf0e4a32a90b0a98cb188cfd"
+    },
+    {
       "id": "b99d32a557d1",
       "title": "轉知-全聯會與多家美容醫學開課單位合作開設網路課程，請有需求之醫師取得課程資訊並參與學習",
       "source": "台灣家庭醫學醫學會",
@@ -1343,16 +1353,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/fd2a8a71256d490abbef64e2a3e84f23"
-    },
-    {
-      "id": "2926248e2618",
-      "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-高醫-行政管理-11/22場次",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/eaa2d594a2c743eabe981ebb192da496"
     },
     {
       "id": "540bf270fed2",
@@ -3112,37 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=da4edc7a9&_ss=r"
-    },
-    {
-      "id": "ff8c1aa2d07d",
-      "title": "TrueClot Inguinal Packing Trainer (IPT)",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=da4edc7a9&_ss=r"
-    },
-    {
-      "id": "5224942b5b77",
-      "title": "html sitemap blogs",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=da4edc7a9&_ss=r"
-    },
-    {
-      "id": "ca8d21614ded",
-      "title": "html sitemap",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=da4edc7a9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=4e16d862f&_ss=r"
     },
     {
       "id": "e98a59a12ad9",
@@ -3152,7 +3122,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx%E2%84%A2-ems?_pos=2&_sid=ba1faee52&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx%E2%84%A2-ems?_pos=2&_sid=4e16d862f&_ss=r"
+    },
+    {
+      "id": "ff8c1aa2d07d",
+      "title": "TrueClot Inguinal Packing Trainer (IPT)",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=3&_sid=4e16d862f&_ss=r"
+    },
+    {
+      "id": "0b8855dcfded",
+      "title": "StatPacks G3+ MEDSLINGER",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/statpacks-g3-medslinger?_pos=4&_sid=4e16d862f&_ss=r"
+    },
+    {
+      "id": "a98989cd941e",
+      "title": "StatPacks G3 LOAD-N-GO Backpack",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/statpacks-g3-load-n-go-backpack?_pos=5&_sid=4e16d862f&_ss=r"
     },
     {
       "id": "715383a36e2a",
