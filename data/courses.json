@@ -1,39 +1,9 @@
 {
-  "updated": "2026-11-21T18:39:51.184965+00:00",
+  "updated": "2026-11-22T00:57:40.630115+00:00",
   "count": 372,
-  "course_count": 206,
-  "news_count": 166,
+  "course_count": 208,
+  "news_count": 164,
   "items": [
-    {
-      "id": "83e800719f41",
-      "title": "烏日林新醫院_2026.11.21-22「高級兒童救命術（APLS）訓練課程」 烏日林新醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-21",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33422"
-    },
-    {
-      "id": "fd39384774fc",
-      "title": "【聯甄課程】Taiwan Emergency & Critical Care Joint Symposium115.11.21台大醫學院103講堂",
-      "source": "台灣急救加護醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-21",
-      "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/815.html#here"
-    },
-    {
-      "id": "8d8549fe22ae",
-      "title": "外傷登錄訓練課程－首次認證(中部場次)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-21",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/index.asp?/31.html"
-    },
     {
       "id": "72a765ac53c9",
       "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
@@ -73,6 +43,16 @@
       "date": "2026-11-27",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28393"
+    },
+    {
+      "id": "a70a1689491b",
+      "title": "早產兒營養與健康國際研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-28",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28421"
     },
     {
       "id": "c88c1e48ee93",
@@ -283,6 +263,16 @@
       "date": "2026-12-23",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28423"
+    },
+    {
+      "id": "f8a9622624b9",
+      "title": "北區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28128"
     },
     {
       "id": "5bc34b89c87b",
@@ -3122,7 +3112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=a670c70ac&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=92966a1aa&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -3132,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=a670c70ac&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=92966a1aa&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3142,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=a670c70ac&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=92966a1aa&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3152,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=a670c70ac&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=92966a1aa&_ss=r"
     },
     {
       "id": "e98a59a12ad9",
@@ -3383,6 +3373,36 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005043~trends-in-length-of-stay-per-total-body-surface-area-burn-in"
+    },
+    {
+      "id": "83e800719f41",
+      "title": "烏日林新醫院_2026.11.21-22「高級兒童救命術（APLS）訓練課程」 烏日林新醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33422"
+    },
+    {
+      "id": "fd39384774fc",
+      "title": "【聯甄課程】Taiwan Emergency & Critical Care Joint Symposium115.11.21台大醫學院103講堂",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/815.html#here"
+    },
+    {
+      "id": "8d8549fe22ae",
+      "title": "外傷登錄訓練課程－首次認證(中部場次)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-21",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/active/index.asp?/31.html"
     },
     {
       "id": "e41ccd3144ef",
@@ -3703,26 +3723,6 @@
       "date": "2026-10-24",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1674"
-    },
-    {
-      "id": "24c1f53121d8",
-      "title": "🚑1119台灣急診日｜急診韌性接力",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-22",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1673"
-    },
-    {
-      "id": "a87fbc28963a",
-      "title": "以完整醫學實證與醫界長期穩健同行",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-22",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=581"
     }
   ]
 }
