@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T11:44:32.466052+00:00",
+  "updated": "2026-11-23T23:19:07.188538+00:00",
   "count": 374,
   "course_count": 207,
   "news_count": 167,
@@ -1365,6 +1365,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "81ff364dcab5",
+      "title": "115年家庭醫學科專科醫師甄審口試成績開放查榜",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/834da8db20b44343a80578e9972a2167"
+    },
+    {
       "id": "fc734c3dfe71",
       "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-台大醫學院(第2梯)-專業教育-11/29場次",
       "source": "台灣家庭醫學醫學會",
@@ -1383,16 +1393,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/d37306aa55b041888365e5bae9f1b8fa"
-    },
-    {
-      "id": "3a9d2f651f17",
-      "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-台大醫學院(第1梯)-專業教育-11/22場次",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/fd2a8a71256d490abbef64e2a3e84f23"
     },
     {
       "id": "540bf270fed2",
@@ -3152,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=001e267de&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=b8ae87708&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -3162,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=001e267de&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=b8ae87708&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3172,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=001e267de&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=b8ae87708&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3182,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=001e267de&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=b8ae87708&_ss=r"
     },
     {
       "id": "e98a59a12ad9",
