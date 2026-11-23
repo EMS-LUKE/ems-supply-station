@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-23T01:26:53.673267+00:00",
-  "count": 370,
-  "course_count": 206,
-  "news_count": 164,
+  "updated": "2026-11-23T11:44:32.466052+00:00",
+  "count": 374,
+  "course_count": 207,
+  "news_count": 167,
   "items": [
+    {
+      "id": "072efc21eafd",
+      "title": "《當災害發生在醫院》發電機沒有壞，醫院卻被迫全面疏散",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-11-23",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/11/blog-post_23.html"
+    },
     {
       "id": "72a765ac53c9",
       "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
@@ -195,6 +205,16 @@
       "url": "https://miasan.com/event/wafa20261212/"
     },
     {
+      "id": "c14a6aad8e30",
+      "title": "2027年WONCA亞太區域會議將於2027年4月22-25日於香港舉行！投稿延長至115/12/15止",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-12-15",
+      "deadline": "2026-12-15",
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9d86e6f7179a4ea180d5482eb5386762"
+    },
+    {
       "id": "62570103abc2",
       "title": "JCMIT 2026 國際醫學資訊聯合研討會",
       "source": "台灣醫學資訊學會",
@@ -323,6 +343,16 @@
       "date": "2027-01-09",
       "deadline": null,
       "url": "https://www.formosa-adventure.com/product_description.php?PNo=127"
+    },
+    {
+      "id": "a613d2e06684",
+      "title": "急診超音波師培課程-第一階段pretest 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2027-01-20",
+      "deadline": "2026-12-24",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33527"
     },
     {
       "id": "aefb188b6d23",
@@ -1217,6 +1247,16 @@
     {
       "id": "fbce3e42c088",
       "title": "訂購《醫療資訊雜誌》價格調漲公告！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "4a34d6b45756",
+      "title": "2026下半年醫學資訊管理師/分析師檢定考試題目暨答案公告",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "news",
@@ -3112,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=25a3d036f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=001e267de&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -3122,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=25a3d036f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=001e267de&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3132,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=25a3d036f&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=001e267de&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3142,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=25a3d036f&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=001e267de&_ss=r"
     },
     {
       "id": "e98a59a12ad9",
@@ -3325,54 +3365,54 @@
       "url": "https://emj.bmj.com/content/43/Suppl_3"
     },
     {
-      "id": "a9fa21e4e2bc",
-      "title": "Geriatric trauma care: What you need to know",
+      "id": "e998f89e7303",
+      "title": "Association between the fresh frozen plasma-to-red blood cell ratio and mortality in pediatric severe trauma",
       "source": "JTACS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005135~geriatric-trauma-care-what-you-need-to-know"
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005095~association-between-the-fresh-frozen-plasma-to-red-blood"
     },
     {
-      "id": "85776a5d499b",
-      "title": "Complications of angioembolization in trauma: What you need to know",
+      "id": "465b44991e26",
+      "title": "Blunt cerebrovascular injury after ground-level falls: Yield of CT angiography and relevance of the expanded Denver criteria",
       "source": "JTACS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005145~complications-of-angioembolization-in-trauma-what-you-need"
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005087~blunt-cerebrovascular-injury-after-ground-level-falls-yield"
     },
     {
-      "id": "127c86dffe5c",
-      "title": "Health care costs after operative versus nonoperative appendicitis management utilizing an administrative claims database",
+      "id": "3d5daf05e9bb",
+      "title": "Iodine-based spectral CT can quantify transient kidney injury in hemorrhagic shock: Results from a translational large-animal model",
       "source": "JTACS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005082~health-care-costs-after-operative-versus-nonoperative"
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005080~iodine-based-spectral-ct-can-quantify-transient-kidney"
     },
     {
-      "id": "62683cfe9b0c",
-      "title": "Impact of utilization of temporary vascular shunts on outcomes in traumatic peripheral artery repairs: An 11-year review of the PROOVIT registry",
+      "id": "b50250388754",
+      "title": "Risk factors associated with significant posttraumatic brain hemorrhage as per the QueBIC categories: A retrospective multicenter study",
       "source": "JTACS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005116~impact-of-utilization-of-temporary-vascular-shunts-on"
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005090~risk-factors-associated-with-significant-posttraumatic-brain"
     },
     {
-      "id": "bd7b86482235",
-      "title": "Trends in length-of-stay per total body surface area burn in pediatric patients: A report from the pediatric injury and quality improvement collaborative",
+      "id": "ea70b9fb7b37",
+      "title": "Finally, a use for balloons: Extended automated endovascular support enhances closed-loop resuscitation in a porcine model of shock",
       "source": "JTACS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005043~trends-in-length-of-stay-per-total-body-surface-area-burn-in"
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005039~finally-a-use-for-balloons-extended-automated-endovascular"
     },
     {
       "id": "fd39384774fc",
