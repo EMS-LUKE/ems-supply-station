@@ -1,39 +1,9 @@
 {
-  "updated": "2026-11-25T16:45:04.162530+00:00",
-  "count": 376,
-  "course_count": 208,
+  "updated": "2026-11-26T01:33:11.893952+00:00",
+  "count": 375,
+  "course_count": 207,
   "news_count": 168,
   "items": [
-    {
-      "id": "72a765ac53c9",
-      "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-25",
-      "deadline": "2026-11-06",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33319"
-    },
-    {
-      "id": "91ef89725b00",
-      "title": "從平面圖走向真實空間：韌性醫療演習的另一種設計方式",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-11-25",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/11/blog-post_25.html"
-    },
-    {
-      "id": "05ccae8c22e1",
-      "title": "115年度家庭暴力暨性侵害防治 醫事及專業人員繼續教育訓練 衛生福利部臺北醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-26",
-      "deadline": "2026-11-26",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33487"
-    },
     {
       "id": "167fd29dc285",
       "title": "新生兒急救課程",
@@ -3152,7 +3122,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=7d20a27d8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=c9708dc35&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3162,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=7d20a27d8&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=c9708dc35&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3172,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=7d20a27d8&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=c9708dc35&_ss=r"
     },
     {
       "id": "25270ec14c56",
@@ -3413,6 +3383,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005039~finally-a-use-for-balloons-extended-automated-endovascular"
+    },
+    {
+      "id": "72a765ac53c9",
+      "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-25",
+      "deadline": "2026-11-06",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33319"
+    },
+    {
+      "id": "91ef89725b00",
+      "title": "從平面圖走向真實空間：韌性醫療演習的另一種設計方式",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-11-25",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/11/blog-post_25.html"
     },
     {
       "id": "7135e71afe6f",
