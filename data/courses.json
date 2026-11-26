@@ -1,9 +1,29 @@
 {
-  "updated": "2026-11-26T01:33:11.893952+00:00",
-  "count": 375,
-  "course_count": 207,
+  "updated": "2026-11-26T11:53:33.726172+00:00",
+  "count": 376,
+  "course_count": 208,
   "news_count": 168,
   "items": [
+    {
+      "id": "8143d94443e7",
+      "title": "115年急診超音波相關課程排程表 (115.11.26更新)",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-26",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1307"
+    },
+    {
+      "id": "8978eb57f821",
+      "title": "武裝衝突下的醫療救護：從技術訓練到思維轉換（Mindset Shift）",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-11-26",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/11/mindset-shift.html"
+    },
     {
       "id": "167fd29dc285",
       "title": "新生兒急救課程",
@@ -293,6 +313,16 @@
       "date": "2027-01-04",
       "deadline": "2026-10-15",
       "url": "https://www.sem.org.tw/Activity/A/Details/33459"
+    },
+    {
+      "id": "7b160bcd3f52",
+      "title": "【TEMTA 116/01/09講座暨EMT-1繼續教育訓練，開放報名】",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2027-01-09",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261126170446"
     },
     {
       "id": "ad1d5f52d7a1",
@@ -1285,16 +1315,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/3dfe4bddd45c42c5b5caea61b520701e"
     },
     {
-      "id": "0dc426237ef6",
-      "title": "Digital Transformation in Diabetes Care 數位轉型下的糖尿病全人照護：AI、健康老化與智慧照護(實體課程)",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/4cb15a976647441ea3d156a8fd929123"
-    },
-    {
       "id": "86a42105522e",
       "title": "THS Local Symposium",
       "source": "台灣家庭醫學醫學會",
@@ -1313,6 +1333,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/d689db0dbbdf4e1b806f8a909fdb81e1"
+    },
+    {
+      "id": "16126792baa5",
+      "title": "2026 TSOC Acute Coronary Syndrome Symposium Acute Coronary Syndrome in the Current Era: An Updated Analysis from the T-FORMOSA Study",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/0f25440dc5c440529c54de941f379b95"
     },
     {
       "id": "503b75c6137c",
@@ -3122,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=c9708dc35&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=5bd553078&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3132,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=c9708dc35&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=5bd553078&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3142,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=c9708dc35&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=5bd553078&_ss=r"
     },
     {
       "id": "25270ec14c56",
@@ -3425,16 +3455,6 @@
       "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261124160546"
     },
     {
-      "id": "2e4e1648d7d8",
-      "title": "【1151031梯次】南區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-11-24",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261120150346"
-    },
-    {
       "id": "072efc21eafd",
       "title": "《當災害發生在醫院》發電機沒有壞，醫院卻被迫全面疏散",
       "source": "台灣緊急應變管理協會",
@@ -3643,16 +3663,6 @@
       "date": "2026-11-05",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1681"
-    },
-    {
-      "id": "7b17adc46497",
-      "title": "【課程轉知】台灣美容外科醫學會：美容醫學手術學分認證課程",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-11-05",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/5/Details/1679"
     },
     {
       "id": "093deab130c9",

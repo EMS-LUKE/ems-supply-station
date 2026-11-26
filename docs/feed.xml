@@ -5,8 +5,24 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Thu, 26 Nov 2026 01:33:11 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 11:53:33 +0000</lastBuildDate>
   <ttl>180</ttl>
+  <item>
+    <title>【消息】115年急診超音波相關課程排程表 (115.11.26更新)</title>
+    <link>https://www.sem.org.tw/News/11/Details/1307</link>
+    <guid>https://www.sem.org.tw/News/11/Details/1307</guid>
+    <pubDate>2026-11-26</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【消息】115年急診超音波相關課程排程表 (115.11.26更新)（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】武裝衝突下的醫療救護：從技術訓練到思維轉換（Mindset Shift）</title>
+    <link>https://temataiwan.blogspot.com/2026/11/mindset-shift.html</link>
+    <guid>https://temataiwan.blogspot.com/2026/11/mindset-shift.html</guid>
+    <pubDate>2026-11-26</pubDate>
+    <category>台灣緊急應變管理協會 - 台灣協會</category>
+    <description>【課程】武裝衝突下的醫療救護：從技術訓練到思維轉換（Mindset Shift）（來源：台灣緊急應變管理協會）</description>
+  </item>
   <item>
     <title>【課程】新生兒急救課程</title>
     <link>https://tsn-neonatology.com/event_content.aspx?id=28393</link>
@@ -240,6 +256,14 @@
     <description>【課程】116年住院醫師緊急醫療系統訓練課程(北榮場)【線上+實體】 社團法人台灣急診醫學會（來源：台灣急診醫學會）</description>
   </item>
   <item>
+    <title>【課程】【TEMTA 116/01/09講座暨EMT-1繼續教育訓練，開放報名】</title>
+    <link>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261126170446</link>
+    <guid>https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261126170446</guid>
+    <pubDate>2027-01-09</pubDate>
+    <category>中華緊急救護技術員協會 - 台灣協會</category>
+    <description>【課程】【TEMTA 116/01/09講座暨EMT-1繼續教育訓練，開放報名】（來源：中華緊急救護技術員協會）</description>
+  </item>
+  <item>
     <title>【課程】2027/01/09-01/11 WFR野外第一線反應人員-複訓</title>
     <link>https://miasan.com/event/recert20270109/</link>
     <guid>https://miasan.com/event/recert20270109/</guid>
@@ -462,30 +486,6 @@
     <pubDate>2027-06-05</pubDate>
     <category>米亞桑戶外中心 - 台灣急救社群</category>
     <description>【課程】2027/06/05-06/08 Bridge野外急救橋接急救訓練(北部場)（來源：米亞桑戶外中心）</description>
-  </item>
-  <item>
-    <title>【課程】2027/06/05-06/08 Bridge(WAFA to WFR)橋接課程</title>
-    <link>https://www.formosa-adventure.com/product_description.php?PNo=101</link>
-    <guid>https://www.formosa-adventure.com/product_description.php?PNo=101</guid>
-    <pubDate>2027-06-05</pubDate>
-    <category>小島探險 - 台灣急救社群</category>
-    <description>【課程】2027/06/05-06/08 Bridge(WAFA to WFR)橋接課程（來源：小島探險）</description>
-  </item>
-  <item>
-    <title>【課程】2027/06/05-06/08 Bridge 四日野外急救橋接訓練（台北）</title>
-    <link>https://mttigertw.com/lectureInfo/186/</link>
-    <guid>https://mttigertw.com/lectureInfo/186/</guid>
-    <pubDate>2027-06-05</pubDate>
-    <category>羌虎跨域生活 - 台灣急救社群</category>
-    <description>【課程】2027/06/05-06/08 Bridge 四日野外急救橋接訓練（台北）（來源：羌虎跨域生活）</description>
-  </item>
-  <item>
-    <title>【課程】2027/06/12-06/13 WFA兩天初階野外急救訓練(北部場)</title>
-    <link>https://miasan.com/event/wfa20270612/</link>
-    <guid>https://miasan.com/event/wfa20270612/</guid>
-    <pubDate>2027-06-12</pubDate>
-    <category>米亞桑戶外中心 - 台灣急救社群</category>
-    <description>【課程】2027/06/12-06/13 WFA兩天初階野外急救訓練(北部場)（來源：米亞桑戶外中心）</description>
   </item>
 </channel>
 </rss>
