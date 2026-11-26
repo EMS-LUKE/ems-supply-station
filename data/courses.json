@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-26T11:53:33.726172+00:00",
-  "count": 376,
+  "updated": "2026-11-26T20:55:16.949063+00:00",
+  "count": 377,
   "course_count": 208,
-  "news_count": 168,
+  "news_count": 169,
   "items": [
     {
       "id": "8143d94443e7",
@@ -193,6 +193,16 @@
       "date": "2026-12-12",
       "deadline": null,
       "url": "https://miasan.com/event/wafa20261212/"
+    },
+    {
+      "id": "b352b177549e",
+      "title": "上課通知-115.12.13(日)Meet the Expert-CLEAR Asia Summit--Hyperlipidemia Management Forum",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-12-13",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ae0ab64e70c74bbfbff8e629ce90fc70"
     },
     {
       "id": "c14a6aad8e30",
@@ -1315,16 +1325,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/3dfe4bddd45c42c5b5caea61b520701e"
     },
     {
-      "id": "86a42105522e",
-      "title": "THS Local Symposium",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/b6827d2806e9439cac5630534a73cfaa"
-    },
-    {
       "id": "4c6bd02af124",
       "title": "115年11月高雄地區兒科聯合病例討論會",
       "source": "台灣家庭醫學醫學會",
@@ -1343,6 +1343,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/0f25440dc5c440529c54de941f379b95"
+    },
+    {
+      "id": "cc5f2b48c0e6",
+      "title": "EMPOWER CKLM Summit－線上視訊【線上報名網址:https://webapp.spotme.com/login/biengage/20261129-CKM-Webinar】",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/03ec0502b7ae401e9f52661c617b3baa"
     },
     {
       "id": "503b75c6137c",
@@ -3152,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=5bd553078&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=99a65be09&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3162,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=5bd553078&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=99a65be09&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3172,7 +3182,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=5bd553078&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=99a65be09&_ss=r"
     },
     {
       "id": "25270ec14c56",

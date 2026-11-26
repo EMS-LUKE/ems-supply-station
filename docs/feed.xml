@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Thu, 26 Nov 2026 11:53:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 20:55:16 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【消息】115年急診超音波相關課程排程表 (115.11.26更新)</title>
@@ -158,6 +158,14 @@
     <pubDate>2026-12-12</pubDate>
     <category>米亞桑戶外中心 - 台灣急救社群</category>
     <description>【課程】2026/12/12-12/15 WAFA野外進階急救訓練(北部場)（來源：米亞桑戶外中心）</description>
+  </item>
+  <item>
+    <title>【消息】上課通知-115.12.13(日)Meet the Expert-CLEAR Asia Summit--Hyperlipidemia Management Forum</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ae0ab64e70c74bbfbff8e629ce90fc70</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ae0ab64e70c74bbfbff8e629ce90fc70</guid>
+    <pubDate>2026-12-13</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【消息】上課通知-115.12.13(日)Meet the Expert-CLEAR Asia Summit--Hyperlipidemia Management Forum（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
     <title>【消息】2027年WONCA亞太區域會議將於2027年4月22-25日於香港舉行！投稿延長至115/12/15止</title>
@@ -478,14 +486,6 @@
     <pubDate>2027-05-22</pubDate>
     <category>羌虎跨域生活 - 台灣急救社群</category>
     <description>【課程】2027/05/22-05/23 WFA 二日初階野外急救訓練（台北）（來源：羌虎跨域生活）</description>
-  </item>
-  <item>
-    <title>【課程】2027/06/05-06/08 Bridge野外急救橋接急救訓練(北部場)</title>
-    <link>https://miasan.com/event/bridge20270605/</link>
-    <guid>https://miasan.com/event/bridge20270605/</guid>
-    <pubDate>2027-06-05</pubDate>
-    <category>米亞桑戶外中心 - 台灣急救社群</category>
-    <description>【課程】2027/06/05-06/08 Bridge野外急救橋接急救訓練(北部場)（來源：米亞桑戶外中心）</description>
   </item>
 </channel>
 </rss>
