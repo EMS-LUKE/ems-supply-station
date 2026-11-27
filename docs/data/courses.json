@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T03:31:39.179139+00:00",
+  "updated": "2026-11-27T16:03:40.956935+00:00",
   "count": 376,
   "course_count": 207,
   "news_count": 169,
@@ -253,16 +253,6 @@
       "date": "2026-12-20",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28427"
-    },
-    {
-      "id": "1f639e45cea8",
-      "title": "2026年臺北馬拉松醫護志工線上報名",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-12-20",
-      "deadline": null,
-      "url": "https://www.mgems.org/261220_taipei_marathron/"
     },
     {
       "id": "5bdffcab215a",
@@ -1315,16 +1305,6 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/3dfe4bddd45c42c5b5caea61b520701e"
     },
     {
-      "id": "4c6bd02af124",
-      "title": "115年11月高雄地區兒科聯合病例討論會",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/d689db0dbbdf4e1b806f8a909fdb81e1"
-    },
-    {
       "id": "16126792baa5",
       "title": "2026 TSOC Acute Coronary Syndrome Symposium Acute Coronary Syndrome in the Current Era: An Updated Analysis from the T-FORMOSA Study",
       "source": "台灣家庭醫學醫學會",
@@ -1343,6 +1323,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/03ec0502b7ae401e9f52661c617b3baa"
+    },
+    {
+      "id": "58c831da0dc2",
+      "title": "臺中市醫師公會學術演講會(實體+視訊)",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/ad2067be3151413e9ba2b8441e8e38a6"
     },
     {
       "id": "503b75c6137c",
@@ -3152,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=ac8a5f796&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=5497573ed&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3162,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=ac8a5f796&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=5497573ed&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3172,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=ac8a5f796&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=5497573ed&_ss=r"
     },
     {
       "id": "25270ec14c56",
@@ -3413,6 +3403,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005039~finally-a-use-for-balloons-extended-automated-endovascular"
+    },
+    {
+      "id": "0e1c4c64812d",
+      "title": "ACLS 林口長庚醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-26",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33429"
     },
     {
       "id": "8143d94443e7",
