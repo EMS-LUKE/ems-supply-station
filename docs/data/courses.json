@@ -1,38 +1,18 @@
 {
-  "updated": "2026-11-26T20:55:16.949063+00:00",
-  "count": 377,
-  "course_count": 208,
+  "updated": "2026-11-27T03:31:39.179139+00:00",
+  "count": 376,
+  "course_count": 207,
   "news_count": 169,
   "items": [
-    {
-      "id": "8143d94443e7",
-      "title": "115年急診超音波相關課程排程表 (115.11.26更新)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-11-26",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1307"
-    },
-    {
-      "id": "8978eb57f821",
-      "title": "武裝衝突下的醫療救護：從技術訓練到思維轉換（Mindset Shift）",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-11-26",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/11/mindset-shift.html"
-    },
     {
       "id": "167fd29dc285",
       "title": "新生兒急救課程",
       "source": "台灣新生兒科醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28393"
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28394"
     },
     {
       "id": "a70a1689491b",
@@ -83,6 +63,16 @@
       "date": "2026-11-29",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28425"
+    },
+    {
+      "id": "dc2de2f45b01",
+      "title": "優化兒童醫療照護 核心醫院計畫-學術討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-29",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28415"
     },
     {
       "id": "a2814db719a3",
@@ -363,6 +353,16 @@
       "date": "2027-01-20",
       "deadline": "2026-12-24",
       "url": "https://www.sem.org.tw/Activity/A/Details/33527"
+    },
+    {
+      "id": "43b85e1f18d5",
+      "title": "新生兒高級救命術（NRP）訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2027-01-23",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28422"
     },
     {
       "id": "aefb188b6d23",
@@ -815,6 +815,16 @@
       "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
+      "id": "c40c7ebe3f11",
+      "title": "【ATLS課表公告】115年第16梯次ATLS再認證課程（台北馬偕紀念醫院）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/96.html"
+    },
+    {
       "id": "756917ce00ef",
       "title": "【ATLS報名】116年度「再認證」課程報名資訊（含報名表）...",
       "source": "台灣外傷醫學會",
@@ -833,26 +843,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/94.html"
-    },
-    {
-      "id": "0236e4bc4186",
-      "title": "115年精進外科系醫師醫療韌性訓練計畫，將於9月~12月辦理六場課程...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
-    },
-    {
-      "id": "63739d2f9c2b",
-      "title": "高級手術創傷治療(Advanced Surgical Trauma Care, ASTC)訓練課程，歡迎報名參加...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/92.html"
     },
     {
       "id": "5132f2172238",
@@ -3162,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=99a65be09&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=ac8a5f796&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3172,7 +3162,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=99a65be09&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=ac8a5f796&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3182,7 +3172,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=99a65be09&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=ac8a5f796&_ss=r"
     },
     {
       "id": "25270ec14c56",
@@ -3425,14 +3415,24 @@
       "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005039~finally-a-use-for-balloons-extended-automated-endovascular"
     },
     {
-      "id": "72a765ac53c9",
-      "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
+      "id": "8143d94443e7",
+      "title": "115年急診超音波相關課程排程表 (115.11.26更新)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-26",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1307"
+    },
+    {
+      "id": "8978eb57f821",
+      "title": "武裝衝突下的醫療救護：從技術訓練到思維轉換（Mindset Shift）",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
       "type": "course",
-      "date": "2026-11-25",
-      "deadline": "2026-11-06",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33319"
+      "date": "2026-11-26",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/11/mindset-shift.html"
     },
     {
       "id": "91ef89725b00",
@@ -3763,16 +3763,6 @@
       "date": "2026-10-29",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/10/tema.html"
-    },
-    {
-      "id": "e02371258470",
-      "title": "2027年渣打臺北公益馬拉醫護志工線上報名",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-27",
-      "deadline": null,
-      "url": "https://www.mgems.org/270110_charter_checkin/"
     }
   ]
 }
