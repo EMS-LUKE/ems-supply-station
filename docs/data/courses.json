@@ -1,29 +1,9 @@
 {
-  "updated": "2026-11-27T16:03:40.956935+00:00",
-  "count": 376,
-  "course_count": 207,
-  "news_count": 169,
+  "updated": "2026-11-28T01:03:52.955795+00:00",
+  "count": 374,
+  "course_count": 204,
+  "news_count": 170,
   "items": [
-    {
-      "id": "167fd29dc285",
-      "title": "新生兒急救課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-28",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28394"
-    },
-    {
-      "id": "a70a1689491b",
-      "title": "早產兒營養與健康國際研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-28",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28421"
-    },
     {
       "id": "c88c1e48ee93",
       "title": "2026/11/28-11/29 WFA兩天初階野外急救訓練(北部場)",
@@ -3135,6 +3115,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "d4f9e11c8f3c",
+      "title": "Quick Response Sling",
+      "source": "Snakestaff Systems",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.snakestaffsystems.com/product/quick-response-sling"
+    },
+    {
       "id": "ff8c1aa2d07d",
       "title": "TrueClot Inguinal Packing Trainer (IPT)",
       "source": "Tactical Medicine Training & Equipment",
@@ -3142,7 +3132,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=5497573ed&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=be9a5a60d&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -3152,7 +3142,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=5497573ed&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=be9a5a60d&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -3162,7 +3152,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=5497573ed&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=be9a5a60d&_ss=r"
     },
     {
       "id": "25270ec14c56",
@@ -3403,16 +3393,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005039~finally-a-use-for-balloons-extended-automated-endovascular"
-    },
-    {
-      "id": "0e1c4c64812d",
-      "title": "ACLS 林口長庚醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-26",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33429"
     },
     {
       "id": "8143d94443e7",
